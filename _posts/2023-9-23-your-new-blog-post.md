@@ -1,6 +1,6 @@
 ## Announcing a New Consulting Project!
 
-A few months ago, I posted about a project I’d build for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: https://tinyurl.com/664kraza
+A few months ago, I posted about a project I’d build for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza)
 
 That was actually the second one I worked on for Mitchell, and today I’m posting about the first one!
 
