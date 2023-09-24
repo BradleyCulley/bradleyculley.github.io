@@ -20,7 +20,7 @@ linkedin_username: "https://www.linkedin.com/in/brad-culley-93651992/"
 #########################################################################################
 theme: "minima"
 
-#rss: rss
+rss:
 
 kramdown:
   syntax_highlighter_opts:
