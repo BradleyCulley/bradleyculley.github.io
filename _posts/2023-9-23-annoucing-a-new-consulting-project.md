@@ -254,4 +254,3 @@ But wait, there’s more!
 Over the past few months, we also built out a third application, which I’ll post about here soon. For that one, I served as the engineering manager. Another developer did the hands-on work and did an awesome job. The third application is very related to the dashboard platform described in this post, as it so happens!
 
 Thanks for reading! Leave a like or comment if you enjoyed this post!
-
