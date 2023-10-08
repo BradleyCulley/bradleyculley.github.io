@@ -1,4 +1,5 @@
-### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
+### A few months ago, I posted about a project for Mitchell Henderson, the CEO 
+of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENRCostData.com.png)
@@ -189,11 +190,11 @@ On the technical side, it was interesting working on PowerPoint generation in No
 
 For example, let’s say 100 people were asked “can you tell us what is your preferred water heater brand and why?”. The model takes in the 100 answers and generates a few “summarized” points that represent the key ideas across those 100 answers.
 
-This is a cool one: it’s a custom model that does sentiment-based clustering and per-cluster summarization. It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap chart.
+This is a cool one: it’s a custom model that does sentiment-based clustering and per-cluster summarization.
+It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap-style chart.
 
 Here’s an example of a real result:
-<Put chart here>
-
+![Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
 
 Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
 
@@ -206,7 +207,6 @@ These are a few photos of The Fisher building: https://www.fisherbuilding.city/g
 Likewise, the Detroit Institute of Arts is amazing. At every turn was another Monet, Matisse, or Gauguin. Unbelievable collection.
 
 Also put faces to voices for people at Mitchell’s company!
-
 
 What about the tech side?
 
@@ -227,7 +227,6 @@ Fact: you can create a hosted domain for whatever DNS value you want, even witho
 We solved the TLS problem using:
 > 1.	ACM-generated, Route 53-validated certs (via Terraform!). The cool thing about NS-based delegation is you can add validation records like CNAMEs and TXTs to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
 > 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 (https://tinyurl.com/5yf3pf5n). Our frontend ALB has 12 attached certs, 11 through SNI 🙂.
-
 
 Digital transformation:
 
