@@ -1,20 +1,21 @@
-A few months ago, I posted about a project I’d build for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: https://tinyurl.com/664kraza
+### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
 
-That was actually the second project I worked on for Mitchell, and today I’m posting about the first!
+Here's what it looks like:
+![ENRCostData.com](..%2Fimages%2FENRCostData.com.png)
 
-To see the full post with screenshots, you can use this link to the post on my blog: <insert link to the post on the blog>. It’s completely non-monetized, no signup, not building a mailing list, not selling you anything.
+That was actually the second project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
-What’s the product?
+#### What’s the product?
 
 It’s an AI-first platform for understanding market research data.
 
 Mitchell and I worked on it for about a year and half. March 2022 to August 2023.
 
-The team has grown, as well: Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers, who have been truly awesome to work with.
+The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers, who have been awesome to work with.
 
-This is one of the dashboards in the platform: https://dashboard.clearseas.ai/waterHeater.
+This is one of the dashboards in the platform: [link](https://dashboard.clearseas.ai/waterHeater).
 
-<insert screenshot of the water heater dashboard>
+![Water heater dashboard.png](..%2Fimages%2FWater%20heater%20dashboard.png)
 
 That dashboard is all about water heaters. The intended users are employees of water heater manufacturing companies.
 
@@ -24,8 +25,7 @@ The core of the platform is its plots. For example, let’s say you wanted to kn
 
 Here’s a chart with that breakdown: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement.
 
-<insert screenshot of the water heater dashboard>
-
+![Water heater product category involvement.png](..%2Fimages%2FWater%20heater%20product%20category%20involvement.png)
 
 A “killer feature” is side-by-side chart comparisons, including with different filters on the left and the right.
 
@@ -33,31 +33,33 @@ For example, what’s the product category involvement for small companies versu
 
 In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small HVAC company or a large HVAC company? Do small companies hate dealing with tankless for some reason?
 
-Here’s your answer: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6 . Small HVAC companies keep it simple. They deal less in indirect tank heaters.
+Here’s your answer: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6.
+
+![Water heater company sizes.png](..%2Fimages%2FWater%20heater%20company%20sizes.png)
+
+Small HVAC companies keep it simple. They deal less in indirect tank heaters.
 
 For reference, an indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Maybe not a great fit for a 3-person business.
 
 That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy accordingly in their leading “sales channel” (how they sell things) for a given type of water heater.
 
-To break it down again:
-•	Small companies buy tank water heaters over other kinds of water heaters
-<insert chart here>
-•	Small companies buy tank water heaters through retail chain X (e.g. Lowes)
-•	In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops
-•	Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. Focus on the tanks.
+To break it down again:<br/>
+•	Small companies buy tank water heaters over other kinds of water heaters<br/>
+•	Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
+•	In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops<br/>
+•	Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. Focus on the tanks.<br/>
 
 Parenthetical remark: when visiting Bloomington, Illinois this past winter, I noticed a Trane company van on the street. Had to take a photo!
 
-
 But wait, this company size chart comparison doesn’t tell us the leading sales channel by type of water heater, right?
 
-<insert chart here>
+![Water heater company sizes.png](..%2Fimages%2FWater%20heater%20company%20sizes.png)
 
 Correct: the chart doesn’t tell us that…
 
 Ok so I’m hitting the LinkedIn post limits here 🙂.
 
-The whole post is on my (completely non-monetized, no signup, no popups) blog: <>. Not trying to sell you anything, I’ve just hit the character limit here.
+The whole post is on my (completely non-monetized, no signup, no popups) blog: [link](https://bradleyculley.github.io/2023/09/23/annoucing-a-new-consulting-project.html). Not trying to sell you anything, I’ve just hit the character limit here.
 
 Anyway, back to the question above: “But wait, the company size chart comparison doesn’t tell us the leading sales channel by type of water heater, right?”.
 
@@ -65,13 +67,13 @@ The answer is yes: the company size chart comparison doesn’t tell us that. How
 
 <insert screenshot of that section of the left nav>
 
-Those charts, however, are what we call “premium”. You need a paid license to see them. If you click into one, you’re directed to the page explaining how to purchase the premium version of the dashboard.
+Those charts, however, are what we call "premium". You need a paid license to see them. If you click into one, you’re directed to the page explaining how to purchase the premium version of the dashboard.
 
-<insert screenshot of the “must be premium” page/about brand page>
+![Water heater about brand page.png](..%2Fimages%2FWater%20heater%20about%20brand%20page.png)
 
 In particular, there’s a chart with the exact data we want! It answers the question: where do small companies buy tank water heaters?
 
-Here’s the link to the chart: https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2 .
+Here’s the link to the chart: https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2.
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: Amazon and Home Depot.
 
@@ -93,12 +95,25 @@ To put it more candidly, clients love the platform.
 
 As mentioned, Mitchell’s company, Clear Seas Research, does “end-to-end” market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.
 
+![Multiple survey video cards.png](..%2Fimages%2FMultiple%20survey%20video%20cards.png)
+
 The report data, therefore, is “fully-permissioned” and “first-party”. “First-party” is key. Some research organizations get their data from the glorified equivalent of a Google search. Some even just make stuff up.
 
-Here’s another “dashboard type”, this time for the roofing industry: https://dashboard.clearseas.ai/RCSOI. Restoration and remediation: https://dashboard.clearseas.ai/PREMIUMRRSOI. Capital spending on assembly manufacturing: https://dashboard.clearseas.ai/ASMCS. And so on.
+Here’s another “dashboard type”, this time for the roofing industry: https://dashboard.clearseas.ai/RCSOI.
 
+![RCSOI dashboard.png](..%2Fimages%2FRCSOI%20dashboard.png)
 
-The domain name is .ai…so what’s the AI part?
+Restoration and remediation: https://dashboard.clearseas.ai/PREMIUMRRSOI.
+
+![PREMIUMRRSOI dashboard.png](..%2Fimages%2FPREMIUMRRSOI%20dashboard.png)
+
+Capital spending on assembly manufacturing: https://dashboard.clearseas.ai/ASMCS.
+
+![ASMCS dashboard.png](..%2Fimages%2FASMCS%20dashboard.png)
+
+And so on.
+
+### The domain name is .ai…so what’s the AI part?
 
 Three things:
 1.	Harken back to our example above: which size companies install which types of water heaters.
@@ -126,11 +141,21 @@ This is powered by an OpenAI large language model API. This feature has been a r
 
 When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the unblurred transcript.
 
-<insert screenshot of a video card here>
+Video upload page:
 
-There’s also a visualization of aggregate sentiment, among all respondents, per question. Here an example for the questions that the water heater contractors were asked: https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights.
+![Water heater video upload page.png](..%2Fimages%2FWater%20heater%20video%20upload%20page.png)
 
-Potential future work for the video insights feature includes:
+Video cards on video insights page:
+
+![Water heater video insights page.png](..%2Fimages%2FWater%20heater%20video%20insights%20page.png)
+
+There’s also a visualization of aggregate sentiment, among all respondents, per question. 
+
+![Water heater aggregate video insights.png](..%2Fimages%2FWater%20heater%20aggregate%20video%20insights.png)
+
+Here an example for the questions that the water heater contractors were asked: https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights.
+
+Potential future work that's been discussed for the video insights feature:
 •	Batch upload (currently serial)
 •	Automatic generation of the video transcripts based on the audio tracks (probably using Amazon Polly)
 •	Classification of emotion (positive, negative, mixed, neutral) directly from video frame images. Separately, classification of emotion from the audio. The current system uses only the text. Going multimodal would make the classification more robust. Could experiment with tuning per-modality weighting to see what’s highest-fidelity to the truth.
@@ -143,8 +168,6 @@ In other words, the vision is:
 3.	The video is automatically uploaded to the relevant dashboard type (water heaters, roofing, manufacturing, etc.)
 4.	The video is also automatically processed by the AI subsystems for voice-to-text and emotion classification
 5.	The videos show up on the relevant dashboard in real time, complete with emotion classification and the other metadata (age of respondent, region of the US the respondent hails from, etc.)
-
-The “icing on the cake” would be the productize this offering, a la the Amazon API mandate, such that the ability to do 1-5 is offered as a SaaS platform.
 
 I was fortunate to be able to design, build, and deploy all parts of this video management system, including the infrastructure (AWS with Terraform). Video upload via an admin interface in the platform, video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.
 
@@ -160,7 +183,7 @@ When the user clicks that button, the system generates a PowerPoint presentation
 
 This feature is currently working in a Git feature branch (needs a few final tweaks)
 
-This is, apparently, a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation. The latter is an entire separate product that Mitchell has planned.
+This is, apparently, a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
 
 On the technical side, it was interesting working on PowerPoint generation in Node.js.
 
