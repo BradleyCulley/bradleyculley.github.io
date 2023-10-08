@@ -1,7 +1,7 @@
 ### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
-![ENRCostData.com](..%2Fimages%2FENRCostData.com.png)
+![ENRCostData.com](../images/ENRCostData.com.png)
 
 That was actually the second project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
