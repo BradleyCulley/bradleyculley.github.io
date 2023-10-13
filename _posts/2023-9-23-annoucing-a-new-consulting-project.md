@@ -36,7 +36,7 @@ In other words, does the choice of what kind of water heater gets installed depe
 
 Here’s your answer: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6.
 
-![Water heater company sizes.png](https://bradleyculley.github.io/images/images_Water_heater_company_sizes.png)
+![Water heater company sizes.png](https://bradleyculley.github.io/images/Water_heater_company_sizes.png)
 
 Small HVAC companies keep it simple. They deal less in indirect tank heaters.
 
@@ -194,7 +194,7 @@ This is a cool one: it’s a custom model that does sentiment-based clustering a
 It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap-style chart.
 
 Here’s an example of a real result:
-![Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
+[Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
 
 Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
 
