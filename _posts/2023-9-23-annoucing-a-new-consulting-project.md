@@ -1,5 +1,5 @@
 ### A few months ago, I posted about a project for Mitchell Henderson, the CEO 
-of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
+of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENRCostData.png)
@@ -24,7 +24,7 @@ The whole platform has about 90 different “dashboard types”. To give economi
 
 The core of the platform is its plots. For example, let’s say you wanted to know which types of water heaters are most popular, and to see the trend over the past three years. The types are “tank” (has a water tank), “tankless/instantaneous” (no water tank), and so on. In market research, this is called “product category involvement”.
 
-Here’s a chart with that breakdown: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement.
+Here’s a chart with that breakdown: [https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement).
 
 ![Water heater product category involvement.png](https://bradleyculley.github.io/images/Water_heater_product_category_involvement.png)
 
@@ -66,7 +66,7 @@ Anyway, back to the question above: “But wait, the company size chart comparis
 
 The answer is yes: the company size chart comparison doesn’t tell us that. However, there’s a whole other section with 34 different charts about tank water heaters. You can see the section and the chart names in the accordion menu on the left.
 
-<insert screenshot of that section of the left nav>
+![Tank_water_heaters_left_nav_item.png](https://bradleyculley.github.io/images/Tank_water_heaters_left_nav_item.png)
 
 Those charts, however, are what we call "premium". You need a paid license to see them. If you click into one, you’re directed to the page explaining how to purchase the premium version of the dashboard.
 
@@ -119,11 +119,11 @@ And so on.
 Three things:
 1.	Harken back to our example above: which size companies install which types of water heaters.
 
-Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6
+Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: [https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6)
 
 In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.
 
-<insert screenshot here>
+![AI_Analytics.png](https://bradleyculley.github.io/images/FAI_Analytics.png)
 
 There are a few preset prompts to get you started. For example, “Generate Executive Insights”, which prompts “Give me three bullet points, one sentence each, that summarize the main insights”.
 
