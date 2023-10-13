@@ -2,7 +2,7 @@
 of Clear Seas Research, a market research company in Troy Michigan: [link](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
-![ENRCostData.com](https://bradleyculley.github.io/images/ENRCostData.com.png)
+![ENRCostData.com](https://bradleyculley.github.io/images/ENRCostData.png)
 
 That was actually the second project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
