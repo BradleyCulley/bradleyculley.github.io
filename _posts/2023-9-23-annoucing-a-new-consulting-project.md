@@ -123,7 +123,7 @@ Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: [h
 
 In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.
 
-![AI_Analytics.png](https://bradleyculley.github.io/images/FAI_Analytics.png)
+![AI_Analytics.png](https://bradleyculley.github.io/images/AI_Analytics.png)
 
 There are a few preset prompts to get you started. For example, “Generate Executive Insights”, which prompts “Give me three bullet points, one sentence each, that summarize the main insights”.
 
