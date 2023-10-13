@@ -14,7 +14,7 @@ Mitchell and I worked on it for about a year and half. March 2022 to August 2023
 
 The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers, who have been awesome to work with.
 
-This is one of the dashboards in the platform: [link](https://dashboard.clearseas.ai/waterHeater).
+This is one of the dashboards: [link](https://dashboard.clearseas.ai/waterHeater).
 
 ![Water heater dashboard.png](https://bradleyculley.github.io/images/Water_heater_dashboard.png)
 
