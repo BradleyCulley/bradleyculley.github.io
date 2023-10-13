@@ -119,7 +119,7 @@ And so on.
 Three things:
 1.	Harken back to our example above: which size companies install which types of water heaters.
 
-Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6
+Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: `https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6`
 
 In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.
 
