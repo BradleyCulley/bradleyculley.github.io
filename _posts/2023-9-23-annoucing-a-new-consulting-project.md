@@ -94,7 +94,7 @@ There are similar features in some proprietary tools like Tableau. But they’re
 
 To put it more candidly, clients love the platform.
 
-As mentioned, Mitchell’s company, Clear Seas Research, does “end-to-end” market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.
+As mentioned, Mitchell’s company, Clear Seas Research, does “end-to-end” market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos).
 
 ![Multiple survey video cards.png](https://bradleyculley.github.io/images/Multiple_survey_video_cards.png)
 
@@ -136,7 +136,7 @@ Pretty relevant insights!
 
 This is powered by an OpenAI large language model API. This feature has been a real favorite for users. People don’t want data; they want actionable insights.
 
-2.	The platform has a video insights section, which you can see here: https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.
+2.	The platform has a video insights section, which you can see here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos).
 
 When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the unblurred transcript.
 
