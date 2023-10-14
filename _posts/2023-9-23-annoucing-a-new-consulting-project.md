@@ -1,13 +1,13 @@
-### New consulting project: AI-Powered Market Research Insights Platform 
+### New consulting project: AI-Powered Market Research 
 
 #### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
 
-That was actually the second project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
+That was actually the *second* project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
-#### What’s the product?
+### What’s the product?
 
 It’s an AI-first platform for understanding market research data.
 
@@ -15,7 +15,7 @@ Mitchell and I worked on it for about a year and half. March 2022 to August 2023
 
 The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers, who have been awesome to work with.
 
-This is one of the dashboards: [link](https://dashboard.clearseas.ai/waterHeater).
+This is one of the dashboards: [https://dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater).
 
 ![Water heater dashboard.png](https://bradleyculley.github.io/images/Water_heater_dashboard.png)
 
@@ -35,7 +35,7 @@ For example, what’s the product category involvement for small companies versu
 
 In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small HVAC company or a large HVAC company? Do small companies hate dealing with tankless for some reason?
 
-Here’s your answer: https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6.
+Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4).
 
 ![Water heater company sizes.png](https://bradleyculley.github.io/images/Water_heater_company_sizes.png)
 
@@ -122,7 +122,7 @@ And so on.
 Three things:
 1.	Harken back to our example above: which size companies install which types of water heaters.
 
-Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: `https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement/productCategoryInvolvement?companySizes=companySize1,companySize2|companySize6`
+Notice the “AI Analytics” tab right above the plots? Here’s a deeplink: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
 In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.
 
