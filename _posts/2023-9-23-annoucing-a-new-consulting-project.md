@@ -1,5 +1,6 @@
-### A few months ago, I posted about a project for Mitchell Henderson, the CEO 
-of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
+### New consulting project: AI-Powered Market Research Insights Platform 
+
+#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
 Here's what it looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
