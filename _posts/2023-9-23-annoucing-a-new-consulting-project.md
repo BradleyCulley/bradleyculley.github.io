@@ -52,6 +52,8 @@ To break it down again:<br/>
 
 Parenthetical remark: when visiting Bloomington, Illinois this past winter, I noticed a Trane company van on the street. Had to take a photo!
 
+![Trane_van.jpeg](https://bradleyculley.github.io/images/Trane_van.jpeg)
+
 But wait, this company size chart comparison doesn’t tell us the leading sales channel by type of water heater, right?
 
 ![Water heater company sizes.png](https://bradleyculley.github.io/images/Water_heater_company_sizes.png)
@@ -182,7 +184,7 @@ When the user clicks that button, the system generates a PowerPoint presentation
 
 This feature is currently working in a Git feature branch (needs a few final tweaks)
 
-This is, apparently, a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
+This is a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
 
 On the technical side, it was interesting working on PowerPoint generation in Node.js.
 
@@ -221,7 +223,9 @@ The final leg of DNS delegation to the ALB is just an A record.
 So it’s:
 > 1.	NS record DNS entry performed by the 3rd party client hosting the core domain<br><br>
 > 2.	Route 53 Hosted Zone for just the subdomain.
-Fact: you can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.<br><br>
+Fact: you can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
+Here's an example:
+<insert photo of Route 53 hosted zone for one of the nameservers><br><br>
 > 3.	An A record pointing to the ALB’s DNS entry.
 
 We solved the TLS problem using:
