@@ -9,6 +9,8 @@ Here's what it looks like:
 
 That was actually the *second* project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
+---
+
 ### What’s the product?
 
 It’s an AI-first platform for understanding market research data.
@@ -57,17 +59,13 @@ Parenthetical remark: saw this Trane van in Illinois this past winter. Had to ta
 
 ![Trane_van.jpeg](https://bradleyculley.github.io/images/Trane_van.jpeg)
 
-<br><br>
+<br>
 
 But wait, this company size chart comparison doesn't tell us the leading sales channel by type of water heater, right?<br>
 
-Correct: the chart doesn’t tell us that…
+Correct: the chart doesn’t tell us that.
 
-The whole post is on my (completely non-monetized, no signup, no popups) blog: [link](https://bradleyculley.github.io/2023/09/23/annoucing-a-new-consulting-project.html). Not trying to sell you anything, I’ve just hit the character limit here.
-
-Anyway, back to the question above: "But wait, the company size chart comparison doesn’t tell us the leading sales channel by type of water heater, right?".
-
-The answer is yes: the company size chart comparison doesn’t tell us that. However, there’s a whole other section with 34 different charts about tank water heaters.<br>
+However, there’s a whole other section with 34 different charts about tank water heaters.<br>
 
 You can see the section and the chart names in the accordion menu on the left.<br>
 
@@ -79,17 +77,17 @@ Those charts, however, are what we call "premium". You need a paid license to se
 
 In particular, there’s a chart with the exact data we want! It answers the question: where do small companies buy tank water heaters?
 
-Here’s the link to the chart: https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2.
+Here’s the link to the chart: [https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2](https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2)
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: *Amazon and Home Depot*.
 
-Long story short: *Trane may want the tank water heaters it sells through Amazon and Home Depot be the kinds that small HVAC shops prefer installing.*
+Long story short: __Trane may want the tank water heaters it sells through Amazon and Home Depot to be the kinds that small HVAC shops prefer installing.__
 
 Trane may also want to dial back the non-tank options.
 
 Companies like Trane purchase these dashboards to get these insights.
 
-Trane, the market leader in manufacturing hot water heaters, does $16.8B/year in revenue. Purchasing a dashboard like this is a great investment.
+Trane, the market leader in hot water heater manufacturing, does $16.8B/year in revenue. Purchasing a dashboard like this is a great investment.
 
 Furthermore, this dashboard represents a step-change in market research technology. Nobody else has something like this: charts for custom data sources, emailable deeplinks to browser-based charts, filters, side-by-side comparisons, and so on.
 
@@ -107,15 +105,15 @@ As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" marke
 
 The report data, therefore, is "fully-permissioned" and "first-party". "First-party" is key. Some research organizations get their data from the glorified equivalent of a Google search. Some even just make stuff up.
 
-Here’s another "dashboard type", this time for the roofing industry: https://dashboard.clearseas.ai/RCSOI
+Here’s another "dashboard type", this time for the roofing industry: [https://dashboard.clearseas.ai/RCSOI](https://dashboard.clearseas.ai/RCSOI)
 
 ![RCSOI dashboard.png](https://bradleyculley.github.io/images/RCSOI_dashboard.png)
 
-Restoration and remediation: https://dashboard.clearseas.ai/PREMIUMRRSOI
+Restoration and remediation: [https://dashboard.clearseas.ai/PREMIUMRRSOI](https://dashboard.clearseas.ai/PREMIUMRRSOI)
 
 ![PREMIUMRRSOI dashboard.png](https://bradleyculley.github.io/images/PREMIUMRRSOI_dashboard.png)
 
-Capital spending on assembly manufacturing: https://dashboard.clearseas.ai/ASMCS
+Capital spending on assembly manufacturing: [https://dashboard.clearseas.ai/ASMCS](https://dashboard.clearseas.ai/ASMCS)
 
 ![ASMCS dashboard.png](https://bradleyculley.github.io/images/ASMCS_dashboard.png)
 
@@ -124,9 +122,9 @@ And so on.
 ### The domain name is .ai…so what’s the AI part?
 
 Three things:
-1. Harken back to our example above: which size companies install which types of water heaters.<br><br>
+1. Harken back to our example above: which size companies install which types of water heaters.<br>
 
-    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br><br>
+    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br>
 
     In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.<br><br>
 
