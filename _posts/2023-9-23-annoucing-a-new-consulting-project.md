@@ -260,11 +260,14 @@ Digital transformation of the infrastructure:
 
 Uses GitHub Actions "environments" feature to restrict production deployments to only a subset of GitHub repo-permissioned users. Standing up a new environment is trivial: less than a day’s work.
 
-Per-environment configuration such as service-specific URLs is provided via environment variables, per The Twelve-Factor App Methodology (12factor.net).
+Per-environment configuration such as service-specific URLs is provided via environment variables, per The Twelve-Factor App Methodology ([12factor.net](12factor.net)).
 
 #### Digital transformation of the application code:
 > •	Built out authentication and authorization, including the ability for one user to have premium access to more than one dashboard type, with different dates if needed. Solution leverages a multitenant architecture.<br><br>
-> •	Built out a number of new chart types, including the heatmap chart type (e.g. https://tinyurl.com/44t48dxn) and the USA choropleth chart type (e.g. https://tinyurl.com/36jbj3nk)<br><br>
+> •	Built out a number of new chart types, including the heatmap chart type (e.g. [https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
+![Heatmap_Chart.png](https://bradleyculley.github.io/images/Heatmap_Chart.png)
+and the USA choropleth chart type (e.g. [https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
+![USA_Choropleth.png](https://bradleyculley.github.io/images/USA_Choropleth.png)<br><br>
 > •	Videos insights feature discussed above<br><br>
 > •	Moved to more standard use of React Router. Prior implementation often leveraged the querystring piece of the URL instead of the path piece of the URL.<br><br>
 > •	Implemented Redux via Redux Toolkit and moved relevant data into Redux. Auth data, chart data, applied filters data, etc.<br><br>
