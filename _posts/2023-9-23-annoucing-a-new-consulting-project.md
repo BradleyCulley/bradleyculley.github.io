@@ -53,7 +53,7 @@ To break it down again:<br/>
 > 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops<br/>
 > 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. *Focus on the tanks.*<br/>
 
-Parenthetical remark: saw this Trane van in Bloomington, Illinois this past winter. Had to take a photo!
+Parenthetical remark: saw this Trane van in Illinois this past winter. Had to take a photo!
 
 ![Trane_van.jpeg](https://bradleyculley.github.io/images/Trane_van.jpeg)
 
@@ -101,21 +101,21 @@ There are similar features in some proprietary tools like Tableau. But they’re
 
 To put it more candidly, clients love the platform.
 
-As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
+As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
 
 ![Multiple survey video cards.png](https://bradleyculley.github.io/images/Multiple_survey_video_cards.png)
 
 The report data, therefore, is "fully-permissioned" and "first-party". "First-party" is key. Some research organizations get their data from the glorified equivalent of a Google search. Some even just make stuff up.
 
-Here’s another "dashboard type", this time for the roofing industry: https://dashboard.clearseas.ai/RCSOI.
+Here’s another "dashboard type", this time for the roofing industry: https://dashboard.clearseas.ai/RCSOI
 
 ![RCSOI dashboard.png](https://bradleyculley.github.io/images/RCSOI_dashboard.png)
 
-Restoration and remediation: https://dashboard.clearseas.ai/PREMIUMRRSOI.
+Restoration and remediation: https://dashboard.clearseas.ai/PREMIUMRRSOI
 
 ![PREMIUMRRSOI dashboard.png](https://bradleyculley.github.io/images/PREMIUMRRSOI_dashboard.png)
 
-Capital spending on assembly manufacturing: https://dashboard.clearseas.ai/ASMCS.
+Capital spending on assembly manufacturing: https://dashboard.clearseas.ai/ASMCS
 
 ![ASMCS dashboard.png](https://bradleyculley.github.io/images/ASMCS_dashboard.png)
 
@@ -188,27 +188,24 @@ Three things:
 
     When Mitchell brought this up to people, the response was "nuclear" (in a good way). The feature is a button on the video uploads page that says "Generate PowerPoint".
 
-<picture of the generate PowerPoint button>
+    ![Generate_PowerPoint_Button](https://bradleyculley.github.io/images/Generate_PowerPoint_Button.png)
 
-When the user clicks that button, the system generates a PowerPoint presentation with one video "card" per page, like this:
+    When the user clicks that button, the system generates a PowerPoint presentation with one video "card" per page:
 
-<screenshot of the generated PowerPoint>
+    This feature is currently working in a Git feature branch (needs a few final tweaks)
 
-This feature is currently working in a Git feature branch (needs a few final tweaks)
+    This is a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
 
-This is a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
-
-On the technical side, it was interesting working on PowerPoint generation in Node.js.
+    On the technical side, it was interesting working on PowerPoint generation in Node.js.
 
 3.	Also built, and currently working in a Git feature branch: a custom clustering and summarization NLP/NLU model that categorizes answers people give to free-form text questions (the industry term is "open-ends").
 
-For example, let’s say 100 people were asked "can you tell us what is your preferred water heater brand and why?". The model takes in the 100 answers and generates a few "summarized" points that represent the key ideas across those 100 answers.
+    For example, let’s say 100 people were asked "can you tell us what is your preferred water heater brand and why?". The model takes in the 100 answers and generates a few "summarized" points that represent the key ideas across those 100 answers.
 
-This is a cool one: it’s a custom model that does sentiment-based clustering and per-cluster summarization.
-It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap-style chart.
+    This is a cool one: it’s a custom model that does sentiment-based clustering and per-cluster summarization.
+    It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap-style chart.
 
-Here’s an example of a real result:
-[Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
+    Here’s an example of a real result: [Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
 
 Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
 
