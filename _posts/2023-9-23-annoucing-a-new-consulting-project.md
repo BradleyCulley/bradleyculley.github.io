@@ -192,7 +192,7 @@ Three things:
 
     Another feature I built in the fall of 2022 is the ability to generate a PowerPoint presentation from a list of videos.<br><br>
 
-    When Mitchell brought this up to people, the response was "nuclear" (in a good way). The feature is a button on the video uploads page that says "Generate PowerPoint".
+    When Mitchell brought this up to people, the response was "nuclear" (in a good way). The feature is a button on the video uploads page that says "Download as PowerPoint".
 
     ![Generate_PowerPoint_Button](https://bradleyculley.github.io/images/Generate_PowerPoint_Button.png)
 
