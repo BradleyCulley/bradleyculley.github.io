@@ -45,15 +45,15 @@ Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
 Small HVAC companies keep it simple. They deal less in indirect tank heaters.
 
-For reference, an indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Maybe not a great fit for a 3-person business.
+An indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Not the best fit for a 3-person business.
 
-That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy accordingly in their leading "sales channel" (how they sell things) for a given type of water heater.
+That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy in their leading "sales channel" (how they sell things) for a given type of water heater.
 
 To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
 > 2. Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
 > 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops<br/>
-> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. *Focus on the tanks.*<br/>
+> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tanks.*__<br/>
 
 Parenthetical remark: saw this Trane van in Illinois this past winter. Had to take a photo!
 
@@ -89,15 +89,21 @@ Companies like Trane purchase these dashboards to get these insights.
 
 Trane, the market leader in hot water heater manufacturing, does $16.8B/year in revenue. Purchasing a dashboard like this is a great investment.
 
-Furthermore, this dashboard represents a step-change in market research technology. Nobody else has something like this: charts for custom data sources, emailable deeplinks to browser-based charts, filters, side-by-side comparisons, and so on.
+Furthermore, this dashboard represents a step-change in market research technology. Nobody else has something like this: charts for custom data sources, emailable deeplinks to browser-based charts, filters, side-by-side chart comparisons, and so on.
 
 Research reports are traditionally delivered as a single file. For example, a PDF. Each page of the PDF has a chart and some commentary. Here’s the problem: in a PDF, you can’t "slice and dice" the data via filters. Nor can you easily do side-by-side comparisons.
 
+On this platform, one does the "slicing-and-dicing" of the data via filter checkboxes like this:
+
+![Chart_filters](https://bradleyculley.github.io/images/Chart_filters.png)
+
+You can select any combination of those checkboxes, and the chart updates in real-time.
+
 At one point, we calculated the number of combinations of charts and filters in a typical "dashboard type". It’s over 1 billion. Can’t a have a billion-page PDF.
 
-There are similar features in some proprietary tools like Tableau. But they’re not browser-based, and they can’t easily use a client’s custom-format data. Mitchell can either do the research study himself ("end-to-end"), or, if the client already did the study, quickly and easily build a dashboard using data provided by the client. He can build a dashboard with your data regardless of where it came from: SurveyMonkey, Forsta, Qualtrics, etc.
+There are similar features in some proprietary tools like Tableau. But, they’re not browser-based. They also can’t easily use a client’s custom-format data. Mitchell can either do the research study himself ("end-to-end"), or, if the client already did the study, quickly and easily build a dashboard using data provided by the client. He can build a dashboard with your data regardless of where it came from: SurveyMonkey, Forsta, Qualtrics, etc.
 
-To put it more candidly, clients love the platform.
+To put it more candidly, clients love this platform.
 
 As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
 
