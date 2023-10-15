@@ -209,16 +209,6 @@ Thank you Mitchell for making all of this possible. It was an awesome experience
 
 About a month ago, I took a new full-time corp-to-corp software engineering role through my consultancy. The role is with a large education software company based in Massachusetts. More on that soon.
 
-Mitchell also graciously hosted me for a visit to Michigan earlier this year. I stayed in the guest house at his home, visited the Clear Seas Research office in Troy, and saw a lot of great sights around the Detroit area. Favorites included the Fisher Building and the Detroit Institute of Arts.
-
-These are a few photos of The Fisher building: https://www.fisherbuilding.city/gallery. It’s an Art Deco masterpiece. And here's one I took, of the main hallway:
-
-![Fisher_edited](https://bradleyculley.github.io/images/Fisher_edited.png)
-
-Likewise, the Detroit Institute of Arts is amazing. At every turn was another Monet, Matisse, or Gauguin. Unbelievable collection.
-
-Also put faces to voices for people at Mitchell’s company!
-
 What about the tech side?
 
 Interesting DNS work:
@@ -230,11 +220,11 @@ We solved that using DNS delegation. In particular, pointing the external namese
 The final leg of DNS delegation to the ALB is just an A record.
 
 So it’s:
-> 1.	NS record DNS entry performed by the 3rd party client hosting the core domain<br><br>
+> 1.	NS record DNS entry performed by the 3rd party client hosting the core domain<br>
 > 2.	Route 53 Hosted Zone for just the subdomain.
 Fact: you can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
-Here's an example:
-<insert photo of Route 53 hosted zone for one of the nameservers><br><br>
+Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)
+<br
 > 3.	An A record pointing to the ALB’s DNS entry.
 
 We solved the TLS problem using:
