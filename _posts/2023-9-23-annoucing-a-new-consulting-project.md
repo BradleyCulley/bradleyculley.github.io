@@ -4,10 +4,10 @@
 
 #### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
-Here's what it looks like:
+Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
 
-That was actually the *second* project I worked on for Mitchell, and today I’m posting about the first! Technical details are at the end, if you're looking for those.
+That was actually the *second* project I worked on for Mitchell. Today I’m posting about the first! Technical details are at the end, if you're looking for those.
 
 ---
 
@@ -15,33 +15,33 @@ That was actually the *second* project I worked on for Mitchell, and today I’m
 
 It’s an AI-first platform for understanding market research data.
 
-Mitchell and I worked on it for about a year and half. March 2022 to August 2023.
+Mitchell and I worked on it for a year and half. March 2022 to August 2023.
 
-The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers, who have been awesome to work with.
+The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers. They've been awesome to work with.
 
-This is one of the dashboards: [https://dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
+This is one of the "dashboards" in the platform: [https://dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
 
 ![Water heater dashboard.png](https://bradleyculley.github.io/images/Water_heater_dashboard.png)
 
 That dashboard is all about water heaters. The intended users are employees of water heater manufacturing companies.
 
-The whole platform has about 90 different "dashboard types". To give economic scale, a given dashboard sells for about $100,000/year (sometimes bundled with a separate research report).
+The whole platform has about 90 different "dashboard types". To give economic scale, a given dashboard sells for about $100,000/year, sometimes bundled with a separate research report.
 
-The core of the platform is its plots. For example, let’s say you wanted to know which types of water heaters are most popular, and to see the trend over the past three years. The types are "tank" (has a water tank), "tankless/instantaneous" (no water tank), and so on. In market research, this is called "product category involvement".
+The core of the platform is its plots. For example, let’s say you wanted to know which types of water heaters are most popular, and to see the trend over the past three years. The types are "tank" (has a water tank), "tankless/instantaneous" (no water tank), and so on. In market research terminology, this is called "product category involvement".
 
-Here’s a chart with that breakdown: [https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement).
+Here’s a chart with that breakdown: [https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement)
 
 ![Water heater product category involvement.png](https://bradleyculley.github.io/images/Water_heater_product_category_involvement.png)
 
-A "killer feature" is side-by-side chart comparisons, including with different filters on the left and the right.
+A "killer feature" is side-by-side chart comparisons, including with different filters on the left and right.
 
 For example, what’s the product category involvement for small companies versus large companies?
 
 In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small HVAC company or a large HVAC company? Do small companies hate dealing with tankless for some reason?
 
-Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4).
+Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
-![Water heater company sizes.png](https://bradleyculley.github.io/images/Water_heater_company_sizes.png)
+![Product_Category_Involvement_Plot_Comparison.png](https://bradleyculley.github.io/images/Product_Category_Involvement_Plot_Comparison.png)
 
 Small HVAC companies keep it simple. They deal less in indirect tank heaters.
 
@@ -218,9 +218,9 @@ The final leg of DNS delegation to the ALB is just an A record.
 So it’s:
 > 1.	NS record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
 > 2.	Route 53 Hosted Zone for just the subdomain.<br><br>
-Fact: you can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
+You can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
 Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)<br><br>
-> 3.	An A record pointing to the ALB’s DNS entry.
+> 3.	An A record pointing to the ALB’s DNS entry (as in the screenshot).
 
 We solved the TLS problem using:
 > 1.	ACM-generated, Route 53-validated certs (via Terraform!). The cool thing about NS-based delegation is you can add validation records like CNAMEs and TXTs to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
@@ -230,7 +230,7 @@ Digital transformation:
 
 When I joined, the project was in its early stages. The codebase had at that point been built out entirely by a single developer. That developer then moved on to take a job as a software engineer at Facebook/Meta.
 
-He did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects I built for Mitchell, but there wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot. TypeScript, however: yes.
+He did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects for Mitchell. There wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot. TypeScript, however: yes.
 
 Digital transformation of the infrastructure:
 #### Before:
