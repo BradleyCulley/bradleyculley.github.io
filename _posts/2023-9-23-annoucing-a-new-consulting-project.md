@@ -56,10 +56,6 @@ To break it down again:<br/>
 > 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small plumbing companies<br/>
 > 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tank heaters.*__<br/>
 
-Parenthetical remark: saw this Trane van in Illinois this past winter. Had to take a photo!
-
-![Trane_van.jpeg](https://bradleyculley.github.io/images/Trane_van.jpeg)
-
 <br>
 
 But wait, this company size chart comparison doesn't tell us the leading sales channel by type of water heater, right?<br>
@@ -236,7 +232,7 @@ We solved the TLS problem using:
 
 When I joined, the project was in a relatively early stage of development. The codebase had at that point been built out entirely by a single software engineer. That person later took a job as a software engineer at Facebook/Meta, so Mitchell sought out a new engineer to work on the project. That's how Mitchell and I got connected.
 
-That software engineer did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects for Mitchell. There wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot. TypeScript, however: yes.
+That software engineer did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects for Mitchell. There wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot.
 
 Digital transformation of the infrastructure:
 #### Before:
