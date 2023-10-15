@@ -228,7 +228,7 @@ Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/i
 
 We solved the TLS problem using:
 > 1.	ACM-generated, Route 53-validated certs (via Terraform!). The cool thing about NS-based delegation is you can add validation records like CNAMEs and TXTs to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
-> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 (https://tinyurl.com/5yf3pf5n). Our frontend ALB has 12 attached certs, 11 through SNI 🙂.
+> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 (https://tinyurl.com/5yf3pf5n). Our frontend ALB has 12 attached certs, 11 through SNI.
 
 Digital transformation:
 
@@ -243,7 +243,7 @@ Digital transformation of the infrastructure:
 > •	Deployment process: SSH onto machine -> git pull ->  stop Node process-> optionally "npm i" -> start Node process<br><br>
 > •	No database<br><br>
 > •	No log collection/persistence/searchability<br><br>
-> •	Manually managed DNS (manual renewal, etc.)
+> •	Manually-managed certs (provisioning, renewal, etc.)
 
 #### After:
 > •	Monorepo containing backend microservice, frontend microservice (React), infrastructure-as-code (Terraform), end-to-end automated tests, and pipeline-as-code (GitHub Actions).<br><br>
@@ -264,7 +264,7 @@ Per-environment configuration such as service-specific URLs is provided via envi
 #### Digital transformation of the application code:
 > •	Built out authentication and authorization, including the ability for one user to have premium access to more than one dashboard type, with different dates if needed. Solution leverages a multitenant architecture.<br><br>
 > •	Built out a number of new chart types, including the heatmap chart type (e.g. [https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
-![Heatmap_Chart.png](https://bradleyculley.github.io/images/Heatmap_Chart.png)
+![Heatmap_Chart.png](https://bradleyculley.github.io/images/Heatmap_Chart.png)<br><br>
 and the USA choropleth chart type (e.g. [https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
 ![USA_Choropleth.png](https://bradleyculley.github.io/images/USA_Choropleth.png)<br><br>
 > •	Videos insights feature discussed above<br><br>
@@ -274,6 +274,6 @@ and the USA choropleth chart type (e.g. [https://dashboard.clearseas.ai/waterHea
 
 But wait, there’s more!
 
-Over the past few months, we also built out a third application, which I’ll post about here soon. For that one, I served as the engineering manager. Another developer did the hands-on work and did an awesome job. The third application is very related to the dashboard platform described in this post, as it so happens!
+Over the past few months, we also built out a third application, which I’ll post about here soon. That third application is very related to the product described in this post!
 
-#### Thanks for reading! Leave a like or comment if you enjoyed this post!
+#### Thanks for reading! Leave a like or comment on LinkedIn if you enjoyed this post!
