@@ -40,7 +40,7 @@ For example, what’s the product category involvement for small companies versu
 In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small plumbing company or a large plumbing
 company? Do small companies hate dealing with tankless for some reason?
 
-Here's your answer: tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
+Here's your answer: [tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
 ![Product_Category_Involvement_Plot_Comparison.png](https://bradleyculley.github.io/images/Product_Category_Involvement_Plot_Comparison.png)
 
