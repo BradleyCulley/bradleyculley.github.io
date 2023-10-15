@@ -230,7 +230,7 @@ Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/i
 
 We solved the TLS problem using:
 > 1.	ACM-generated, Route 53-validated certs (all via Terraform!). The cool thing about NS-based delegation is you can add validation records like `CNAME`s and `TXT`s to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
-> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 ([tinyurl.com/5yf3pf5n](https://tinyurl.com/5yf3pf5n)). Our frontend ALB has 12 attached certs, 11 through `SNI`.
+> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 ([tinyurl.com/5yf3pf5n](https://tinyurl.com/5yf3pf5n)). Our frontend ALB has 12 certs attached; 11 through SNI.
 
 ### Digital transformation:
 
@@ -273,14 +273,16 @@ and the USA choropleth chart type (e.g. [dashboard.clearseas.ai/waterHeater/plot
 > •	Implemented Redux via Redux Toolkit (RTK) and moved relevant data into Redux. Auth data, chart data, currently-applied filters, etc.<br><br>
 > •	Migration to TypeScript for both frontend and backend is currently in progress
 
-But wait, there’s more!
+Over the past few months, we also built out a third application, which I’ll post about here soon. The third application is very related to the product described in this post.
 
-Over the past few months, we also built out a third application, which I’ll post about here soon. That third application is very related to the product described in this post!
+Thank you Mitchell for making all of this possible. It was an awesome experience.
 
-Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
+About a month ago, I took a new full-time corp-to-corp software engineering role through my consulting company. The role is with a large software company based in Massachusetts. More on that soon.
 
-About a month ago, I took a new full-time corp-to-corp software engineering role through my consultancy. The role is with a large software company based in Massachusetts. More on that soon.
+#### Thanks for reading!
 
-#### Thanks for reading! Leave a like or comment on LinkedIn if you enjoyed this post. Reach out to me on LinkedIn if you’d like to chat about anything related to this post: [linkedin.com/in/brad-culley-93651992](https://www.linkedin.com/in/brad-culley-93651992/).
+#### Leave a like or comment on LinkedIn if you enjoyed this post.
+
+#### Reach out to me on LinkedIn if you’d like to chat about anything related to this post: [linkedin.com/in/brad-culley-93651992](https://www.linkedin.com/in/brad-culley-93651992/).
 
 
