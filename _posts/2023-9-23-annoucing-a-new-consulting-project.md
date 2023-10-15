@@ -2,7 +2,7 @@
 
 ---
 
-#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: tinyurl.com/664kraza](https://tinyurl.com/664kraza).
+#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
 Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
@@ -132,7 +132,7 @@ And so on.
 Three things:
 1. Harken back to our example above: which size companies install which types of water heaters.<br>
 
-    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br>
+    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: [tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br>
 
     In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.<br><br>
 
