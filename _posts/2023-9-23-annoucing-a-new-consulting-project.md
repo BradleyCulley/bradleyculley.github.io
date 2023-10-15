@@ -19,7 +19,7 @@ Mitchell and I worked on it for a year and half. March 2022 to August 2023.
 
 The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers. They've been awesome to work with.
 
-This is one of the "dashboards" in the platform: dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
+This is one of the "dashboards" in the platform: [dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
 
 ![Water heater dashboard.png](https://bradleyculley.github.io/images/Water_heater_dashboard.png)
 
@@ -29,7 +29,7 @@ The whole platform has about 90 different "dashboard types". To give economic sc
 
 The core of the platform is its plots. For example, let’s say you wanted to know which types of water heaters are most popular, and to see the trend over the past three years. The types are "tank" (has a water tank), "tankless/instantaneous" (no water tank), and so on. In market research terminology, this is called "product category involvement".
 
-Here’s a chart with that breakdown: dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement)
+Here’s a chart with that breakdown: [dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement)
 
 ![Water heater product category involvement.png](https://bradleyculley.github.io/images/Water_heater_product_category_involvement.png)
 
@@ -78,7 +78,7 @@ Those charts, however, are what we call "premium". You need a paid license to se
 
 In particular, there’s a chart with the exact data we want! It answers the question: where do small companies buy tank water heaters?
 
-Here’s the link to the chart: dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2](https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2)
+Here’s the link to the chart: [dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2](https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2)
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: *Amazon and Home Depot*.
 
@@ -107,21 +107,21 @@ There are similar features in some proprietary tools like Tableau. But, they’r
 To put it more candidly, clients love this platform.
 
 As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers.
-You can see some of those people in the video thumbnails here (they agreed to have their videos shared, by the way): dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
+You can see some of those people in the video thumbnails here (they agreed to have their videos shared, by the way): [dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
 
 ![Multiple survey video cards.png](https://bradleyculley.github.io/images/Multiple_survey_video_cards.png)
 
 The report data, therefore, is "fully-permissioned" and "first-party". "First-party" is key. Some research organizations get their data from the glorified equivalent of a Google search. Some even just make stuff up.
 
-Here’s another "dashboard type", this time for the roofing industry: dashboard.clearseas.ai/RCSOI](https://dashboard.clearseas.ai/RCSOI)
+Here’s another "dashboard type", this time for the roofing industry: [dashboard.clearseas.ai/RCSOI](https://dashboard.clearseas.ai/RCSOI)
 
 ![RCSOI dashboard.png](https://bradleyculley.github.io/images/RCSOI_dashboard.png)
 
-Restoration and remediation: dashboard.clearseas.ai/PREMIUMRRSOI](https://dashboard.clearseas.ai/PREMIUMRRSOI)
+Restoration and remediation: [dashboard.clearseas.ai/PREMIUMRRSOI](https://dashboard.clearseas.ai/PREMIUMRRSOI)
 
 ![PREMIUMRRSOI dashboard.png](https://bradleyculley.github.io/images/PREMIUMRRSOI_dashboard.png)
 
-Capital spending on assembly manufacturing: dashboard.clearseas.ai/ASMCS](https://dashboard.clearseas.ai/ASMCS)
+Capital spending on assembly manufacturing: [dashboard.clearseas.ai/ASMCS](https://dashboard.clearseas.ai/ASMCS)
 
 ![ASMCS dashboard.png](https://bradleyculley.github.io/images/ASMCS_dashboard.png)
 
@@ -148,7 +148,7 @@ Three things:
 
     This is powered by an OpenAI large language model API, interacted with via the Node.js backend. This feature has been a real favorite for users. People don’t want data; they want actionable insights.<br>
 
-2. The platform has an AI-powered video insights section, which you can see here: dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
+2. The platform has an AI-powered video insights section, which you can see here: [dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
 
     When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the un-blurred transcript.<br>
 
@@ -160,7 +160,7 @@ Three things:
 
     ![Water heater video insights page.png](https://bradleyculley.github.io/images/Water_heater_video_insights_page.png)<br><br>
 
-    There’s also a visualization of aggregate sentiment, among all respondents, per question: dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights](https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights)
+    There’s also a visualization of aggregate sentiment, among all respondents, per question: [dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights](https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights)
 
     ![Water heater aggregate video insights.png](https://bradleyculley.github.io/images/Water_heater_aggregate_video_insights.png)
 
@@ -266,9 +266,9 @@ Digital transformation of the infrastructure:
 
 #### Digital transformation of the application code:
 > •	Built out authentication and authorization, including the ability for one user to have premium access to more than one dashboard type, with different dates if needed. Solution leverages a multitenant architecture.<br><br>
-> •	Built out a number of new chart types, including the heatmap chart type (e.g. dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
+> •	Built out a number of new chart types, including the heatmap chart type (e.g. [dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
 ![Heatmap_Chart](https://bradleyculley.github.io/images/Heatmap_Chart.png)<br><br>
-and the USA choropleth chart type (e.g. dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
+and the USA choropleth chart type (e.g. [dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
 ![USA_Choropleth](https://bradleyculley.github.io/images/USA_Choropleth.png)<br><br>
 > •	Videos insights feature discussed above<br><br>
 > •	Moved to more standard use of React Router. Prior implementation often leveraged the querystring piece of the URL instead of the path piece of the URL.<br><br>
