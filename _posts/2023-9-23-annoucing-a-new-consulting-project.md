@@ -203,7 +203,7 @@ Three things:
     This is a cool one: it’s a custom model that does sentiment-based clustering and per-cluster summarization.
     It’s LangChain-based and trained in AWS SageMaker. The output is visualized with a treemap-style chart.
 
-    Here’s an example of a real result: [Treemap_Chart_of_Open-Ends.png](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
+    Here’s an example of a real result: ![Treemap_Chart_of_Open-Ends](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
 
 Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
 
@@ -211,7 +211,9 @@ About a month ago, I took a new full-time corp-to-corp software engineering role
 
 Mitchell also graciously hosted me for a visit to Michigan earlier this year. I stayed in the guest house at his home, visited the Clear Seas Research office in Troy, and saw a lot of great sights around the Detroit area. Favorites included the Fisher Building and the Detroit Institute of Arts.
 
-These are a few photos of The Fisher building: https://www.fisherbuilding.city/gallery. Simply stunning.
+These are a few photos of The Fisher building: https://www.fisherbuilding.city/gallery. It’s an Art Deco masterpiece. And here's one I took, of the main hallway:
+
+![Fisher_edited](https://bradleyculley.github.io/images/Fisher_edited.png)
 
 Likewise, the Detroit Institute of Arts is amazing. At every turn was another Monet, Matisse, or Gauguin. Unbelievable collection.
 
