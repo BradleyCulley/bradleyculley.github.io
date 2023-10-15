@@ -1,4 +1,6 @@
-### New Project: AI-Powered Market Research 
+## New Project: AI-Powered Market Research 
+
+---
 
 #### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
@@ -49,7 +51,7 @@ To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
 > 2. Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
 > 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops<br/>
-> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tanks.*__<br/>
+> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. *Focus on the tanks.*<br/>
 
 Parenthetical remark: saw this Trane van in Bloomington, Illinois this past winter. Had to take a photo!
 
@@ -65,9 +67,9 @@ The whole post is on my (completely non-monetized, no signup, no popups) blog: [
 
 Anyway, back to the question above: "But wait, the company size chart comparison doesn’t tell us the leading sales channel by type of water heater, right?".
 
-The answer is yes: the company size chart comparison doesn’t tell us that. However, there’s a whole other section with 34 different charts about tank water heaters.<br><br>
+The answer is yes: the company size chart comparison doesn’t tell us that. However, there’s a whole other section with 34 different charts about tank water heaters.<br>
 
-You can see the section and the chart names in the accordion menu on the left.<br><br>
+You can see the section and the chart names in the accordion menu on the left.<br>
 
 ![Tank_water_heaters_left_nav_item.png](https://bradleyculley.github.io/images/Tank_water_heaters_left_nav_item.png)
 
@@ -173,10 +175,10 @@ Three things:
     > 5.	The videos show up on the relevant dashboard in real time, complete with emotion classification and the other metadata (age of respondent, region of the US the respondent hails from, etc.)
 
    It was awesome to be able to design, build, and deploy all parts of the video management system:
-   > 2. The infrastructure AWS with Terraform
-   > 3. The CI/CD pipeline pieces: GitHub Actions
-   > 3. Video upload via an admin interface in the platform: full-stack React and Node
-   > 4. video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.<br>
+   > • The infrastructure: AWS with Terraform<br>
+   > • The CI/CD pipeline pieces: GitHub Actions<br>
+   > • Video upload via an admin interface in the platform: full-stack React and Node<br>
+   > • Video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.<br>
 
     This was a great example of efficient and enjoyable product development. Mitchell and I talked through the feature, then I built it, demoing to Mitchell along the way. End-to-end delivery was about one month, in the fall of 2022.<br><br>
 
