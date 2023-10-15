@@ -37,13 +37,14 @@ A "killer feature" is side-by-side chart comparisons, including with different f
 
 For example, what’s the product category involvement for small companies versus large companies?
 
-In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small HVAC company or a large HVAC company? Do small companies hate dealing with tankless for some reason?
+In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small plumbing company or a large plumbing
+company? Do small companies hate dealing with tankless for some reason?
 
 Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
 ![Product_Category_Involvement_Plot_Comparison.png](https://bradleyculley.github.io/images/Product_Category_Involvement_Plot_Comparison.png)
 
-Small HVAC companies keep it simple. They deal less in indirect tank heaters.
+Small plumbing companies keep it simple. They deal less in indirect tank heaters.
 
 An indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Not the best fit for a 3-person business.
 
@@ -52,7 +53,7 @@ That’s a real actionable takeaway for a company like Trane Technologies, which
 To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
 > 2. Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
-> 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small mom-and-pop HVAC shops<br/>
+> 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small plumbing companies<br/>
 > 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tanks.*__<br/>
 
 Parenthetical remark: saw this Trane van in Illinois this past winter. Had to take a photo!
@@ -81,7 +82,7 @@ Here’s the link to the chart: [https://dashboard.clearseas.ai/waterHeater/plot
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: *Amazon and Home Depot*.
 
-Long story short: __Trane may want the tank water heaters it sells through Amazon and Home Depot to be the kinds that small HVAC shops prefer installing.__
+Long story short: __Trane may want the tank water heaters it sells through Amazon and Home Depot to be the kinds that small plumbing companies prefer installing.__
 
 Trane may also want to dial back the non-tank options.
 
@@ -105,7 +106,8 @@ There are similar features in some proprietary tools like Tableau. But, they’r
 
 To put it more candidly, clients love this platform.
 
-As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers. You can see some of those people here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
+As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers.
+You can see some of those people in the video thumbnails here (they agreed to have their videos shared, by the way): [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
 
 ![Multiple survey video cards.png](https://bradleyculley.github.io/images/Multiple_survey_video_cards.png)
 
@@ -136,19 +138,19 @@ Three things:
 
     ![AI_Analytics.png](https://bradleyculley.github.io/images/AI_Analytics.png)<br><br>
 
-    There are a few preset prompts to get you started. For example, "Generate Executive Insights", which prompts "Give me three bullet points, one sentence each, that summarize the main insights".<br><br>
+    There are a few preset prompts to get you started. For example, "Generate Executive Insights", which prompts "Give me three bullet points, one sentence each, that summarize the main insights".<br>
 
-    An example of what I got when I pressed the "Generate Executive Insights" button:<br>
+    An example of some of what I got when I pressed the "Generate Executive Insights" button:<br>
     > 1.	For companies with a size of 1 or 2-5, the installation, replacement, and servicing of tank water heaters consistently ranged from 90.65% to 93.27% between 2020 and 2021.2.
     > 2.	In contrast, involvement with indirect tank water heaters remained relatively low with percentages ranging from 34.82% to 37.50% during the same period.
 
     Pretty relevant insights!
 
-    This is powered by an OpenAI large language model API. This feature has been a real favorite for users. People don’t want data; they want actionable insights.<br><br>
+    This is powered by an OpenAI large language model API, interacted with via the Node.js backend. This feature has been a real favorite for users. People don’t want data; they want actionable insights.<br>
 
-2. The platform has a video insights section, which you can see here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br><br>
+2. The platform has an AI-powered video insights section, which you can see here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
 
-    When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the un-blurred transcript.<br><br>
+    When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the un-blurred transcript.<br>
 
     Video upload page:
 
@@ -158,31 +160,31 @@ Three things:
 
     ![Water heater video insights page.png](https://bradleyculley.github.io/images/Water_heater_video_insights_page.png)<br><br>
 
-    There’s also a visualization of aggregate sentiment, among all respondents, per question:
+    There’s also a visualization of aggregate sentiment, among all respondents, per question: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights](https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights)
 
     ![Water heater aggregate video insights.png](https://bradleyculley.github.io/images/Water_heater_aggregate_video_insights.png)
 
-    Here an example for the questions that the water heater contractors were asked: https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights <br><br>
+    The dropdown is populated with the questions that were asked in the survey. You can select a different question from the dropdown to see the average sentiment for answers to that question among all respondents.<br> 
 
     Potential future work that's been discussed for the video insights feature:<br>
     >    •	Batch upload (currently serial)<br><br>
     •	Automatic generation of the video transcripts based on the audio tracks (probably using Amazon Polly)<br><br>
-    •	Classification of emotion (positive, negative, mixed, neutral) directly from video frame images. Separately, classification of emotion from the audio. The current system uses only the text. Going multimodal would make the classification more robust. Could experiment with tuning per-modality weighting to see what’s highest-fidelity to the truth.<br><br>
-    •	Going end-to-end with video sourcing. Mitchell currently uses a platform called Voxpopme (voxpopme.com) to collect the videos. The respondents (e.g. hot water heater installers) receive prompts and record their response videos through that platform.<br><br>
+    •	Classification of emotion (positive, negative, mixed, neutral) directly from video frame images (probably using Amazon Rekognition). Separately, classification of emotion from the audio (probably using Amazon Transcribe and Amazon Comprehend). The current system uses only the text. Going multimodal would make the classification more robust. Could experiment with tuning per-modality weighting to see what’s highest-fidelity to the truth.<br><br>
+    •	Going end-to-end with video sourcing. Mitchell currently uses a platform called Voxpopme (voxpopme.com) to collect the videos. The respondents (e.g. plumbers) receive prompts and record their response videos through that platform.<br><br>
     • Mitchell and his staff then upload the videos into the relevant dashboard. Mitchell’s software engineering team could instead build the video surveying themselves! It would do exactly what they want, and it would connect right into the video analysis part that already exists.
 
     In other words, the vision is:
-    > 1.	A contractor who installs water heaters would get a text message with a link to a paid survey<br>
-    > 2.	They click the link, record the video, and get paid automatically
-    > 3.	The video is automatically uploaded to the relevant dashboard type (water heaters, roofing, manufacturing, etc.)
-    > 4.	The video is also automatically processed by the AI subsystems for voice-to-text and emotion classification
+    > 1.	A contractor who installs water heaters would get a text message with a link to a paid survey<br><br>
+    > 2.	They click the link, record the video, and get paid automatically<br><br>
+    > 3.	The video is automatically uploaded to the relevant dashboard type (water heaters, roofing, manufacturing, etc.)<br><br>
+    > 4.	The video is also automatically processed by the AI subsystems for voice-to-text and emotion classification<br><br>
     > 5.	The videos show up on the relevant dashboard in real time, complete with emotion classification and the other metadata (age of respondent, region of the US the respondent hails from, etc.)
 
    It was awesome to be able to design, build, and deploy all parts of the video management system:
-   > • The infrastructure: AWS with Terraform<br>
-   > • The CI/CD pipeline pieces: GitHub Actions<br>
-   > • Video upload via an admin interface in the platform: full-stack React and Node<br>
-   > • Video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.<br>
+   > • The infrastructure: AWS with Terraform<br><br>
+   > • The CI/CD pipeline pieces: GitHub Actions<br><br>
+   > • Video upload via an admin interface in the platform: full-stack React and Node<br><br>
+   > • Video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.
 
     This was a great example of efficient and enjoyable product development. Mitchell and I talked through the feature, then I built it, demoing to Mitchell along the way. End-to-end delivery was about one month, in the fall of 2022.<br><br>
 
