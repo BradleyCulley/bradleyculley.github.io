@@ -148,7 +148,7 @@ Three things:
 
     This is powered by an OpenAI large language model API, interacted with via the Node.js backend. This feature has been a real favorite for users. People don’t want data; they want actionable insights.<br>
 
-2. The platform has an AI-powered video insights section, which you can see here: [dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
+2. The platform has an AI-powered video insights section, which you can see here: [dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
 
     When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the un-blurred transcript.<br>
 
@@ -167,7 +167,7 @@ Three things:
     The dropdown is populated with the questions that were asked in the survey. You can select a different question from the dropdown to see the average sentiment for answers to that question among all respondents.<br> 
 
     Potential future work that's been discussed for the video insights feature:<br>
-    >    •	Batch upload (currently serial)<br><br>
+    >    •	Batch upload<br><br>
     •	Automatic generation of the video transcripts based on the audio tracks (probably using Amazon Polly)<br><br>
     •	Classification of emotion (positive, negative, mixed, neutral) directly from video frame images (probably using Amazon Rekognition). Separately, classification of emotion from the audio (probably using Amazon Transcribe and Amazon Comprehend). The current system uses only the text. Going multimodal would make the classification more robust. Could experiment with tuning per-modality weighting to see what’s highest-fidelity to the truth.<br><br>
     •	Going end-to-end with video sourcing. Mitchell currently uses a platform called Voxpopme (voxpopme.com) to collect the videos. The respondents (e.g. plumbers) receive prompts and record their response videos through that platform.<br><br>
@@ -186,11 +186,9 @@ Three things:
    > • Video upload via an admin interface in the platform: full-stack React and Node<br><br>
    > • Video processing (FFmpeg), storage (S3 and RDS), sentiment analysis NLP/NLU, and frontend display of the videos and associated sentiment data.
 
-    This was a great example of efficient and enjoyable product development. Mitchell and I talked through the feature, then I built it, demoing to Mitchell along the way. End-to-end delivery was about one month, in the fall of 2022.<br><br>
+    This was a great example of efficient and enjoyable product development. Mitchell and I talked through the feature, then I built it, demoing to Mitchell along the way. End-to-end delivery was about one month, in the fall of 2022.<br>
 
-    But wait, we’re not done with videos yet!<br><br>
-
-    Another feature I built in the fall of 2022 is the ability to generate a PowerPoint presentation from a list of videos.<br><br>
+    Another feature I built in the fall of 2022 is the ability to generate a PowerPoint presentation from a list of videos.<br>
 
     When Mitchell brought this up to people, the response was "nuclear" (in a good way). The feature is a button on the video uploads page that says "Download as PowerPoint".
 
