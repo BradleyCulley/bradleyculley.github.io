@@ -205,10 +205,6 @@ Three things:
 
     Here’s an example of a real result: ![Treemap_Chart_of_Open-Ends](https://bradleyculley.github.io/images/Treemap_Chart_of_Open-Ends.png)
 
-Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
-
-About a month ago, I took a new full-time corp-to-corp software engineering role through my consultancy. The role is with a large education software company based in Massachusetts. More on that soon.
-
 What about the tech side?
 
 Interesting DNS work:
@@ -275,5 +271,9 @@ and the USA choropleth chart type (e.g. [https://dashboard.clearseas.ai/waterHea
 But wait, there’s more!
 
 Over the past few months, we also built out a third application, which I’ll post about here soon. That third application is very related to the product described in this post!
+
+Thank you Mitchell for making all of this possible. It was an awesome experience. The epitome of true product development.
+
+About a month ago, I took a new full-time corp-to-corp software engineering role through my consultancy. The role is with a large software company based in Massachusetts. More on that soon.
 
 #### Thanks for reading! Leave a like or comment on LinkedIn if you enjoyed this post!
