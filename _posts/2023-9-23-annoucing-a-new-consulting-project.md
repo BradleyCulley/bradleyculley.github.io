@@ -7,7 +7,7 @@
 Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
 
-That was actually the *second* project I worked on for Mitchell. Today I’m posting about the first! Technical details are at the end, if you're looking for those.
+That was actually the second project I worked on for Mitchell. Today I’m posting about the first. Technical details are at the end, if you're looking for those.
 
 ---
 
@@ -54,7 +54,7 @@ To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
 > 2. Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
 > 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small plumbing companies<br/>
-> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tanks.*__<br/>
+> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tank heaters.*__<br/>
 
 Parenthetical remark: saw this Trane van in Illinois this past winter. Had to take a photo!
 
