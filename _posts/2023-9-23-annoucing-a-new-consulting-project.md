@@ -2,7 +2,7 @@
 
 ---
 
-#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [https://tinyurl.com/664kraza](https://tinyurl.com/664kraza).
+#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: tinyurl.com/664kraza](https://tinyurl.com/664kraza).
 
 Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
@@ -19,7 +19,7 @@ Mitchell and I worked on it for a year and half. March 2022 to August 2023.
 
 The team has also grown during that time. Mitchell’s brought on four more software engineers over the past 6 months, through the TopTal contracting service. I performed the interviews and served as their engineering manager. All four are superb engineers. They've been awesome to work with.
 
-This is one of the "dashboards" in the platform: [https://dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
+This is one of the "dashboards" in the platform: dashboard.clearseas.ai/waterHeater](https://dashboard.clearseas.ai/waterHeater)
 
 ![Water heater dashboard.png](https://bradleyculley.github.io/images/Water_heater_dashboard.png)
 
@@ -29,7 +29,7 @@ The whole platform has about 90 different "dashboard types". To give economic sc
 
 The core of the platform is its plots. For example, let’s say you wanted to know which types of water heaters are most popular, and to see the trend over the past three years. The types are "tank" (has a water tank), "tankless/instantaneous" (no water tank), and so on. In market research terminology, this is called "product category involvement".
 
-Here’s a chart with that breakdown: [https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement)
+Here’s a chart with that breakdown: dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement](https://dashboard.clearseas.ai/waterHeater/plot/productCategoryInvolvement)
 
 ![Water heater product category involvement.png](https://bradleyculley.github.io/images/Water_heater_product_category_involvement.png)
 
@@ -40,7 +40,7 @@ For example, what’s the product category involvement for small companies versu
 In other words, does the choice of what kind of water heater gets installed depend on whether it’s installed by a small plumbing company or a large plumbing
 company? Do small companies hate dealing with tankless for some reason?
 
-Here's your answer: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
+Here's your answer: tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)
 
 ![Product_Category_Involvement_Plot_Comparison.png](https://bradleyculley.github.io/images/Product_Category_Involvement_Plot_Comparison.png)
 
@@ -78,7 +78,7 @@ Those charts, however, are what we call "premium". You need a paid license to se
 
 In particular, there’s a chart with the exact data we want! It answers the question: where do small companies buy tank water heaters?
 
-Here’s the link to the chart: [https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2](https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2)
+Here’s the link to the chart: dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2](https://dashboard.clearseas.ai/waterHeater/plot/tankWaterHeatersPurchaseChannels?companySizes=companySize1,companySize2)
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: *Amazon and Home Depot*.
 
@@ -107,21 +107,21 @@ There are similar features in some proprietary tools like Tableau. But, they’r
 To put it more candidly, clients love this platform.
 
 As mentioned, Mitchell’s company, Clear Seas Research, does "end-to-end" market research. For example, they have a verified panel of people who work as professional hot water heater installers.
-You can see some of those people in the video thumbnails here (they agreed to have their videos shared, by the way): [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
+You can see some of those people in the video thumbnails here (they agreed to have their videos shared, by the way): dashboard.clearseas.ai/waterHeater/video/surveyVideos](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)
 
 ![Multiple survey video cards.png](https://bradleyculley.github.io/images/Multiple_survey_video_cards.png)
 
 The report data, therefore, is "fully-permissioned" and "first-party". "First-party" is key. Some research organizations get their data from the glorified equivalent of a Google search. Some even just make stuff up.
 
-Here’s another "dashboard type", this time for the roofing industry: [https://dashboard.clearseas.ai/RCSOI](https://dashboard.clearseas.ai/RCSOI)
+Here’s another "dashboard type", this time for the roofing industry: dashboard.clearseas.ai/RCSOI](https://dashboard.clearseas.ai/RCSOI)
 
 ![RCSOI dashboard.png](https://bradleyculley.github.io/images/RCSOI_dashboard.png)
 
-Restoration and remediation: [https://dashboard.clearseas.ai/PREMIUMRRSOI](https://dashboard.clearseas.ai/PREMIUMRRSOI)
+Restoration and remediation: dashboard.clearseas.ai/PREMIUMRRSOI](https://dashboard.clearseas.ai/PREMIUMRRSOI)
 
 ![PREMIUMRRSOI dashboard.png](https://bradleyculley.github.io/images/PREMIUMRRSOI_dashboard.png)
 
-Capital spending on assembly manufacturing: [https://dashboard.clearseas.ai/ASMCS](https://dashboard.clearseas.ai/ASMCS)
+Capital spending on assembly manufacturing: dashboard.clearseas.ai/ASMCS](https://dashboard.clearseas.ai/ASMCS)
 
 ![ASMCS dashboard.png](https://bradleyculley.github.io/images/ASMCS_dashboard.png)
 
@@ -132,7 +132,7 @@ And so on.
 Three things:
 1. Harken back to our example above: which size companies install which types of water heaters.<br>
 
-    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: [https://tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br>
+    Notice the "AI Analytics" tab right above the plots? Here’s a deeplink: tinyurl.com/mrfszzv4](https://tinyurl.com/mrfszzv4)<br>
 
     In that tab, you can chat with the data via a large language model (LLM) that has as context all the data, and all the filters, in both charts. You get answers in natural language.<br><br>
 
@@ -148,7 +148,7 @@ Three things:
 
     This is powered by an OpenAI large language model API, interacted with via the Node.js backend. This feature has been a real favorite for users. People don’t want data; they want actionable insights.<br>
 
-2. The platform has an AI-powered video insights section, which you can see here: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
+2. The platform has an AI-powered video insights section, which you can see here: dashboard.clearseas.ai/waterHeater/video/surveyVideos.](https://dashboard.clearseas.ai/waterHeater/video/surveyVideos)<br>
 
     When the videos and their transcripts are uploaded, the system runs sentiment analysis (NLP/NLU) on the transcripts, stores the results, and visualizes them next to the video in question. You can see the sentiment and thumbnail as a preview. You need a premium account to watch the video and see the un-blurred transcript.<br>
 
@@ -160,7 +160,7 @@ Three things:
 
     ![Water heater video insights page.png](https://bradleyculley.github.io/images/Water_heater_video_insights_page.png)<br><br>
 
-    There’s also a visualization of aggregate sentiment, among all respondents, per question: [https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights](https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights)
+    There’s also a visualization of aggregate sentiment, among all respondents, per question: dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights](https://dashboard.clearseas.ai/waterHeater/video/surveyVideoInsights)
 
     ![Water heater aggregate video insights.png](https://bradleyculley.github.io/images/Water_heater_aggregate_video_insights.png)
 
@@ -200,7 +200,7 @@ Three things:
 
     This feature is currently working in a Git feature branch (needs a few final tweaks)
 
-    This is a next-level timesaver for market researchers. That’s particularly true if they can batch drag and drop videos straight to conversion to a PowerPoint generation.
+    This is a next-level timesaver for market researchers. That’s particularly true if they can batch drag-and-drop videos straight to conversion into a PowerPoint generation.
 
     On the technical side, it was interesting working on PowerPoint generation in Node.js.
 
@@ -215,65 +215,64 @@ Three things:
 
 What about the tech side?
 
-Interesting DNS work:
+#### One area that particularly stood out: interesting DNS work.
 
-Per customer request, a few dashboard types, such as Assembly Capital Spending (dashboard.assemblymag.com/ASMCS), have custom domain names in which the root domain (assemblymag.com) is hosted by the 3rd-party customer.
+Per customer request, a few dashboard types, such as Assembly Capital Spending (`dashboard.assemblymag.com/ASMCS`), have custom domain names in which the root domain (`assemblymag.com`) is hosted by the 3rd-party customer. In other words, the domain isn't hosted in Mitchell's AWS account. 
 
-We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s NS records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know before this project!
+We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s `NS` records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know that before this project!
 
-The final leg of DNS delegation to the ALB is just an A record.
+The final leg of DNS delegation to the ALB is just an `A` record.
 
 So it’s:
-> 1.	NS record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
+> 1.	`NS` record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
 > 2.	Route 53 Hosted Zone for just the subdomain.<br><br>
 You can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
 Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)<br><br>
-> 3.	An A record pointing to the ALB’s DNS entry (as in the screenshot).
+> 3.	An A record pointing to the ALB’s `FQDN` DNS entry (as in the Terraform-generated ALB's `FQDN` partially visible in the screenshot above).
 
 We solved the TLS problem using:
-> 1.	ACM-generated, Route 53-validated certs (via Terraform!). The cool thing about NS-based delegation is you can add validation records like CNAMEs and TXTs to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
-> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 (https://tinyurl.com/5yf3pf5n). Our frontend ALB has 12 attached certs, 11 through SNI.
+> 1.	ACM-generated, Route 53-validated certs (all via Terraform!). The cool thing about `NS`-based delegation is you can add validation records like `CNAME`s and `TXT`s to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
+> 2.	A cool feature of ALBs called Server Name Indication (`SNI`). `SNI` lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 ([tinyurl.com/5yf3pf5n](https://tinyurl.com/5yf3pf5n)). Our frontend ALB has 12 attached certs, 11 through `SNI`.
 
-Digital transformation:
+### Digital transformation:
 
-When I joined, the project was in its early stages. The codebase had at that point been built out entirely by a single developer. That developer then moved on to take a job as a software engineer at Facebook/Meta.
+When I joined, the project was in a relatively early stage of development. The codebase had at that point been built out entirely by a single software engineer. That person later took a job as a software engineer at Facebook/Meta, so Mitchell sought out a new engineer to work on the project. That's how Mitchell and I got connected.
 
-He did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects for Mitchell. There wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot. TypeScript, however: yes.
+That software engineer did a great job creating a capable MVP. It was, and still is, written with a Node.js backend and a React frontend. I used Spring Boot (Java) as the backend framework for the greenfield projects for Mitchell. There wasn’t reason to migrate the (fairly complex) Node.js backend to Spring Boot. TypeScript, however: yes.
 
 Digital transformation of the infrastructure:
 #### Before:
 > •	Single on-premise server: no load balancing. (Small) downtime during deployments.<br><br>
-> •	PM2 for Node process management<br><br>
-> •	Deployment process: SSH onto machine -> git pull ->  stop Node process-> optionally "npm i" -> start Node process<br><br>
+> •	`PM2` for Node process management<br><br>
+> •	Deployment process: SSH onto machine -> `git pull` ->  stop Node process-> optionally `npm i` -> start Node process<br><br>
 > •	No database<br><br>
+> •	No user profiles/auth/ability to sign up/ability to sign in<br><br>
 > •	No log collection/persistence/searchability<br><br>
 > •	Manually-managed certs (provisioning, renewal, etc.)
 
 #### After:
-> •	Monorepo containing backend microservice, frontend microservice (React), infrastructure-as-code (Terraform), end-to-end automated tests, and pipeline-as-code (GitHub Actions).<br><br>
+> •	Monorepo containing backend microservice (Node.js), frontend microservice (React), infrastructure-as-code (Terraform), end-to-end automated tests (Cypress), and pipeline-as-code (GitHub Actions).<br><br>
 > •	Dockerized. One image per microservice, stored in private ECR repos. Image tagged with commit hash for traceability.<br><br>
-> •	Deployed in AWS on ECS. Blue/green deployment, high-availability configuration, log collection from the containers into per-microservice-per-environment-segmented CloudWatch log groups. Serverless: low-hassle and impossible to SSH onto. Total of zero SSH key pairs.<br><br>
+> •	Deployed in AWS on ECS. Blue/green deployments, high-availability configuration, log collection from the containers into per-microservice-per-environment-segmented CloudWatch log groups. Serverless: low-hassle and impossible to SSH onto. Total of zero SSH key pairs for the app servers.<br><br>
 > •	Data tier is PostgreSQL in RDS, with scheduled automated backups, data encrypted at rest, etc.<br><br>
 > •	Pipeline has linting (including linting of the Terraform code!), automated testing, SonarQube, etc.<br><br>
 > •	Snyk for security scanning: SAST, SCA, IaC (Terraform) scanning, and Docker image scanning<br><br>
-> •	SonarQube, including quality gate gating in the pipeline. Failing the quality gate fails the build and blocks all deployments to all cloud environments.<br><br>
-> •	Playwright-based (TypeScript!) e2e automated tests, including visual snapshot tests for the charts. The e2es run in the pipeline on pushes to all branches, and gate deployment from the main branch to any of the cloud environments.<br><br>
+> •	SonarQube Quality Gate gating in the pipeline. Failing the Quality Gate fails the build and blocks all deployments to all cloud environments.<br><br>
+> •	End-to-end automated tests written in Cypress (in TypeScript!), including visual snapshot tests for charts. The end-to-end tests run in the pipeline on pushes to all branches, and they gate deployment from the main branch to any of the cloud environments.<br><br>
 > •	A separate set of read-only e2e tests run on a cron, via GitHub Actions, against production, as a piece of the monitoring strategy for the platform<br><br>
-> •	Separate staging and production environments, implemented via Terraform workspaces. One infra codebase in the monorepo parameterized by environment/Terraform workspace.
-
-Uses GitHub Actions "environments" feature to restrict production deployments to only a subset of GitHub repo-permissioned users. Standing up a new environment is trivial: less than a day’s work.
-
-Per-environment configuration such as service-specific URLs is provided via environment variables, per The Twelve-Factor App Methodology ([12factor.net](12factor.net)).
+> •	Separate staging and production environments. One infra codebase in the monorepo parameterized by environment. Environments implemented with Terraform workspace.<br><br>
+> •	Uses GitHub Actions "environments" feature to restrict production deployments to only a subset of GitHub repo-permissioned users. Standing up a new environment is trivial: less than a day’s work.<br><br>
+> •	Per-environment configuration such as service-specific URLs is provided via environment variables, per The Twelve-Factor App Methodology ([12factor.net](12factor.net)).
 
 #### Digital transformation of the application code:
 > •	Built out authentication and authorization, including the ability for one user to have premium access to more than one dashboard type, with different dates if needed. Solution leverages a multitenant architecture.<br><br>
-> •	Built out a number of new chart types, including the heatmap chart type (e.g. [https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
-![Heatmap_Chart.png](https://bradleyculley.github.io/images/Heatmap_Chart.png)<br><br>
-and the USA choropleth chart type (e.g. [https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
-![USA_Choropleth.png](https://bradleyculley.github.io/images/USA_Choropleth.png)<br><br>
+> •	Built out a number of new chart types, including the heatmap chart type (e.g. dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall](https://dashboard.clearseas.ai/TSIC/plot/bestBrandsOverall)):
+![Heatmap_Chart](https://bradleyculley.github.io/images/Heatmap_Chart.png)<br><br>
+and the USA choropleth chart type (e.g. dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth](https://dashboard.clearseas.ai/waterHeater/plot/regionUSAChoropleth)):
+![USA_Choropleth](https://bradleyculley.github.io/images/USA_Choropleth.png)<br><br>
 > •	Videos insights feature discussed above<br><br>
 > •	Moved to more standard use of React Router. Prior implementation often leveraged the querystring piece of the URL instead of the path piece of the URL.<br><br>
-> •	Implemented Redux via Redux Toolkit and moved relevant data into Redux. Auth data, chart data, applied filters data, etc.<br><br>
+> •	Implemented Redux via Redux Toolkit (RTK) and moved relevant data into Redux. Auth data, chart data, currently-applied filters, etc.<br><br>
 > •	Migration to TypeScript for both frontend and backend is currently in progress
 
 But wait, there’s more!
@@ -284,4 +283,6 @@ Thank you Mitchell for making all of this possible. It was an awesome experience
 
 About a month ago, I took a new full-time corp-to-corp software engineering role through my consultancy. The role is with a large software company based in Massachusetts. More on that soon.
 
-#### Thanks for reading! Leave a like or comment on LinkedIn if you enjoyed this post!
+#### Thanks for reading! Leave a like or comment on LinkedIn if you enjoyed this post. Reach out to me on LinkedIn if you’d like to chat about anything related to this post: [linkedin.com/in/brad-culley-93651992](https://www.linkedin.com/in/brad-culley-93651992/).
+
+
