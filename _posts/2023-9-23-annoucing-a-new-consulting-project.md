@@ -2,7 +2,7 @@
 
 ---
 
-#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan: [link to that post](https://tinyurl.com/664kraza).
+#### A few months ago, I posted about a project for Mitchell Henderson, the CEO of Clear Seas Research, a market research company in Troy Michigan. Here's a link to that post: [link](https://tinyurl.com/664kraza).
 
 Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
