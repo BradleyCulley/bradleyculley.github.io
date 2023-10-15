@@ -219,20 +219,20 @@ What about the tech side?
 
 Per customer request, a few dashboard types, such as Assembly Capital Spending (`dashboard.assemblymag.com/ASMCS`), have custom domain names in which the root domain (`assemblymag.com`) is hosted by the 3rd-party customer. In other words, the domain isn't hosted in Mitchell's AWS account. 
 
-We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s `NS` records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know that before this project!
+We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s NS records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know that before this project!
 
 The final leg of DNS delegation to the ALB is just an `A` record.
 
 So it’s:
-> 1.	`NS` record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
+> 1.	NS record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
 > 2.	Route 53 Hosted Zone for just the subdomain.<br><br>
 You can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
 Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)<br><br>
-> 3.	An A record pointing to the ALB’s `FQDN` DNS entry (as in the Terraform-generated ALB's `FQDN` partially visible in the screenshot above).
+> 3.	An A record pointing to the ALB’s FQDN DNS entry (as in the Terraform-generated ALB's FQDN partially visible in the screenshot above).
 
 We solved the TLS problem using:
-> 1.	ACM-generated, Route 53-validated certs (all via Terraform!). The cool thing about `NS`-based delegation is you can add validation records like `CNAME`s and `TXT`s to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
-> 2.	A cool feature of ALBs called Server Name Indication (`SNI`). `SNI` lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 ([tinyurl.com/5yf3pf5n](https://tinyurl.com/5yf3pf5n)). Our frontend ALB has 12 attached certs, 11 through `SNI`.
+> 1.	ACM-generated, Route 53-validated certs (all via Terraform!). The cool thing about NS-based delegation is you can add validation records like `CNAME`s and `TXT`s to the Hosted Zone and they resolve just fine. ACM-managed certs mean auto-renewal/no-hassle.<br><br>
+> 2.	A cool feature of ALBs called Server Name Indication (SNI). SNI lets you attach multiple TLS certs to a single ALB. AWS added SNI in 2017 ([tinyurl.com/5yf3pf5n](https://tinyurl.com/5yf3pf5n)). Our frontend ALB has 12 attached certs, 11 through `SNI`.
 
 ### Digital transformation:
 
@@ -243,7 +243,7 @@ That software engineer did a great job creating a capable MVP. It was, and still
 Digital transformation of the infrastructure:
 #### Before:
 > •	Single on-premise server: no load balancing. (Small) downtime during deployments.<br><br>
-> •	`PM2` for Node process management<br><br>
+> •	PM2 for Node process management<br><br>
 > •	Deployment process: SSH onto machine -> `git pull` ->  stop Node process-> optionally `npm i` -> start Node process<br><br>
 > •	No database<br><br>
 > •	No user profiles/auth/ability to sign up/ability to sign in<br><br>
