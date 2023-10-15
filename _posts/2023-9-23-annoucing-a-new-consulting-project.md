@@ -7,7 +7,7 @@
 Here's what that project looks like:
 ![ENRCostData.com](https://bradleyculley.github.io/images/ENR_Cost_Data.png)
 
-That was actually the second project I worked on for Mitchell. Today I’m posting about the first. Technical details are at the end, if you're looking for those.
+That was actually the second project we worked on together. Today I’m posting about the first. Technical details are at the end, if you're looking for those.
 
 ---
 
