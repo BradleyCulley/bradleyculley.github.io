@@ -217,12 +217,12 @@ What about the tech side?
 
 Per customer request, a few dashboard types, such as Assembly Capital Spending (`dashboard.assemblymag.com/ASMCS`), have custom domain names in which the root domain (`assemblymag.com`) is hosted by the 3rd-party customer. In other words, the domain isn't hosted in Mitchell's AWS account. 
 
-We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s NS records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know that before this project!
+We solved that using DNS delegation. In particular, pointing the external nameservers for only the `dashboard.` subdomain to our AWS Route 53 Hosted Zone’s `NS` records. Turns out you can have separate nameserver DNS records for the root domain and a subdomain. Didn’t know that before this project!
 
 The final leg of DNS delegation to the ALB is just an `A` record.
 
 So it’s:
-> 1.	NS record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
+> 1.	`NS` record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
 > 2.	Route 53 Hosted Zone for just the subdomain.<br><br>
 You can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
 Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)<br><br>
