@@ -220,10 +220,10 @@ We solved that using DNS delegation. In particular, pointing the external namese
 The final leg of DNS delegation to the ALB is just an A record.
 
 So it’s:
-> 1.	NS record DNS entry performed by the 3rd party client hosting the core domain<br>
-> 2.	Route 53 Hosted Zone for just the subdomain.
+> 1.	NS record DNS entry performed by the 3rd-party client hosting the core domain<br><br>
+> 2.	Route 53 Hosted Zone for just the subdomain.<br><br>
 Fact: you can create a hosted domain for whatever DNS value you want, even without having AWS as the domain registrar for the relevant domain. You get nameservers and all. If something delegates to those nameservers, you’re in business.
-Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)
+Here's an example: ![Route_53_hosted_zone.png](https://bradleyculley.github.io/images/Route_53_hosted_zone.png)<br><br>
 > 3.	An A record pointing to the ALB’s DNS entry.
 
 We solved the TLS problem using:
