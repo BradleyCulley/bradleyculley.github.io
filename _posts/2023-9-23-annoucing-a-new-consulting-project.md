@@ -48,7 +48,7 @@ Small plumbing companies keep it simple. They deal less in indirect tank heaters
 
 An indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Not the best fit for a 3-person company.
 
-That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy in their leading "sales channel" (how they sell things) for a given type of water heater. Trane is, in fact, one of Mitchell's customers.
+That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy in their leading "sales channel" (how they sell things) for a given type of water heater.
 
 To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
