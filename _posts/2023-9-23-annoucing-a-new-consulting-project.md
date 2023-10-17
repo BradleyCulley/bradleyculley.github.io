@@ -48,13 +48,13 @@ Small plumbing companies keep it simple. They deal less in indirect tank heaters
 
 An indirect tank water heater heats the water using heat from the home’s furnace, employing a heat exchanger. Sounds complicated. Not the best fit for a 3-person company.
 
-That’s a real actionable takeaway for a company like Trane Technologies, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. Trane can focus their marketing copy in their leading "sales channel" (how they sell things) for a given type of water heater.
+That’s a real actionable takeaway for a company like AO Smith Corporation, which manufactures water heaters. Marketing, customer service, product lineup, and more can be adjusted accordingly. AO Smith can focus their marketing copy in their leading "sales channel" (how they sell things) for a given type of water heater.
 
 To break it down again:<br/>
 > 1. Small companies buy tank water heaters over other kinds of water heaters<br/>
 > 2. Small companies buy tank water heaters through retail chain X (e.g. Lowes)<br/>
-> 3. In what they sell through Lowes, Trane may want to beef up on tank water heater product lineups that work well for small plumbing companies<br/>
-> 4. Trane may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tank heaters.*__<br/>
+> 3. In what they sell through Lowes, AO Smith may want to beef up on tank water heater product lineups that work well for small plumbing companies<br/>
+> 4. AO Smith may want to slim down their non-tank offerings through Lowes. For example, fewer types of indirect tank heaters. __*Focus on the tank heaters.*__<br/>
 
 <br>
 
@@ -78,13 +78,13 @@ Here’s the link to the chart: [dashboard.clearseas.ai/waterHeater/plot/tankWat
 
 You can’t access that chart unless you buy the dashboard, but I’ll give you the answer: *Amazon and Home Depot*.
 
-Long story short: __Trane may want the tank water heaters it sells through Amazon and Home Depot to be the kinds that small plumbing companies prefer installing.__
+Long story short: __AO Smith may want the tank water heaters it sells through Amazon and Home Depot to be the kinds that small plumbing companies prefer installing.__
 
-Trane may also want to dial back the non-tank options.
+AO Smith may also want to dial back the non-tank options.
 
-Companies like Trane purchase these dashboards to get these insights.
+Companies like AO Smith purchase these dashboards to get these insights.
 
-Trane, the market leader in hot water heater manufacturing, does $16.8B/year in revenue. Purchasing a dashboard like this is a great investment.
+AO Smith, the market leader in hot water heater manufacturing, does $3.539B/year in revenue. Purchasing a dashboard like this is a great investment.
 
 Furthermore, this dashboard represents a step-change in market research technology. Nobody else has something like this: charts for custom data sources, emailable deeplinks to browser-based charts, filters, side-by-side chart comparisons, and so on.
 
