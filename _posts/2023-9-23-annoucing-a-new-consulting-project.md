@@ -279,6 +279,6 @@ About a month ago, I took a new full-time corp-to-corp software engineering role
 
 #### Leave a like or comment on LinkedIn if you enjoyed this post: [https://www.linkedin.com/posts/brad-culley-93651992_a-few-months-ago-i-posted-about-a-project-activity-7119397450234085376-7KB3](https://www.linkedin.com/posts/brad-culley-93651992_a-few-months-ago-i-posted-about-a-project-activity-7119397450234085376-7KB3)
 
-#### Reach out to me on LinkedIn if you’d like to chat about anything related to this post: [linkedin.com/in/brad-culley-93651992](https://www.linkedin.com/in/brad-culley-93651992/).
+#### Reach out to me on LinkedIn if you’d like to chat about anything related to this post: [linkedin.com/in/brad-culley-93651992](https://www.linkedin.com/in/brad-culley-93651992/)
 
 
