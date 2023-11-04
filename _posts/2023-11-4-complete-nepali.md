@@ -1,3 +1,5 @@
+![Complete Nepali](./images/complete_nepali.jpeg)
+
 ## Complete Nepali: A Teach Yourself Guide, by Michael J Hutt, Krishna Pradhan, and Abhi Subedi
 
 ---
