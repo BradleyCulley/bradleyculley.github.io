@@ -55,4 +55,4 @@ One of the languages besides Nepali that's spoken in Nepal is called Newari. It'
 
 Nepali has great prosody. In 2012, I was speaking Nepali with a gentleman in New Hampshire, and used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" ("and I'll decide later"). It occurred that there's a prosody to a phrase like that: a-_**ni**_/pa-_**chhi**_, ni-_**do**_/gar-_**chhu**_. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
 
-Studying Nepali has been a nice experience. It is grammatically commanding, emotive, intimate, and sophisticated.
+Studying Nepali has been a nice experience. Grammatically commanding, intimate, emotive, and sophisticated.
