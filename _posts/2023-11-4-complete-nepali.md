@@ -47,6 +47,6 @@ Vis-à-vis its atonality and it's language family, near the end of the study abr
 
 One of the languages besides Nepali that's spoken in Nepal is called Newari. It's interesting to contemplate Nepali and English are more linguistically similar than are Nepali and Newari. Newari is also a Sino-Tibetan language, mostly spoken in the Kathmandu Valley.
 
-Nepali has great prosody. In 2012, I was speaking Nepali with a gentleman in New Hampshire, and used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" ("and I'll decide later"). It occurred that there's a prosody to a phrase like that: a-*ni*/pa-*chhi*, ni-*do*/gar-*chhu*. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
+Nepali has great prosody. In 2012, I was speaking Nepali with a gentleman in New Hampshire, and used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" ("and I'll decide later"). It occurred that there's a prosody to a phrase like that: a-_**ni**_/pa-_**chhi**_, ni-_**do**_/gar-_**chhu**_. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
 
 Studying Nepali has been a nice experience. It is grammatically commanding, emotive, intimate, and sophisticated.
