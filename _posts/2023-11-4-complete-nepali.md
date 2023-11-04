@@ -1,8 +1,10 @@
-![Complete Nepali](./images/complete_nepali.jpeg)
-
-## Complete Nepali: A Teach Yourself Guide, by Michael J Hutt, Krishna Pradhan, and Abhi Subedi
+## <div align="center">Complete Nepali: A Teach Yourself Guide,<br>by Michael J Hutt, Krishna Pradhan, and Abhi Subedi<div>
 
 ---
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/complete_nepali.jpeg" />
+</div>
 
 Read this in around the summer of 2011. Listened to the audio on the accompanying CDs. The audio was great: realistic mock conversations on a range of topics.
 The voice actors are all native speakers. They also speak significantly slower than normal speech.
