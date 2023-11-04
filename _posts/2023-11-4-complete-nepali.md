@@ -6,6 +6,12 @@
   <img src="https://bradleyculley.github.io/images/complete_nepali.jpeg" />
 </div>
 <br>
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Marpha.jpeg" />
+</div>
+(An orchard in Marpha, in the Annapurna mountain range of the Nepali Himalayas)
+<br>
+
 Read this in around the summer of 2011. Listened to the audio on the accompanying CDs. The audio was great: realistic mock conversations on a range of topics.
 The voice actors are all native speakers. They also speak significantly slower than normal speech.
 I found that speed adjustment particularly helpful with picking out individual words from a given sentence.
