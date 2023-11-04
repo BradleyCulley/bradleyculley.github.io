@@ -29,7 +29,7 @@ For example, studying in Spain you might have language class 3 days a week, or s
 Beyond the textbook and dictionary for the Nepali class through the college, I've used "A Foundation in Nepali Grammar" by Christopher Jauy Manders, Nepali radio shows and music (Nepathya!), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
 Schmidt's book is particularly excellent. It's available here: https://dsal.uchicago.edu/dictionaries/schmidt.
 
-Haven't gotten to fluency, but can have fairly rich conversations. Was greatly aided, especially after the study abroad program, by speaking with native speakers, who humored my struggles with the language.
+Haven't gotten to full fluency, but can have fairly rich conversations. Was greatly aided, especially after the study abroad program, by speaking with native speakers, who humored my struggles with the language.
 
 A remark from Hutt about the Nepali language has stuck with me. It was something like this: "Nepali is a language of great intimacy and wit". After spending some time learning Nepali, that rings true.
 
