@@ -29,7 +29,7 @@ Quite liked the structure of the book. It's pragmatically organized. Each sectio
 
 Each such structure was taught with examples and commonly used words. I think there was even a list at the end of each chapter, of the words introduced in that chapter. In that way, building a practical lexicon was as a matter of course, happening in context and by example. All good didactic strategies.
 
-Quite an illustrious group of authors, too: all three are university professors. Abhi Subedi is also a renowned literary figure. He's a poet, playwright, and novelist. He's authored dozens of books.
+Quite an illustrious group of authors, too: all three are university professors. Abhi Subedi is also a renowned literary figure. He's a poet, playwright, and novelist. He's written dozens of books.
 
 I studied abroad in Nepal in the spring of 2010. Mostly lived in the Kathmandu Valley, with some time spent in the Terai, and in the Annapurna region.
 
