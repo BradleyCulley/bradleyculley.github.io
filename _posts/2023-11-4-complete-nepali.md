@@ -36,7 +36,7 @@ I studied abroad in Nepal in the spring of 2010. Mostly lived in the Kathmandu V
 I studied Nepali formally for a semester while studying abroad in Nepal, then on my own afterward. The study abroad program had a particularly intense language component.
 For example, studying in Spain you might have language class 3 days a week, or something like that. We had language class 5 days a week.
 
-Beyond the textbook and dictionary for the Nepali class used in the college course, I've used "A Foundation in Nepali Grammar" by Christopher Jauy Manders, Nepali radio shows and music ([Nepathya!](https://www.youtube.com/watch?v=BpeFXed4K6I)), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
+Beyond the textbook and dictionary for the Nepali class used in the college course, I've used "A Foundation in Nepali Grammar" by Christopher Jay Manders, Nepali radio shows and music ([Nepathya!](https://www.youtube.com/watch?v=BpeFXed4K6I)), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
 Schmidt's book is particularly excellent. It's available here: https://dsal.uchicago.edu/dictionaries/schmidt.
 
 Haven't gotten to full fluency, but can have fairly rich conversations. Was greatly aided, especially after the study abroad program, by speaking with native speakers. They humored my struggles with the language.
