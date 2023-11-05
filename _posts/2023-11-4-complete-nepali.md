@@ -10,7 +10,7 @@
   <img src="https://bradleyculley.github.io/images/Marpha.jpeg" />
 </div>
 <span align="center">
-(An orchard in Marpha, in the Annapurna mountain range of the Nepali Himalayas)
+(An orchard in Marpha, in the Annapurna mountain range of the Nepali Himalayas. I took the photo in 2010.)
 </span>
 <br>
 
@@ -27,7 +27,7 @@ After that, she felt she had a "foothold".
 
 Quite liked the structure of the book. It's pragmatically organized. Each section is "here's a grammatical structure that's practical in common speech". For example, "here's the grammatical structure for saying "x is for y" (को लागि). Or, "here's how to conjugate for the simple past tense".
 
-Each such structure was taught using examples, using commonly used words. I think there was even a list at the end of each chapter, of the words introduced in that chapter. In that way, building a practical lexicon was as a matter of course, happening in context and by example. All good didactic strategies.
+Each such structure was taught with examples and commonly used words. I think there was even a list at the end of each chapter, of the words introduced in that chapter. In that way, building a practical lexicon was as a matter of course, happening in context and by example. All good didactic strategies.
 
 Quite an illustrious group of authors, too: all three are university professors. Abhi Subedi is also a renowned literary figure. He's a poet, playwright, and novelist. He's authored dozens of books.
 
