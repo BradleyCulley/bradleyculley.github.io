@@ -11,7 +11,7 @@ Those are all good things, but piling on complexity too quickly is a common mala
 In fact, I see some people pile on #3 while #1 is in progress.
 Marriage, kids, and a mortgage while you're still in medical school? That's wild!<br><br>
 
-   I think a few phenomena cause us to take on too much:
+   I think a few phenomena cause us to "take on too much":
    1. Things like going back to school are semi/implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
    That's only after the fact, though. In the midst of it, they're high complexity tasks...often much higher than anticipated.<br/><br/>
    2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
@@ -37,6 +37,13 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
 
 Years ago, I saw an interview with a man who was seeking help in life, for himself and his 3 children. I certainly felt for him and his situation.
 Yet after a moment the thought came to mind: if you weren't 100% sure you could provide for your first child, why did you have the your child? Surely not the second? And a third?
-<br/><br/><br/>
+
+Also years ago, I read a short essay by a man who had adopted a child when he was around 50 years old.
+By that time, he was established in his career, as an MD/PhD pediatric oncologist, as it happened.
+He also settled into his romantic relationship with his partner. He was in excellent shape financially.<br/><br/>
+In fact, he gave up one of his two roles: research or clinical medicine...I don't recall now which, in order to be spend more time with his child.
+Finally, he said, there was a certain je ne sais quois of groundedness that came with age; in knowing himself as a person and in knowing how to interact with the world.
+
+<br/><br/>
 "Simplify, simplify, simplify! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail."<br/><br/>
 -Henry David Thoreau
