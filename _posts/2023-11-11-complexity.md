@@ -4,7 +4,9 @@
 </div>
 <br/>
 
-**It’s common to take on more complexity as soon as basic manageability is achieved with a given level of complexity**
+<div align="center" style="font-size: 18px; font-weight: bold;">
+   It’s common to take on more complexity as soon as<br/> basic manageability is achieved with a given level of complexity
+</div>
 
 <br/>
 For example:
