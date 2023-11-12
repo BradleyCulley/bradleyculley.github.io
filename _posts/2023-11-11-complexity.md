@@ -13,7 +13,7 @@ For example:
 For example, getting married, buying a house, going back to school part-time, or getting involved in civil society (PTA, fire department, etc).<br/><br/>
 Those are all good things, but piling on complexity too quickly is a common malady.
 In fact, I see some people pile on #3 while #1 is in progress.
-Marriage, kids, and a mortgage while you're still in medical school? That's wild!<br><br>
+Marriage, kids, and a mortgage while you're still in medical school? That's wild!<br>
 
    I think a few phenomena cause us to "take on too much":
    1. Things like going back to school are semi/implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
