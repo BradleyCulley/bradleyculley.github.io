@@ -1,7 +1,7 @@
 ### Living on the Edge of Complexity
 
-Random thing I think about sometimes: it's common to add more complexity to one's life after achieving manageability for a given level of complexity.
-
+**It's common to take on too much complexity in life**
+<br/><br/>
 For example:
 1. Graduate from college/vocational training/etc. That's a high complexity-management task, but when it's done, it's done.<br><br>
 2. Ramp up into a career. Another complex, difficult task. Once you're up to speed at work, though, you're up to speed at work.<br><br>
@@ -22,7 +22,7 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    4. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
    There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
    Now that person has three problems, not two.<br><br>The alcoholism being perhaps the most complex of them all.
-   Clinically, this is characterized by the Diathesis-stress model: https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model. <br/><br/>
+   Clinically, this is characterized by the Diathesis-stress model: [https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model](https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model). <br/><br/>
    "Diathesis" refers to a person's innate tolerance for complexity and stress.
    In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
    The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load and decision fatigue.<br/><br/>
