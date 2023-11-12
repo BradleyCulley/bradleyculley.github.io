@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/juggling-while-balancing.jpeg" />
+  <div style="font-size: 10px; font-style: italic;">(image source: https://fireandflow.co.nz/blogs/resources/juggle-me-this)</div>
 </div>
-<span style="font-size: 10px; font-style: italic;">(image source: https://fireandflow.co.nz/blogs/resources/juggle-me-this)</span>
 
 **It’s common to take on more complexity as soon as basic manageability is achieved with a given level of complexity**
 
