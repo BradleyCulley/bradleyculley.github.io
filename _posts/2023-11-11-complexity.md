@@ -1,4 +1,7 @@
-### Living on the Edge of Complexity
+![Juggling While Balancing](https://bradleyculley.github.io/images/juggling-while-balancing.jpeg)
+<span style="font-size: 10px; font-style: italic;">(image source: https://fireandflow.co.nz/blogs/resources/juggle-me-this)</span>
+
+### Complexity Management
 
 **It's common to take on too much complexity in life**
 <br/><br/>
