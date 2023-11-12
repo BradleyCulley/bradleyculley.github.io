@@ -3,8 +3,6 @@
 </div>
 <span style="font-size: 10px; font-style: italic;">(image source: https://fireandflow.co.nz/blogs/resources/juggle-me-this)</span>
 
-### Complexity
-
 **It’s common to take on too much complexity in life**
 
 <br/><br/>
