@@ -49,7 +49,7 @@ Also years ago, I read a short essay by a man who had adopted a child when he wa
 By that time, he was established in his career, as an MD/PhD pediatric oncologist, as it happened.
 He also settled into his romantic relationship with his partner. He was in excellent shape financially.<br/><br/>
 In fact, he gave up one of his two roles: research or clinical medicine (I don't recall which it was) in order to spend more time with his child.
-Finally, he said, there was a certain _je ne sais quois_ of groundedness that came with age; in knowing himself as a person and in knowing how to interact with the world.
+Finally, he said, there was a certain _je ne sais quois_ of groundedness that came with age. Knowing himself as a person and knowing how to interact with the world.
 <br/><br/>
 "Simplify, simplify, simplify! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail."<br/><br/>
 -Henry David Thoreau
