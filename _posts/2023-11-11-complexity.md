@@ -3,7 +3,7 @@
 
 ### Complexity Management
 
-**It's common to take on too much complexity in life**
+**It's common to add more life complexity as soon as basic manageability is achieved with a given level of complexity**
 <br/><br/>
 For example:
 1. Graduate from college/vocational training/etc. That's a high complexity-management task, but when it's done, it's done.<br><br>
