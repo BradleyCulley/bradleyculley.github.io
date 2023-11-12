@@ -46,7 +46,7 @@ Years ago, I saw an interview with a man who was seeking help in life, for himse
 Yet after a moment the thought came to mind: if you weren't 100% sure you could provide for your first child, why did you have the your child? Surely not the second? And a third?
 
 Also years ago, I read a short essay by a man who had adopted a child when he was around 50 years old.
-By that time, he was established in his career, as an MD/PhD pediatric oncologist, as it happened.
+By that time, he was established in his career, as an MD/PhD oncologist, as it happened.
 He also settled into his romantic relationship with his partner. He was in excellent shape financially.<br/><br/>
 In fact, he gave up one of his two roles: research or clinical medicine (I don't recall which it was) in order to spend more time with his child.
 Finally, he said, there was a certain _je ne sais quois_ of groundedness that came with age. Knowing himself as a person and knowing how to interact with the world.
