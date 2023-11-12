@@ -1,7 +1,7 @@
 ![Juggling While Balancing](https://bradleyculley.github.io/images/juggling-while-balancing.jpeg)
 <span style="font-size: 10px; font-style: italic;">(image source: https://fireandflow.co.nz/blogs/resources/juggle-me-this)</span>
 
-### Complexity Management
+### Complexity
 
 **It's common to add more life complexity as soon as basic manageability is achieved with a given level of complexity**
 <br/><br/>
