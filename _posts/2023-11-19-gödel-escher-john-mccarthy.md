@@ -2,6 +2,8 @@
   <img src="https://bradleyculley.github.io/images/john-mccarthy.jpeg" />
 </div>
 <br/><br/>
+Revised version of an essay I wrote earlier this year about some things that had been on the mind for a while:
+
 I think the continued development of artificial intelligence will lead to an epistemic unraveling of teleological claims. There's been some of that already.
 
 A few years ago, I read a news article along these lines:
