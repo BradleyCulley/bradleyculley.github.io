@@ -2,6 +2,7 @@
   <img src="https://bradleyculley.github.io/images/john-mccarthy.jpeg" />
 </div>
 
+
 I think the continued development of artificial intelligence will lead to a bit of an epistemic unraveling of teleological claims. There's been some of that already.
 
 A few years ago, I read a news article along these lines:
