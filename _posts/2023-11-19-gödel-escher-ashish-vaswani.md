@@ -1,4 +1,4 @@
-Gödel, Escher, Ashish Vaswani
+Gödel, Escher, Walter Pitts
 
 ------------------------------------------
 
