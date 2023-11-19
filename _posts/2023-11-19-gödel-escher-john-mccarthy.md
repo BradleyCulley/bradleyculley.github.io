@@ -20,4 +20,4 @@ Are those things teleological when a machine can replicate them, down through ne
 
 It would be interesting if AI drove a renaissance in epistemology, teleology, and logos.
 
-I think solutions will, as with the Super Bowl, be deontological. That's because consequentialist approaches will be as good as gone.
+I think solutions will, as with the Super Bowl, be deontological. Consequentialist approaches will be as good as gone.
