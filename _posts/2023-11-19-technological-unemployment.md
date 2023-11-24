@@ -6,6 +6,11 @@ Reasoning:
         I think the different jobs people do are fundamentally not that computationally distinct. Being a lawyer versus being a construction worker versus being an engineer.
         Further evidence, in both AIs and humans, is what in AI is called “transfer learning”. It's easier for an engineer to become a doctor, than it is for a random person to do so. The same for engineer to lawyer, even.
         <br/><br/>
+        Yann LeCunn makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
+        He points out that human intelligence is actually quite narrow.
+        In the universe of every possible computation (the Ruliad), human intelligence is optimized for a small subset of computations.
+        A small example is that nearly all humans can't memorize 10-digit numbers without breaking them into small numbers ("chunking").
+        <br/><br/>
     </li>
     <li>
         The jobs humans do have already been optimized around the parts of the computational universe (the ruliad) that are currently unautomatable.
