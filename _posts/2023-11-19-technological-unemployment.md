@@ -7,17 +7,17 @@ Reasoning:
         Further evidence, in both AIs and humans, is what in AI is called “transfer learning”. It's easier for an engineer to become a doctor, than it is for a random person to do so. The same for engineer to lawyer, even.
         <br/><br/>
         Yann LeCunn makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
-        He points out that human intelligence is actually quite narrow.
-        In the universe of every possible computation (the Ruliad), human intelligence is optimized for a small subset of computations.
-        A small example is that nearly all humans can't memorize 10-digit numbers without breaking them into small numbers ("chunking").
+        He says human intelligence is actually quite narrow.
+        In the universe of every possible computation (the Ruliad), human intelligence is optimized for a few specific things.
         <br/><br/>
     </li>
     <li>
-        The jobs humans do have already been optimized around the parts of the computational universe (the Ruliad) that are currently unautomatable.
+        The jobs that humans do have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.
         <br/><br/>
-        Joseph Schumpeter's "Creative destruction" and David Frederick Schloss' "Lump of Labor Fallacy.
+        Also, as we've automated more, to date there's actually been, all in all, more that's needed doing.
+        Joseph Schumpeter's "Creative destruction" and David Frederick Schloss' "Lump of Labor Fallacy come to mind.
         <br/><br/>
-        As we've automated more, to date there's paradoxically been more to do. Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
+        Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
         <br/><br/>
         "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
         <br/><br/>
