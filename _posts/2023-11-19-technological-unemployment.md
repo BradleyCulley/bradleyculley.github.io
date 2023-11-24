@@ -17,9 +17,7 @@ Reasoning:
         <br/><br/>
         Joseph Schumpeter's "Creative destruction" and David Frederick Schloss' "Lump of Labor Fallacy.
         <br/><br/>
-        As we've automated more, to date there's paradoxically been more to do. Joseph Schumpeter's "Creative destruction" is about
-        <br/><br/>
-        "the process that sees new innovations replacing existing ones that are rendered obsolete over time." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
+        As we've automated more, to date there's paradoxically been more to do. Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
         <br/><br/>
         "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors." -https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html
         <br/><br/>
@@ -28,7 +26,6 @@ Reasoning:
         <br/><br/>
         Closely related is David Frederick Schloss' "Lump of Labor Fallacy".
         <br/><br/>
-        According to The St. Louis Federal Reserve:
         "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."
         -https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model
         <br/><br/>
@@ -46,11 +43,11 @@ Reasoning:
         <br/><br/>
         Creative Destruction and Lump of Labor aren't laws of nature though. They could break down any time.<br/><br/>
         Connectionism, however, is actual science. Connectionism is the idea that thinking, memory, etc. are all enabled by the patterns of connections between neurons in the brain.
-        This has been known for quite some time. How does connectionism factor into this?
+        This has been known for a while. How does connectionism factor into this?
         It means there's a (general) mechanistic understanding of cognition, as well as quantifiable upper limit to the cognition and intelligence of a given human.
         <br/><br/>
-        Moore's Law may as well be a law of nature, for now at least: compute per $ doubles every two years
-        Chinchilla scaling laws: how much data versus compute is optimal for training Large Language Models (https://arxiv.org/abs/2203.15556)
+        Moore's Law may as well be a law of nature, for now at least: compute per $ doubles every two years.
+        Similarly for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models (https://arxiv.org/abs/2203.15556)
         <br/><br/>
     </li>
         The pieces that are un-automatable tend to require what AI scientists call "grounding".
