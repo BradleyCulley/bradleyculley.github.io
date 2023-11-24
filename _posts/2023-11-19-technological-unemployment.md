@@ -13,7 +13,7 @@ Reasoning:
         <br/><br/>
     </li>
     <li>
-        The jobs humans do have already been optimized around the parts of the computational universe (the ruliad) that are currently unautomatable.
+        The jobs humans do have already been optimized around the parts of the computational universe (the Ruliad) that are currently unautomatable.
         <br/><br/>
         Joseph Schumpeter's "Creative destruction" and David Frederick Schloss' "Lump of Labor Fallacy.
         <br/><br/>
