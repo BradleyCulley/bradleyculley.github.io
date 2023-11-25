@@ -20,7 +20,7 @@ Each chapter is a different breakthrough scientific paper from the 20th century,
 
 Alan Lightman is distinctive in being both a fully-qualified professor of astrophysics as well as a highly accomplished writer.
 He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D.).
-In the latter, he studied under the now Nobel Laureate astrophysicist Kip Thorne. 
+In the latter, he studied under the now Nobel laureate astrophysicist Kip Thorne. 
 
 As a writer, apart from "The Discoveries", he wrote the international bestseller "Einstein's Dreams", and the National Book Award finalist "The Diagnosis".
 He is a professor of both astrophysics and the humanities, one of the first people at MIT to receive such a joint appointment.
