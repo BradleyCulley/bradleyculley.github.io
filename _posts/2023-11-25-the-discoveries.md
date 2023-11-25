@@ -5,12 +5,13 @@
   <img src="https://bradleyculley.github.io/images/the_discoveries.jpeg" />
 </div>
 
+<br/><br/>
 _all references via Wikipedia unless otherwise noted: https://en.wikipedia.org/wiki/Alan_Lightman_
 
 ------------------------------------------
 
-Received this book as a gift from my grandfather, who had very good taste in books and in many other things.
-He was a medical doctor, and had strong and well-developed intellectual passions outside of medicine, including in mathematics, computing, and philosophy.
+Received this book as a gift from my grandfather. He had excellent taste in books, and in many other things.
+He was a medical doctor with strong well-developed intellectual passions outside of medicine. They included mathematics, computing, and philosophy.
 
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.
 
@@ -28,12 +29,12 @@ At MIT, he's led an initiative to help grow students' communication skills, perh
 Some chapters I particularly liked:
 <ul>
     <li>
-        <b>The Movability of Genes</b><br/>
-        "Mutable Loci in Maize", by Barbara McClintock (1948)
-    </li>
-    <li>
         <b>A Unified Theory of Forces</b><br/>
         "A Model of Leptons", by Steven Weinberg (1967)
+    </li>
+    <li>
+        <b>The Movability of Genes</b><br/>
+        "Mutable Loci in Maize", by Barbara McClintock (1948)
     </li>
     <li>
         <b>The Uncertainty Principle</b><br/>
