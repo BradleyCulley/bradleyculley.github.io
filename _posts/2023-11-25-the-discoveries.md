@@ -41,8 +41,7 @@ Some chapters I particularly liked:
     </li>
     <li>
         <b>The Chemical Bond</b>
-        "The Shared-Electron Chemical Bond", by Linus Pauling (1928)<br/>
-        Linus won both a Nobel Prize in Chemistry and a Nobel Peace Prize
+        "The Shared-Electron Chemical Bond", by Linus Pauling (1928)
     </li>
 </ul>
 
