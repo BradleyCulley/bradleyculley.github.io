@@ -2,7 +2,7 @@
 ### John von Neumann: Selected Letters, edited by Miklós Rédei
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/John_von_Nuemann.jpeg" />
+  <img src="https://bradleyculley.github.io/images/John_von_Neumann.jpeg" />
 </div>
 
 Photo taken summer 2021
