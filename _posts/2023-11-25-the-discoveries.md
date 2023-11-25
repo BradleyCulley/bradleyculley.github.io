@@ -23,7 +23,7 @@ As a writer, apart from "The Discoveries", he wrote the international bestseller
 He is a professor of both astrophysics and the humanities, one of the first people at MIT to receive such a joint appointment.
 Almost impossibly, he's a real-deal scientist, having published astrophysical research papers in journals including _Physical Review_ and _Nature_.  
 
-At MIT, he's led an initiative to help grow students' communication skills, perhaps to help match their indisputable technical skills:
+At MIT, he's led an initiative to help grow students' communication skills, perhaps to match their indisputable technical skills:
 "He played a major role in establishing MIT's "Communication Requirement," which requires all undergraduates to receive training each of their four years in writing and speaking."
 
 Some chapters I particularly liked:
