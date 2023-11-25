@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-_all references via Wikipedia unless otherwise noted: [https://en.wikipedia.org/wiki/Alan_Lightman](https://en.wikipedia.org/wiki/Alan_Lightman)_
+_all references via [https://en.wikipedia.org/wiki/Alan_Lightman](https://en.wikipedia.org/wiki/Alan_Lightman) unless otherwise noted_
 
 ------------------------------------------
 
