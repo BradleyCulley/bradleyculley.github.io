@@ -6,7 +6,7 @@
 </div>
 
 <br/><br/>
-_all references via Wikipedia unless otherwise noted: https://en.wikipedia.org/wiki/Alan_Lightman_
+_all references via Wikipedia unless otherwise noted: [https://en.wikipedia.org/wiki/Alan_Lightman](https://en.wikipedia.org/wiki/Alan_Lightman)_
 
 ------------------------------------------
 
@@ -119,4 +119,4 @@ Below is the full list of chapters. A selection and coverage that is simply exce
 22. THE CREATION OF ALTERED FORMS OF LIFE
     —“Biochemical Method of Inserting New Genetic Information into DNA of Simian Virus 40,” by David A. Jackson, Robert H. Symons, and Paul Berg (1972)
 
-Source: https://penguinrandomhousehighereducation.com/book/?isbn=9780307483843
+Source: [https://penguinrandomhousehighereducation.com/book/?isbn=9780307483843](https://penguinrandomhousehighereducation.com/book/?isbn=9780307483843)
