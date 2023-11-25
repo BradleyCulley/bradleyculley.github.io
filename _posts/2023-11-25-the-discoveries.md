@@ -22,9 +22,9 @@ Alan Lightman is distinctive in being both a fully-qualified professor of astrop
 He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D.).
 In the latter, he studied under the now Nobel laureate astrophysicist Kip Thorne. 
 
-As a writer, apart from "The Discoveries", he wrote the international bestseller "Einstein's Dreams", and the National Book Award finalist "The Diagnosis".
-He is a professor of both astrophysics and the humanities, one of the first people at MIT to receive such a joint appointment.
-Almost impossibly, he's a real-deal scientist, having published astrophysical research papers in journals including _Physical Review_ and _Nature_.  
+As a writer, apart from "The Discoveries", he wrote the international bestseller "Einstein's Dreams" and the National Book Award finalist "The Diagnosis".
+He's a professor of both astrophysics and the humanities, one of the first people at MIT to receive such a joint appointment.
+Almost impossibly, he's a real-deal scientist, having published important astrophysical research papers in journals including _Physical Review_ and _Nature_.  
 
 At MIT, he's led an initiative to help grow students' communication skills, perhaps to match their indisputable technical skills:
 "He played a major role in establishing MIT's "Communication Requirement," which requires all undergraduates to receive training each of their four years in writing and speaking."
