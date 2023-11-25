@@ -2,12 +2,22 @@
 ### John von Neumann: Selected Letters, edited by Miklós Rédei
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/redwall.jpeg" />
+  <img src="https://bradleyculley.github.io/images/John_von_Nuemann.jpeg" />
 </div>
 
 Photo taken summer 2021
 
 ------------------------------------------
+
+<
+used to work in CNJ and would walk by his home. The "genius walk".
+Once told my dad when we were meeting in NJ 'let's meet at John von Neumann's house'...and we did :) (thanks dad!)
+Year ago, in the introduction to a college textbook on Buddhism for a course I took,
+there was a description of a person (a historian/academic as I recall) looking at a Buddha statue
+and saying here, among the thousands of years of very checkered human history, is an idealogy (Buddhism)
+that's unequivocally something to be proud of as a species.
+In a world largely centered on negativity, I feel similar about von Neumann's worldview and achievements: his life and work, both personal and professional.
+>
 
 When I think of Professor John von Neumann I am reminded of a reference I once read, to a description by Dante of a mind "on fire with the truth".
 
