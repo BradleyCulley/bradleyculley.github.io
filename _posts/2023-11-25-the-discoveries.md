@@ -3,7 +3,7 @@
 
 <br/><br/>
 
-<div align="center">
+<div align="center" style="width: 30vw;">
   <img src="https://bradleyculley.github.io/images/the_discoveries.jpeg" />
 </div>
 
