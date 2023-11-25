@@ -18,7 +18,7 @@ He was a medical doctor with strong well-developed intellectual passions outside
 
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.
 
-Alan Lightman is distinctive in being both a fully-qualified professor of astrophysics as well as a highly accomplished writer.
+Alan Lightman is distinctive in being both a fully qualified professor of astrophysics as well as a highly accomplished writer.
 He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D.).
 In the latter, he studied under the now Nobel laureate astrophysicist Kip Thorne. 
 
