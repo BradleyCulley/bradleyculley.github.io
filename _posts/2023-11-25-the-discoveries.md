@@ -48,7 +48,7 @@ Some chapters I particularly liked:
 
 <br/><br/>
 
-Below is the full list of chapters. A selection and coverage that is simply excellent.
+Below is the full list of chapters. Excellent selection and coverage.
 
 1. THE QUANTUM
    —“On the Theory of the Energy Distribution Law of the Normal Spectrum,” by Max Planck (1900)
