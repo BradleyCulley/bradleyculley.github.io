@@ -1,5 +1,5 @@
-### The Discoveries: Great Breakthroughs in 20th-Century Science, Including the Original Papers
-#### by Alan Lightman
+### The Discoveries
+#### Great Breakthroughs in 20th-Century Science, Including the Original Papers, by Alan Lightman
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/the_discoveries.jpeg" />
