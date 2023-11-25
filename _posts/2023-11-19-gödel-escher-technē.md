@@ -1,7 +1,7 @@
 ### Gödel Escher Technē
 
 <br/><br/>
-Revised version of an essay I wrote earlier this year about some things that had been on the mind for a while:
+_Revised version of an essay I wrote earlier this year about some things that had been on the mind for a while_
 
 I think the continued development of artificial intelligence will lead to an epistemic unraveling of teleological claims. There's been some of that already.
 
