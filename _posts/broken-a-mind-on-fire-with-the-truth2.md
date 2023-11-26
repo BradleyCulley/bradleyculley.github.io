@@ -10,6 +10,7 @@ Photo taken summer 2021
 ------------------------------------------
 
 <
+add in:
 used to work in CNJ and would walk by his home. The "genius walk".
 Once told my dad when we were meeting in NJ 'let's meet at John von Neumann's house'...and we did :) (thanks dad!)
 Year ago, in the introduction to a college textbook on Buddhism for a course I took,
@@ -19,9 +20,34 @@ that's unequivocally something to be proud of as a species.
 In a world largely centered on negativity, I feel similar about von Neumann's worldview and achievements: his life and work, both personal and professional.
 >
 
+<
+add in:
+the piece about the tone, intimacy, and candor of his letters when he spoke to Gödel, versus when he spoke to everyone else,
+including world-famous academics and Navy Commodore Louis L Strauss
+>
+
+<
+Include his idea of von Neumann Probes.
+Include, in the context of a study of character, it's interesting to think of how he tackled both such gritty real-world problems as nuclear war, yet made space in his imagination for such fantastical, and in a sense wondrous, conceptions such self-replicating interplanetary probes.
+>
+
 When I think of Professor John von Neumann I am reminded of a reference I once read, to a description by Dante of a mind "on fire with the truth".
 
-He can't be well-characterized monofactorially.
+He can't be well-characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
+
+"The unifying theme in von Neumann’s life and
+work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing
+information and solving problems all the time.
+"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his
+compulsive ambition to know, to understand any
+problem, no matter on what level,” wrote Klari after
+his death. "Anything that would tickle his curiosity
+with a question mark, he could not leave alone;
+he would sulk, pout, and be generally impossible
+until, at least to his own satisfaction, he had found
+the right answer."
+-https://www.ams.org/notices/200706/tx070600724p.pdf
+
 
 Major themes include mathematics, computing, physics, politics, and military work.
 
