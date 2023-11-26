@@ -15,10 +15,10 @@ The two points I bought up in the group discussion:
 
     For example, "we need AI to have human values".<br/>
     Ok, _which_ human values?<br/>
-    What if you belong to a culture with a different opinion on human value <x>?<br/><br/>
+    What if you belong to a culture with a different opinion on a given particular human value?<br/><br/>
     
     For example, "it should generally promote freedom". What if you belong to a culture that leans authoritarian rather than libertarian? 
-    In other words, a culture that doesn't hold freedom as a hallowed value.<br/><br/>
+    In other words, a culture that doesn't hold freedom to be a hallowed value.<br/><br/>
     
     An inverted approach is to transcend that discourse (sounds like the title of a humanities paper) via fully-democratized AI.
     We each have our own personal AIs. This is just like how a citizen of a democracy has their own voting rights.
