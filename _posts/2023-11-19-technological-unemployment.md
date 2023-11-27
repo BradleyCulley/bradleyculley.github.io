@@ -27,7 +27,7 @@ Reasoning:
         Closely related is David Frederick Schloss' "Lump of Labor Fallacy".
         <br/><br/>
         "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."
-        -https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model
+        -[https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model](https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model)
         <br/><br/>
         <div align="center">
             <img src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
@@ -67,7 +67,28 @@ Reasoning:
         <br/><br/>
     </li>
     <li>
-        Fully-autonomous self-driving has been predicted for years, yet still isn't here. Ability to use AI to augment one’s work and increase productivity is real. However, that’s not replacement/singularity.
+        Fully-autonomous self-driving has been predicted for years, yet still isn't here.
+        Ability to use AI to augment one’s work and increase productivity is real. However, that’s not replacement/singularity.
+        <br/><br/>
+    </li>
+    <li>
+        "AI won't replace me - I'm a plumber!"<br/><br/>
+        Robotics is a software problem. I don't think skilled trades like plumbing, carpentry, or transportation, are uniquely safe just because they don't take place on a computer.<br/><br/>
+        Check out this robot from Boston Dynamics: [https://www.youtube.com/watch?v=-e1_QhJ1EhQ](https://www.youtube.com/watch?v=-e1_QhJ1EhQ).<br/><br/>
+        I think, with the right software, that robot, or one like it, could install shingles on a roof.
+        Here's a video of a dexterous robotic hand system performing fine motor tasks via a human operator: [https://www.youtube.com/watch?v=xyqJ6_cdenI](https://www.youtube.com/watch?v=xyqJ6_cdenI)<br/><br/>
+        Sensors and actuators aren't the limiting factor. The software powering the robotic platforms is the limiting factor.<br/><br/>
+        As it goes for programming, so it goes for plumbing, carpentry, and HVAC.
+        <br/><br/>
+    </li>
+    <li>
+        Large language models like ChatGPT arguably have exponentially diminishing accuracy as Kolmogorov complexity increases.
+        This is a post from Yann LeCun about that: [https://twitter.com/ylecun/status/1640122342570336267?lang=en](https://twitter.com/ylecun/status/1640122342570336267?lang=en).
+        This illustration from LeCun's post is a good summary of his argument:
+        <div align="center">
+            <img src="https://bradleyculley.github.io/images/lexponential_divergence_in_LLMs.jpeg" />
+        </div>
+        He's the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent of the Nobel Prize in computing) for his foundational work on AI.
         <br/><br/>
     </li>
     <li>
