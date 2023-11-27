@@ -74,7 +74,8 @@ Reasoning:
     <li>
         "AI won't replace me - I'm a plumber!"<br/><br/>
         Robotics is a software problem. I don't think skilled trades like plumbing, carpentry, or transportation, are uniquely safe just because they don't take place on a computer.<br/><br/>
-        Check out this robot from Boston Dynamics: [https://www.youtube.com/watch?v=-e1_QhJ1EhQ](https://www.youtube.com/watch?v=-e1_QhJ1EhQ).<br/><br/>
+        Check out this robot from Boston Dynamics:<br/><br/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-e1_QhJ1EhQ?si=DmCFedhG7S6K7dPp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/>
         I think, with the right software, that robot, or one like it, could install shingles on a roof.
         Here's a video of a dexterous robotic hand system performing fine motor tasks via a human operator: [https://www.youtube.com/watch?v=xyqJ6_cdenI](https://www.youtube.com/watch?v=xyqJ6_cdenI)<br/><br/>
         Sensors and actuators aren't the limiting factor. The software powering the robotic platforms is the limiting factor.<br/><br/>
@@ -97,7 +98,7 @@ Reasoning:
         <br/><br/>
     </li>
     <li>
-        Coming at it from the other side, neural net architectures are converging. Transformers are effective in broader and broader problem domains. Karpathy has a good thread about this: tinyurl.com/26vc6b36. Brains use a single architecture for all these different problem domains, why wouldn't AI? There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: tinyurl.com/y88vne6n.
+        Coming at it from the other side, neural net architectures are converging. Transformers are effective in broader and broader problem domains. Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36). Brains use a single architecture for all these different problem domains, why wouldn't AI? There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: tinyurl.com/y88vne6n.
     </li>
     <br/><br/>
     I think it’ll be a species-level cross-profession transition, with a fairly concise timeline
