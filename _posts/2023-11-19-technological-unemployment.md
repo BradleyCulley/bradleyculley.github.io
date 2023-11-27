@@ -4,7 +4,10 @@ Reasoning:
 <ul>
     <li>
         I think the different jobs people do are fundamentally not that computationally distinct. Being a lawyer versus being a construction worker versus being an engineer.
-        Further evidence, in both AIs and humans, is what in AI is called “transfer learning”. It's easier for an engineer to become a doctor, than it is for a random person to do so. The same for engineer to lawyer, even.
+        Further evidence, in both AIs and humans, is what in AI is called “transfer learning”.
+        `Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.`
+        -[https://machinelearningmastery.com/transfer-learning-for-deep-learning/](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)<br/><br/>
+        It's easier for an engineer to become a doctor, than it is for a random person to do so. The same for engineer to lawyer, even.
         <br/><br/>
         Yann LeCunn makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
         He says human intelligence is actually quite narrow.
