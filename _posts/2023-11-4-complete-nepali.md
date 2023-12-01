@@ -1,5 +1,5 @@
 ## <div align="center">Complete Nepali: A Teach Yourself Guide</div>
-### <div align="center">by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
+### by Michael J Hutt, Krishna Pradhan, and Abhi Subedi
 
 ---
 
