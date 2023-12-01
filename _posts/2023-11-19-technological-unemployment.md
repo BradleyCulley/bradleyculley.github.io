@@ -1,21 +1,18 @@
 I think AI will automate all, or almost all jobs at about the same time. In other words, a step-change profile for the technological singularity.
 
 Reasoning:
-<ul>
-    <li>
-        I think the different jobs people do are fundamentally not that computationally distinct. Being a lawyer versus being a construction worker versus being an engineer.
+* I think the different jobs people do are fundamentally not that computationally distinct. Being a lawyer versus being a construction worker versus being an engineer.
         Further evidence, in both AIs and humans, is what in AI is called “transfer learning”.
-        `Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.`
-        -[https://machinelearningmastery.com/transfer-learning-for-deep-learning/](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)<br/><br/>
+        "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task."
+        [https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
         It's easier for an engineer to become a doctor, than it is for a random person to do so. The same for engineer to lawyer, even.
         <br/><br/>
         Yann LeCunn makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
         He says human intelligence is actually quite narrow.
         In the universe of every possible computation (the Ruliad), human intelligence is optimized for a few specific things.
         <br/><br/>
-    </li>
-    <li>
-        The jobs that humans do have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.
+
+* The jobs that humans do have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.
         <br/><br/>
         Also, as we've automated more, to date there's actually been, all in all, more that's needed doing.
         Joseph Schumpeter's "Creative destruction" and David Frederick Schloss' "Lump of Labor Fallacy come to mind.
@@ -54,8 +51,8 @@ Reasoning:
         Moore's Law may as well be a law of nature, for now at least: compute per $ doubles every two years.
         Similarly for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models (https://arxiv.org/abs/2203.15556)
         <br/><br/>
-    </li>
-        The pieces that are un-automatable tend to require what AI scientists call "grounding".
+
+*  The pieces that are un-automatable tend to require what AI scientists call "grounding".
         In other words, real understanding. ChatGPT isn't grounded.<br/><br/>
         One example: ChatGPT can't accurately multiply large numbers.
         That's because it hasn't in its training set seen every literal combination of large numbers being multiplied. The amount of data it would need to see gets combinatorially explosive as the numbers get larger.
