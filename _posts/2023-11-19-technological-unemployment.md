@@ -49,13 +49,10 @@ Reasoning:
               The total number of jobs, _and_ the total number of employed people, has basically just gone up for a long time:<br/>
               <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
               <br/><br/>
-              In fact, there are more job openings than unemployed people, part of a 10-year trend.<br/><br/>
-              The red line going below "1" in the graph below means there are more jobs than unemployed people.
+              In fact, there are more job openings than unemployed people, part of a 10-year trend:<br/>
+              <img style="width: 50vw;" src="https://bradleyculley.github.io/images/unemployed_people_per_job_opening.png" /><br/><br/>
+              The red line going below "1" in the graph means there are more jobs than unemployed people.
               It's solidly below 1 right now.
-              <br/><br/>
-              <div align="center">
-                  <img style="width: 50vw;" src="https://bradleyculley.github.io/images/unemployed_people_per_job_opening.png" />
-              </div>
               <br/><br/>
               Creative Destruction and The Lump of Labor Fallacy aren't laws of nature though. They could stop being true any time.<br/><br/>
               "Connectionism", however, is actual science.
