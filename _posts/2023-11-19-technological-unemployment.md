@@ -92,7 +92,7 @@ Reasoning:
         <br/><br/>
 
 *   "ChatGPT will replace all jobs".<br/><br/>
-    "ChatGPT will replace job X".<br/>
+    "ChatGPT will replace job X".<br/><br/>
     See above about "grounding".<br/>
     Large language models like ChatGPT arguably have exponentially diminishing accuracy as Kolmogorov complexity increases.
     This is a post from Yann LeCun about that: [https://twitter.com/ylecun/status/1640122342570336267?lang=en](https://twitter.com/ylecun/status/1640122342570336267?lang=en).
