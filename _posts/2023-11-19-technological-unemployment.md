@@ -109,4 +109,4 @@ Reasoning:
 *   Coming at it from the other side, neural net architectures are converging. Transformers are effective in broader and broader problem domains. Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36). Brains use a single architecture for all these different problem domains, why wouldn't AI? There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: tinyurl.com/y88vne6n.
 
 *   I think it’ll be a species-level cross-profession transition, with a fairly concise timeline.
-The question then becomes: if it's everyone at once, how are we gonna handle this?
+The question then becomes: if it's everyone at once, how will we handle this?
