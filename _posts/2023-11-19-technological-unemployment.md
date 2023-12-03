@@ -56,9 +56,9 @@ Reasoning:
               <br/><br/>
               Creative Destruction and The Lump of Labor Fallacy aren't laws of nature though. They could stop being true any time.<br/><br/>
               "Connectionism", however, is actual science.
-              Connectionism is the theory that thinking, memory, etc. are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
+              Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
               Ok, but what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
-              No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing that make it something we pay people to do.<br/><br/>
+              No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing.<br/><br/>
               Moore's Law may as well be a law of nature, for now at least. 
               Moore's Law states that compute per $ doubles every two years.<br/><br/>
               Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556)
