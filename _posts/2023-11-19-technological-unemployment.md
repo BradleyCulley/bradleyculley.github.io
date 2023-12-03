@@ -7,30 +7,29 @@
   <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration2.png" />
 </div>
 
-**I think AI will automate all, or almost all jobs at about the same time. In other words, a step-change profile for the technological singularity.**
+**I think AI will automate all, or almost all, jobs at about the same time. In other words, a step-change profile for the technological singularity.**<br/><br/>
 
 Reasoning:
-* They key idea of this essay: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
+* The key idea of this essay is: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
     Being a lawyer versus being a construction worker versus being an engineer.<br/><br/>
-    They seem really distinct. That's because, within the space of all possible computations, we're "zoomed in" on the kinds of computations
-    that a human can get paid to do.<br/><br/>
+    They seem quite distinct. That's because, within the space of all possible computations, we're "zoomed in" on the kinds of computations that a human can get paid to do.<br/><br/>
     Further evidence, in both humans and AIs, is what in AI is called "transfer learning".<br/><br/>
     "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task."
     [https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
-    Humans do transfer learning! It's easier for an engineer to become a doctor, than it is for a random person to do so.<br/><br/>
-    background in engineering helps with becoming a lawyer, even.
-    My father is a lawyer. He said people with STEM degrees absolutely crushed it in law school.<br/><br/>
+    Humans do transfer learning! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor.<br/><br/>
+    A background in engineering helps with becoming a lawyer, even.
+    My father is a lawyer. He said people with STEM degrees did very well in law school.<br/><br/>
     Professor Yann LeCun makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
-    LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent of the Nobel Prize in computing) for his foundational work on AI.<br/><br/>
-    LeCun says human intelligence is actually quite narrow.
+    LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent in computing of the Nobel Prize) for his foundational work on AI.<br/><br/>
+    _LeCun says human intelligence is actually quite narrow._
     In the universe of every possible computation (the Ruliad), human intelligence is optimized for a few specific things.
-    That's illustrated in the header image above.<br/><br/>
+    That's illustrated in the header images above.<br/><br/>
 
 * As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.
         <br/><br/>
-        Paradoxically, as we've automated more, to date there's actually been, all in all, more that's needed doing. 
-        We've always thought innovations, such as cars, would, on balance, destroy jobs. So far, they never have.<br/><br/>
-        Two economic theories that explain this paradox are:<br/>
+        Paradoxically, as we've automated more, to date there's been more that's needed doing. 
+        We've always thought innovations, such as cars, would on balance destroy jobs. So far, they never have.<br/><br/>
+        Two economic theories that explain this paradox:<br/>
           1. Joseph Schumpeter's "Creative destruction" and<br/>
           2. David Frederick Schloss' "Lump of Labor Fallacy"<br/><br/>
               Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time."<br/>
@@ -39,17 +38,16 @@ Reasoning:
               "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors.
               -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
               <br/><br/>
-              The point there, is that there were plenty of jobs building cars, fixing cars, selling cars, and so on.
-              More jobs in total than in the era of horses.
+              The point is that after switching from horses to cars, there were plenty of jobs building cars, fixing cars, and so on.
+              In fact, more jobs in total than in the era of horses.
               <br/><br/>
               Closely related is David Frederick Schloss' "Lump of Labor Fallacy".
               <br/><br/>
               "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."<br/>
               -[https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model](https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model)
               <br/><br/>
-              <div align="center">
-                  <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
-              </div>
+              The total number of jobs, _and_ the total number of employed people, has basically just gone up for a long time:<br/>
+              <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
               <br/><br/>
               In fact, there are more job openings than unemployed people, part of a 10-year trend.<br/><br/>
               The red line going below "1" in the graph below means there are more jobs than unemployed people.
