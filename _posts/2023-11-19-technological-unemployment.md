@@ -69,8 +69,7 @@ Reasoning:
         One example: ChatGPT can't accurately multiply large numbers.
         That's because it hasn't in its training set seen every literal combination of large numbers being multiplied. The amount of data it would need to see gets combinatorially explosive as the numbers get larger.
         The technical terminology for this is "intensivity versus extensivity", or "distributional shift".
-        "distributional shift" is the phenomenon of the data model are trained on being (even somewhat) different from what it sees at inference time.
-        <br/><br/>
+        "distributional shift" is the phenomenon of the data the model is trained on being different from what it sees at inference time.<br/><br/>
         This isn't a John Henry thing...of course you can multiply numbers with a calculator.
         Or, you can write custom code that recognizes a given prompt as a multiplication problem and sends it to a "calculator" submodule.
         A calculator isn't AGI though.<br/><br/>
