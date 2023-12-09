@@ -43,7 +43,7 @@ Reasoning:
               "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."<br/>
               -[https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model](https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model)
               <br/><br/>
-              The total number of jobs, _and_ the total number of employed people, has basically just gone up for a long time:<br/>
+              For a long time now, the total number of jobs, _and_ the total number of employed people, has pretty much only gone up:<br/>
               <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
               <br/><br/>
               In fact, there are more job openings than unemployed people, part of a 10-year trend:<br/>
@@ -51,32 +51,33 @@ Reasoning:
               The red line going below "1" in the graph means there are more jobs than unemployed people.
               It's solidly below 1 right now.
               <br/><br/>
-              Creative Destruction and The Lump of Labor Fallacy aren't laws of nature though. They could stop being true any time.<br/><br/>
+              However, Creative Destruction and Lump of Labor aren't laws of nature. They could stop being true any time.<br/><br/>
               "Connectionism", however, is actual science.
               Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
               Ok, but what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
               No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing.<br/><br/>
               Moore's Law may as well be a law of nature, for now at least. 
-              Moore's Law states that compute per $ doubles every two years.<br/><br/>
-              Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556)
+              Moore's Law states that compute per dollar doubles every two years.<br/><br/>
+              Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models: [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556).
               <br/><br/>
 
 *  The pieces that are un-automatable tend to require what AI scientists call "grounding".
         In other words, real understanding. ChatGPT isn't grounded.<br/><br/>
         One example: ChatGPT can't accurately multiply large numbers.
-        That's because it hasn't in its training set seen every literal combination of large numbers being multiplied. The amount of data it would need to see gets combinatorially explosive as the numbers get larger.
-        The technical terminology for this is "intensivity versus extensivity", or "distributional shift".
+        That's because it hasn't yet in its training set seen literally every combination of large numbers being multiplied together.
+        The amount of data it would need to see gets combinatorially explosive as the numbers get larger.
+        The technical terminology for this is "distributional shift".
         "distributional shift" is the phenomenon of the data the model is trained on being different from what it sees at inference time.<br/><br/>
         This isn't a John Henry thing...of course you can multiply numbers with a calculator.
-        Or, you can write custom code that recognizes a given prompt as a multiplication problem and sends it to a "calculator" submodule.
+        Or you can write custom code that recognizes a given prompt as a multiplication problem and sends it to a "calculator" submodule.
         A calculator isn't AGI though.<br/><br/>
-        The point is LLMs don't actually understand multiplication. Not yet anyway.
+        The point is LLMs don't actually understand multiplication, much less have real models of the world. Not yet anyway.
         <br/><br/>
 
 *   This is similar to/a variant of Moravec's Paradox. What's easy for a human is hard for an AI. "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility" (https://lnkd.in/eetDKci6).<br/><br/>
 
 *   Fully-autonomous self-driving has been predicted for years, yet still isn't here.
-    Ability to use AI to augment one’s work and increase productivity is real. But that’s not replacement or the singularity.<br/><br/>
+    The ability to use AI to augment one’s work and increase productivity is real. But that’s not replacement or the singularity.<br/><br/>
 
 *   "AI won't replace me - I'm a plumber!"<br/><br/>
         Robotics is a software problem. I don't think skilled trades like plumbing, carpentry, or transportation, are uniquely safe just because they don't take place on a computer.<br/><br/>
