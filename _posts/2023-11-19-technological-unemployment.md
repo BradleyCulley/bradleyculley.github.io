@@ -1,13 +1,13 @@
 ## <div align="center">Technological Unemployment<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Ruliad_AI_and_humans.png" />
+  <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration1.png" />
 </div>
 
 ### I think AI will automate all, or almost all, jobs at approximately the same time. In other words, a step-change profile for the technological singularity.<br/><br/>
 
 Reasoning:
-* The key idea of this essay is: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
+1. The key idea of this essay is: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
     Being a lawyer versus being a construction worker versus being an engineer.<br/><br/>
     They seem quite distinct. That's because, within the space of all possible computations, we're "zoomed in" on the kinds of computations that a human can get paid to do.<br/><br/>
     Further evidence, in both humans and AIs, is what in AI is called "transfer learning".<br/><br/>
@@ -22,11 +22,10 @@ Reasoning:
     In the universe of every possible computation (the Ruliad), human intelligence is optimized for a few specific things.
     That's illustrated in the header images above.<br/><br/>
 
-* As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.
-        <br/><br/>
-        Paradoxically, as we've automated more, to date there's been more that's needed doing. 
-        We've always thought innovations, such as cars, would on balance destroy jobs. So far, they never have.<br/><br/>
-        Two economic theories that explain this paradox:<br/>
+2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
+        Paradoxically, as we've automated more, there's been more to be done. 
+        Throughout history, people have predicted that innovations, such as cars, would on balance destroy jobs. So far, they haven't.<br/><br/>
+        Two economic theories explain this paradox:<br/>
           1. Joseph Schumpeter's "Creative destruction" and<br/>
           2. David Frederick Schloss' "Lump of Labor Fallacy"<br/><br/>
               Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time."<br/>
@@ -61,7 +60,7 @@ Reasoning:
               Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models: [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556).
               <br/><br/>
 
-*  The pieces that are un-automatable tend to require what AI scientists call "grounding".
+3.  The pieces that are un-automatable tend to require what AI scientists call "grounding".
         In other words, real understanding. ChatGPT isn't grounded.<br/><br/>
         One example: ChatGPT can't accurately multiply large numbers.
         That's because it hasn't yet in its training set seen literally every combination of large numbers being multiplied together.
@@ -73,25 +72,23 @@ Reasoning:
         A calculator isn't AGI though.<br/><br/>
         The point is LLMs don't actually understand multiplication, much less have real models of the world. Not yet anyway.
         <br/><br/>
+        This is similar to/a variant of Moravec's Paradox. What's easy for a human is hard for an AI. "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility" (https://lnkd.in/eetDKci6).<br/><br/>
+        Fully-autonomous self-driving has been predicted for years, yet still isn't here.
+        The ability to use AI to augment one’s work and increase productivity is real. But that’s not replacement or the singularity.<br/><br/>
 
-*   This is similar to/a variant of Moravec's Paradox. What's easy for a human is hard for an AI. "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility" (https://lnkd.in/eetDKci6).<br/><br/>
-
-*   Fully-autonomous self-driving has been predicted for years, yet still isn't here.
-    The ability to use AI to augment one’s work and increase productivity is real. But that’s not replacement or the singularity.<br/><br/>
-
-*   "AI won't replace me - I'm a plumber!"<br/><br/>
-        Robotics is a software problem. I don't think skilled trades like plumbing, carpentry, or transportation, are uniquely safe just because they don't take place on a computer.<br/><br/>
+4.   "AI won't replace me - I'm a plumber!"<br/><br/>
+        Robotics is currently limited by software, not hardware. Skilled trades like plumbing, carpentry, and transportation, are not uniquely safe just because they don't happen on a computer.<br/><br/>
         Check out this robot from Boston Dynamics:<br/><br/>
-        [https://www.youtube.com/embed/-e1_QhJ1EhQ?si=DmCFedhG7S6K7dPp](https://www.youtube.com/embed/-e1_QhJ1EhQ?si=DmCFedhG7S6K7dPp)<br/><br/>
-        I think, with the right software, that robot, or one like it, could install shingles on a roof.
-        Here's a video of a robotic hand system performing fine motor tasks via a human operator: [https://www.youtube.com/watch?v=xyqJ6_cdenI](https://www.youtube.com/watch?v=xyqJ6_cdenI)<br/><br/>
-        Sensors and actuators aren't the limiting factor. Software is the limiting factor.<br/><br/>
-        As it goes for computer programming, so it goes for plumbing, carpentry, and HVAC.
+        [https://www.youtube.com/watch?v=-e1_QhJ1EhQ](https://www.youtube.com/watch?v=-e1_QhJ1EhQ)<br/><br/>
+        I think with the right software, that robot, or one like it, could install shingles on a roof.
+        Here's a video of a robotic hand system performing fine motor tasks via a human operator: [https://youtu.be/xyqJ6_cdenI?t=5](https://youtu.be/xyqJ6_cdenI?t=5)<br/><br/>
+        Sensors and actuators aren't the limiting factor; software is.<br/><br/>
+        As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
 
-*   "ChatGPT will replace all jobs".<br/><br/>
+5.  "ChatGPT will replace all jobs".<br/><br/>
     "ChatGPT will replace job X".<br/><br/>
-    See above about "grounding".<br/>
+    See the above discussion of "grounding".<br/>
     Large language models like ChatGPT arguably have exponentially diminishing accuracy as Kolmogorov complexity increases.
     This is a post from Yann LeCun about that: [https://twitter.com/ylecun/status/1640122342570336267?lang=en](https://twitter.com/ylecun/status/1640122342570336267?lang=en).
     This illustration from LeCun's post is a good summary of his argument:
@@ -99,18 +96,18 @@ Reasoning:
         <img src="https://bradleyculley.github.io/images/exponential_divergence_in_LLMs.jpeg" />
     </div><br/><br/>
 
-*   I've noticed a lot of opinions on the matter simply leave it there.
-    Moravec's Paradox, real-world understanding, etc.: there is no singularity.
-    I think there will be a singularity. The cortex has approximately the volume of a softball.
+6.  I've noticed lots of opinions on the matter leave it there.
+    They say, "hey Moravec's Paradox, real-world understanding, etc.: there is no singularity".<br/><br/>
+    I think there will be a singularity. The human cortex has approximately the volume of a softball.
     It can't be that hard to create human-level AI (understatement).
     In other words, AI will replace all jobs, but it will do so for all of them at about the same time. Step-change.<br/><br/>
 
-*   Coming at it from the other side, neural net architectures are converging.
+7.   Coming at it from the other side, neural net architectures are converging.
     Transformers/LLMs are effective in broader and broader problem domains.
-    Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36).
+    Andrej Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36).<br/><br/>
     Google is using transformers in its robotics: [https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/).
     Brains use a single architecture for all these different problem domains, why wouldn't AI?
     There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: [https://www.nature.com/articles/s41562-022-01516-2](https://www.nature.com/articles/s41562-022-01516-2).
 
-*   I think it’ll be a species-level cross-profession transition, with a fairly concise timeline.
-The question then becomes: if it's everyone at once, how will we handle this?
+8.   I think it’ll be a species-level cross-profession transition, with a fairly concise timeline.
+The question then becomes: if it's everyone at once, how will humans - all of us together - handle this?
