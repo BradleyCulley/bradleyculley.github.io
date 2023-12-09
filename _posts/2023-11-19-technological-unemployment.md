@@ -4,6 +4,7 @@
   <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration1.png" />
 </div>
 
+<br/><br/>
 ### I think AI will automate all, or almost all, jobs at approximately the same time. In other words, a step-change profile for the technological singularity.<br/><br/>
 
 Reasoning:
