@@ -15,7 +15,7 @@ Reasoning:
     [https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
     Humans do transfer learning! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor.<br/><br/>
     A background in engineering helps with becoming a lawyer, even.
-    My father is a lawyer. He said people with STEM degrees did very well in law school.<br/><br/>
+    My father is a lawyer. He said people with STEM degrees did very well in law school. Much better than people with "pre-law" degrees, actually.<br/><br/>
     Professor Yann LeCun makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
     LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent in computing of the Nobel Prize) for his foundational work on AI.<br/><br/>
     _LeCun says human intelligence is actually quite narrow._
