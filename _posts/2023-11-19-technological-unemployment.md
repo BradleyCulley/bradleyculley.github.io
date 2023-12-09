@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Ruliad_AI_and_humans.png" />
 </div>
-**I think AI will automate all, or almost all, jobs at about the same time. In other words, a step-change profile for the technological singularity.**<br/><br/>
+
+### I think AI will automate all, or almost all, jobs at approximately the same time. In other words, a step-change profile for the technological singularity.<br/><br/>
 
 Reasoning:
 * The key idea of this essay is: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
