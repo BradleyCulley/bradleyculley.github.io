@@ -1,12 +1,8 @@
 ## <div align="center">Technological Unemployment<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration1.png" />
+  <img src="https://bradleyculley.github.io/images/Ruliad_AI_and_humans.png" />
 </div>
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration2.png" />
-</div>
-
 **I think AI will automate all, or almost all, jobs at about the same time. In other words, a step-change profile for the technological singularity.**<br/><br/>
 
 Reasoning:
