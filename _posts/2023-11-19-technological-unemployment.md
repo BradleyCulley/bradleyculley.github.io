@@ -123,4 +123,4 @@ Reasoning:
     There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: [https://www.nature.com/articles/s41562-022-01516-2](https://www.nature.com/articles/s41562-022-01516-2).
 
 8.   **I think the technological singularity will be a species-level cross-profession transition, with a fairly concise timeline.**
-The question then becomes: how will humans - all of us together - handle this?
+The question then becomes: how will humans - all of us together - handle it?
