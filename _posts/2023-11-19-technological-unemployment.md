@@ -117,7 +117,7 @@ Reasoning:
 
 7.   **Coming at it from the other side, neural net architectures are converging.**
     For example, transformers/LLMs are effective in broader and broader problem domains.
-    Andrej Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36).<br/><br/>
+    Andrej Karpathy has a good thread about this: [https://tinyurl.com/26vc6b36](https://tinyurl.com/26vc6b36).<br/><br/>
     Google is using transformers in its robotics: [https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/).
     Brains use a single architecture for all these different problem domains, why wouldn't AI?
     There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: [https://www.nature.com/articles/s41562-022-01516-2](https://www.nature.com/articles/s41562-022-01516-2).
