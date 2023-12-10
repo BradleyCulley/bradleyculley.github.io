@@ -93,6 +93,7 @@ Reasoning:
             <img style="width: 50vw;" src="https://bradleyculley.github.io/images/dexterous_robotic_hands.png" />
           </a>
         </div>
+        <br/><br/>
         Sensors and actuators aren't the limiting factor; software is.<br/><br/>
         As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
