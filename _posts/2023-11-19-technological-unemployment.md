@@ -81,9 +81,18 @@ Reasoning:
 4.   **"AI won't replace me - I'm a plumber!"**<br/><br/>
         Robotics is currently limited by software, not hardware. Skilled trades like plumbing, carpentry, and transportation, are not uniquely safe just because they don't happen on a computer.<br/><br/>
         Check out this robot from Boston Dynamics:<br/><br/>
-        [https://www.youtube.com/watch?v=-e1_QhJ1EhQ](https://www.youtube.com/watch?v=-e1_QhJ1EhQ)<br/><br/>
+        <div align="center">
+          <a href="https://www.youtube.com/watch?v=-e1_QhJ1EhQ" target="_blank">
+            <img style="width: 50vw;" src="https://bradleyculley.github.io/images/Atlas_robot.png" />
+          </a>
+        </div>
         I think with the right software, that robot, or one like it, could install shingles on a roof.
-        Here's a video of a robotic hand system performing fine motor tasks via a human operator: [https://youtu.be/xyqJ6_cdenI?t=5](https://youtu.be/xyqJ6_cdenI?t=5)<br/><br/>
+        Here's a video of a robotic hand system performing fine motor tasks via a human operator:<br/><br/>
+        <div align="center">
+          <a href="https://youtu.be/xyqJ6_cdenI?t=5" target="_blank">
+            <img style="width: 50vw;" src="https://bradleyculley.github.io/images/dexterous_robotic_hands.png" />
+          </a>
+        </div>
         Sensors and actuators aren't the limiting factor; software is.<br/><br/>
         As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
