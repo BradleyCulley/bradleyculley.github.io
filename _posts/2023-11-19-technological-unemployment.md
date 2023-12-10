@@ -13,15 +13,16 @@ Reasoning:
     They seem quite distinct. That's because, within the space of all possible computations, we're "zoomed in" on the kinds of computations that a human can get paid to do.<br/><br/>
     Further evidence, in both humans and AIs, is what in AI is called "transfer learning".<br/><br/>
     "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task."
-    [https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
-    Humans do transfer learning! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor.<br/><br/>
+    -[https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
+    Humans do transfer learning too! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor.<br/><br/>
     A background in engineering helps with becoming a lawyer, even.
-    My father is a lawyer. He said people with STEM degrees (mathematics, engineering, medicine, etc.) did very well in law school. They did better than people with "pre-law" degrees, actually.<br/><br/>
+    My father is a lawyer. He said people with STEM degrees (engineering, mathematics, medicine, etc.) did very well in law school.
+    In fact, they generally did better than people with "pre-law" degrees.<br/><br/>
     Professor Yann LeCun makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
-    LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent in computing of the Nobel Prize) for his foundational work on AI.<br/><br/>
+    LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent to the Nobel Prize in computer science) for his foundational work on AI.<br/><br/>
     _LeCun says human intelligence is actually quite narrow._
-    In the universe of every possible computation (the Ruliad), human intelligence is optimized for a few specific things.
-    That's illustrated in the header images above.<br/><br/>
+    In the universe of every possible computation (the ["Ruliad"](https://mathworld.wolfram.com/Ruliad.html)), human intelligence is optimized for a few specific things.
+    That's illustrated in the header image above.<br/><br/>
 
 2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
         Paradoxically, as we've automated more, there's been more to be done. 
@@ -32,7 +33,7 @@ Reasoning:
               Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time."<br/>
               -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
               <br/><br/>
-              "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors.
+              "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors."
               -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
               <br/><br/>
               The point is that after switching from horses to cars, there were plenty of jobs building cars, fixing cars, and so on.
@@ -54,14 +55,14 @@ Reasoning:
               However, Creative Destruction and Lump of Labor aren't laws of nature. They could stop being true any time.<br/><br/>
               "Connectionism", however, is actual science.
               Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
-              Ok, but what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
+              But what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
               No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing.<br/><br/>
               Moore's Law may as well be a law of nature, for now at least. 
               Moore's Law states that compute per dollar doubles every two years.<br/><br/>
               Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models: [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556).
               <br/><br/>
 
-3.  The pieces that are un-automatable tend to require what AI scientists call "grounding".
+3.  **The areas of the economy that are un-automatable tend to require what AI scientists call "grounding".**
         In other words, real understanding. ChatGPT isn't grounded.<br/><br/>
         One example: ChatGPT can't accurately multiply large numbers.
         That's because it hasn't yet in its training set seen literally every combination of large numbers being multiplied together.
@@ -77,7 +78,7 @@ Reasoning:
         Fully-autonomous self-driving has been predicted for years, yet still isn't here.
         The ability to use AI to augment one’s work and increase productivity is real. But that’s not replacement or the singularity.<br/><br/>
 
-4.   "AI won't replace me - I'm a plumber!"<br/><br/>
+4.   **"AI won't replace me - I'm a plumber!"**<br/><br/>
         Robotics is currently limited by software, not hardware. Skilled trades like plumbing, carpentry, and transportation, are not uniquely safe just because they don't happen on a computer.<br/><br/>
         Check out this robot from Boston Dynamics:<br/><br/>
         [https://www.youtube.com/watch?v=-e1_QhJ1EhQ](https://www.youtube.com/watch?v=-e1_QhJ1EhQ)<br/><br/>
@@ -87,28 +88,29 @@ Reasoning:
         As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
 
-5.  "ChatGPT will replace all jobs".<br/><br/>
-    "ChatGPT will replace job X".<br/><br/>
-    See the above discussion of "grounding".<br/>
-    Large language models like ChatGPT arguably have exponentially diminishing accuracy as Kolmogorov complexity increases.
+5.  **"ChatGPT will replace all jobs".**<br/><br/>
+    **"ChatGPT will replace job X".**<br/><br/>
+    See the above discussion of "grounding".<br/><br/>
+    Also, large language models (LLMs) like ChatGPT arguably have exponentially diminishing accuracy as Kolmogorov complexity increases.
     This is a post from Yann LeCun about that: [https://twitter.com/ylecun/status/1640122342570336267?lang=en](https://twitter.com/ylecun/status/1640122342570336267?lang=en).
     This illustration from LeCun's post is a good summary of his argument:
     <div align="center" style="width: 50vw;">
         <img src="https://bradleyculley.github.io/images/exponential_divergence_in_LLMs.jpeg" />
     </div><br/><br/>
 
-6.  I've noticed lots of opinions on the matter leave it there.
-    They say, "hey Moravec's Paradox, real-world understanding, etc.: there is no singularity".<br/><br/>
-    I think there will be a singularity. The human cortex has approximately the volume of a softball.
+6.  **I think there _will_ be a "technological singularity" (i.e. machines doing all jobs).**<br/><br/>
+    I've noticed lots of opinions on the matter leave it there.
+    They say, "hey Moravec's Paradox, real-world understanding, etc.: there is no singularity". I disagree.<br/><br/>
+    The human cortex has approximately the volume of a softball.
     It can't be that hard to create human-level AI (understatement).
-    In other words, AI will replace all jobs, but it will do so for all of them at about the same time. Step-change.<br/><br/>
+    In other words, AI will replace all jobs, but it will do so for all of them at about the same time, for the reasons described so far in this essay. Step-change.<br/><br/>
 
-7.   Coming at it from the other side, neural net architectures are converging.
-    Transformers/LLMs are effective in broader and broader problem domains.
+7.   **Coming at it from the other side, neural net architectures are converging.**
+    For example, transformers/LLMs are effective in broader and broader problem domains.
     Andrej Karpathy has a good thread about this: [tinyurl.com/26vc6b36](tinyurl.com/26vc6b36).<br/><br/>
     Google is using transformers in its robotics: [https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/).
     Brains use a single architecture for all these different problem domains, why wouldn't AI?
     There's even evidence (Nature paper!) of brains doing something roughly similar to next-token prediction: [https://www.nature.com/articles/s41562-022-01516-2](https://www.nature.com/articles/s41562-022-01516-2).
 
-8.   I think it’ll be a species-level cross-profession transition, with a fairly concise timeline.
-The question then becomes: if it's everyone at once, how will humans - all of us together - handle this?
+8.   **I think the technological singularity will be a species-level cross-profession transition, with a fairly concise timeline.**
+The question then becomes: how will humans - all of us together - handle this?
