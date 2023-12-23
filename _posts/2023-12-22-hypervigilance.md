@@ -10,7 +10,7 @@ In my experience, those folks almost always ended up having major personality/be
 
 The clinical term is hypervigilance.
 
-A common cause is traumatic life events. In a sense, it's not really the sufferer's fault.
+A common cause is traumatic life events. In a real sense, it's not the sufferer's fault.
 
 But that's irrelevant when it comes to how I think is best to handle them: get as far away, in every sense, as possible.
 
