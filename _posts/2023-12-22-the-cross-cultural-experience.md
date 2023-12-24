@@ -1,7 +1,7 @@
 ### The Cross-Cultural Experience
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
+  <img height="75vh" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
   <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyagers", Marseilles, France (onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
 </div>
 <br/>
@@ -42,6 +42,6 @@ He later created a series of statues titled "Les Voyagers", which is French for 
 Each statue is missing a piece of their body, symbolizing the piece of one's soul lost in the journey to another land.<br/><br/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
+  <img height="83vh" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
   <div style="font-size: 12px; font-style: italic;">(brunocatalano.com)</div>
 </div>
