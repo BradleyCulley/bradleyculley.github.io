@@ -34,7 +34,7 @@ Being a good Little League coach, securing particular burial rights.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
 
 <p>The effect is a double dose, really.
-That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, after all, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
+That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, in fact, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
 
 <p>And so, what remains?</p>
 
