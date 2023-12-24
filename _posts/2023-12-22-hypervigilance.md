@@ -1,6 +1,6 @@
 ### Hypervigilance
 
-People who are unnecessarily intense are usually both annoying and dangerous.
+<b>People who are unnecessarily intense are usually both annoying and dangerous.</b>
 
 I've met many over the years.
 
