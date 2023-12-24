@@ -2,7 +2,7 @@
 
 <div align="center">
   <img height="75vh" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyagers", Marseilles, France (onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
+  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyagers",<br/>Marseilles, France<br/>(onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
 </div>
 <br/>
 <br/>
