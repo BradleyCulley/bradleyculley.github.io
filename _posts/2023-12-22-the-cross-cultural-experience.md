@@ -6,7 +6,8 @@
 </div>
 <br/>
 <br/>
-One thing I found through travel and learning languages, is that culture shock is less what about what's different and more about what's completely absent, in both directions.<br/><br/>
+
+<b>One thing I found through travel and learning languages, is that culture shock is less what about what's different and more about what's completely absent, in both directions.<b/><br/><br/>
 
 In the new culture, the things that were so obviously important, part of daily life, the north stars of your worldview, are not just less important - they're nonexistent.<br/><br/>
 
