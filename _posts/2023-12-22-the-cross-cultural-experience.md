@@ -16,7 +16,7 @@ We think, "Yeah yeah I get it, they're not as focused on using high-quality ingr
 Or "Wow, they don't sue each other at the metaphorical drop of a hat!". But that ain't it.</p>
 
 <p>The real thing is ancient Roman human sacrifice, though bloodsport at The Colosseum.
-An estimated 400,000 people were murdered at the Colosseum, every time surrounded by an enthusiastic crowd.
+An estimated 400,000 people were murdered at The Colosseum in Rome, every one surrounded by an enthusiastic crowd.
 Imaging getting up bright and early to see a gladiator fight.
 Your friends and family are super excited. Today's the big day.</p>
 
