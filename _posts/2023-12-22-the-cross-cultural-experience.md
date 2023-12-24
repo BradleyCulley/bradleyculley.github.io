@@ -20,19 +20,19 @@ An estimated 400,000 people were murdered at the Colosseum, every time surrounde
 Imaging getting up bright and early to see a gladiator fight.
 Your friends and family are super excited. Today's the big day.</p>
 
-<p>That's the one direction: things the other culture does that yours doesn't.
+<p>That's the one direction: things the other culture does that yours doesn't do at all.
 The other direction, however, is the more devastating direction.
-Namely, things that were present in your culture, and irrelevant in the new one.</p>
+Namely, things that were present in your culture, and absent the new one.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or it's a "six-pack Joe The Plumber" society in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so unshakeable as to seem presuppositionally obvious.</p>
+Or it's a "six-pack Joe The Plumber" society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so unshakeable as to seem presuppositionally obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach, securing particular burial rights.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
 
 <p>The effect is a double dose, really.
-That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, after all, some fundamental laws of life, but neither those of A _or_ B are.</p>
+That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, after all, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
 
 <p>And so, what remains?</p>
 
