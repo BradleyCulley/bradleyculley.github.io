@@ -25,7 +25,7 @@ The other direction, however, is the more devastating direction.
 Namely, things that were present in your culture, and absent the new one.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or it's a "six-pack Joe The Plumber" society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so unshakeable as to seem presuppositionally obvious.</p>
+Or it's a "Six-Pack-Joe-The-Plumber"-type society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so unshakeable as to seem presuppositionally obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach, securing particular burial rights.
