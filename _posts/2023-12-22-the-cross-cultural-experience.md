@@ -20,6 +20,8 @@ An estimated 400,000 people were murdered at The Colosseum in Rome, every one su
 Imaging getting up bright and early to see a gladiator fight.
 Your friends and family are super excited. Today's the big day.</p>
 
+<p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
+
 <p>That's the one direction: things the other culture does that yours doesn't do at all.
 The other direction, however, is the more devastating direction.
 Namely, things that were present in your culture, and absent the new one.</p>
