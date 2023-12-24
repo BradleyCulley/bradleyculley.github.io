@@ -12,8 +12,8 @@
 <p>In the new culture, the things that were so obviously important, part of daily life - the north stars of your worldview - are not just less important, they're nonexistent.</p>
 
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally relative.
-We think, "yeah yeah I get it, culture x wears those special hats, and culture y doesn't sue each other over everything".
-But that ain't it.</p>
+We think, "Yeah yeah I get it, they're not as focused on using high-quality ingredients in their cuisine."
+Or "Wow, they don't sue each other at the metaphorical drop of a hat!". But that ain't it.</p>
 
 <p>The real thing is ancient Roman human sacrifice, though bloodsport at The Colosseum.
 An estimated 400,000 people were murdered at the Colosseum, every time surrounded by an enthusiastic crowd.
