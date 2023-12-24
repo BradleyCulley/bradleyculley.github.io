@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><b>One thing I found through travel and learning languages, is that culture shock is less what about what's different and more about what's completely absent, in both directions.</b></p>
+<p><b>One thing I found through travel and learning languages, is that culture shock is less about what's different and more about what's completely absent, in both directions.</b></p>
 
 <p>In the new culture, the things that were so obviously important, part of daily life - the north stars of your worldview - are not just less important, they're nonexistent.</p>
 
@@ -27,7 +27,7 @@ The other direction, however, is the more devastating direction.
 Namely, things that were present in your culture, and absent the new one.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or it's a "Six-Pack-Joe-The-Plumber"-type society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so unshakeable as to seem presuppositionally obvious.</p>
+Or it's a "Six-Pack-Joe-The-Plumber"-type society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach, securing particular burial rights.
