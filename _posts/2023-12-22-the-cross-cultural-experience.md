@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><b>One thing I found through travel and learning languages, is that culture shock is less about what's different and more about what's completely absent, in both directions.</b></p>
+<p><b>One thing I found through travel and learning languages, is that culture shock is less about what's different, and more about what's completely absent, in both directions.</b></p>
 
 <p>In the new culture, the things that were so obviously important, part of daily life - the north stars of your worldview - are not just less important, they're nonexistent.</p>
 
