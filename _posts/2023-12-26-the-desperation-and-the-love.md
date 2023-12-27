@@ -1,6 +1,6 @@
 ### The Desperation and The Love
 
-<b>The United States is characterized by a deep sense of desperation and a deep sense of a kind of hectic love<b/><br/><br/>
+<b>The United States is characterized by a deep sense of desperation and a deep sense of a kind of hectic love</b><br/><br/>
 
 Last year, I traveled to Sweden. On the way out, I was at the ticket counter of the Arlanda International Airport, near Stockholm.
 At one point, I saw a man step up to speak to the ticket agent at a neighboring ticket counter.
@@ -21,7 +21,7 @@ That's the desperation.<br/><br/>
 
 What about the love?<br/><br/>
 
-In mid-2022, I went to a gas station in Canton, Illinois. Canton is a small town that's exactly like very other small midwestern town near it in Central Illinois.
+In mid-2022, I went to a gas station in Canton, Illinois. Canton is a small town that's exactly like every other small midwestern town near it in Central Illinois.
 It's flat, impeccable, boring, heavily-policed, and completely intolerant of any funny business.
 The card processing machines were broken at the gas station.
 The gas station clerks were both very friendly and very apologetic, but didn't seem the least bit distressed by the whole thing.
