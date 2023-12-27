@@ -1,4 +1,4 @@
-### The Cross-Cultural Experience
+### The Cross-Cultural Experience Part 1: Lost Love
 
 <div align="center">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
@@ -20,18 +20,19 @@ Your friends and family are super excited. Today's the big day.</p>
 
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
 
-<p>That's the one direction: things the other culture does that yours doesn't do at all.
-The other direction, however, is the more devastating direction.
-Namely, things that were present in your culture, and absent the new one.</p>
+<p>That's the one direction: things the other culture does that yours does not.
+The other direction, however, is more the direction of what Freud called a "lost love".
+For Freud, a lost love could be a person, but it could also be a deeply held ideal or truth.
+In this context, things present in your culture, and absent in the new one.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or it's a "Six-Pack-Joe-The-Plumber"-type society, in which the literally hands-on work of skilled trades, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem, quite simply, obvious.</p>
+Or maybe it's a "Six-Pack-Joe-The-Plumber" society, in which the literally hands-on work of skilled trades, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach, securing particular burial rites.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
 
-<p>The effect is a double dose, really.
+<p>The effect is really a double dose.
 That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, in fact, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
 
 <p>And so, what remains?</p>
@@ -40,7 +41,7 @@ That's because anyone of reasonable intellect must conclude that it's not just t
 
 <p>He later created a series of statues titled "Les Voyageurs", which is French for "The Travelers".</p>
 
-<p>Each statue is missing a piece of their body, symbolizing the piece of one's soul lost in the journey to another land.</p>
+<p>Each statue is missing a piece of their body, symbolizing that lost love.</p>
 
 <div align="center">
   <img style="height: 83vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
