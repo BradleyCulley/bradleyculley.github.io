@@ -12,7 +12,7 @@
 
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally relative.
 We think, "Yes I get it: they're not so focused on high-quality ingredients in their cuisine."
-Or "They don't sue each other at the metaphorical drop of a hat". But that ain't it.</p>
+Or "They don't sue each other at the metaphorical drop of a hat". But that's not it.</p>
 
 <p>The real thing is the ancient Roman practice of human sacrifice through bloodsport at The Colosseum.
 An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years, every one surrounded by an enthusiastic crowd.
