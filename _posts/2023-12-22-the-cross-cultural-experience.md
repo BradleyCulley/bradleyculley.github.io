@@ -2,7 +2,7 @@
 
 <div align="center">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyagers",<br/>Marseilles, France<br/>(onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
+  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France<br/>(onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
 </div>
 <br/>
 <br/>
@@ -15,9 +15,9 @@
 We think, "Yes I get it: they're not so focused on high-quality ingredients in their cuisine."
 Or "They don't sue each other at the metaphorical drop of a hat". But that ain't it.</p>
 
-<p>The real thing is ancient Roman human sacrifice, though bloodsport at The Colosseum.
+<p>The real thing is the ancient Roman practice of human sacrifice through bloodsport at The Colosseum.
 An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years, every one surrounded by an enthusiastic crowd.
-Imaging getting up bright and early to see a gladiator fight.
+Imagine getting up bright and early to see a gladiator fight.
 Your friends and family are super excited. Today's the big day.</p>
 
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
@@ -30,7 +30,7 @@ Namely, things that were present in your culture, and absent the new one.</p>
 Or it's a "Six-Pack-Joe-The-Plumber"-type society, in which the literal hands-on work of skilled trades, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
-Being a good Little League coach, securing particular burial rights.
+Being a good Little League coach, securing particular burial rites.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
 
 <p>The effect is a double dose, really.
@@ -40,7 +40,7 @@ That's because anyone of reasonable intellect must conclude that it's not just t
 
 <p>French sculptor Bruno Catalano was born in Morocco in 1960. With his family, he immigrated to France at the age of 10.</p>
 
-<p>He later created a series of statues titled "Les Voyagers", which is French for "The Travelers".</p>
+<p>He later created a series of statues titled "Les Voyageurs", which is French for "The Travelers".</p>
 
 <p>Each statue is missing a piece of their body, symbolizing the piece of one's soul lost in the journey to another land.</p>
 
