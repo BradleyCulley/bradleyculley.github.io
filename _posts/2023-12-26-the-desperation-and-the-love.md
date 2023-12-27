@@ -13,7 +13,7 @@ It was a franticness that, in my estimation, wasn't the result of, for example, 
 Why not? Because it was so out of place in Sweden. One can spend all day in Sweden without encountering a single frantic person.</p>
 
 <p>Upon seeing him pawing in his backpack, I immediately thought "I bet he's American".
-Sure enough, when he stepped up and spoke with the ticket agent, he did so in English, with an American accent.</p>
+Sure enough, he stepped up and spoke with the ticket agent in English, with an American accent.</p>
 
 <p>Someone I know, who's lived extensively in both Europe and the United States, once told me there's a sense of desperation among nearly everyone in the United States, even in wealthy neighborhoods. 
 The reasons for that are a whole other can of worms, which I've written about to some degree, and will write more about later.
