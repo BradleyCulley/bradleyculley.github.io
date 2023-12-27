@@ -22,7 +22,7 @@ It was considered completely normal.</p>
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
 
 <p>That's the one direction: things the other culture does that yours does not.
-The other direction, however, is more intensely the direction of what Freud called a "lost love".
+The other direction, however, is more intensely the direction of what Sigmund Freud called a "lost love".
 For Freud, a lost love could be a person, but it could also be a deeply held ideal or truth.
 In this context: things present in your culture and absent in the new one.</p>
 
