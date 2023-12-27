@@ -4,10 +4,8 @@
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
   <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France<br/>(onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
 </div>
-<br/>
-<br/>
 
-<p><b>One thing I found through travel and learning languages, is that culture shock is less about what's different, and more about what's completely absent, in both directions.</b></p>
+<p><b>One thing I found through travel and learning languages is that culture shock is less about what's different, and more about what's completely absent, in both directions.</b></p>
 
 <p>In the new culture, the things that were so obviously important, part of daily life - the North Stars of your worldview - are not just less important, they're nonexistent.</p>
 
