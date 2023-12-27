@@ -10,7 +10,7 @@
 
 <p>In the new culture, the things that were so obviously important, part of daily life - the North Stars of your worldview - are not just less important, they're nonexistent.</p>
 
-<p>This experience makes real the seemingly tiresome academic notion that human values are culturally relative.
+<p>This experience makes real the seemingly tiresome academic notion that human values are culturally constructed.
 We think, "Yes I get it: they're not so focused on high-quality ingredients in their cuisine."
 Or "They don't sue each other at the metaphorical drop of a hat". But that's not it.</p>
 
