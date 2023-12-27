@@ -22,15 +22,15 @@ It was considered completely normal.</p>
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
 
 <p>That's the one direction: things the other culture does that yours does not.
-The other direction, however, is more the direction of what Freud called a "lost love".
+The other direction, however, is more intensely the direction of what Freud called a "lost love".
 For Freud, a lost love could be a person, but it could also be a deeply held ideal or truth.
-In this context, things present in your culture, and absent in the new one.</p>
+In this context: things present in your culture and absent in the new one.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or maybe it's a "Six-Pack-Joe-The-Plumber" society, in which the literally hands-on work of skilled trades, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem, quite simply, obvious.</p>
+Or maybe it's a "Six-Pack-Joe-The-Plumber" society, in which the hands-on work of skilled tradespeople, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
-Being a good Little League coach, securing particular burial rites.
+Being a good Little League coach; securing particular burial rites.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
 
 <p>The effect is really a double dose.
