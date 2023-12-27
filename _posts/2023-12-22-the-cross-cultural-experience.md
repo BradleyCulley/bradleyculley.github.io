@@ -12,11 +12,11 @@
 <p>In the new culture, the things that were so obviously important, part of daily life - the North Stars of your worldview - are not just less important, they're nonexistent.</p>
 
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally relative.
-We think, "Yeah yeah I get it, they're not as focused on using high-quality ingredients in their cuisine."
-Or "Wow, they don't sue each other at the metaphorical drop of a hat!". But that ain't it.</p>
+We think, "Yes I get it: they're not so focused on high-quality ingredients in their cuisine."
+Or "They don't sue each other at the metaphorical drop of a hat". But that ain't it.</p>
 
 <p>The real thing is ancient Roman human sacrifice, though bloodsport at The Colosseum.
-An estimated 400,000 people were murdered at The Colosseum in Rome, every one surrounded by an enthusiastic crowd.
+An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years, every one surrounded by an enthusiastic crowd.
 Imaging getting up bright and early to see a gladiator fight.
 Your friends and family are super excited. Today's the big day.</p>
 
