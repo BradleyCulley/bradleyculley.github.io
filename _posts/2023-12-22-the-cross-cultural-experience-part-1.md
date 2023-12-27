@@ -15,9 +15,9 @@ We think, "Yes I get it: they're not so focused on high-quality ingredients in t
 Or "They don't sue each other at the metaphorical drop of a hat". But that's not it.</p>
 
 <p>The real thing is the ancient Roman practice of human sacrifice through bloodsport at The Colosseum.
-An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years, every one surrounded by an enthusiastic crowd.
-Imagine getting up bright and early to see a gladiator fight.
-Your friends and family are super excited. Today's the big day.</p>
+An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years.
+Every one was surrounded by an enthusiastic crowd.
+It was considered completely normal.</p>
 
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
 
