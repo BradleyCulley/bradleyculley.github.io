@@ -23,8 +23,8 @@ That's the desperation.</p>
 <p>What about the love?</p>
 
 <p>In mid-2022, I went to a gas station in Canton, Illinois.
-Canton is a small town that's exactly like every other small midwestern town near it in Central Illinois.
-It's flat, impeccable, boring, heavily-policed, and completely intolerant of anything potentially unusual.</p>
+Canton is a small town that's exactly like every other small town near it in Central Illinois.
+It's flat, impeccable, and, to use a word I once heard to describe the Midwest, "expansive".</p>
 
 <p>The card processing machines were broken.
 The gas station clerks were both friendly and apologetic, but didn't seem the least bit distressed.
