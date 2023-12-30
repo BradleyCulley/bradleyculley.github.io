@@ -50,5 +50,4 @@ The crucible of tribulation cements the bond to the level that's needed when you
 In the Nordics, the government provides a safety net, so an auxiliary system is unnecessary.</p>
 
 <p>I think the particular brand of freewheeling love in the United States is similarly compensatory.
-A lot of things in the social world are compensatory.
 In this case, compensatory for the desperation.</p>
