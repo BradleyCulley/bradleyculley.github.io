@@ -29,7 +29,7 @@ It's flat, impeccable, boring, heavily-policed, and completely intolerant of any
 <p>The card processing machines were broken.
 The gas station clerks were both friendly and apologetic, but didn't seem the least bit distressed.
 I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was a dumb idea.
-The clerk made some special dispensation on my behalf in regards to this hot-yet-iced cofee.
+The clerk made some special dispensation on my behalf.
 As I recall, she brewed a fresh batch of decaf.</p>
 
 <p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
