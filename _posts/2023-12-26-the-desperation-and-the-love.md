@@ -29,15 +29,15 @@ It's flat, impeccable, boring, heavily-policed, and completely intolerant of any
 <p>The card processing machines were broken.
 The gas station clerks were both friendly and apologetic, but didn't seem the least bit distressed.
 I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was a dumb idea.
-The clerk made some special dispensation on my behalf in regards to this hot-yet-iced cofee. I can't remember exactly she did, but I do remember it as being very nice.
-Perhaps brewing a fresh batch of decaf, or personally concocting the iced-non-iced coffee.</p>
+The clerk made some special dispensation on my behalf in regards to this hot-yet-iced cofee.
+As I recall, she brewed a fresh batch of decaf.</p>
 
-<p>By the time I left, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
-The patrons, complete strangers, were chatting amicably amongst ourselves.</p>
+<p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
+The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
 
 <p>There's a particular kind of characteristically public, and characteristically freewheeling, love in The United States.
 Dollar store employees hugging each other before one of them goes on break.
-Tailgating; dogs with their heads stuck out the car window.</p>
+Tailgating. Dogs with their heads sticking out of the car window.</p>
 
 <p>One can feel them both upon arrival in The US: the desperation and the love.</p>
 
