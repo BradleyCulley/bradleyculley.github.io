@@ -45,9 +45,9 @@ Tailgating. Dogs with their heads sticking out of the car window.</p>
 Apparently, friendships in Russia inevitably fall into a period of tribulation, for some reason or another, before ultimately emerging as an unbreakable bond, solid to the grave.  
 Meanwhile, friendships in the Nordics have no such feature.</p>
 
-<p>The author's theory was that, in Russia, you don't have a safety net in life, so your friend assumes the role of safety net.
-The crucible of tribulation cements the bond to the level that is necessary when your life may depend on your friend.
-In the Nordics, the government acts as a safety net, so an auxiliary system is unnecessary.</p>
+<p>The author's theory was that, in Russia, you don't have a safety net in life, so your friend becomes your safety net.
+The crucible of tribulation cements the bond to the level that's needed when your life depends on your friend.
+In the Nordics, the government provides a safety net, so an auxiliary system is unnecessary.</p>
 
 <p>I think the particular brand of freewheeling love in the United States is similarly compensatory.
 A lot of things in the social world are compensatory.
