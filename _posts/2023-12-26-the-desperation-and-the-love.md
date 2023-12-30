@@ -1,6 +1,6 @@
 ### The Desperation and The Love
 
-<p><b>The United States is characterized by a deep sense of desperation and a deep sense of a kind of hectic love</b></p>
+<p><b>The United States is characterized by a deep sense of both desperation a sort of freewheeling love</b></p>
 
 <p>Last year, I traveled to Sweden. On the way out, I was at the ticket counter of the Arlanda International Airport, near Stockholm.
 At one point, I saw a man step up to speak to the ticket agent at a neighboring ticket counter.
