@@ -2,7 +2,7 @@
 
 <p><b>The United States is characterized by a deep sense of both desperation a sort of freewheeling love</b></p>
 
-<p>Last year, I was at the ticket counter of the Arlanda International Airport, near Stockholm, Sweden.
+<p>Last year, I was at the ticket counter of the Stockholm Arlanda Airport in Sweden.
 At one point, I saw a man step up to speak to the ticket agent at a neighboring ticket counter.</p>
 
 <p>He was late middle-aged, dressed in business casual. Fairly well-groomed.
@@ -10,7 +10,7 @@ He set his backpack down at his feet and started pawing around in it - probably 
 He did so with a certain restrained franticness.
 It was a franticness that, in my estimation, wasn't the result of, for example, being late for his flight. He just generally seemed harried and stressed out.</p>
 
-<p>I'd perhaps not have taken notice of this, had it not happened in Arlanda International Airport.
+<p>I'd perhaps not have taken notice of this, had it not happened in Stockholm Arlanda Airport.
 One can spend all day in Sweden without encountering a frantic person.</p>
 
 <p>I immediately thought "I bet he's American".
