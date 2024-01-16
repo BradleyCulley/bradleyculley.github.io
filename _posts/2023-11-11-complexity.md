@@ -21,6 +21,8 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    I think a few phenomena cause us to "take on too much":
    1. Things like going back to school are implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
    That's only after the fact, though. In the midst of it, they're high complexity tasks...often much higher than anticipated.<br/><br/>
+   One doesn't just buy a home. 
+   It's finding a good real estate agent, researching the neighborhood, home inspections, radon, termites, smoke alarms, mold, interest rates, mortgage applications, credit lines, debt-to-income ratios, resale potential, market trends, neighbors, HVAC, water drainage slopes, water infiltration, structural issues, "Buyers are Liars & Sellers are Too!" ([tinyurl.com/5n6vey23](http://tinyurl.com/5n6vey23)), price and tax history, zoning, HOAs, ADUs, flood zones, liens, water potability, earnest money, attorneys, title searches, closing companies, boundary surveys, moving vans, and so on.<br/><br/>
    2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
    Everything from semi-funky relationships to remembering to get an oil change.<br/><br/>
    3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
