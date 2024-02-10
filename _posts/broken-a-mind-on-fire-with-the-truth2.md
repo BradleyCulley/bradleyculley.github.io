@@ -8,11 +8,11 @@
 
 ------------------------------------------
 
-[[[cite some things from here: https://www.theguardian.com/technology/2012/feb/26/first-computers-john-von-neumann]]]
-
 <p>
-When I think about Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind "on fire with the truth".
+<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind _"on fire with the truth"_.</b>
 </p>
+
+<b>Early Life and Education</b>
 
 <p>
 
@@ -22,11 +22,14 @@ When I think about Dr. John von Neumann, I am reminded of a reference I once rea
 
 > "Von Neumann was a child prodigy who at six years old could divide two eight-digit numbers in his head and could converse in Ancient Greek."
 
+[[include photos from here of a young JVN: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb]]
+
 <p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his (von Neumann's) mathematical abilities that Szegő wept literal tears of joy.⁷</p>
 
 <p>
 
-> By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.¹
+"By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition."¹
+You know you're doing ok when you're beating Georg Cantor at his own game..
 
 </p>
 
@@ -40,20 +43,64 @@ He completed both degrees in 1926. He received his PhD Summa Cum Laude, with min
 He then completed his Habilitation, which like a European version of a postdoc, thereby qualifying himself to be a university professor.
 </p>
 
+<b>Professional Life</b>
 <p>
     After his schooling, he became a "Privatdozent" at the University of Berlin.
-    A Privatdozent kind of like a lecturer/professor.
+    A Privatdozent is kind of like a lecturer/professor.
     He was "the youngest person ever elected Privatdozent in the university's history in any subject"¹ at the University.
     "He [then] began writing nearly one major mathematics paper per month."¹.
 </p>
 
 <p>
-He accomplished an almost unbelievable amount of things in his life. Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military.
+von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University.
+Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS) in Princeton.
+He remained a professor at the IAS for the rest of his life.</p>
+
+<p>
+The IAS is an interesting institution. 
+"[The] guiding principle in founding the institute was the pursuit of knowledge for its own sake.
+The faculty have no classes to teach.
+There are no degree programs or experimental facilities at the institute.
+Research is never contracted or directed.
+It is left to each individual researcher to pursue their own goals."
+von Neumann 
+</p>
+
+<p>
+A not-so-well-known fact about the IAS in Princeton is that it's not actually part of Princeton University.
+While there are collaborations and programs that informally link the two, it's a completely separate institution.
+A kind of fun fact about the IAS is that it was just created "out of nowhere" from scratch with funding from a brother and sister - Louis Bamberger and Caroline Bamberger Fuld - who owned a department store in Newark, NJ.
+The store was called "Bamberger's".
+</p>
+
+
+<p>
+His memory was best described as prodigious. It's probably the case that his is the best memory of anyone who has ever lived, at least about whom there is a historical record.
+Brian Bi makes this claim elegantly: [[insert Brian Bi quote from Quora]]] 
+
+> Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:
+ One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
+ He could also translate it at no diminution in speed from its original language into English.
+ On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
+ Von Neumann was reportedly able to memorize the pages of telephone directories.
+ He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein¹
+</p>
+
+<p>
+"He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect"¹
+</p>
+
+<p>
+"A Princeton professor of the latter topic once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
+</p>
+
+<p>
+He accomplished an almost unbelievable amount in his life. Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military.
 A rare combination indeed. Typically two different kinds of minds for such very different roles.
 </p>
 
 <p>
-von Neumann can't be characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
+von Neumann can't easily be characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
 </p>
 
 <p>
@@ -81,9 +128,9 @@ von Neumann was the sole founder of the mathematical field of game theory, via h
 </p>
 
 <p>In politics and the military, he did critical work on the Manhattan project.
-He was instrumental in, it would not be hyperbole to say, saving the world.</p>
+He was instrumental in - it would not be hyperbole to say - saving the world.</p>
 
-<p>In computing, he invented the internal organizational architecture that is still used by most computers today.
+<p>In computing, he invented the internal organizational architecture that is still used in most computers today.
 It is called, straightforwardly, "The von Neumann Architecture".
 To quote, "The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit."¹¹</p>
 
@@ -93,8 +140,45 @@ He was successful in both regards. 1945!</p>
 
 <p>
 Personality-wise, he was social and boisterous.
-He loved parties, loud music, and off-color jokes.
+Contrast that with Kurt Gödel awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+von Neumann loved parties, loud music, and off-color jokes.
 He was a fun dude to hang out with.
+</p>
+
+<p>
+I read somewhere that America suited him far better than it did most of the other intellectual luminaries who fled Europe around the time of WWII.
+It's a apt point.
+He was an extremely patriotic American. A case in point: "Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
+Note that lieutenant is the lowest rank among officers.
+He was a world-famous mathematician, ready to go through boot camp to join the Army at the very bottom of the hierarchy. And he was serious about it. 
+But that's just one dimension in which he fit in well in America.  
+He was serious about his work, yet lighthearted and playful outside of work.
+He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".
+He was boisterous and gregarious. He lived in a big, and fairly fancy, house. Have a look:<br/><br/>
+</p>
+
+<p>
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
+</div>
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/von-Neumann-house-2.jpeg" />
+</div>
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
+</div>
+</p>
+
+<p>
+He threw parties. May have grilled a burger or two.
+He was militaristic. He participated in and grew the military industrial complex.
+Contrast that with Einstein's atom bomb regrets. 
+von Neumann believed in the power of technology, and of invention. He was a futurist.
+He had a taste for power and influence, yet wielded both in a low-key sort of folksy manner.
+Conversely, he suited America well. He helped America win WWII and, via pioneering work on ICBMs, to be positioned to win the Cold War.
+He contributed greatly to American scholarship and to many American institutions.
+Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
+Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 </p>
 
 <p>
@@ -110,18 +194,24 @@ He was a fun dude to hang out with.
 </p>
 
 <p>He was a good husband and father, yet was once divorced.
-His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649
-Marina is, like her father was, intellectually brilliant and highly successful.
-Top of her class at Radcliff (now Harvard), PhD from Colombia, successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.
-In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.</p> 
+His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649.
+The term "Martian" comes via Leo Szilard, himself most famous for conceiving the nuclear chain reaction (a.k.a. nuclear weapons), who was himself Hungarian.¹⁵
+"The Martians" (Hungarian: "A marslakók") is a term used to refer to a group of prominent Hungarian scientists (mostly, but not exclusively, physicists and mathematicians) of Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."¹⁵</p>
+
+<p>Marina is, like her father was, intellectually brilliant and highly successful.
+Top of her class at Radcliff (now Harvard), PhD from Colombia, successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
+"[Marina] wrote that he was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
+In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.
+</p> 
 
 <p>von Neumann was ethnically and culturally Jewish.
-He was, however, more or less agnostic.
+He was, however, more or less religiously agnostic.
+One could say he was one of long line of areligious jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager.
 Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."
 -https://en.wikipedia.org/wiki/John_von_Neumann</p>
 
-<p>He escaped Hungary before The Holocaust. Defeating Nazism was, unsurprisingly, a deep and personal mission.</p>
+<p>He escaped Hungary before The Holocaust. Defeating Nazism was a deeply personal mission.</p>
 
 <p>He also saw firsthand the effects of Soviet-era communism kickin' off right next door.
 Ukraine, which borders Hungary, joined the USSR in 1922 while he was still living in Hungary.
@@ -207,31 +297,47 @@ Lefschetz, as well as hosts of smaller fry.”)¹⁰
 <p>
 He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
 
-The first of those, the ENIAC - is pictured below.
+The first of those, the ENIAC - is pictured below. Robert Oppenheimer stands next to von Neumann.
+https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of
 
 About ENIAC:
 > ENIAC  was the first programmable, electronic, general-purpose digital computer, completed in 1945.
  There were other computers that had combinations of these features, but the ENIAC had all of them in one computer.
- It was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.
--https://en.wikipedia.org/wiki/ENIAC
+ It was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.¹²
 
 https://physicsworld.com/wp-content/uploads/2012/12/PW-2012-12-review-Campbell-Kelly-1.jpg
 </p>
 
 <p>
 In other words, the ENIAC was the first real computer.
-It fundamentally did everything a modern day computer does, used the von Neumann Architecture, and was Turing-complete. Turing-complete meaning it had the ability to do really any arbitrary computation, bounded only by hardware-level constraints.
+It fundamentally did everything a modern day computer does, and used the von Neumann Architecture.
+That it was Turing-complete means it had the ability to do really any arbitrary computation, bounded only by hardware-level constraints.
 </p>
 
 <p>
 
+> Mathematics. In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
+
+> Physics. Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics.¹³
+
+> The Manhattan Project. Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. He was instrumental in the design of the second atomic bomb that was dropped on Nagasaki.¹³
+
+> DNA/artificial life. He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
+
+> Artificial intelligence. Von Neumann proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
+
+> Open source. About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+
+<p>
 He invented the concept of a technological singularity. A topic on all our minds these days.
 It must be stressed, he came up with this idea _before the mid 1950s_.
+
 > "The first use of the concept of a singularity in the technological context is attributed to von Neumann, who according to [Stanisław] Ulam discussed the "ever accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue."
+
 </p>
 
 <p>
-The list of things named after John von Neumann is sufficiently voluminous as to warrant its own, declaratively-named, wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+The list of things named after John von Neumann is sufficiently voluminous as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
 The list, which is still but a subset of his total body of work⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
@@ -316,7 +422,7 @@ John von Neumann University<br/>
 </p>
 
 <p>
-His many other professional contributions include the fruits of his informal collaborations and discussions with other luminaries, and his classified military work, including on the Manhattan project
+His many other professional contributions include the fruits of his informal collaborations and discussions with other luminaries, as well as his classified military work, including on the Manhattan project
 </p>
 
 <h4>The Silliman Lectures</h4>
@@ -369,8 +475,15 @@ Sources:
 ⁹: https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman
 ¹⁰: https://www.brown.edu/Research/Istrail_Lab/papers/Istrail-Marcus012912FINAL.pd
 ¹¹: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture
+¹²: https://en.wikipedia.org/wiki/ENIAC
+¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/
+¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
+¹⁵: https://en.wikipedia.org/wiki/The_Martians_(scientists)
+
 
 To consider keeping:
+
+The photo and a note from here about receiving the Medal of Freedom from Eisenhower: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/
 
 <p>Year ago, in the introduction to a college textbook for a course I took on Buddhism,
 there was a description of a person (a historian, as I recall) looking at a Buddha statue.
