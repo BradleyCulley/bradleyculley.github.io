@@ -128,24 +128,147 @@ the right answer.²
 
 </p>
 
-Major themes of his life include mathematics, computing, physics, politics, and the military.
+Major themes of his life include mathematics, politics and the military, physics, computing.
 
 <p>In each of those, he was world-changingly successful.</p>
 
-<p>In mathematics, he founded multiple entirely new fields, including, most notably, game theory.
+<h3>Mathematics</h3>
+<p>He founded multiple entirely new fields, including, most notably, game theory.
 von Neumann was the sole founder of the mathematical field of game theory, via his 1928 paper "Zur Theorie der Gesellschaftsspiele" ("On the Theory of Games of Strategy", https://link.springer.com/article/10.1007/BF01448847).
+"In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics."¹³
 </p>
 
-<p>In politics and the military, he did critical work on the Manhattan project.
-He was instrumental in - it would not be hyperbole to say - saving the world.</p>
+<h3>In politics and the military</h3>
+<p>
+He did critical work on the Manhattan project.
+Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. He was instrumental in the design of the second atomic bomb...¹³
+He was instrumental in - it would not be hyperbole to say - saving the world.
+</p>
 
-<p>In computing, he invented the internal organizational architecture that is still used in most computers today.
+<h3>Physics</h3>
+<p>
+"Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics."¹³
+</p>
+
+<h3>Computing</h3>
+<p>
+He invented the internal organizational architecture that is still used in almost all computers today.
 It is called, straightforwardly, "The von Neumann Architecture".
-To quote, "The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit."¹¹</p>
+To quote, "The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit."¹¹
+</p>
 
-<p>He invented this architecture in 1945.
+<p>
+He invented this architecture in 1945.
 As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence.
-He was successful in both regards. 1945!</p>
+He was successful in both regards. 1945!
+</p>
+
+<p>
+"He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years."¹³
+Cellular automata are sufficiently important computational structures as to be a standard part of university-level computer science curricula. 
+Von Neumann proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
+</p>
+
+<p>
+"About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+</p>
+
+<p>
+He invented the concept of a technological singularity. A topic on all our minds these days.
+It must be stressed, he came up with this idea _before the mid 1950s_.
+
+"The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint."
+
+</p>
+
+<p>
+The list of things named after John von Neumann is sufficiently voluminous as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+The list, which is still but a subset of his total body of work⁴:<br/>
+Birkhoff–von Neumann algorithm<br/>
+Birkhoff–von Neumann theorem<br/>
+Birkhoff–von Neumann decomposition<br/>
+Dirac–von Neumann axioms<br/>
+Koopman–von Neumann classical mechanics<br/>
+Schatten–von Neumann norm<br/>
+Stone–von Neumann theorem<br/>
+Taylor–von Neumann–Sedov blast wave<br/>
+von Neumann algebra<br/>
+Abelian von Neumann algebra<br/>
+Enveloping von Neumann algebra<br/>
+Finite-dimensional von Neumann algebra<br/>
+von Neumann architecture<br/>
+von Neumann bicommutant theorem<br/>
+von Neumann bounded set<br/>
+Von Neumann bottleneck<br/>
+von Neumann cardinal assignment<br/>
+von Neumann cellular automaton<br/>
+von Neumann conjecture<br/>
+von Neumann constant<br/>
+Computer virus<br/>
+Murray–von Neumann coupling constant<br/>
+Jordan–von Neumann constant<br/>
+Density matrix<br/>
+Direct integral<br/>
+von Neumann's elephant<br/>
+von Neumann entropy<br/>
+von Neumann entanglement entropy<br/>
+von Neumann equation<br/>
+von Neumann extractor<br/>
+von Neumann-Wigner interpretation<br/>
+von Neumann–Wigner theorem<br/>
+von Neumann measurement scheme<br/>
+von Neumann mutual information<br/>
+von Neumann machines<br/>
+Von Neumann's mean ergodic theorem<br/>
+von Neumann neighborhood<br/>
+von Neumann ordinal<br/>
+von Neumann paradox<br/>
+von Neumann probe<br/>
+von Neumann programming languages<br/>
+von Neumann regular ring<br/>
+von Neumann spectral theorem<br/>
+von Neumann stability analysis<br/>
+von Neumann universal constructor<br/>
+von Neumann universe<br/>
+von Neumann–Bernays–Gödel set theory<br/>
+von Neumann–Morgenstern utility theorem<br/>
+von Neumann's inequality<br/>
+Monte Carlo method<br/>
+Quantum statistical mechanics<br/>
+Quantum mutual information<br/>
+Continuous geometry<br/>
+Game theory<br/>
+Minimax theorem<br/>
+Quantum logic<br/>
+Hilbert's fifth problem<br/>
+Commutation theorem<br/>
+Hyperfinite type II factor<br/>
+Stochastic computing<br/>
+Ultrastrong topology<br/>
+Self-replication<br/>
+von Neumann's theorem<br/>
+von Neumann's trace inequality<br/>
+Weyl–von Neumann theorem<br/>
+Wigner-Von Neumann bound state in the continuum<br/>
+Wold–von Neumann decomposition<br/>
+Zel'dovich–von Neumann–Döring detonation model<br/>
+von Neumann spike<br/>
+22824 von Neumann (a minor planet)<br/>
+IEEE John von Neumann Medal<br/>
+John von Neumann Award<br/>
+John von Neumann Center (JVNC) at Princeton University (1985-1990), part of the Consortium for Scientific Computing<br/>
+John von Neumann Computer Society<br/>
+John von Neumann Environmental Research Institute of the Pacific<br/>
+John von Neumann Lecture<br/>
+von Neumann (crater)<br/>
+John von Neumann (sculpture)<br/>
+John von Neumann Theory Prize<br/>
+John von Neumann University<br/>
+</p>
+
+<p>
+His many other professional contributions include the fruits of his informal collaborations and discussions with other luminaries, as well as his classified military work, including on the Manhattan project
+</p>
 
 <p>
 Personality-wise, he was social and boisterous.
@@ -325,115 +448,6 @@ That it was Turing-complete means it had the ability to do really any arbitrary 
 
 <p>
 
-> Mathematics. In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
-
-> Physics. Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics.¹³
-
-> The Manhattan Project. Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. He was instrumental in the design of the second atomic bomb that was dropped on Nagasaki.¹³
-
-> DNA/artificial life. He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
-
-> Artificial intelligence. Von Neumann proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
-
-> Open source. About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
-
-<p>
-He invented the concept of a technological singularity. A topic on all our minds these days.
-It must be stressed, he came up with this idea _before the mid 1950s_.
-
-> "The first use of the concept of a singularity in the technological context is attributed to von Neumann, who according to [Stanisław] Ulam discussed the "ever accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue."
-
-</p>
-
-<p>
-The list of things named after John von Neumann is sufficiently voluminous as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
-The list, which is still but a subset of his total body of work⁴:<br/>
-Birkhoff–von Neumann algorithm<br/>
-Birkhoff–von Neumann theorem<br/>
-Birkhoff–von Neumann decomposition<br/>
-Dirac–von Neumann axioms<br/>
-Koopman–von Neumann classical mechanics<br/>
-Schatten–von Neumann norm<br/>
-Stone–von Neumann theorem<br/>
-Taylor–von Neumann–Sedov blast wave<br/>
-von Neumann algebra<br/>
-Abelian von Neumann algebra<br/>
-Enveloping von Neumann algebra<br/>
-Finite-dimensional von Neumann algebra<br/>
-von Neumann architecture<br/>
-von Neumann bicommutant theorem<br/>
-von Neumann bounded set<br/>
-Von Neumann bottleneck<br/>
-von Neumann cardinal assignment<br/>
-von Neumann cellular automaton<br/>
-von Neumann conjecture<br/>
-von Neumann constant<br/>
-Computer virus<br/>
-Murray–von Neumann coupling constant<br/>
-Jordan–von Neumann constant<br/>
-Density matrix<br/>
-Direct integral<br/>
-von Neumann's elephant<br/>
-von Neumann entropy<br/>
-von Neumann entanglement entropy<br/>
-von Neumann equation<br/>
-von Neumann extractor<br/>
-von Neumann-Wigner interpretation<br/>
-von Neumann–Wigner theorem<br/>
-von Neumann measurement scheme<br/>
-von Neumann mutual information<br/>
-von Neumann machines<br/>
-Von Neumann's mean ergodic theorem<br/>
-von Neumann neighborhood<br/>
-von Neumann ordinal<br/>
-von Neumann paradox<br/>
-von Neumann probe<br/>
-von Neumann programming languages<br/>
-von Neumann regular ring<br/>
-von Neumann spectral theorem<br/>
-von Neumann stability analysis<br/>
-von Neumann universal constructor<br/>
-von Neumann universe<br/>
-von Neumann–Bernays–Gödel set theory<br/>
-von Neumann–Morgenstern utility theorem<br/>
-von Neumann's inequality<br/>
-Monte Carlo method<br/>
-Quantum statistical mechanics<br/>
-Quantum mutual information<br/>
-Continuous geometry<br/>
-Game theory<br/>
-Minimax theorem<br/>
-Quantum logic<br/>
-Hilbert's fifth problem<br/>
-Commutation theorem<br/>
-Hyperfinite type II factor<br/>
-Stochastic computing<br/>
-Ultrastrong topology<br/>
-Self-replication<br/>
-von Neumann's theorem<br/>
-von Neumann's trace inequality<br/>
-Weyl–von Neumann theorem<br/>
-Wigner-Von Neumann bound state in the continuum<br/>
-Wold–von Neumann decomposition<br/>
-Zel'dovich–von Neumann–Döring detonation model<br/>
-von Neumann spike<br/>
-22824 von Neumann (a minor planet)<br/>
-IEEE John von Neumann Medal<br/>
-John von Neumann Award<br/>
-John von Neumann Center (JVNC) at Princeton University (1985-1990), part of the Consortium for Scientific Computing<br/>
-John von Neumann Computer Society<br/>
-John von Neumann Environmental Research Institute of the Pacific<br/>
-John von Neumann Lecture<br/>
-von Neumann (crater)<br/>
-John von Neumann (sculpture)<br/>
-John von Neumann Theory Prize<br/>
-John von Neumann University<br/>
-</p>
-
-<p>
-His many other professional contributions include the fruits of his informal collaborations and discussions with other luminaries, as well as his classified military work, including on the Manhattan project
-</p>
-
 <h4>The Silliman Lectures</h4>
 
 > The Silliman Memorial Lectures, in honour of Hepsa Ely Silliman, are held at Yale University. They were funded by a legacy of 1883 left to the President and Fellows of Yale College. The College was requested to establish an annual course of lectures:
@@ -489,6 +503,7 @@ Sources:
 ¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 ¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists)
 ¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb
+¹⁸: https://en.wikipedia.org/wiki/Technological_singularity
 
 
 To consider keeping:
