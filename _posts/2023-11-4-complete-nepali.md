@@ -38,17 +38,18 @@ I studied Nepali formally for a semester while studying abroad in Nepal, then on
 For example, studying in Spain you might have language class 3 days a week, or something like that. We had language class 5 days a week.
 
 Beyond the textbook and dictionary for the Nepali class used in the college course, I've used "A Foundation in Nepali Grammar" by Christopher Jay Manders, Nepali radio shows and music ([Nepathya!](https://www.youtube.com/watch?v=BpeFXed4K6I)), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
-Schmidt's book is particularly excellent. It's available here: https://dsal.uchicago.edu/dictionaries/schmidt.
+Schmidt's book is particularly excellent. It's available here: [https://dsal.uchicago.edu/dictionaries/schmidt](https://dsal.uchicago.edu/dictionaries/schmidt).
 
-Haven't gotten to full fluency, but can have fairly rich conversations. Was greatly aided, especially after the study abroad program, by speaking with native speakers. They humored my struggles with the language.
+I was greatly aided, especially after the study abroad program, by speaking with native speakers. They humored my struggles.
 
-A remark from Dr. Michael James Hutt about the Nepali language has stuck with me. It was something like this: "Nepali is a language of great intimacy and wit". After spending some time learning Nepali, that rings true.
+A remark from Dr. Michael James Hutt has stuck with me. It was something like this: "Nepali is a language of great intimacy and wit".
 
-Nepali is grammatically rich and sophisticated. It has case and declension - including ergativity, gender, agglutination, formality levels in both pronouns and conjugation, and strong use of postpositional markers. The postpositional markers in Nepali include को/ko ("belonging to"), लाई/laai (indirect object marker), मा/maa ("in, on, etc."), मुनि/muni ("under"), and सित/sita ("with").
+Nepali is grammatically rich and sophisticated. It has case and declension - including ergativity, gender, agglutination, formality levels in both pronouns and conjugation, and strong use of postpositional markers.
+The postpositional markers in Nepali include को/ko ("belonging to"), लाई/laai (indirect object marker), मा/maa ("in, on, etc."), मुनि/muni ("under"), and सित/sita ("with").
 
-I worked at a summer camp in 2011. Spent much of my downtime there studying Nepali. A camper told me he'd heard that Sanskrit would be the easiest language "for a computer to learn".
+I worked at a summer camp in 2011. Spent much of my downtime studying Nepali. A camper told me he'd heard that Sanskrit would be the easiest language "for a computer to learn".
 
-I'm not sure how that would be quantified. However, it's certainly true that Nepali is a very logical, orderly, and regularly-structured language. Nepali is highly related to Sanskrit. Nepali is both a descendant of Sanskrit and quite well-preserved linguistically.
+I'm not sure how exactly that would be quantified. However, it's true that Nepali is very logical and orderly. Nepali is highly related to Sanskrit. It is both a descendant of Sanskrit and quite well-preserved linguistically.
 
 Nepali has exactly two irregular verbs in common use: हुनु/hunu ("to be") and जानु/janu ("to go"). Other than that, every single verb in every single tense is conjugated according to a standard pattern. I studied French in high school. There are whole books dedicated to listing out the irregularly conjugated verbs for French, along with their respective conjugations.
 
@@ -60,6 +61,6 @@ One of the languages besides Nepali that's spoken in Nepal is called Newari. It'
 
 Nepali has great prosody.
 
-In 2012, I was speaking Nepali with a gentleman in New Hampshire. I used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" (meaning: "and I'll decide later"). It occurred there's a prosody to a phrase like that: a-**ni**/pa-**chhi**, ni-**do**/gar-**chhu**. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
+In 2012, I was speaking Nepali with a gentleman in New Hampshire. I used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" (meaning: "and I'll decide later"). It occurred there's a prosody to a line like that: a-**ni**/pa-**chhi**, ni-**do**/gar-**chhu**. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
 
 Studying Nepali has been a nice experience. Grammatically commanding, intimate, emotive, and sophisticated.

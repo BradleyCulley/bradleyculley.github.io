@@ -91,16 +91,25 @@ Brian Bi makes this claim elegantly: [[insert Brian Bi quote from Quora]]]
 </p>
 
 <p>
-"A Princeton professor of the latter topic once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
+"A Princeton professor of [Byzantine History] once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
 </p>
+
+"You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is" 
+-Enrico Fermi (Nobel Prize in Physics, 1938)¹⁷
+
+"One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch."
+-Eugene Wigner (Nobel Prize in Physics, 1963)¹⁷
+
+"There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class. I came to a certain theorem, and I said it is not proved and it may be difficult. von Neumann didn’t say anything but after five minutes he raised his hand. When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann"
+-George Pólya¹⁷
 
 <p>
 He accomplished an almost unbelievable amount in his life. Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military.
-A rare combination indeed. Typically two different kinds of minds for such very different roles.
+A rare combination indeed. Typically two different types of minds for two different roles.
 </p>
 
 <p>
-von Neumann can't easily be characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
+von Neumann can't be characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
 </p>
 
 <p>
@@ -478,7 +487,8 @@ Sources:
 ¹²: https://en.wikipedia.org/wiki/ENIAC
 ¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/
 ¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
-¹⁵: https://en.wikipedia.org/wiki/The_Martians_(scientists)
+¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists)
+¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb
 
 
 To consider keeping:
