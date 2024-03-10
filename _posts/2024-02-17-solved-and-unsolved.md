@@ -65,7 +65,7 @@ Unsolved:
 Unsolved isn't unsolvable though
 </p>
 <p>
-    A number of years ago British scientist Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago.<br/>
+    A number of years ago British scientist Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago⁴.<br/>
     The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".
     Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang.
     The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
@@ -75,12 +75,12 @@ Unsolved isn't unsolvable though
     Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
-    This diagram from [one of Penrose's papers on CCC](https://tinyurl.com/penrose-ccc) shows the core idea - cycles of time⁵:<br/>
+    This diagram from [one of Penrose's papers on CCC](https://tinyurl.com/penrose-ccc) shows the core idea - cycles of time⁴:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     <br/>
-    This shows the alleged rings in the Cosmic Microwave Background⁵:<br/>
+    This shows the alleged rings in the Cosmic Microwave Background⁴:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
       <div style="font-size: 12px; font-style: italic;">Wrong, but kind of cool</div>
@@ -123,10 +123,10 @@ Solved:
 <ul>
     <li>
         <b>Homelessness</b><br/>
-        As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁶<br/>
-        How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁷<br/>
+        As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵<br/>
+        How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶<br/>
         The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.<br/>
-        Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁸<br/>
+        Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁷<br/>
         Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).<br/>
         Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.<br/>
     </li>
@@ -136,7 +136,7 @@ Solved:
     </li>
     <li>
         <b>"Poverty traps"</b><br/>
-        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹
+        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁸
         Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/><br/> 
         Your problems compound. Finland.<br/>
     </li>
@@ -153,7 +153,7 @@ Solved:
         <p>
             Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
             In other words, every school is funded exactly equally.
-            There are some very minor exceptions to this, such as foreign-language schools.¹¹<br/><br/>
+            There are some very minor exceptions to this, such as foreign-language schools.⁹<br/><br/>
             No "school districts".
             The flip side of "I bought an expensive house to be in a good school district" is that other children have to be in bad school districts.
             In other words, generational poverty.<br/>
@@ -181,14 +181,13 @@ The unsolved problems are so much more interesting, and the solved problems are 
 
 <br/>
 Sources:<br/>
-¹: https://en.wikipedia.org/wiki/Theodicy <br/>
-²: https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus <br/>
-³: https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg <br/>
-⁴: https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D <br/>
-⁵: Sagan, C. (1997). The demon-haunted world. Ballantine Books. <br/>
-⁶: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model <br/>
-⁷: https://en.wikipedia.org/wiki/Homelessness_in_Finland <br/>
-⁸: https://www.security.org/resources/homeless-statistics/ <br/>
-⁹: https://en.wikipedia.org/wiki/Cycle_of_poverty <br/>
-¹⁰: https://okm.fi/en/frequently-asked-questions <br/>
-¹¹: https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a
+¹: [https://en.wikipedia.org/wiki/Theodicy](https://en.wikipedia.org/wiki/Theodicy) <br/>
+²: [https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus) <br/>
+³: [https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg](https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg) <br/>
+⁴: [https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4) <br/>
+⁵: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model <br/>
+⁶: https://en.wikipedia.org/wiki/Homelessness_in_Finland <br/>
+⁷: https://www.security.org/resources/homeless-statistics/ <br/>
+⁸: https://en.wikipedia.org/wiki/Cycle_of_poverty <br/>
+⁹:  https://okm.fi/en/frequently-asked-questions <br/>
+¹⁰: https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a
