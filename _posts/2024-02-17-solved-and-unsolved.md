@@ -85,7 +85,7 @@ Unsolved isn't unsolvable though
     </div>
 </p>
 <p>
-    In a speech in 1872 German physiologist Emil du Bois-Reymond famously popularized the prhase "Ignoramus et ignorabimus".²
+    In a speech in 1872, German physiologist Emil du Bois-Reymond famously popularized the prhase "Ignoramus et ignorabimus".²
     That's Latin for "we do not know and will not know".²
     That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
     That's perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
