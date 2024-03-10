@@ -34,30 +34,26 @@ Unsolved:
     </li>
     <li>
         <b>How to effectively raise children</b><br/>
-        A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.<br/>
+        <p>A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.</p>
     </li>
     <li>
         <b>What "human nature" is</b><br/>
         <p>
-            Has anyone tried to fully solve this problem?
-            "Here's human nature. It's a 25,000-page book".
-            It doesn't seem an unreasonable ask. The connectome of the human brain is finite.
-            The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since.
-            It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete. 
+            Has anyone tried to fully solve this? "Here's human nature. It's a 25,000-page book". The connectome of the human brain is finite. The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since. It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete.<br/><br/> 
         </p>
     </li>
     <li>
         <b>How to make people be good</b><br/>
-        Fixing classism, solipsism, the abuse of power, etc.<br/>
-        Mountains of effort over the millennia. Countless moral systems, with only partial success.<br/>
+        <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
+        Mountains of effort over the millennia. Countless moral systems, with only partial success.</p>
     </li>
     <li>
         <b>The Watchmaker Problem</b><br/>
-        A watch is made by a watchmaker. The universe exists, so what created the universe?<br/>
-        Why is there something rather than nothing? How could something come from nothing?<br/><br/>
-        The Big Bang is not an answer, by the way. The Big Bang just moves the problem.<br/>
+        <p>A watch is made by a watchmaker. The universe exists, so what created the universe?
+        Why is there something rather than nothing? How could something come from nothing?</p>
+        <p>The Big Bang isn't an answer, by the way. The Big Bang just moves the problem.
         Nobody knows what caused the big bang, where the energy present at the start of the universe came from.
-        Scientists don't know. Nobody knows.
+        Scientists don't know. Nobody knows.</p>
     </li>
 </ul>
 
@@ -65,10 +61,7 @@ Unsolved:
 Unsolved isn't unsolvable though
 </p>
 <p>
-    A number of years ago British scientist Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago⁴.<br/>
-    The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".
-    Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang.
-    The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
+    A number of years ago British scientist Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago⁴. The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". I learned about CCC in a cosmology course in college. Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang. The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
 </p>
 <p>
     The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community.
@@ -122,31 +115,37 @@ Ear infection? Take an antibiotic.
 Solved:
 <ul>
     <li>
-        <b>Homelessness</b><br/>
-        As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵<br/>
-        How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶<br/>
-        The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.<br/>
-        Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁷<br/>
-        Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).<br/>
-        Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.<br/>
+        <b>Homelessness</b><
+        <p>
+            As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵
+            How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶
+        </p>
+        <p>
+            The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.
+            Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁷
+            Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).
+            Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.
+        </p>
     </li>
     <li>
         <b>Severe poverty</b><br/>
-        Finland basically solved this too
+        <p>Finland basically solved this too</p>
     </li>
     <li>
-        <b>"Poverty traps"</b><br/>
-        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁸
-        Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/><br/> 
-        Your problems compound. Finland.<br/>
+        <b>"Poverty traps"</b>
+        <p>
+            The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁸
+            Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
+            Your problems compound. Finland again.
+        </p>
     </li>
     <li>
-        <b>Capitalism or Communism</b><br/>
-        Finland again. Capitalism with a strong social safety net. Must we endlessly relitigate this?<br/>
+        <b>Capitalism or Communism</b>
+        <p>Finland again. Capitalism with a strong social safety net. Must we endlessly relitigate this?</p>
     </li>
     <li>
         <b>Mass incarceration, recidivism</b><br/>
-        Finland
+        <p>Finland</p>
     </li>
     <li>
         <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
@@ -161,8 +160,9 @@ Solved:
         <p>
             There is also no sorting of students by ability level, and no exams until the age of 18.<br/>
             There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.<br/><br/>
-            Problem solved. Within a first approximation, everyone gets a shot.
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.</p>
+        <p>
+            In Finland, Problem solved. Within a first approximation, everyone gets a shot.
             In my opinion, this should be the bare minimum.
             No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.<br/>
         </p>
