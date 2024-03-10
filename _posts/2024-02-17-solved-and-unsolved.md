@@ -69,19 +69,17 @@ Unsolved isn't unsolvable though
     The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".<br/>
     Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang.<br/>
     The afterglow of the Big Bang is known as the cosmic microwave background (CMB).<br/>
-    This diagram from [one of Penrose's papers on CCC](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D) shows the core idea - cycles of time:<br/>
+    This diagram from [test](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D) shows the core idea - cycles of time⁵:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
-        <div style="font-size: 12px; font-style: italic;">⁵</div>
     </div>
-    This shows the alleged rings:<br/>
+    This shows the alleged rings⁵:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
-        <div style="font-size: 12px; font-style: italic;">⁵</div>
     </div>
 </p>
 <p>
-    The experimental evidence for CCC, and CCC as a whole, are not widely accepted by the scientific community.<br/>
+    The experimental evidence for CCC, and just CCC as a whole, are not widely accepted by the scientific community.<br/>
     Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
@@ -97,7 +95,7 @@ Unsolved isn't unsolvable though
     In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/>
     Hilbert's tombstone bears that latter phrase:<br/>
     <div align="center">
-      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png.jpeg" />
+      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
         <div style="font-size: 12px; font-style: italic;">³</div>
     </div>
 </p>
@@ -116,7 +114,7 @@ Unsolved isn't unsolvable though
 
 <p>
 I think of these in contrast with problems that _are_ solved.<br/>
-Ear infection? Pop an antibiotic.
+Ear infection? Take an antibiotic.
 </p>
 
 Solved:
