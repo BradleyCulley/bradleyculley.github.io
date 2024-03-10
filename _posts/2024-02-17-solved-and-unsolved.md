@@ -93,10 +93,9 @@ Unsolved isn't unsolvable though
     "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
     For us there is no ignorabimus, and in my opinion none whatever in natural science.
     In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/><br/>
-    Hilbert's tombstone bears the latter phrase:<br/>
+    Hilbert's tombstone bears the latter phrase³:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
-        <div style="font-size: 12px; font-style: italic;">³</div>
     </div>
 </p>
 
@@ -126,7 +125,7 @@ Solved:
         The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.<br/>
         Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁸<br/>
         Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).<br/>
-        Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.
+        Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.<br/>
     </li>
     <li>
         <b>Severe poverty</b><br/>
@@ -134,14 +133,13 @@ Solved:
     </li>
     <li>
         <b>"Poverty traps"</b><br/>
-        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹<br/>
-        Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/> 
-        Your problems compound. Finland.
+        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹
+        Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/><br/> 
+        Your problems compound. Finland.<br/>
     </li>
     <li>
         <b>Capitalism or Communism</b><br/>
-        Finland again. Capitalism with a strong social safety net.<br/>
-        Must we endlessly relitigate this?
+        Finland again. Capitalism with a strong social safety net. Must we endlessly relitigate this?<br/>
     </li>
     <li>
         <b>Mass incarceration, recidivism</b><br/>
@@ -151,31 +149,30 @@ Solved:
         <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
         <p>
             Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
-            In other words, every school is funded exactly equally.<br/>
-            There are some very minor exceptions to this, such as foreign-language schools.¹¹<br/>
-            No "school districts".<br/>
-            The flip side of "I bought an expensive house to be in a good school district" is that other children have to be in bad school districts.<br/>
-            In other words, generational poverty.
+            In other words, every school is funded exactly equally.
+            There are some very minor exceptions to this, such as foreign-language schools.¹¹<br/><br/>
+            No "school districts".
+            The flip side of "I bought an expensive house to be in a good school district" is that other children have to be in bad school districts.
+            In other words, generational poverty.<br/>
         </p>
         <p>
             There is also no sorting of students by ability level, and no exams until the age of 18.<br/>
-            There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".<br/>
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.<br/>
-            Problem solved.<br/>
-            Within a first approximation, everyone gets a shot.<br/>
-            In my opinion, this should be the bare minimum.<br/>
-            No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.
+            There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.<br/><br/>
+            Problem solved. Within a first approximation, everyone gets a shot.
+            In my opinion, this should be the bare minimum.
+            No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.<br/>
         </p>
     </li>
 </ul>
 
 <p> 
-Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.<br/>
+Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
 We'll accept reductive answers about childrearing ("don't spoil them"), but argue to the ends of the Earth about capitalism.
 </p>
 
 <p>
-I think that attitude misses potential in both directions.<br/>
+I think that attitude misses potential in both directions.
 The unsolved problems are so much more interesting, and the solved problems are so much more important.
 </p>
 
