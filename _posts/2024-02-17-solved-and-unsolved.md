@@ -97,7 +97,7 @@ Unsolved isn't unsolvable though
 
     We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
     For us there is no ignorabimus, and in my opinion none whatever in natural science.
-    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²
+    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know").²
 
 <br/><br/>
     Hilbert's tombstone bears the latter phrase³:<br/>
