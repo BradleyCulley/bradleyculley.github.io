@@ -92,11 +92,9 @@ Unsolved isn't unsolvable though
 </p>
 <p>
     In response to du Bois-Reymond's phrase, the famous German mathematician David Hilbert had this to say:<br/>
-
-
-> We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
+    "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
     For us there is no ignorabimus, and in my opinion none whatever in natural science.
-    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know").²
+    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")".²
 
 <br/><br/>
     Hilbert's tombstone bears the latter phrase³:<br/>
@@ -191,9 +189,9 @@ Sources:<br/>
 ²: [https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus) <br/>
 ³: [https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg](https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg) <br/>
 ⁴: [https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4) <br/>
-⁵: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model <br/>
-⁶: https://en.wikipedia.org/wiki/Homelessness_in_Finland <br/>
-⁷: https://www.security.org/resources/homeless-statistics/ <br/>
-⁸: https://en.wikipedia.org/wiki/Cycle_of_poverty <br/>
-⁹:  https://okm.fi/en/frequently-asked-questions <br/>
-¹⁰: https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a
+⁵: [https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model](https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model) <br/>
+⁶: [https://en.wikipedia.org/wiki/Homelessness_in_Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) <br/>
+⁷: [https://www.security.org/resources/homeless-statistics/](https://www.security.org/resources/homeless-statistics/) <br/>
+⁸: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
+⁹:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
+¹⁰: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
