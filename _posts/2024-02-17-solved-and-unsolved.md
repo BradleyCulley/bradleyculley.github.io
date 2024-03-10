@@ -2,8 +2,8 @@
 
 <p>
     <b>
-        Some age-old problem are clearly unsolved.<br/>
-        Others are clearly solved, yet their solutions are often ignored.
+        Some age-old problems are clearly unsolved.<br/>
+        Others are clearly solved, yet their solutions often ignored.
     </b>
 </p>
 
@@ -65,9 +65,9 @@ Unsolved:
 Unsolved isn't unsolvable though
 </p>
 <p>
-    More recently, another British scientist, Roger Penrose - a 2020 Laureat of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there's always been a cycles of Big Bangs and Big Crunches, since literally forever ago.<br/>
+    More recently, another British scientist, Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been a cycles of Big Bangs and Big Crunches, since literally forever ago.<br/>
     The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".<br/>
-    Penrose claims there's experimental evidence of CCC, in the form of rings present the afterglow of the Big Bang.<br/>
+    Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang.<br/>
     The afterglow of the Big Bang is known as the cosmic microwave background (CMB).<br/>
     This diagram from [one of Penrose's papers on CCC](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D) shows the core idea - cycles of time:<br/>
     <div align="center">
@@ -152,7 +152,7 @@ Solved:
     <li>
         <h5>Arguably the root of all of the above: unequal access to opportunity</h5>
         <p>
-            Finland. No less than the_constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
+            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
             In other words, every school is funded exactly equally.<br/>
             There are some very minor exceptions to this, such as foreign-language schools.¹¹<br/>
             No "school districts".<br/>
@@ -166,7 +166,7 @@ Solved:
             Problem solved.<br/>
             Within a first approximation, everyone gets a shot.<br/>
             In my opinion, this should be the bare minimum.<br/>
-            No stifling ability, nor forcing you into a specific job, nor other relics of communism, but an equal change.
+            No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.
         </p>
     </li>
 </ul>
