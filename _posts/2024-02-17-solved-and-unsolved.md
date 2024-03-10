@@ -182,14 +182,14 @@ The unsolved problems are so much more interesting, and the solved problems are 
 </p>
 
 Sources:
-¹: https://en.wikipedia.org/wiki/Theodicy
-²: https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus
-³: https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg
-⁴: https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D
-⁵: Sagan, C. (1997). The demon-haunted world. Ballantine Books.
-⁶: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model
-⁷: https://en.wikipedia.org/wiki/Homelessness_in_Finland
-⁸: https://www.security.org/resources/homeless-statistics/
-⁹: https://en.wikipedia.org/wiki/Cycle_of_poverty
-¹⁰: https://okm.fi/en/frequently-asked-questions
+¹: https://en.wikipedia.org/wiki/Theodicy <br/>
+²: https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus <br/>
+³: https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg <br/>
+⁴: https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D <br/>
+⁵: Sagan, C. (1997). The demon-haunted world. Ballantine Books. <br/>
+⁶: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model <br/>
+⁷: https://en.wikipedia.org/wiki/Homelessness_in_Finland <br/>
+⁸: https://www.security.org/resources/homeless-statistics/ <br/>
+⁹: https://en.wikipedia.org/wiki/Cycle_of_poverty <br/>
+¹⁰: https://okm.fi/en/frequently-asked-questions <br/>
 ¹¹: https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a
