@@ -57,7 +57,7 @@ Unsolved:
         <p>A watch is made by a watchmaker. The universe exists, so what created the universe?
         Why is there something rather than nothing? How could something come from nothing?</p>
         <p>The Big Bang isn't an answer, by the way. The Big Bang just moves the problem.
-        Nobody knows what caused the big bang, where the energy present at the start of the universe came from.
+        Nobody knows what caused the Big Bang - where the energy present at the start of the universe came from.
         Scientists don't know. Nobody knows.</p>
     </li>
 </ul>
