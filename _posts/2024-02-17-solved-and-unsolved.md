@@ -81,7 +81,7 @@ Unsolved isn't unsolvable though
     </div>
 </p>
 <p>
-    CCC, and its purported experimental evidence, are not widely accepted by the scientific community.<br/>
+    The experimental evidence for CCC, and CCC as a whole, are not widely accepted by the scientific community.<br/>
     Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
