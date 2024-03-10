@@ -166,7 +166,7 @@ Solved:
             There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".
             There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.</p>
         <p>
-            In Finland, problem solved. Within a first approximation, everyone gets a shot.
+            In Finland, problem solved.
             In my opinion, this should be the bare minimum.
             No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.<br/>
         </p>
