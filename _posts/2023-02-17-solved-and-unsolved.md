@@ -1,10 +1,10 @@
 ### Solved and Unsolved
 
 <p>
-    <h3>
+    <b>
         Some age-old problem are clearly unsolved.<br/>
         Others are clearly solved, yet their solutions are often ignored.
-    </h3>
+    </b>
 </p>
 
 Unsolved:
@@ -59,7 +59,7 @@ Unsolved:
         Nobody knows what caused the big bang, where the energy present at the start of the universe came from.<br/>
         Scientists don't know. Nobody knows.
     </li>
-<ul>
+</ul>
 
 <p>
 Unsolved isn't unsolvable though
@@ -169,7 +169,7 @@ Solved:
             No stifling ability, nor forcing you into a specific job, nor other relics of communism, but an equal change.
         </p>
     </li>
-<ul>
+</ul>
 
 <p> 
 Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.<br/>
