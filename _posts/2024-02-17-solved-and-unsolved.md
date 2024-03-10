@@ -181,7 +181,7 @@ We'll accept reductive answers about childrearing ("don't spoil them"), but argu
 
 <p>
 I think that attitude misses potential in both directions.
-The unsolved problems are so much more interesting, and the solved problems are so much more important.
+The unsolved problems are much more interesting, and the solved problems are much more important.
 </p>
 
 <br/>
