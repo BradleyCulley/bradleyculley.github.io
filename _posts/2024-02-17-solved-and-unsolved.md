@@ -1,10 +1,10 @@
 ### Solved and Unsolved
 
 <p>
-    <h4 style="text-align: center; font-weight: bold;">
+    <h5 style="text-align: center; font-weight: bold;">
         Some age-old problems are clearly unsolved<br/>
-        Others are clearly solved, yet their solutions often ignored
-    </h4>
+        Others are clearly solved, yet their solutions are often ignored
+    </h5>
 </p>
 
 Unsolved:
@@ -73,7 +73,7 @@ Unsolved isn't unsolvable though
     Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
-    This diagram from [one of Penrose's papers on CCC](https://tinyurl.com/penrose-ccc) shows the core idea - cycles of time⁴:<br/>
+    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time⁴:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
@@ -81,7 +81,7 @@ Unsolved isn't unsolvable though
     This shows the alleged rings in the Cosmic Microwave Background⁴:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
-      <div style="font-size: 12px; font-style: italic;">Wrong, but kind of cool</div>
+      <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
     </div>
 </p>
 <p>
@@ -189,7 +189,7 @@ Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Theodicy](https://en.wikipedia.org/wiki/Theodicy) <br/>
 ²: [https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus) <br/>
 ³: [https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg](https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg) <br/>
-⁴: [https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4) <br/>
+⁴: [https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4) <br/>
 ⁵: https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model <br/>
 ⁶: https://en.wikipedia.org/wiki/Homelessness_in_Finland <br/>
 ⁷: https://www.security.org/resources/homeless-statistics/ <br/>
