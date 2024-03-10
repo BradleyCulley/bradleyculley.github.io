@@ -85,7 +85,7 @@ Unsolved isn't unsolvable though
     </div>
 </p>
 <p>
-    German physiologist Emil du Bois-Reymond famously declared "Ignoramus et ignorabimus".²
+    In a speech in 1872 German physiologist Emil du Bois-Reymond famously popularized the prhase "Ignoramus et ignorabimus".²
     That's Latin for "we do not know and will not know".²
     That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
     This is perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
@@ -166,7 +166,7 @@ Solved:
             There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".
             There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.</p>
         <p>
-            In Finland, Problem solved. Within a first approximation, everyone gets a shot.
+            In Finland, problem solved. Within a first approximation, everyone gets a shot.
             In my opinion, this should be the bare minimum.
             No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.<br/>
         </p>
