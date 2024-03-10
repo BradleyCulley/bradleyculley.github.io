@@ -112,8 +112,7 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved.<br/>
-Ear infection? Take an antibiotic.
+I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
 </p>
 
 Solved:
