@@ -17,7 +17,7 @@ Unsolved:
         The inevitability of death. Finding meaning despite mortality.
     </li>
     <li>
-        <h3>Determinism or free will</h3>
+        <h3>Free will versus determinism</h3>
     </li>
     <li>
         <h3>The Riemann hypothesis</h3>
@@ -55,11 +55,11 @@ Unsolved:
             This is perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
         </p>
         <p>
-            About du Bois-Reymon's phrase, the great German mathematician David Hilbert, had this to say:
-            "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
-            For us there is no ignorabimus, and in my opinion none whatever in natural science.
-            In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²
-            The phrase is on Hilbert's tombstone:
+            About du Bois-Reymon's phrase, the great German mathematician David Hilbert, had this to say:<br/>
+            "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.<br/>
+            For us there is no ignorabimus, and in my opinion none whatever in natural science.<br/>
+            In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/>
+            The phrase is on Hilbert's tombstone:<br/>
             <div align="center">
               <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png.jpeg" />
                 <div style="font-size: 12px; font-style: italic;">³</div>
@@ -67,17 +67,17 @@ Unsolved:
         </p>
     </li>
     <li>
-        <h3>Relatedly: how to make people be good</h3>
-        Fixing classism, solipsism, the abuse of power, etc.
-        Mountains of human effort over the millennia. Countless moral systems. Still unsolved.
-        Maybe we just have more chimpanzee than bonobo in us.
+        <h3>How to make people be good</h3>
+        Fixing classism, solipsism, the abuse of power, etc.<br/>
+        Mountains of human effort over the millennia. Countless moral systems.<br/>
+        Maybe we're just more chimpanzee than bonobo.<br/>
     </li>
     <li>
         <h3>The Watchmaker Problem</h3>
-        A watch is made by a watchmaker. The universe exists, so what created the universe?
-        Why is there something rather than nothing? How could something come from nothing?
-        The Big Bang is not an answer, by the way. The Big Bang just moves the problem.
-        Nobody knows what caused the big bang, where the energy present at the start of the universe came from.
+        A watch is made by a watchmaker. The universe exists, so what created the universe?<br/>
+        Why is there something rather than nothing? How could something come from nothing?<br/>
+        The Big Bang is not an answer, by the way. The Big Bang just moves the problem.<br/>
+        Nobody knows what caused the big bang, where the energy present at the start of the universe came from.<br/>
         Scientists don't know. Nobody knows.
     </li>
 <ul>
@@ -102,16 +102,16 @@ From the book:
 </p>
 
 <p>
-    More recently, another British scientist, Roger Penrose - a 2020 Laureat of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there's always been a cycles of big bangs and big crunches, since literally forever ago.
-    The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".
-    Penrose claims there's experimental evidence of CCC, in the form of rings present the afterglow of the Big Bang.
-    The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
-    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time:
+    More recently, another British scientist, Roger Penrose - a 2020 Laureat of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there's always been a cycles of big bangs and big crunches, since literally forever ago.<br/>
+    The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".<br/>
+    Penrose claims there's experimental evidence of CCC, in the form of rings present the afterglow of the Big Bang.<br/>
+    The afterglow of the Big Bang is known as the cosmic microwave background (CMB).<br/>
+    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
         <div style="font-size: 12px; font-style: italic;">⁵</div>
     </div>
-    This shows the alleged rings:
+    This shows the alleged rings:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
         <div style="font-size: 12px; font-style: italic;">⁵</div>
@@ -119,19 +119,19 @@ From the book:
     You can read the full paper [here](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D).
 </p>
 <p>
-    CCC, and its purported experimental evidence, are not widely accepted by the scientific community.
+    CCC, and its purported experimental evidence, are not widely accepted by the scientific community.<br/>
     Whether it's true or not isn't the point though: Penrose gave it a serious shot.
 </p>
 
 <p>
-I've long been fascinated with problems like Fermat's Last Theorem.
-There's a certain gravitas to a problem unsolved since 1637.
+I've long been fascinated with problems like Fermat's Last Theorem.<br/>
+There's a certain gravitas to a problem unsolved since 1637.<br/>
 It has timelessness. There's epistemic humility: "this ain't easy".
 </p>
 
 <p>
-This lens of thinking has helped me put purported solutions in perspective.
-Did some dude just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?
+This lens of thinking has helped me put purported solutions in perspective.<br/>
+Did some dude just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?<br/>
 And he's shouting-ly marketing it to you somewhere?
 </p>
 
@@ -144,11 +144,11 @@ Solved:
 <ul>
     <li>
         <h3>Homelessness</h3>
-        As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁶
-        How did they do this? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁷
-        The problem with programs that try to get people clean and healthy before giving them housing, is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully check boxes on someone's checklist.
-        Pretty simple solution actually. The United States has 653,104 people experiencing homelessness.⁸
-        Well over half a million, and a much higher per-capita rate, than Finland.
+        As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁶<br/>
+        How did they do this? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁷<br/>
+        The problem with programs that try to get people clean and healthy before giving them housing, is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully check boxes on someone's checklist.<br/>
+        Pretty simple solution actually. The United States has 653,104 people experiencing homelessness.⁸<br/>
+        Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).<br/>
         Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.
     </li>
     <li>
@@ -157,13 +157,13 @@ Solved:
     </li>
     <li>
         <h3>"Poverty traps"</h3>
-        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹
-        Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
+        The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹<br/>
+        Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/> 
         Your problems compound. Finland.
     </li>
     <li>
         <h3>Capitalism or Communism</h3>
-        Finland again. Capitalism with a strong social safety net.
+        Finland again. Capitalism with a strong social safety net.<br/>
         Must we endlessly relitigate this?
     </li>
     <li>
@@ -173,33 +173,33 @@ Solved:
     <li>
         <h3>Arguably the root of all of the above: unequal access to opportunity</h3>
         <p>
-            Finland. No less than the_constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰
-            Finland has a small number of private schools, but they're funded exactly equally to public schools.
-            In other words, every school is funded exactly equally.
-            There are some very minor exceptions to this, such as foreign-language schools.¹¹
-            No "school districts".
-            The flip side of "I bought this expensive house to be in a good school district" is that other children have to be in bad school districts.
+            Finland. No less than the_constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
+            Finland has a small number of private schools, but they're funded exactly equally to public schools.<br/>
+            In other words, every school is funded exactly equally.<br/>
+            There are some very minor exceptions to this, such as foreign-language schools.¹¹<br/>
+            No "school districts".<br/>
+            The flip side of "I bought this expensive house to be in a good school district" is that other children have to be in bad school districts.<br/>
             In other words, generational poverty.
         </p>
         <p>
-            There is also no sorting of students by ability level, and no exams until the age of 18.
-            There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, etc.
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.
-            Problem solved.
-            Within a first approximation, everyone gets a shot.
-            In my opinion, this should be the bare minimum.
-            Not stifling ability or forcing you into a specific job, or other relics of communism, but an equal shot.
+            There is also no sorting of students by ability level, and no exams until the age of 18.<br/>
+            There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, etc.<br/>
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.<br/>
+            Problem solved.<br/>
+            Within a first approximation, everyone gets a shot.<br/>
+            In my opinion, this should be the bare minimum.<br/>
+            Not stifling ability, no forcing you into a specific job, no other relics of communism, but an equal shot.
         </p>
     </li>
 <ul>
 
 <p> 
-Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
-We'll accept reductive answers for childrearing ("don't spoil them"), but argue to the ends of the Earth about capitalism.
+Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.<br/>
+We'll accept reductive answers about childrearing ("don't spoil them"), but argue to the ends of the Earth about capitalism.
 </p>
 
 <p>
-I think that attitude misses potential in both directions.
+I think that attitude misses potential in both directions.<br/>
 The unsolved problems are so much more interesting, and the solved problems are so much more important.
 </p>
 
