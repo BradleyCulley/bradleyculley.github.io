@@ -1,7 +1,7 @@
 ### Solved and Unsolved
 
 <p>
-    <h4 style="text-align: center;">
+    <h4 style="text-align: center; font-weight: bold;">
         Some age-old problems are clearly unsolved<br/>
         Others are clearly solved, yet their solutions often ignored
     </h4>
@@ -34,7 +34,7 @@ Unsolved:
     </li>
     <li>
         <b>How to effectively raise children</b><br/>
-        A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.
+        A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.<br/>
     </li>
     <li>
         <b>What "human nature" is</b><br/>
@@ -49,14 +49,14 @@ Unsolved:
     <li>
         <b>How to make people be good</b><br/>
         Fixing classism, solipsism, the abuse of power, etc.<br/>
-        Mountains of effort over the millennia. Countless moral systems.
+        Mountains of effort over the millennia. Countless moral systems, with only partial success.<br/>
     </li>
     <li>
         <b>The Watchmaker Problem</b><br/>
         A watch is made by a watchmaker. The universe exists, so what created the universe?<br/>
-        Why is there something rather than nothing? How could something come from nothing?<br/>
+        Why is there something rather than nothing? How could something come from nothing?<br/><br/>
         The Big Bang is not an answer, by the way. The Big Bang just moves the problem.<br/>
-        Nobody knows what caused the big bang, where the energy present at the start of the universe came from.<br/>
+        Nobody knows what caused the big bang, where the energy present at the start of the universe came from.
         Scientists don't know. Nobody knows.
     </li>
 </ul>
@@ -79,21 +79,21 @@ Unsolved isn't unsolvable though
     </div>
 </p>
 <p>
-    The experimental evidence for CCC, and just CCC as a whole, are not widely accepted by the scientific community.<br/>
+    The experimental evidence for CCC, and just CCC as a whole, are not widely accepted by the scientific community.
     Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
     German physiologist Emil du Bois-Reymond famously declared "Ignoramus et ignorabimus".²
     That's Latin for "we do not know and will not know".²
-    That's an ethos I sensed in literary studies, and in art in general for that matter: an elision of quantification.
+    That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
     This is perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
 </p>
 <p>
     In response to du Bois-Reymond's phrase, the famous German mathematician David Hilbert had this to say:<br/>
-    "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.<br/>
-    For us there is no ignorabimus, and in my opinion none whatever in natural science.<br/>
-    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/>
-    Hilbert's tombstone bears that latter phrase:<br/>
+    "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
+    For us there is no ignorabimus, and in my opinion none whatever in natural science.
+    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/><br/>
+    Hilbert's tombstone bears the latter phrase:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
         <div style="font-size: 12px; font-style: italic;">³</div>
@@ -101,9 +101,9 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-    I've long been fascinated with problems like Fermat's Last Theorem.<br/>
-    There's a certain gravitas to a problem unsolved since 1637.<br/>
-    It has timelessness. There's a certain epistemic humility: "this isn't easy".
+    I've long been fascinated with problems like Fermat's Last Theorem.
+    There's a certain gravitas to a problem unsolved since 1637.
+    It has timelessness. There's epistemic humility: "this isn't easy".
 </p>
 
 <p>
