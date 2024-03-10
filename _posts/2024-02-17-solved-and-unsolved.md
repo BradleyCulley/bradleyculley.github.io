@@ -68,19 +68,22 @@ Unsolved isn't unsolvable though
     More recently, another British scientist, Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been a cycles of Big Bangs and Big Crunches, since literally forever ago.<br/>
     The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe".<br/>
     Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang.<br/>
-    The afterglow of the Big Bang is known as the cosmic microwave background (CMB).<br/>
-    This diagram from [test](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4?sharing_token=Gperu3fdOITR0zMEfPK_VosPkCdkOxEKPl2JoxdvwqF_JbG2hDZqlqnKgjgFWT-bXBCMgUzjxUWpJDnBU8tTTHMs_UIR_vcQidhgdw9WJFijFF8L3U5ij0qphf2TsREvm5_i4Rvun9ICBYQ_rkNpTD9XEEz1Ux_AO4E7gnZjMPQ%3D) shows the core idea - cycles of time⁵:<br/>
+    The afterglow of the Big Bang is known as the cosmic microwave background (CMB).<br/><br/>
+</p>
+<p>
+    The experimental evidence for CCC, and just CCC as a whole, are not widely accepted by the scientific community.
+    Whether it's true or not isn't the point though. Penrose gave it a serious shot.
+</p>
+<p>
+    This diagram from [one of Penrose's papers on CCC](https://tinyurl.com/penrose-ccc) shows the core idea - cycles of time⁵:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     This shows the alleged rings⁵:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
+      <div style="font-size: 12px; font-style: italic;">Wrong, but kind of cool</div>
     </div>
-</p>
-<p>
-    The experimental evidence for CCC, and just CCC as a whole, are not widely accepted by the scientific community.
-    Whether it's true or not isn't the point though. Penrose gave it a serious shot.
 </p>
 <p>
     German physiologist Emil du Bois-Reymond famously declared "Ignoramus et ignorabimus".²
@@ -176,7 +179,7 @@ I think that attitude misses potential in both directions.
 The unsolved problems are so much more interesting, and the solved problems are so much more important.
 </p>
 
-Sources:
+Sources:<br/>
 ¹: https://en.wikipedia.org/wiki/Theodicy <br/>
 ²: https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus <br/>
 ³: https://en.wikipedia.org/wiki/File:G%C3%B6ttingen_Stadtfriedhof_Grab_David_Hilbert.jpg <br/>
