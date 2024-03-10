@@ -1,58 +1,58 @@
 ### Solved and Unsolved
 
 <p>
-    <b>
-        Some age-old problems are clearly unsolved.<br/>
-        Others are clearly solved, yet their solutions often ignored.
-    </b>
+    <h4 style="text-align: center;">
+        Some age-old problems are clearly unsolved<br/>
+        Others are clearly solved, yet their solutions often ignored
+    </h4>
 </p>
 
 Unsolved:
 <ul>
     <li>
-        <h5>Success in romantic relationships</h5>
+        <b>Success in romantic relationships</b>
     </li>
     <li>
-        <h5>Grappling with human mortality</h5>
+        <b>Grappling with human mortality</b>
     </li>
     <li>
-        <h5>Free will versus determinism</h5>
+        <b>Free will versus determinism</b>
     </li>
     <li>
-        <h5>The Riemann hypothesis</h5>
+        <b>The Riemann hypothesis</b>
     </li>
     <li>
-        <h5>Theodicy</h5>
+        <b>Theodicy</b><br/>
         <p>"In the philosophy of religion, a theodicy is an argument that attempts to resolve the problem of evil that arises when omnipotence, omnibenevolence, and omniscience are all simultaneously ascribed to God."¹</p>
     </li>
     <li>
-        <h5>The Fermi Paradox</h5>
+        <b>The Fermi Paradox</b><br/>
         <p>There are billions of habitable planets in the universe, yet we've never observed intelligent life, or even life of any kind, elsewhere in the universe</p>
     </li>
     <li>
-        <h5>How to build human-like artificial intelligence</h5>
+        <b>How to build human-like artificial intelligence</b>
     </li>
     <li>
-        <h5>How to effectively raise children</h5>
+        <b>How to effectively raise children</b><br/>
         A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.
     </li>
     <li>
-        <h5>What "human nature" is</h5>
+        <b>What "human nature" is</b><br/>
         <p>
             Has anyone tried to fully solve this problem?
             "Here's human nature. It's a 25,000-page book".
             It doesn't seem an unreasonable ask. The connectome of the human brain is finite.
-            The analogous discovery and synthesis for calculus took place about 350 years ago, and hasn't changed since.
+            The analogous discovery and synthesis for calculus took place about 350 years ago and hasn't changed since.
             It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete. 
         </p>
     </li>
     <li>
-        <h5>How to make people be good</h5>
+        <b>How to make people be good</b><br/>
         Fixing classism, solipsism, the abuse of power, etc.<br/>
         Mountains of effort over the millennia. Countless moral systems.
     </li>
     <li>
-        <h5>The Watchmaker Problem</h5>
+        <b>The Watchmaker Problem</b><br/>
         A watch is made by a watchmaker. The universe exists, so what created the universe?<br/>
         Why is there something rather than nothing? How could something come from nothing?<br/>
         The Big Bang is not an answer, by the way. The Big Bang just moves the problem.<br/>
@@ -122,7 +122,7 @@ Ear infection? Pop an antibiotic.
 Solved:
 <ul>
     <li>
-        <h5>Homelessness</h5>
+        <b>Homelessness</b><br/>
         As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁶<br/>
         How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁷<br/>
         The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.<br/>
@@ -131,26 +131,26 @@ Solved:
         Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.
     </li>
     <li>
-        <h5>Severe poverty</h5>
+        <b>Severe poverty</b><br/>
         Finland basically solved this too
     </li>
     <li>
-        <h5>"Poverty traps"</h5>
+        <b>"Poverty traps"</b><br/>
         The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁹<br/>
         Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine.<br/> 
         Your problems compound. Finland.
     </li>
     <li>
-        <h5>Capitalism or Communism</h5>
+        <b>Capitalism or Communism</b><br/>
         Finland again. Capitalism with a strong social safety net.<br/>
         Must we endlessly relitigate this?
     </li>
     <li>
-        <h5>Mass incarceration, recidivism</h5>
+        <b>Mass incarceration, recidivism</b><br/>
         Finland
     </li>
     <li>
-        <h5>Arguably the root of all of the above: unequal access to opportunity</h5>
+        <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
         <p>
             Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
             In other words, every school is funded exactly equally.<br/>
