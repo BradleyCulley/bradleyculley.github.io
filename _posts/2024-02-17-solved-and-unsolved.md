@@ -11,15 +11,19 @@ Unsolved:
 <ul>
     <li>
         <b>Success in romantic relationships</b>
+        <p></p>
     </li>
     <li>
-        <b>Grappling with human mortality</b>
+        <b>Grappling with mortality</b>
+        <p></p>
     </li>
     <li>
         <b>Free will versus determinism</b>
+        <p></p>
     </li>
     <li>
         <b>The Riemann hypothesis</b>
+        <p></p>
     </li>
     <li>
         <b>Theodicy</b><br/>
@@ -31,6 +35,7 @@ Unsolved:
     </li>
     <li>
         <b>How to build human-like artificial intelligence</b>
+        <p></p>
     </li>
     <li>
         <b>How to effectively raise children</b><br/>
@@ -115,7 +120,7 @@ Ear infection? Take an antibiotic.
 Solved:
 <ul>
     <li>
-        <b>Homelessness</b><
+        <b>Homelessness</b>
         <p>
             As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵
             How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶
