@@ -126,9 +126,11 @@ Solved:
         </p>
         <p>
             The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.
-            Pretty simple solution really. The United States has 653,104 people experiencing homelessness.⁷
+            Pretty simple solution really.
+        <p>
+            The United States has 653,104 people experiencing homelessness.⁷
             Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).
-            Homeless people in The US also generally live in much more dangerous conditions than do homeless people in Finland.
+            Homeless people in The US also generally live in more dangerous conditions than do homeless people in Finland.
         </p>
     </li>
     <li>
