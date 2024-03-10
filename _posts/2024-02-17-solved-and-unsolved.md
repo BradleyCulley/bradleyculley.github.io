@@ -42,7 +42,7 @@ Unsolved:
             Has anyone tried to fully solve this problem?
             "Here's human nature. It's a 25,000-page book".
             It doesn't seem an unreasonable ask. The connectome of the human brain is finite.
-            The analogous discovery and synthesis for calculus took place about 350 years ago and hasn't changed since.
+            The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since.
             It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete. 
         </p>
     </li>
