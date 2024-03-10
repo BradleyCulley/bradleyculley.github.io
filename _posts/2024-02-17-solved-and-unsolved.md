@@ -180,7 +180,6 @@ The unsolved problems are so much more interesting, and the solved problems are 
 </p>
 
 <br/>
-<br/>
 Sources:<br/>
 ¹: https://en.wikipedia.org/wiki/Theodicy <br/>
 ²: https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus <br/>
