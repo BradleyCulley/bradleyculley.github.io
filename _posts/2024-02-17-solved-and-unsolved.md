@@ -44,7 +44,7 @@ Unsolved:
     <li>
         <b>What "human nature" is</b><br/>
         <p>
-            Has anyone tried to fully solve this? "Here's human nature. It's a 25,000-page book". The connectome of the human brain is finite. The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since. It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete.<br/><br/> 
+            Has anyone tried to fully solve this? "Here's human nature. It's a 25,000-page book". The connectome of the human brain is finite. The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since. It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete. 
         </p>
     </li>
     <li>
