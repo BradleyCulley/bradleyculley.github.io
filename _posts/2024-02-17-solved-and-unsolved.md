@@ -79,6 +79,7 @@ Unsolved isn't unsolvable though
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
+    <br/>
     This shows the alleged rings in the Cosmic Microwave Background⁵:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
@@ -93,29 +94,28 @@ Unsolved isn't unsolvable though
 </p>
 <p>
     In response to du Bois-Reymond's phrase, the famous German mathematician David Hilbert had this to say:<br/>
-    "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
+
+    We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
     For us there is no ignorabimus, and in my opinion none whatever in natural science.
-    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²<br/><br/>
+    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")."²
+
+<br/><br/>
     Hilbert's tombstone bears the latter phrase³:<br/>
     <div align="center">
-      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
+      <img style="width: 20vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
     </div>
 </p>
 
 <p>
-    I've long been fascinated with problems like Fermat's Last Theorem.
-    There's a certain gravitas to a problem unsolved since 1637.
-    It has timelessness. There's epistemic humility: "this isn't easy".
+    I've long been fascinated with problems like Fermat's Last Theorem. There's a certain gravitas to a problem unsolved since 1637. A certain timelessness. Epistemic humility: "this isn't easy".
 </p>
 
 <p>
-    This lens of thinking has helped me put various purported solutions in perspective.<br/>
-    Did some dude just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?<br/>
-    And he's shouting-ly marketing it to you somewhere?
+    This lens of thinking has helped me put various purported solutions in perspective. Did some dude just recently, in the year 2024, finally figure out how to have harmonious romantic relationships? And he's shouting-ly marketing it to you somewhere?
 </p>
 
 <p>
-I think of these in contrast with problems that _are_ solved.<br/>
+I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved.<br/>
 Ear infection? Take an antibiotic.
 </p>
 
