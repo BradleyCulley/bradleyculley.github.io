@@ -14,7 +14,15 @@ Unsolved:
         <p></p>
     </li>
     <li>
+        <b>The Collatz conjecture</b>
+        <p></p>
+    </li>
+    <li>
         <b>Grappling with mortality</b>
+        <p></p>
+    </li>
+    <li>
+        <b>How to build human-like artificial intelligence</b>
         <p></p>
     </li>
     <li>
@@ -34,17 +42,12 @@ Unsolved:
         <p>There are billions of habitable planets in the universe, yet we've never observed intelligent life, or even life of any kind, elsewhere in the universe</p>
     </li>
     <li>
-        <b>How to build human-like artificial intelligence</b>
-        <p></p>
-    </li>
-    <li>
         <b>How to effectively raise children</b><br/>
         <p>A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.</p>
     </li>
     <li>
         <b>What "human nature" is</b><br/>
-        <p>
-        </p>
+        <p></p>
     </li>
     <li>
         <b>How to make people be good</b><br/>
@@ -176,7 +179,7 @@ Solved:
 
 <p> 
 Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
-We'll accept reductive answers about childrearing ("don't spoil them"), but argue to the ends of the Earth about capitalism.
+We'll accept reductive answers about The Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
 </p>
 
 <p>
