@@ -44,13 +44,12 @@ Unsolved:
     <li>
         <b>What "human nature" is</b><br/>
         <p>
-            Has anyone tried to fully solve this? "Here's human nature. It's a 25,000-page book". The connectome of the human brain is finite. The analogous discovery and synthesis for calculus happened about 350 years ago and hasn't changed since. It was a point of pride for my high school calculus teacher that what he was teaching was timeless and complete. 
         </p>
     </li>
     <li>
         <b>How to make people be good</b><br/>
         <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
-        Mountains of effort over the millennia. Countless moral systems, with only partial success.</p>
+        Much effort over the millennia. Countless moral systems, with only partial success.</p>
     </li>
     <li>
         <b>The Watchmaker Problem</b><br/>
@@ -156,9 +155,9 @@ Solved:
     <li>
         <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
         <p>
-            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).¹⁰<br/>
+            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹<br/>
             In other words, every school is funded exactly equally.
-            There are some very minor exceptions to this, such as foreign-language schools.⁹<br/><br/>
+            There are some very minor exceptions to this, such as foreign-language schools.¹⁰<br/><br/>
             No "school districts".
             The flip side of "I bought an expensive house to be in a good school district" is that other children have to be in bad school districts.
             In other words, generational poverty.<br/>
