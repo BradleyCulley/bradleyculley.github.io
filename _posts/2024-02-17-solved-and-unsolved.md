@@ -34,6 +34,10 @@ Unsolved:
         <p></p>
     </li>
     <li>
+        <b>What human nature is</b><br/>
+        <p></p>
+    </li>
+    <li>
         <b>Theodicy</b><br/>
         <p>"In the philosophy of religion, a theodicy is an argument that attempts to resolve the problem of evil that arises when omnipotence, omnibenevolence, and omniscience are all simultaneously ascribed to God."¹</p>
     </li>
@@ -44,10 +48,6 @@ Unsolved:
     <li>
         <b>How to effectively raise children</b><br/>
         <p>A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.</p>
-    </li>
-    <li>
-        <b>What "human nature" is</b><br/>
-        <p></p>
     </li>
     <li>
         <b>How to make people be good</b><br/>
@@ -110,7 +110,7 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-    This lens of thinking has helped me put various purported solutions in perspective. Did some dude just recently, in the year 2024, finally figure out how to have harmonious romantic relationships? And he's shouting-ly marketing it to you somewhere?
+    This lens of thinking has helped me put various purported solutions in perspective. Did someone just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?
 </p>
 
 <p>
