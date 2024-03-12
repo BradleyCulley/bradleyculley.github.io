@@ -1,5 +1,5 @@
 ### The Discoveries
-#### Great Breakthroughs in 20th-Century Science, Including the Original Papers<br/>by Alan Lightman
+#### Great Breakthroughs in 20th-Century Science, Including the Original Papers, <br/>by Alan Lightman
 
 <br/><br/>
 
@@ -13,8 +13,8 @@ _all references via [https://en.wikipedia.org/wiki/Alan_Lightman](https://en.wik
 
 ------------------------------------------
 
-Received this book as a gift from my grandfather. He had excellent taste in books, and in many other things.
-He was a medical doctor with strong well-developed intellectual passions outside of medicine. They included mathematics, computing, and philosophy.
+I received this book as a gift from my grandfather when I was around college age. He had excellent taste in books, and in many other things.
+He was a medical doctor with well-developed intellectual passions outside of medicine. They included mathematics, computing, and philosophy.
 
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.
 
