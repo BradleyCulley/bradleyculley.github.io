@@ -124,7 +124,7 @@ Solved:
     <li>
         <b>"Poverty traps"</b>
         <p>
-            The long-observed economic phenomenon of a spiraling into destitution that can happen below a certain level of wealth.⁸
+            The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁸
             Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
             Your problems compound. Finland again.
         </p>
