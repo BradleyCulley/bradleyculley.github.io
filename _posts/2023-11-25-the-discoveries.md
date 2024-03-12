@@ -29,7 +29,7 @@ Almost impossibly, he's a real-deal scientist, having published important astrop
 At MIT, he's led an initiative to help grow students' communication skills to match their technical skills:<br/>
 "He played a major role in establishing MIT's "Communication Requirement," which requires all undergraduates to receive training each of their four years in writing and speaking."
 
-Some chapters I particularly liked, with the name of the original paper and author below the chapter title:
+Some chapters I particularly liked, with the original scientific paper, author, and date below the chapter title:
 <ul>
     <li>
         <b>A Unified Theory of Forces</b><br/>
