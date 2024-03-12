@@ -125,13 +125,13 @@ Solved:
         <b>"Poverty traps"</b>
         <p>
             The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁸
-            Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
+            Your car broke down and you can't afford to fix it, so you can't drive to work. Choosing between food and medicine. 
             Your problems compound. Finland again.
         </p>
     </li>
     <li>
         <b>Capitalism or Communism</b>
-        <p>Finland again. Capitalism with a strong social safety net. Must we endlessly relitigate this?</p>
+        <p>Finland again. Capitalism with a strong social safety net. This need not be endlessly relitigated.</p>
     </li>
     <li>
         <b>Mass incarceration, recidivism</b><br/>
