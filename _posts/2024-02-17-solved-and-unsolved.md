@@ -63,7 +63,7 @@ Unsolved:
         Scientists don't know. Nobody knows.</p>
     </li>
 </ul>
-<br/>>
+<br/>
 <p>
 Unsolved isn't unsolvable though
 </p>
@@ -151,7 +151,7 @@ Solved:
         <p>
             There is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
             There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, etc.</p>
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, etc.
         </p>
     </li>
 </ul>
