@@ -63,12 +63,12 @@ Unsolved:
         Scientists don't know. Nobody knows.</p>
     </li>
 </ul>
-
+<br/>>
 <p>
 Unsolved isn't unsolvable though
 </p>
 <p>
-    A number of years ago British scientist Roger Penrose - a 2020 Laureate of the Nobel Prize in Physics - developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago⁴. The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang. The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
+    A number of years ago, British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago⁴. The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". Penrose claims there's experimental evidence of CCC, in the form of rings present in the afterglow of the Big Bang. The afterglow of the Big Bang is known as the cosmic microwave background (CMB).
 </p>
 <p>
     The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community.
@@ -90,6 +90,8 @@ Unsolved isn't unsolvable though
     In a speech in 1872, German physiologist Emil du Bois-Reymond famously popularized the prhase "Ignoramus et ignorabimus".²
     That's Latin for "we do not know and will not know".²
     That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
+</p>
+<p>
     That's perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
 </p>
 <p>
