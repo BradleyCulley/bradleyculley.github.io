@@ -3,7 +3,7 @@
 <p>
     <div style="text-align: center; font-weight: bold; font-size: 16px;">
         Some age-old problems are clearly unsolved<br/>
-        Others are clearly solved, yet their solutions are often ignored
+        Others are clearly solved, yet their solutions often ignored
     </div>
 </p>
 
@@ -159,7 +159,7 @@ Solved:
 <br/>
 <p> 
 Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
-We'll accept reductive answers about The Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
+It's common to accept reductive answers about The Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
 </p>
 
 <p>
