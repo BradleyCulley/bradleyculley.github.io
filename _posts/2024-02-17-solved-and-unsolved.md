@@ -86,26 +86,6 @@ Unsolved isn't unsolvable though
       <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
     </div>
 </p>
-<p>
-    In a speech in 1872, German physiologist Emil du Bois-Reymond famously popularized the prhase "Ignoramus et ignorabimus".²
-    That's Latin for "we do not know and will not know".²
-    That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
-</p>
-<p>
-    That's perhaps in part because of what would happen if you asked the average artist or writer "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
-</p>
-<p>
-    In response to du Bois-Reymond's phrase, the famous German mathematician David Hilbert had this to say:<br/>
-    "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus.
-    For us there is no ignorabimus, and in my opinion none whatever in natural science.
-    In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ("We must know – we will know")".²
-
-<br/><br/>
-    Hilbert's tombstone bears the latter phrase³:<br/>
-    <div align="center">
-      <img style="width: 20vw;" src="https://bradleyculley.github.io/images/David_Hilbert_headstone.png" />
-    </div>
-</p>
 
 <p>
     I've long been fascinated with problems like Fermat's Last Theorem. There's a certain gravitas to a problem unsolved since 1637. Timelessness. An epistemic humility: "this isn't easy".
