@@ -88,7 +88,7 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-    I've long been fascinated with problems like Fermat's Last Theorem. There's a certain gravitas to a problem unsolved since 1637. Timelessness. An epistemic humility: "this isn't easy".
+    I've long been fascinated with problems like Fermat's Last Theorem. There's a certain gravitas to a math problem unsolved since 1637. It has timelessness. There's epistemic humility: "this isn't easy".
 </p>
 
 <p>
