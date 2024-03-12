@@ -113,7 +113,7 @@ Solved:
         </p>
         <p>
             The United States has 653,104 people experiencing homelessness.⁷
-            Well over half a million, and a much higher per-capita rate, than Finland (and Sweden, etc.).
+            Well over half a million, and a much higher per-capita rate than Finland (and Sweden, etc.).
             Homeless people in The US also generally live in more dangerous conditions than do homeless people in Finland.
         </p>
     </li>
