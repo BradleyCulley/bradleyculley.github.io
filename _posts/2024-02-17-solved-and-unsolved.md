@@ -140,25 +140,23 @@ Solved:
     <li>
         <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
         <p>
-            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹<br/>
-            In other words, every school is funded exactly equally.
-            There are some very minor exceptions to this, such as foreign-language schools.¹⁰<br/><br/>
+            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹
+            In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.¹⁰
+        </p>
+        <p>
             No "school districts".
             The flip side of "I bought an expensive house to be in a good school district" is that other children have to be in bad school districts.
             In other words, generational poverty.<br/>
         </p>
         <p>
-            There is also no sorting of students by ability level, and no exams until the age of 18.<br/>
-            There's many a story in the US about a student getting miscategorized early in life, as learning disabled, behaviorally-flawed, or otherwise "defective".
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, various forms of bigotry, and so on.</p>
-        <p>
-            In Finland, problem solved.
-            In my opinion, this should be the bare minimum.
-            No stifling of ability, nor forcing you into a specific job, nor other relics of communism, but an equal chance.<br/>
+            There is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
+            There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, etc.</p>
         </p>
     </li>
 </ul>
 
+<br/>
 <p> 
 Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
 We'll accept reductive answers about The Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
