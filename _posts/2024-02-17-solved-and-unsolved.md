@@ -92,7 +92,7 @@ Unsolved isn't unsolvable though
     That's an ethos I sensed in literary studies, and in art in general: an elision of quantification.
 </p>
 <p>
-    That's perhaps in part because of what would happen if you asked the average artist or poet "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
+    That's perhaps in part because of what would happen if you asked the average artist or writer "what's 600 divided by 15?", but I think it runs deeper in the type of mind that gravitates toward literature and the arts.
 </p>
 <p>
     In response to du Bois-Reymond's phrase, the famous German mathematician David Hilbert had this to say:<br/>
