@@ -19,7 +19,7 @@ He was a medical doctor with well-developed intellectual passions outside of med
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.
 
 Alan Lightman is distinctive in being both a fully qualified professor of astrophysics as well as a highly accomplished writer.
-He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D.).
+He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D).
 In the latter, he studied under the now Nobel laureate astrophysicist Kip Thorne. 
 
 As a writer, apart from "The Discoveries", he wrote the international bestseller "Einstein's Dreams" and the National Book Award finalist "The Diagnosis".
