@@ -27,7 +27,7 @@ Canton is a small town that's exactly like every other small town near it in Cen
 It's flat, impeccable, and, to use a word I once heard to describe the Midwest, "expansive".</p>
 
 <p>The card processing machines were broken.
-The gas station clerks were both friendly and apologetic, but didn't seem the least bit distressed.
+The gas station clerks were friendly and apologetic, but didn't seem the least bit worried.
 I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was a dumb idea.
 The clerk made some special dispensation on my behalf.
 As I recall, she brewed a fresh batch of decaf.</p>
