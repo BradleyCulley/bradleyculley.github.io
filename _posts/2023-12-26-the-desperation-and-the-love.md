@@ -42,7 +42,7 @@ Tailgating. Dogs with their heads sticking out of the car window.</p>
 <p>One can feel them both upon arrival in The US: the desperation and the love.</p>
 
 <p>Years ago, I read a description of friendships in the Nordics versus friendships in Russia.
-Apparently, friendships in Russia inevitably fall into a period of tribulation, for some reason or another, before ultimately emerging as an unbreakable bond, solid to the grave.  
+Apparently, friendships in Russia inevitably fall into a period of stormy tribulation, for some reason or another, before ultimately emerging as an unbreakable bond.  
 Meanwhile, friendships in the Nordics have no such feature.</p>
 
 <p>The author's theory was that, in Russia, you don't have a safety net in life, so your friend becomes your safety net.
