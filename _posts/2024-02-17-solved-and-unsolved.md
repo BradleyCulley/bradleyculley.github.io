@@ -156,7 +156,7 @@ Solved:
         <p>
             A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
             In the comments Finns were weighing in with actual, civil, reasonable debate.
-            No ad-hominem, no strawman, no wild appeals to emotion. Bit of a shocker for an American.
+            No ad-hominem, no strawman, no wild appeals to emotion.
             It occurred I was seeing the result of many good ideas in Finnish society, though perhaps most of all the civility, thinking skills, and intra-social decency that come with a good foundational education for all.
         </p>
     </li>
