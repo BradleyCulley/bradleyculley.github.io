@@ -155,9 +155,9 @@ Solved:
         </p>
         <p>
             A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
-            In the comments Finns were weighing in with actual, civil, reasonable debate.
+            In the comments Finns were weighing in with civil and reasonable debate.
             No ad-hominem, no strawman, no wild appeals to emotion.
-            It occurred I was seeing the result of many good ideas in Finnish society, though perhaps most of all the civility, inquiry skills, and civic-minded decency manifested by a uniformly solid system of education.
+            It occurred I was seeing the result of many good ideas in Finnish society, though perhaps most of all the civility, inquiry skills, and civic-minded decency manifested by a uniformly solid educational system.
         </p>
     </li>
 </ul>

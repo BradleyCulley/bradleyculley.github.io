@@ -151,7 +151,7 @@ That's not because I've been to prison - I've never even been inside a prison or
 They do so in the same way that watching your date interact with the waiter does: they show what behavior is like towards those in positions of relative powerlessness.
 If he's a jerk to the waiter but nice to you, odds are he'll be a jerk to you if you lose your job and get cancer...because you'll no longer have anything he wants.
 
-That's the key really: you cannot be civilized, or expect a fully good life or a civilized experience, in a society that is uncivilized. Saint Francis of Assisi
+That's the key really: you can't be completely civilized, or expect a fully civilized experience, in a society that is uncivilized.
 
 add to "the most important thing in the world" post: I once read a description of US Healthcare as being like a Rolls Royce. Packed with features, absolutely top-of-the-line, the best money can buy. And almost no one can afford it.
 
