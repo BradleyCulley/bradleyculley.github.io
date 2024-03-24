@@ -96,7 +96,7 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
+    I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
 </p>
 
 Solved:
@@ -108,7 +108,7 @@ Solved:
             How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶
         </p>
         <p>
-            The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to navigate administrative box-checking.
+            The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend to not be in a state of mind, body, and life to successfully navigate administrative box-checking.
             A pretty simple solution: "Housing First".
         </p>
         <p>
@@ -125,7 +125,7 @@ Solved:
         <b>"Poverty traps"</b>
         <p>
             The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁸
-            Your car broke down and you can't afford to fix it, so you can't drive to work. Choosing between food and medicine. 
+            Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
             Your problems compound. Finland again.
         </p>
     </li>
@@ -138,7 +138,7 @@ Solved:
         <p>Finland</p>
     </li>
     <li>
-        <b>Arguably the root of all of the above: unequal access to opportunity</b><br/>
+        <b>Arguably the root of all of the above: unequal basic education.</b><br/>
         <p>
             Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹
             In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.¹⁰
@@ -152,6 +152,12 @@ Solved:
             There is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
             There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
             There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, etc.
+        </p>
+        <p>
+            A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
+            In the comments Finns were weighing in with actual, civil, reasonable debate.
+            No ad-hominem, no strawman, no wild appeals to emotion. Bit of a shocker for an American.
+            It occurred I was seeing the result of many good ideas in Finnish society, though perhaps most of all the civility, thinking skills, and intra-social decency that come with a good foundational education for all.
         </p>
     </li>
 </ul>
