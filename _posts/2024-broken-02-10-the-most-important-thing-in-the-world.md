@@ -1,4 +1,6 @@
-<b>"The most important thing in the world is culture"</b>
+### The Most Important Thing In The World
+
+<b>The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us</b>
 
 <p>
 I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German artificial intelligence researcher and cognitive scientist, and the AI model GPT-3.
@@ -44,37 +46,23 @@ As an adult, I saw that despite incredible innovation in medicine, people suffer
 </p>
 
 <p>
-So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known and implemented among the middle class and the wealthy?
-Technology, entrepreneurship, and wealth are necessary but not sufficient.
+    So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known and implemented among the middle class and the wealthy?
+    Technology, entrepreneurship, and wealth are necessary but not sufficient.
 </p>
 
 <p>
     In 2011, the state of Vermont passed H.202, resulting in single-payer (a.k.a. completely government-funded) healthcare for Vermont residents.
-    The thing never made it out of the planning stages. 
+    It never made it out of the planning stages. 
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
     A year later, it was dead:
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    In other words, "I, as a business owner, would <span style="font-style: italic;">actually</span> have to spend my money on poor people?".
-</p>
-
-<p>
-    A few years ago, I started own software engineering consultancy business.
-    I purchased my health insurance through healthcare.gov, the health insurance marketplace created by the Affordable Care Act (ACA).
-    I didn't qualify for a discounted price though, because my income was too high.
-    I paid full price for my plan and thought nothing of it: just a way to find, compare, and purchase plans.
-    Nearly very doctor I saw during the year or so I had that health insurance plan asked me what my job was, even when it was clearly medically irrelevant.
-</p>
-
-<p>
-    The irony is I was earning around $75+/hr, had around 10 years of full-time experience as an engineer, was creating economic value out of nothing (creating a business), have a STEM degree from a very fancy university, etc.
-    I also received clearly substandard discriminatory medical care.
-    They just saw a guy on welfare, though I wasn't.
+    In other words, "I, as a business owner, would have to spend my money on poor people?".
     So that's the moral of the story: pass all the laws you want - culture is much more fundamental.
 </p>
 
 <p>
-That's what's not adding up for Bernie Sanders. I truly believe he's well-intentioned.
-The issue is that he's trying, to use a corporate term, to put lipstick on a pig.
+    That's what's not adding up for Bernie Sanders. I truly believe he's well-intentioned.
+    The issue is that he's trying, to use a corporate term, to put lipstick on a pig.
 </p>
 
 <p>
@@ -119,20 +107,6 @@ Whoa, that is  wonderful stuff!
     A culture need not be in one-to-one association with a nation.
     Every family has its own culture.
     The same for every town, region, school, workplace, even a given relationship between two people.
-</p>
-
-<p>
-    You can't be completely civilized, or expect a completely civilized experience, in a culture that is uncivilized.
-    I see people in the United States desperately trying.
-    Trying to create the perfect bubble.
-    Then they have a crazy neighbor.
-    Or their kid gets tangled up in drug abuse.
-</p>
-
-<p>
-    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (link his essay).
-    Military veteran, tenured professor, respected senior employee, loved grandmother with a big extended family.
-    The tribe trusts you, and you trust the tribe.
 </p>
 
 <b>Culture is the end product</b>
@@ -293,3 +267,34 @@ I once read a description of US Healthcare as being like a Rolls Royce. Packed w
 
 When I studied abroad in Senegal, one of the Senegalese lecturers spoke about religion during one of his lectures.
 He explained religion in Senegal as something like this: <draw a diagram with Islam, etc. above, and a box all the way across the bottom for "animism">. You could draw a similar diagram for American politics, with left/right above, and individualism below (<link to Overindividualism post>): <include the drawing>. That's culture.
+
+<p>
+    A few years ago, I started own software engineering consultancy business.
+    I purchased my health insurance through healthcare.gov, the health insurance marketplace created by the Affordable Care Act (ACA).
+    I didn't qualify for a discounted price though, because my income was too high.
+    I paid full price for my plan and thought nothing of it: just a way to find, compare, and purchase plans.
+    Nearly very doctor I saw during the year or so I had that health insurance plan asked me what my job was, even when it was clearly medically irrelevant.
+</p>
+
+
+<p>
+    The irony is I was earning around $75+/hr, had around 10 years of full-time experience as an engineer, was creating economic value out of nothing (creating a business), have a STEM degree from a very fancy university, etc.
+    I also received clearly substandard discriminatory medical care.
+    They just saw a guy on welfare, though I wasn't.
+    So that's the moral of the story: pass all the laws you want - culture is much more fundamental.
+</p>
+
+
+<p>
+    You can't be completely civilized, or expect a completely civilized experience, in a culture that is uncivilized.
+    I see people in the United States desperately trying.
+    Trying to create the perfect bubble.
+    Then they have a crazy neighbor.
+    Or their kid gets tangled up in drug abuse.
+</p>
+
+<p>
+    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (link his essay).
+    Military veteran, tenured professor, respected senior employee, loved grandmother with a big extended family.
+    The tribe trusts you, and you trust the tribe.
+</p>
