@@ -1,53 +1,53 @@
 ### The Most Important Thing In The World
 
-<b>The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us</b>
+<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
-I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German artificial intelligence researcher and cognitive scientist, and the AI model GPT-3.
-Dr. Bach has prompted GPT-3 to answer as though GPT-3 were Johann Wolfgang von Goethe, the famous 18th and 19th century German writer.
+    I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German artificial intelligence researcher and cognitive scientist, and the AI model GPT-3.
+    Dr. Bach has prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
 </p>
 
 <p>
-<b>Bach:</b><br/>
-"The world is full of good things, and we can't experience them all.
-We have to choose a few, and the problem is that we chose the wrong ones.
-But then again, it's not our fault: we had no other choice."<br/><br/>
-<b>Goethe:</b><br/>
-"What can we do about it? We can only change the culture."<br/><br/>
-<b>Bach:</b><br/>
-"Johann, I agree. <b>The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us"</b>.<br/><br/>
-<b>Goethe:</b><br/>
-"Then let's begin to create a new culture."
+    <b>Bach:</b><br/>
+    "The world is full of good things, and we can't experience them all.
+    We have to choose a few, and the problem is that we chose the wrong ones.
+    But then again, it's not our fault: we had no other choice."<br/><br/>
+    <b>Goethe:</b><br/>
+    "What can we do about it? We can only change the culture."<br/><br/>
+    <b>Bach:</b><br/>
+    "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us".<br/><br/>
+    <b>Goethe:</b><br/>
+    "Then let's begin to create a new culture."
 </p>
 
 <p>
-See here for the whole conversation: https://www.youtube.com/watch?v=x58FnWgCGCs
+    See here for the whole conversation: https://www.youtube.com/watch?v=x58FnWgCGCs
+</p>
+
+<b>Culture is the root</b>
+<p>
+    I used to think technological innovation is the key to a better society.
+    If we made a better microchip or a new vaccine, things would be good.
+    I still think it's part of the puzzle, but it's not at the root.
 </p>
 
 <p>
-I used to think technological innovation is the key to a better society.
-If we made a better microchip or a new vaccine, things would be good.
-That was part of my motivation to study and work in science and technology.
-I still think it's part of the puzzle, but it's not the root solution.
+    Technology is nothing to sneeze at though.
+    Only one event in human history has truly changed the course of human prosperity: the invention of the steam engine, in [[add date for its invention, and a citation]]
+    <div align="center">
+      <img src="https://bradleyculley.github.io/images/industrial-revolution.png" />
+      <div style="font-size: 10px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
+    </div>
+    -https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/
 </p>
 
 <p>
-Before discussing culture, it's worth looking at technology, because technology is nothing to sneeze at.
-Only one event in human history has changed the course of human prosperity: the invention of the steam engine, in [[add date for its invention, and a citation]]
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-  <div style="font-size: 10px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
-</div>
--https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/
-</p>
-
-<p>
-As an adult, I saw that despite incredible innovation in medicine, people suffer and die from uncomplicated diseases, including here in the United States.
+    As an adult, I saw that despite incredible innovation in medicine, people suffer and die from uncomplicated diseases, including here in The United States.
 </p>
 
 <p>
     So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known and implemented among the middle class and the wealthy?
-    Technology, entrepreneurship, and wealth are necessary but not sufficient.
+    Technology, entrepreneurship, and wealth are good and necessary, but not sufficient.
 </p>
 
 <p>
@@ -57,56 +57,88 @@ As an adult, I saw that despite incredible innovation in medicine, people suffer
     A year later, it was dead:
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
     In other words, "I, as a business owner, would have to spend my money on poor people?".
-    So that's the moral of the story: pass all the laws you want - culture is much more fundamental.
 </p>
 
 <p>
-    That's what's not adding up for Bernie Sanders. I truly believe he's well-intentioned.
+    American culture is quite individualistic. It's not a selfish culture - far from it - but it is individualistic.
+    Pass all the laws you want - culture is much more fundamental.
+</p>
+
+<p>
+    That's what's not adding up for Bernie Sanders. I do believe he's well-intentioned.
     The issue is that he's trying, to use a corporate term, to put lipstick on a pig.
 </p>
 
 <p>
-"
-But then I tell them, "If you think a bill of rights is what sets us apart,
-you’re crazy." Every banana republic in the world has a bill of rights. Every
-president for life has a bill of rights. The bill of rights of the former evil
-empire, the Union of Soviet Socialist Republics, was much better than ours.
-I mean it literally. It was much better. We guarantee freedom of speech and
-of the press. Big deal. They guaranteed freedom of speech, of the press, of
-street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
-Whoa, that is  wonderful stuff!
-" - Justice Antonin Scalia
+    "
+    But then I tell them, "If you think a bill of rights is what sets us apart,
+    you’re crazy." Every banana republic in the world has a bill of rights. Every
+    president for life has a bill of rights. The bill of rights of the former evil
+    empire, the Union of Soviet Socialist Republics, was much better than ours.
+    I mean it literally. It was much better. We guarantee freedom of speech and
+    of the press. Big deal. They guaranteed freedom of speech, of the press, of
+    street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
+    Whoa, that is  wonderful stuff!
+    " - Justice Antonin Scalia
 </p>
 
 <p>
-    The reason Nordic prisons are humane is not that there's a law stating they ought to be, nor even that they're well-funded.
+    The reason Nordic prisons are humane is not that there's this law or that law stating they ought to be, nor even that they're well-funded.
     They're humane because the society around them is humane. It's the culture.
 </p>
 
+<b>What is culture?</b>
 <p>
-    What is culture?
-    It's often associated with its externalities: food, language, religion, special dances, rituals, cool hats.
-    But it's actually what in mathematics are called an axiomatic invariants.
+    Culture is often associated with its externalities: food, language, religion, special dances, special rituals, cool hats.
+    But it's actually what in mathematics is called a set of axiomatic invariants.
     That's the stuff so fundamental (when you grow up in the culture) that it seems obvious.
-    The only way it could be.
 </p>
 
 <p>
-    A framework I like for thinking about culture is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
+    A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
+    Here are the 5 dimensions in his theory, plotted for a few countries:
     https://upload.wikimedia.org/wikipedia/commons/0/0e/Hofstede_4_countries_6_dimensions.png
+
+    Note the score for "invididualism" for The United States? That was the hitch with Green Mountain Care.
 </p>
 
 <p>
-    Prisons are good at demonstrating bedrock cultural truths.
-    "The degree of civilization in a society can be judged by entering its prisons" -https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/
-    Prisons reveal the true cultural attitude towards those in a position of relative powerlessness.
-    "Of course prisoners get abused. If you don't want to get abused, don't go to prison!". Have you heard that before?
-</p>
-
-<p>
-    A culture need not be in one-to-one association with a nation.
+    A culture need not be in one-to-one association with a nation though.
     Every family has its own culture.
-    The same for every town, region, school, workplace, even a given relationship between two people.
+    The same for every town, school, and even every relationship between two people.
+</p>
+
+<p>
+    Culture is often ostensibly consequentialist: "spicy food is good for you".
+    While it can have consequentialist ramifications, it's fundamentally deontological: "I like this vibe".
+</p>
+
+<b>The most important thing in the world</b>
+<p>
+    You can't be completely civilized, or expect a completely civilized experience, in a larger culture that is uncivilized.
+    I see people in the United States desperately trying.
+    Trying to create the perfect bubble.
+    Then they have a crazy neighbor.
+    Or their kid gets tangled up in drugs.
+</p>
+
+<p>
+    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (link his essay).
+    Military veteran, tenured professor, respected senior employee, loved grandmother with a big extended family.
+</p>
+
+<p>
+    Because it's the most important thing in the world, people will do nearly anything for culture.
+    A demonstration of this is The United States' various failed attempts at nation-building in foreign countries.
+    People would rather have no government, or a disfunctional government, than a culturally-foreign government.
+    So the US-backed government collapses as soon as the US leaves. They never wanted it.
+</p>
+
+<p>
+    Paul Erdős was a famous mathematician who led an unusual life.
+    He was homeless, a bachelor with no children, and owned only what he could carry in a suitcase.
+    He traveled from mathematical event to mathematical event, staying in the homes of other mathematicians, who hosted him.
+    Beyond the biological basics, he really only had the culture of professional mathematics and his good position within it, and he was happy as a clam. 
 </p>
 
 <b>Culture is the end product</b>
@@ -118,7 +150,7 @@ Whoa, that is  wonderful stuff!
 </p>
 
 <p>
-    The medieval French built beautiful cathedrals, the Mayans built glorious Ziggurats.
+    The medieval French built beautiful cathedrals. The Mayans built glorious Ziggurats.
     The physical embodiment of a cultural motif like that is a nice metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of the activities of their people into certain refined cultural edifices in physical/emotional/intellectual space.
     What's built is an aesthetic, or to use a colloquial term, a vibe.
@@ -126,37 +158,35 @@ Whoa, that is  wonderful stuff!
 </p>
 
 <p>
-    If you pick a random Wikipedia page and click the first link (that's not a pronunciation link), then click the first link on the page it takes you to, and continue this procedure, eventually you end up on the Wikipedia page for "Philosophy".
+    If you pick a random Wikipedia page and click the first link that's not pronunciation-related, then click the first link on the page it takes you to, and continue this procedure, eventually you end up on the Wikipedia page for "Philosophy".
 </p>
 
-<p>
-    Given culture is the end product, people will do nearly anything for culture.
-    A demonstration of this is the United States' various failed attempts at nation-building abroad.
-    People would rather have no government, or a disfunctional government, than a culturally-foreign government.
-    So the US-backed government collapses as soon as the US leaves. Nobody wanted it.
-    That's what anti-colonialism is all about. It's quite simple really. 
-</p>
-
-<b>How do you change culture?</b>
+<b>How do you change the culture?</b>
 <p>
 In Bach's words: "What can we do about it? We can only change the culture."
-
 How do we change the culture?
+</p>
 
-In my opinion, this was solved by the 18th century Scottish philosopher David Hume.
-He had an oddly specific answer: the "public intellectual".
-Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual, who out of both inclination and necessity makes their work palatable and interesting for everyday people.
-Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Carl Sagan, Ayn Rand, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
+<p>
+    In my opinion, this was solved by the 18th century Scottish philosopher David Hume.
+    He had an oddly specific answer: the "public intellectual".
+    Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual, who out of both inclination and necessity makes their work palatable and interesting for everyday people.
+    Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Carl Sagan, Ayn Rand, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
+</p>
 
-Culture is the root of everything else, and public intellectuals create the culture. They're at the very root.
+<p>
+    Culture is upstream of everything else, and public intellectuals create the culture.
+    Beyond the biological basics, public intellectuals create the software we all run.
+    I think the concept of public intellectual is on a gradient. Each of us can be public intellectuals somewhere on the gradient.
+    We can shape the culture in our family, our workplace, or beyond.
 
-Years ago, I saw a question in an online forum: "which profession has had the greatest impact on the world?".
-Soldier, politician, scientist, etc..
-One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
+    Years ago, I saw a question in an online forum: "which profession has had the greatest impact on the world?".
+    Soldier, politician, explorer, scientist.
+    One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
 </p>
 
 
-
+-----
 Beyond the biological basics, the public intellectuals create the software we're all running.
 The rest of everything is downstream from the cultural motifs they create and/or promote.
 
@@ -217,7 +247,7 @@ It's the same as watching your date interact with the waiter at a restaurant.
 They reveal behavior towards those in positions of relative powerlessness.
 If he's a jerk to the waiter but nice to you, odds are he'll be a jerk to you if you lose your job and get cancer...because you'll no longer have anything he wants.
 
-Y
+
 add to "the most important thing in the world" post: 
 
 
@@ -284,17 +314,9 @@ He explained religion in Senegal as something like this: <draw a diagram with Is
     So that's the moral of the story: pass all the laws you want - culture is much more fundamental.
 </p>
 
-
 <p>
-    You can't be completely civilized, or expect a completely civilized experience, in a culture that is uncivilized.
-    I see people in the United States desperately trying.
-    Trying to create the perfect bubble.
-    Then they have a crazy neighbor.
-    Or their kid gets tangled up in drug abuse.
-</p>
-
-<p>
-    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (link his essay).
-    Military veteran, tenured professor, respected senior employee, loved grandmother with a big extended family.
-    The tribe trusts you, and you trust the tribe.
+    Prisons are good at demonstrating bedrock cultural truths.
+    "The degree of civilization in a society can be judged by entering its prisons" -https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/
+    Prisons reveal the true cultural attitude towards those in a position of relative powerlessness.
+    "Of course prisoners get abused. If you don't want to get abused, don't go to prison!". Have you heard that before?
 </p>

@@ -22,12 +22,13 @@ It was considered completely normal.</p>
 <p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
 
 <p>That's the one direction: things the other culture does that yours does not.
-The other direction, however, is more intensely the direction of what Sigmund Freud called a "lost love".
-For Freud, a lost love could be a person, but it could also be a deeply held ideal or truth.
-In this context: things present in your culture and absent in the new one.</p>
+However, more intense is what's present in your culture, but completely absent in the other culture.
+That's more what gives rise to the feeling that Sigmund Freud called a "lost love".
+For Freud, a lost love could be a person, but it could also be an ideal or a concept.
+And as we know, lost love is the worst emotion a human can experience.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or maybe it's a "Six-Pack-Joe-The-Plumber" society, in which the hands-on work of skilled tradespeople, firefighters, and so on holds a primacy so presuppositionally sacrosanct as to seem obvious.</p>
+Or maybe it's a "Six-Pack-Joe-The-Plumber-Schmoe" society, in which the hands-on work of skilled tradespeople, firefighters, and so on holds a primacy so presuppositionally sacrosanct so as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach; securing particular burial rites.
