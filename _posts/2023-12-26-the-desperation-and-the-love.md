@@ -45,7 +45,7 @@ Tailgating. Dogs with their heads sticking out of the car window.</p>
 Apparently, friendships in Russia inevitably fall into a period of stormy tribulation, for some reason or another, before ultimately emerging as an unbreakable bond.  
 Meanwhile, friendships in the Nordics have no such feature.</p>
 
-<p>The author's theory was that, in Russia, you don't have a safety net in life, so your friend becomes your safety net.
+<p>The author theorized that in Russia, where you don't have a safety net in life, your friend becomes your safety net.
 The crucible of tribulation cements the bond.
 In the Nordics, the government provides a safety net, so an auxiliary system is unnecessary.</p>
 
