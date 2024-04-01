@@ -1,12 +1,12 @@
 ### The Desperation and The Love
 
-<p><b>The United States is characterized by a deep sense of both desperation and a freewheeling sort of love</b></p>
+<p><b>The United States is characterized by a deep sense of both desperation and a sort of freewheeling love</b></p>
 
 <p>Last year, I was at the ticket counter of the Stockholm Arlanda Airport in Sweden.
 At one point, a man stepped up to speak with the ticket agent at a nearby counter.</p>
 
 <p>He was late middle-aged, dressed in business casual, and fairly well-groomed.
-He set his backpack down at his feet and started pawing around in it - probably for a ticket or a passport.
+He set his backpack down at his feet and started rummaging around in it - probably for a ticket or a passport.
 He did so with a certain restrained franticness.
 It was a franticness that, in my estimation, wasn't the result of, for example, being late for his flight.
 He just generally seemed harried and stressed out.</p>
@@ -29,8 +29,8 @@ It's flat, impeccable, and, to use a word I once heard to describe the Midwest, 
 <p>The card processing machines were broken.
 The gas station clerks were friendly and apologetic, but didn't seem the least bit worried.
 I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was a dumb idea.
-The clerk made some special dispensation on my behalf.
-As I recall, she brewed a fresh batch of decaf.</p>
+One of the clerks made some special accommodation for me.
+As I recall, it was brewing a fresh batch of decaf.</p>
 
 <p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
 The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
