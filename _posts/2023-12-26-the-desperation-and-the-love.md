@@ -6,7 +6,7 @@
 At one point, a man stepped up to speak with the ticket agent at a nearby counter.</p>
 
 <p>He was late middle-aged, dressed in business casual, and fairly well-groomed.
-He set his backpack down at his feet and started rummaging around in it - probably for a ticket or a passport.
+He set his backpack down at his feet and started pawing around in it - probably for a ticket or a passport.
 He did so with a certain restrained franticness.
 It was a franticness that, in my estimation, wasn't the result of, for example, being late for his flight.
 He just generally seemed harried and stressed out.</p>
