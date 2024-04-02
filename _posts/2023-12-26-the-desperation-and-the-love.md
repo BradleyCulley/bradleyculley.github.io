@@ -12,7 +12,7 @@ It was a franticness that, in my estimation, wasn't the result of, for example, 
 He just generally seemed harried and stressed out.</p>
 
 <p>I'd perhaps not have taken notice of this, had it not happened in Stockholm Arlanda Airport.
-One can spend all day in Sweden without encountering someone being frantic.</p>
+One can spend all day in Sweden without encountering someone acting frantic.</p>
 
 <p>I thought to myself "I bet he's American".
 Sure enough, he stepped up and spoke with the ticket agent in English, with an American accent.</p>
