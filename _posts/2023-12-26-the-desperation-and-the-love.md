@@ -37,7 +37,7 @@ The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
 
 <p>There's a particular kind of characteristically public, and characteristically freewheeling, love in The United States.
 Dollar store employees hugging each other before one of them goes on break.
-Tailgating. Dogs with their heads sticking out of the car window.</p>
+Tailgating. Dogs with their heads sticking out the car window.</p>
 
 <p>One can feel them both upon arrival in The US: the desperation and the love.</p>
 
