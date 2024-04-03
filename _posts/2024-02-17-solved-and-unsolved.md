@@ -93,7 +93,7 @@ Unsolved isn't unsolvable though
 </p>
 
 <p>
-    This lens of thinking has helped me put various purported solutions in perspective. Did someone just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?
+    This lens of thinking has helped me put into perspective purported solutions to tough problems. Did someone just recently, in the year 2024, finally figure out how to have harmonious romantic relationships?
 </p>
 
 <p>
