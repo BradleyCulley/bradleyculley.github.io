@@ -32,7 +32,7 @@ I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was
 One of the clerks made some special accommodation for me.
 As I recall, the accommodation was brewing a fresh batch of decaf.</p>
 
-<p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
+<p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story...involving injury and unemployment, as I recall.
 The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
 
 <p>There's a particular kind of characteristically public, and characteristically freewheeling, love in The United States.
