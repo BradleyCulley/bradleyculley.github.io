@@ -24,7 +24,7 @@ That's the desperation.</p>
 
 <p>In mid-2022, I went to a gas station in Canton, Illinois.
 Canton is a small town that's exactly like every other small town near it in Central Illinois.
-It's flat, impeccable, and, to use a word I once heard to describe the Midwest, "expansive".</p>
+It's flat, impeccable, and expansive.</p>
 
 <p>The card processing machines were broken.
 The gas station clerks were friendly and apologetic, but didn't seem the least bit worried.
