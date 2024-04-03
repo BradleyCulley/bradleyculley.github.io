@@ -30,7 +30,7 @@ It's flat, impeccable, and expansive.</p>
 The gas station clerks were friendly and apologetic, but didn't seem the least bit worried.
 I got an iced coffee, made by adding ice to hot coffee, which, it turns out, was a dumb idea.
 One of the clerks made some special accommodation for me.
-As I recall, it was brewing a fresh batch of decaf.</p>
+As I recall, the accommodation was brewing a fresh batch of decaf.</p>
 
 <p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story, involving injury and unemployment, as I recall.
 The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
