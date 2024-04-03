@@ -68,7 +68,8 @@ Unsolved:
 Unsolved isn't unsolvable though
 </p>
 <p>
-    A number of years ago, British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago². The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". Penrose claims there's experimental evidence for CCC, in the form of rings present in the afterglow of the Big Bang, which is known as the "cosmic microwave background radiation".
+    A number of years ago, British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago². The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". Penrose claims there's experimental evidence for CCC, in the form of rings present in the afterglow of the Big Bang.
+    The afterglow of the Big Bang is known as the "cosmic microwave background radiation".
 </p>
 <p>
     The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community.
