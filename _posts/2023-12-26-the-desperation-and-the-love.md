@@ -35,7 +35,7 @@ As I recall, the accommodation was brewing a fresh batch of decaf.</p>
 <p>By the time I left the gas station, we'd all been treated to one man's (semi-sad, but he was upbeat about it) life's story...involving injury and unemployment, as I recall.
 The patrons - complete strangers - were chatting amicably amongst ourselves.</p>
 
-<p>There's a particular kind of characteristically public, and characteristically freewheeling, love in The United States.
+<p>There's a particular kind of characteristically public, and characteristically freewheeling, love in the United States.
 Dollar store employees hugging each other before one of them goes on break.
 Tailgating. Dogs with their heads sticking out the car window.</p>
 
