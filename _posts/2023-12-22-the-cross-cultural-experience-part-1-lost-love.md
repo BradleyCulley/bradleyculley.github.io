@@ -44,7 +44,7 @@ That's because anyone of reasonable intellect must conclude that it's not just t
 
 <p>He later created a series of statues titled "Les Voyageurs", which is French for "The Travelers".</p>
 
-<p>Each statue is missing a piece of their body, symbolizing that lost love.</p>
+<p>Each statue is missing a piece of their body, symbolizing the experience of lost love in moving to a new culture.</p>
 
 <div align="center">
   <img style="height: 83vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
