@@ -31,8 +31,9 @@ And as we know, lost love is the worst emotion a human can experience.</p>
 Or maybe it's a "Six-Pack-Joe-The-Plumber-Schmoe" society, in which the hands-on work of skilled tradespeople, firefighters, and so on holds a primacy so presuppositionally sacrosanct so as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
-Being a good Little League coach; securing particular burial rites.
-The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.</p>
+Being a good Little League coach. Securing particular burial rites.
+The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were only cultural motifs all along.
+Relative truths, not absolute truths like chemistry or physics.</p>
 
 <p>The effect is really a double dose.
 That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, in fact, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
