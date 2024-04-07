@@ -78,7 +78,7 @@ Unsolved isn't unsolvable though
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     <br/>
-    These are diagrams from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/><br/>
+    These are images of the sky, from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/><br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
     </div>
