@@ -6,7 +6,7 @@
         Others are clearly solved, yet their solutions often ignored
     </div>
 </p>
-
+<br/>
 <h4>Unsolved:</h4>
 <ul>
     <li>
@@ -66,7 +66,7 @@ Unsolved isn't unsolvable though
 <p>
     Relevant to the Watchmaker Problem, in 2006 British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, proposed a theory called "Conformal cyclic cosmology (CCC)", which proposes an infinitely old universe².
     CCC holds that there have always been cycles of Big Bangs and "conformal rescalings", since literally forever ago².
-    The idea is that the rescalings shrink the universe down to a very small size, and then the next Big Bang happens.
+    The idea is that after a while a "rescaling" shrinks the universe back down, and then the next Big Bang happens.
 </p>
 <p>
     That would solve The Watchmaker Problem.
@@ -134,7 +134,7 @@ Unsolved isn't unsolvable though
         </p>
     </li>
     <li>
-        <b>Capitalism or Communism</b>
+        <b>Capitalism or communism</b>
         <p>Finland again. Capitalism with a strong social safety net. This need not be endlessly relitigated.</p>
     </li>
     <li>
