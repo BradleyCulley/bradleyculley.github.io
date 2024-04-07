@@ -64,7 +64,7 @@ Unsolved isn't unsolvable though
 <p>
     That would solve The Watchmaker Problem.
     If the universe has always existed, nothing created it.
-    Penrose claims there's experimental evidence for CCC, in the form of rings (which he calls "Hawking Points"³) present in the afterglow of the Big Bang³.
+    Penrose claims there's experimental evidence for CCC, in the form of rings, which he calls "Hawking Points"³, present in the afterglow of the Big Bang³.
     The afterglow of the Big Bang is known as the "cosmic microwave background radiation".
 </p>
 <p>
