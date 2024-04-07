@@ -7,7 +7,7 @@
     </div>
 </p>
 
-Unsolved:
+<h4>Unsolved:</h4>
 <ul>
     <li>
         <b>Success in romantic relationships</b>
@@ -47,7 +47,12 @@ Unsolved:
     </li>
     <li>
         <b>How to effectively raise children</b><br/>
-        <p>A balancing act. Give them everything and they turn out badly. Give them nothing and they turn out badly.</p>
+        <p>
+            A balancing act.
+            Give them everything and they turn out badly.
+            Give them nothing and they turn out badly.
+            People with wealth, health, power, fame, good intentions, and essentially unlimited access to information regularly raise messed up children.
+        </p>
     </li>
     <li>
         <b>How to make people be good</b><br/>
@@ -68,22 +73,32 @@ Unsolved:
 Unsolved isn't unsolvable though
 </p>
 <p>
-    A number of years ago, British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, developed a theory called "Conformal cyclic cosmology (CCC)", which holds there have always been cycles of Big Bangs and Big Crunches, since literally forever ago². The theory was popularized in Penrose's 2010 book "Cycles of Time: An Extraordinary New View of the Universe". Penrose claims there's experimental evidence for CCC, in the form of rings present in the afterglow of the Big Bang.
+    Relevant to the Watchmaker Problem, in 2006 British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, proposed a theory called "Conformal cyclic cosmology (CCC)", which proposes an infinitely old universe².
+    CCC holds that there have always been cycles of Big Bangs and "conformal rescalings", since literally forever ago².
+    The idea is that the rescalings shrink the universe down to a very small size, and then the next Big Bang happens.
+</p>
+<p>
+    That would solve The Watchmaker Problem.
+    If the universe has always existed, nothing created it.
+    Penrose claims there's experimental evidence for CCC, in the form of rings (which he calls "Hawking Points"³) present in the afterglow of the Big Bang³.
     The afterglow of the Big Bang is known as the "cosmic microwave background radiation".
 </p>
 <p>
-    The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community.
-    Whether it's true or not isn't the point though. Penrose gave it a serious shot.
+    The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community⁴.
+    Whether it's true or not isn't the point though: Penrose gave it a serious shot.
 </p>
 <p>
-    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time²:<br/>
+    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time³:<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     <br/>
-    This shows the alleged rings in the cosmic microwave background radiation²:<br/>
+    These are diagrams from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/>
     <div align="center">
-      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB.png" />
+      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
+    </div>
+    <div align="center">
+      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_2.png" />
       <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
     </div>
 </p>
@@ -105,17 +120,17 @@ Solved:
     <li>
         <b>Homelessness</b>
         <p>
-            As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.³
-            How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁴
+            As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵
+            How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶
         </p>
         <p>
             The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend to not be in a state of mind, body, and life to successfully navigate administrative box-checking.
             A pretty simple solution: "Housing First".
         </p>
         <p>
-            The United States has 653,104 people experiencing homelessness.⁵
+            The United States has 653,104 people experiencing homelessness.⁷
             Well over half a million, and a much higher per-capita rate than Finland (and Sweden, etc.).
-            Homeless people in The US also generally live in more dangerous conditions than do homeless people in Finland.
+            Homeless people in the US also generally live in more dangerous conditions than do homeless people in Finland.
         </p>
     </li>
     <li>
@@ -125,7 +140,7 @@ Solved:
     <li>
         <b>"Poverty traps"</b>
         <p>
-            The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁶
+            The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁸
             Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
             Your problems compound. Finland again.
         </p>
@@ -139,10 +154,10 @@ Solved:
         <p>Finland</p>
     </li>
     <li>
-        <b>Arguably the root of all of the above: unequal basic education.</b><br/>
+        <b>Arguably the root of it all: unequal basic education.</b><br/>
         <p>
-            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁷
-            In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.⁸
+            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹
+            In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.¹⁰
         </p>
         <p>
             No "school districts".
@@ -150,15 +165,15 @@ Solved:
             In other words, generational poverty.<br/>
         </p>
         <p>
-            There is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
+            In Finland, there is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
             There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
-            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, etc.
+            There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, and so on.
         </p>
         <p>
             A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
-            In the comments Finns were weighing in with civil and reasonable debate.
+            In the comments section, Finns were weighing in with civil and reasonable debate.
             No ad-hominem, no strawman, no wild appeals to emotion.
-            It occurred I was seeing the result of many good ideas in Finnish society, though perhaps most of all the civility, inquiry skills, and civic-minded decency manifested by a uniformly solid educational system.
+            It occurred that I was seeing the result of many good ideas in Finnish society, though perhaps most of all the rationality and civic-minded decency manifested by its educational system.
         </p>
     </li>
 </ul>
@@ -177,10 +192,12 @@ The unsolved problems are much more interesting, and the solved problems are muc
 <br/>
 Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Theodicy](https://en.wikipedia.org/wiki/Theodicy) <br/>
-²: [https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4](https://link.springer.com/epdf/10.1140/epjp/i2013-13022-4) <br/>
-³: [https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model](https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model) <br/>
-⁴: [https://en.wikipedia.org/wiki/Homelessness_in_Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) <br/>
-⁵: [https://www.security.org/resources/homeless-statistics/](https://www.security.org/resources/homeless-statistics/) <br/>
-⁶: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
-⁷:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
-⁸: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
+²: [https://accelconf.web.cern.ch/e06/papers/thespa01.pdf](https://accelconf.web.cern.ch/e06/papers/thespa01.pdf) <br/>
+³: [https://arxiv.org/pdf/1808.01740.pdf](https://arxiv.org/pdf/1808.01740.pdf) <br/>
+⁴: [https://arxiv.org/pdf/1909.09672.pdf](https://arxiv.org/pdf/1909.09672.pdf) <br/>
+⁵: [https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model](https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model) <br/>
+⁶: [https://en.wikipedia.org/wiki/Homelessness_in_Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) <br/>
+⁷: [https://www.security.org/resources/homeless-statistics](https://www.security.org/resources/homeless-statistics/) <br/>
+⁸: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
+⁹:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
+¹⁰: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)

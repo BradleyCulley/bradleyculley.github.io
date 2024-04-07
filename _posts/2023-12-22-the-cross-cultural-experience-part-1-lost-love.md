@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<p><b>One thing I found through travel and learning languages is that culture shock is less about what's different, and more about what's completely absent, in both directions.</b></p>
+<p><b>Culture shock is less about what's different, and more about what's absent, in both directions.</b></p>
 
 <p>In the new culture, the things that were so obviously important, part of daily life - the North Stars of your worldview - are not just less important, they're nonexistent.</p>
 
@@ -17,12 +17,10 @@ Or "They don't sue each other at the metaphorical drop of a hat". But that's not
 <p>The real thing is the ancient Roman practice of human sacrifice through bloodsport at The Colosseum.
 An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years.
 Every one was surrounded by an enthusiastic crowd.
-It was considered completely normal.</p>
-
-<p>Socially-accepted human sacrifice like that is a practice so culturally distant that it feels otherworldly.</p>
+It was considered completely normal, but feels otherworldly to us now.</p>
 
 <p>That's the one direction: things the other culture does that yours does not.
-However, more intense is what's present in your culture, but completely absent in the other culture.
+More intense is what's present in your culture, but completely absent in the other culture.
 That's more what gives rise to the feeling that Sigmund Freud called a "lost love".
 For Freud, a lost love could be a person, but it could also be an ideal or a concept.
 And as we know, lost love is the worst emotion a human can experience.</p>
