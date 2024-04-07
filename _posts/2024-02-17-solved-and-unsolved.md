@@ -46,7 +46,7 @@
         <b>The Watchmaker Problem</b><br/>
         <p>A watch is made by a watchmaker. The universe exists, so what created the universe?
         How could something come from nothing?</p>
-        <p>I have a degree in astronomy and I can say definitively that the Big Bang doesn't solve the problem.
+        <p>I have a degree in astronomy, and I can say definitively that the Big Bang doesn't solve the problem.
         The Big Bang just moves the problem.
         Nobody knows what caused the Big Bang - where the energy present at the start of the universe came from.
         Scientists don't know. Nobody knows.</p>
