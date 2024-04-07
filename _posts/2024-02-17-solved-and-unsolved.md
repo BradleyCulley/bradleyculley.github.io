@@ -145,7 +145,7 @@ Unsolved isn't unsolvable though
             In other words, generational poverty.<br/>
         </p>
         <p>
-            In Finland, there is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
+            In Finland, there is also no sorting of students by ability level, and there are no exams until the age of 18.
             There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
             There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, and so on.
         </p>
