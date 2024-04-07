@@ -42,13 +42,18 @@
         <p>"In the philosophy of religion, a theodicy is an argument that attempts to resolve the problem of evil that arises when omnipotence, omnibenevolence, and omniscience are all simultaneously ascribed to God."¹</p>
     </li>
     <li>
+        <b>How to make people be good</b><br/>
+        <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
+        Much effort over the millennia. Countless moral systems, with only partial success.</p>
+    </li>
+    <li>
         <b>The Fermi Paradox</b><br/>
         <p>There are billions of habitable planets in the universe, yet we've never observed intelligent life, or even life of any kind, elsewhere in the universe</p>
     </li>
     <li>
         <b>The Watchmaker Problem</b><br/>
         <p>A watch is made by a watchmaker. The universe exists, so what created the universe?
-        Why is there something rather than nothing? How could something come from nothing?</p>
+        How could something come from nothing?</p>
         <p>The Big Bang isn't an answer, by the way. The Big Bang just moves the problem.
         Nobody knows what caused the Big Bang - where the energy present at the start of the universe came from.
         Scientists don't know. Nobody knows.</p>
