@@ -51,7 +51,7 @@
             A balancing act.
             Give them everything and they turn out badly.
             Give them nothing and they turn out badly.
-            People with wealth, health, power, fame, good intentions, and essentially unlimited access to information regularly raise messed up children.
+            People with health, wealth, power, good intentions, and essentially unlimited access to information regularly raise messed-up children.
         </p>
     </li>
     <li>
@@ -88,7 +88,8 @@ Unsolved isn't unsolvable though
     Whether it's true or not isn't the point though: Penrose gave it a serious shot.
 </p>
 <p>
-    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time³:<br/>
+    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time³.
+    Note the "Previous Aeon" at the bottom.<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
