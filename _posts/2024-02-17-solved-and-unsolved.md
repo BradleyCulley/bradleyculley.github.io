@@ -154,7 +154,7 @@ Unsolved isn't unsolvable though
 
 <br/>
 <p>
-Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
+Paradoxically, I see more spirited debate about the solved problems than about the unsolved problems.
 It's common to accept reductive answers about the Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
 </p>
 
