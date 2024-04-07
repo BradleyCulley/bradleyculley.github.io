@@ -30,10 +30,6 @@
         <p></p>
     </li>
     <li>
-        <b>The Riemann hypothesis</b>
-        <p></p>
-    </li>
-    <li>
         <b>What "human nature" is</b><br/>
         <p></p>
     </li>
@@ -107,7 +103,7 @@ Unsolved isn't unsolvable though
     I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
 </p>
 
-<h4>Solved</h4>:
+<h4>Solved:</h4>
 <ul>
     <li>
         <b>Homelessness</b>
@@ -156,12 +152,6 @@ Unsolved isn't unsolvable though
             In Finland, there is also no sorting of students by ability level, and there are no exams until the age of 18.<br/>
             There's many a story in the US about a student getting miscategorized early in life...as learning disabled, behaviorally-flawed, or otherwise "defective".
             There are many stories in which it wasn't even the student's ability or behavior, but rather secondary factors such as a teacher with a grudge, bigotry, and so on.
-        </p>
-        <p>
-            A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
-            In the comments section, Finns were weighing in with civil and reasonable debate.
-            No ad-hominem, no wild appeals to emotion.
-            It occurred that I was seeing the result of many good ideas in Finnish society, though perhaps most of all the rationality and egalitarian decency manifested by its educational system.
         </p>
     </li>
 </ul>
