@@ -34,10 +34,6 @@
         <p></p>
     </li>
     <li>
-        <b>Theodicy</b><br/>
-        <p>"In the philosophy of religion, a theodicy is an argument that attempts to resolve the problem of evil that arises when omnipotence, omnibenevolence, and omniscience are all simultaneously ascribed to God."¹</p>
-    </li>
-    <li>
         <b>How to make people be good</b><br/>
         <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
         Much effort over the millennia. Countless moral systems, with only partial success.</p>
@@ -102,7 +98,7 @@ Unsolved isn't unsolvable though
 <p>
     I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
 </p>
-
+<br/>
 <h4>Solved:</h4>
 <ul>
     <li>
