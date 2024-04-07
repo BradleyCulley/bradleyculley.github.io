@@ -46,20 +46,6 @@
         <p>There are billions of habitable planets in the universe, yet we've never observed intelligent life, or even life of any kind, elsewhere in the universe</p>
     </li>
     <li>
-        <b>How to effectively raise children</b><br/>
-        <p>
-            A balancing act.
-            Give them everything and they turn out badly.
-            Give them nothing and they turn out badly.
-            People with health, wealth, power, good intentions, and essentially unlimited access to information regularly raise messed-up children.
-        </p>
-    </li>
-    <li>
-        <b>How to make people be good</b><br/>
-        <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
-        Much effort over the millennia. Countless moral systems, with only partial success.</p>
-    </li>
-    <li>
         <b>The Watchmaker Problem</b><br/>
         <p>A watch is made by a watchmaker. The universe exists, so what created the universe?
         Why is there something rather than nothing? How could something come from nothing?</p>
@@ -94,7 +80,7 @@ Unsolved isn't unsolvable though
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     <br/>
-    These are diagrams from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/>
+    These are diagrams from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/><br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
     </div>
@@ -103,7 +89,7 @@ Unsolved isn't unsolvable though
       <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
     </div>
 </p>
-
+<br/>
 <p>
     I've long been fascinated with problems like Fermat's Last Theorem. There's a certain gravitas to a math problem unsolved since 1637. It has timelessness. There's epistemic humility: "this isn't easy".
 </p>
@@ -116,7 +102,7 @@ Unsolved isn't unsolvable though
     I think of these in contrast with problems that <span style="font-style: italic;">are</span> solved. Ear infection? Take an antibiotic.
 </p>
 
-Solved:
+<h4>Solved</h4>:
 <ul>
     <li>
         <b>Homelessness</b>
@@ -133,10 +119,6 @@ Solved:
             Well over half a million, and a much higher per-capita rate than Finland (and Sweden, etc.).
             Homeless people in the US also generally live in more dangerous conditions than do homeless people in Finland.
         </p>
-    </li>
-    <li>
-        <b>Severe poverty</b><br/>
-        <p>Finland basically solved this too</p>
     </li>
     <li>
         <b>"Poverty traps"</b>
@@ -173,8 +155,8 @@ Solved:
         <p>
             A few years ago, I saw a post on LinkedIn by a Finnish person, about a controversial sociopolitical topic.
             In the comments section, Finns were weighing in with civil and reasonable debate.
-            No ad-hominem, no strawman, no wild appeals to emotion.
-            It occurred that I was seeing the result of many good ideas in Finnish society, though perhaps most of all the rationality and civic-minded decency manifested by its educational system.
+            No ad-hominem, no wild appeals to emotion.
+            It occurred that I was seeing the result of many good ideas in Finnish society, though perhaps most of all the rationality and egalitarian decency manifested by its educational system.
         </p>
     </li>
 </ul>
@@ -182,7 +164,7 @@ Solved:
 <br/>
 <p>
 Paradoxically, I see more spirited debate about the solved problems than the unsolved ones.
-It's common to accept reductive answers about The Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
+It's common to accept reductive answers about the Fermi Paradox ("crop circles"), but argue to the ends of the Earth about capitalism.
 </p>
 
 <p>
