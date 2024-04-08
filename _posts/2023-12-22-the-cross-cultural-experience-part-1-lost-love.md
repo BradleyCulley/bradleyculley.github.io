@@ -6,43 +6,39 @@
 </div>
 <br/>
 
-<p><b>Culture shock is less about what's different, and more about what's absent, in both directions.</b></p>
-
-<p>In the new culture, the things that were so obviously important, part of daily life - the North Stars of your worldview - are not just less important, they're nonexistent.</p>
+<p><b>Culture shock is less about what's different than it is about what's absent.</b></p>
 
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally constructed.
-We think, "Yes I get it: they're not so focused on high-quality ingredients in their cuisine."
-Or "They don't sue each other at the metaphorical drop of a hat". But that's not it.</p>
 
-<p>The real thing is the ancient Roman practice of human sacrifice through bloodsport at The Colosseum.
-An estimated 400,000 people were murdered at The Colosseum in Rome, over the course of about 350 years.
+<p>The ancient Romans practiced human sacrifice through bloodsport at The Colosseum.
+An estimated 400,000 people were murdered at the Colosseum in Rome, over about 350 years.
 Every one was surrounded by an enthusiastic crowd.
-It was considered completely normal, but feels otherworldly to us now.</p>
+It was considered completely normal, but feels otherworldly now.</p>
 
 <p>That's the one direction: things the other culture does that yours does not.
-More intense is what's present in your culture, but completely absent in the other culture.
-That's more what gives rise to the feeling that Sigmund Freud called a "lost love".
-For Freud, a lost love could be a person, but it could also be an ideal or a concept.
-And as we know, lost love is the worst emotion a human can experience.</p>
+More intense is what's present in your culture, but completely absent in the other.
+That gives rise to the experience Sigmund Freud called "lost love".
+For Freud, the lost love could be a person, but it could also be a concept.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
-Or maybe it's a "Six-Pack-Joe-The-Plumber-Schmoe" society, in which the hands-on work of skilled tradespeople, firefighters, and so on holds a primacy so presuppositionally sacrosanct so as to seem, quite simply, obvious.</p>
+Or maybe it's a "Six-Pack-Joe-The-Plumber-Schmoe" society, in which the hands-on work of skilled tradespeople holds a primacy so presuppositionally sacrosanct so as to seem, quite simply, obvious.</p>
 
 <p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
 Being a good Little League coach. Securing particular burial rites.
-The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were only cultural motifs all along.
+The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.
 Relative truths, not absolute truths like chemistry or physics.</p>
 
-<p>The effect is really a double dose.
-That's because anyone of reasonable intellect must conclude that it's not just the cultural motifs of society A that are not, in fact, some fundamental laws of life, but rather that neither those of A _nor_ those of B are.</p>
+<p>The effect is a double dose.
+That's because anyone of reasonable intellect must conclude it's not just the cultural motifs of society A that are not, in fact, fundamental laws of the universe, but rather that neither those of A nor those of B are.</p>
 
 <p>And so, what remains?</p>
 
-<p>French sculptor Bruno Catalano was born in Morocco in 1960. With his family, he immigrated to France at the age of 10.</p>
+<p>French sculptor Bruno Catalano was born in Morocco in 1960.
+With his family, he immigrated to France at the age of 10.</p>
 
 <p>He later created a series of statues titled "Les Voyageurs", which is French for "The Travelers".</p>
 
-<p>Each statue is missing a piece of their body, symbolizing the experience of lost love in moving to a new culture.</p>
+<p>Each statue is missing a piece of their body, symbolizing the experience of lost love upon moving to a new culture.</p>
 
 <div align="center">
   <img style="height: 83vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
