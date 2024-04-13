@@ -57,28 +57,28 @@
 Unsolved isn't unsolvable though
 </p>
 <p>
-    Relevant to the Watchmaker Problem, in 2006 British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, proposed a theory called "Conformal cyclic cosmology (CCC)", which proposes an infinitely old universe².
-    CCC holds that there have always been cycles of Big Bangs and "conformal rescalings", since literally forever ago².
+    Relevant to the Watchmaker Problem, in 2006 British scientist Roger Penrose, a 2020 Laureate of the Nobel Prize in Physics, proposed a theory called "Conformal cyclic cosmology (CCC)", which proposes an infinitely old universe¹.
+    CCC holds that there have always been cycles of Big Bangs and "conformal rescalings", since literally forever ago¹.
     The idea is that after a while a "rescaling" shrinks the universe back down, and then the next Big Bang happens.
 </p>
 <p>
     That would solve The Watchmaker Problem.
     If the universe has always existed, nothing created it.
-    Penrose claims there's experimental evidence for CCC, in the form of rings, which he calls "Hawking Points"³, present in the afterglow of the Big Bang³.
+    Penrose claims there's experimental evidence for CCC, in the form of rings, which he calls "Hawking Points"², present in the afterglow of the Big Bang².
     The afterglow of the Big Bang is known as the "cosmic microwave background radiation".
 </p>
 <p>
-    The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community⁴.
+    The experimental evidence for CCC, and the CCC theory as a whole, are not widely accepted by the scientific community³.
     Whether it's true or not isn't the point though: Penrose gave it a serious shot.
 </p>
 <p>
-    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time³.
+    This diagram from one of Penrose's papers on CCC shows the core idea - cycles of time².
     Note the "Previous Aeon" at the bottom.<br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/ccc_diagram.png" />
     </div>
     <br/>
-    These are images of the sky, from a study of the alleged rings in the cosmic microwave background radiation⁴:<br/><br/>
+    These are images of the sky, from a study of the alleged rings in the cosmic microwave background radiation³:<br/><br/>
     <div align="center">
       <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
     </div>
@@ -105,15 +105,15 @@ Unsolved isn't unsolvable though
     <li>
         <b>Homelessness</b>
         <p>
-            As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁵
-            How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁶
+            As of 2022, Finland had 3,686 people experiencing homelessness, with only 492 spending the night outside, in a country of 5.5 million people.⁴
+            How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁵
         </p>
         <p>
             The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend to not be in a state of mind, body, and life to successfully navigate administrative box-checking.
             A pretty simple solution: "Housing First".
         </p>
         <p>
-            The United States has 653,104 people experiencing homelessness.⁷
+            The United States has 653,104 people experiencing homelessness.⁶
             Well over half a million, and a much higher per-capita rate than Finland (and Sweden, etc.).
             Homeless people in the US also generally live in more dangerous conditions than do homeless people in Finland.
         </p>
@@ -121,7 +121,7 @@ Unsolved isn't unsolvable though
     <li>
         <b>"Poverty traps"</b>
         <p>
-            The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁸
+            The long-observed economic phenomenon of a spiral into destitution that can happen below a certain level of wealth.⁷
             Your car broke down and you can't afford to fix it, so you can't drive to your job. Choosing between food and medicine. 
             Your problems compound. Finland again.
         </p>
@@ -137,8 +137,8 @@ Unsolved isn't unsolvable though
     <li>
         <b>Arguably the root of it all: unequal basic education.</b><br/>
         <p>
-            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁹
-            In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.¹⁰
+            Finland. No less than the constitution of Finland makes it illegal to charge tuition for basic education (the definition of which includes college).⁸
+            In other words, every school is funded exactly equally. There are some very minor exceptions to this, such as foreign-language schools.⁹
         </p>
         <p>
             No "school districts".
@@ -166,13 +166,12 @@ The unsolved problems are much more interesting, and the solved problems are muc
 
 <br/>
 Sources:<br/>
-¹: [https://en.wikipedia.org/wiki/Theodicy](https://en.wikipedia.org/wiki/Theodicy) <br/>
-²: [https://accelconf.web.cern.ch/e06/papers/thespa01.pdf](https://accelconf.web.cern.ch/e06/papers/thespa01.pdf) <br/>
-³: [https://arxiv.org/pdf/1808.01740.pdf](https://arxiv.org/pdf/1808.01740.pdf) <br/>
-⁴: [https://arxiv.org/pdf/1909.09672.pdf](https://arxiv.org/pdf/1909.09672.pdf) <br/>
-⁵: [https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model](https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model) <br/>
-⁶: [https://en.wikipedia.org/wiki/Homelessness_in_Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) <br/>
-⁷: [https://www.security.org/resources/homeless-statistics](https://www.security.org/resources/homeless-statistics/) <br/>
-⁸: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
-⁹:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
-¹⁰: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
+¹: [https://accelconf.web.cern.ch/e06/papers/thespa01.pdf](https://accelconf.web.cern.ch/e06/papers/thespa01.pdf) <br/>
+²: [https://arxiv.org/pdf/1808.01740.pdf](https://arxiv.org/pdf/1808.01740.pdf) <br/>
+³: [https://arxiv.org/pdf/1909.09672.pdf](https://arxiv.org/pdf/1909.09672.pdf) <br/>
+⁴: [https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model](https://globalnews.ca/news/10198145/quebec-finland-successful-approach-homelessness-model) <br/>
+⁵: [https://en.wikipedia.org/wiki/Homelessness_in_Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) <br/>
+⁶: [https://www.security.org/resources/homeless-statistics](https://www.security.org/resources/homeless-statistics/) <br/>
+⁷: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
+⁸:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
+⁹: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
