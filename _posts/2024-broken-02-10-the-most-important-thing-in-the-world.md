@@ -320,3 +320,16 @@ He explained religion in Senegal as something like this: <draw a diagram with Is
     Prisons reveal the true cultural attitude towards those in a position of relative powerlessness.
     "Of course prisoners get abused. If you don't want to get abused, don't go to prison!". Have you heard that before?
 </p>
+
+
+------
+
+Political opinion: the primary reason that the United States doesn't have single-payer health insurance is not that it's too large (China has it) nor too heterogeneous (cosmopolitan nations such as The UK, Ireland, and Brazil have it). It's because of high individualism.
+Was recently reading about Howard Dean's creation of a single-payer healthcare system in Vermont. It was called Green Mountain Care. It started in 2011, and was shut down in 2014. The reason: "On December 17, 2014, Vermont abandoned its plan for universal health care, citing the taxes required of smaller businesses within the state". (https://en.wikipedia.org/wiki/Vermont_health_care_reform)
+In other words, *I* will actually have to lose wealth over this. It's the same situation with housing in San Francisco or Seattle. All well and good and let's help the homeless, but when it comes down to *my* actual house might be worth less (because of de-gentrification), that's a hard stop.
+This explains the housing issue in 60 seconds: https://www.youtube.com/watch?v=344ULCbhAsE.
+The Dutch sociologist Dr. Geert Hofstede's Cultural Dimensions theory quantifies each country's culture according to 5 cultural dimensions: Power Distance Index, Individualism, Masculinity, Uncertainty Avoidance Index, and Long-Term Orientation.
+The United States is #1 in the world in individualism: https://clearlycultural.com/geert-hofstede.../individualism/.
+There are some other fascinating insights from Hofstede's dimensions, too. For example, the country with the highest and lowest masculinity index are Japan and Sweden, respectively. Japan regularly tortures confessions out of those accused of crimes (Hogobo, etc.: https://www.amnesty.org/.../2021/06/asa220041998en.pdf), and has a 99.9% conviction rate. Having been to Sweden, it's more or less multifactorially heaven on Earth.
+In my experience, members of a culture would rather die (fight a war, etc.) than give up their culture: it's a terminal value. That's why colonialism/nation building ultimately always fails.
+So that's why I think these problems aren't technical/logistical in nature, but rather culturally inherent, and therefore inherently unfixable. Or more like "wont-fixable". The solution would be to move cultures.

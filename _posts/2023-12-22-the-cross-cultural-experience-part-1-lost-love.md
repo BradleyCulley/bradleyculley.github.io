@@ -2,11 +2,11 @@
 
 <div align="center">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France<br/>(onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16)</div>
+  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France<br/>¹</div>
 </div>
 <br/>
 
-<p><b>Culture shock is less about what's different than it is about what's absent.</b></p>
+<p><b>Culture shock is less about what's different than about what's absent</b></p>
 
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally constructed.
 
@@ -15,16 +15,15 @@ An estimated 400,000 people were murdered at the Colosseum in Rome, over about 3
 Every one was surrounded by an enthusiastic crowd.
 It was considered completely normal, but feels otherworldly now.</p>
 
-<p>That's the one direction: things the other culture does that yours does not.
+<p>That's one direction: things the other culture does that yours does not.
 More intense is what's present in your culture, but completely absent in the other.
 That gives rise to the experience Sigmund Freud called "lost love".
-For Freud, the lost love could be a person, but it could also be a concept.</p>
+For Freud, lost love could be a person, but it could even be a concept.</p>
 
 <p>Maybe nobody cares about your academic credentials because it's a "tough guy" society.
 Or maybe it's a "Six-Pack-Joe-The-Plumber-Schmoe" society, in which the hands-on work of skilled tradespeople holds a primacy so presuppositionally sacrosanct so as to seem, quite simply, obvious.</p>
 
-<p>Baking the perfect baguette. Helping the powerless versus abusing the powerless.
-Being a good Little League coach. Securing particular burial rites.
+<p>Baking the perfect baguette. Being a good Little League coach. Securing particular burial rites.
 The axioms of your childhood - those stars in the sky - while oftentimes powerful and reasonable, were cultural motifs all along.
 Relative truths, not absolute truths like chemistry or physics.</p>
 
@@ -38,9 +37,14 @@ With his family, he immigrated to France at the age of 10.</p>
 
 <p>He later created a series of statues titled "Les Voyageurs", which is French for "The Travelers".</p>
 
-<p>Each statue is missing a piece of their body, symbolizing the experience of lost love upon moving to a new culture.</p>
+<p>Each statue is missing a piece of their body, symbolizing the lost love of living in a different culture.</p>
 
 <div align="center">
   <img style="height: 83vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">(brunocatalano.com)</div>
+  <div style="font-size: 12px; font-style: italic;">²</div>
 </div>
+
+<br/>
+Sources:<br/>
+¹: [https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16](https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16) <br/>
+²: [brunocatalano.com](brunocatalano.com)
