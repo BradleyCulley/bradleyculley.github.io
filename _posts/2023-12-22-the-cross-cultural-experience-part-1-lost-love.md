@@ -2,7 +2,7 @@
 
 <div align="center">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France<br/>¹</div>
+  <div style="font-size: 12px; font-style: italic;">"Le Grand Van Gogh", one of "Les Voyageurs",<br/>Marseilles, France¹</div>
 </div>
 
 <p><b>Culture shock is less about what's different than about what's absent</b></p>
