@@ -12,7 +12,6 @@
 
 <p>The ancient Romans practiced human sacrifice through bloodsport at The Colosseum.
 An estimated 400,000 people were murdered at the Colosseum in Rome, over about 350 years.²
-Each murder was witnessed by an enthusiastic crowd.
 It was considered completely normal, but feels otherworldly now.</p>
 
 <p>That's one direction: things the other culture does that yours does not.
