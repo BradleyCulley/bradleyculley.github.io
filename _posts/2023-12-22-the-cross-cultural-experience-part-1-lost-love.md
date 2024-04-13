@@ -11,8 +11,8 @@
 <p>This experience makes real the seemingly tiresome academic notion that human values are culturally constructed.
 
 <p>The ancient Romans practiced human sacrifice through bloodsport at The Colosseum.
-An estimated 400,000 people were murdered at the Colosseum in Rome, over about 350 years.
-Every one was surrounded by an enthusiastic crowd.
+An estimated 400,000 people were murdered at the Colosseum in Rome, over about 350 years.²
+Each murder was witnessed by an enthusiastic crowd.
 It was considered completely normal, but feels otherworldly now.</p>
 
 <p>That's one direction: things the other culture does that yours does not.
@@ -41,10 +41,11 @@ With his family, he immigrated to France at the age of 10.</p>
 
 <div align="center">
   <img style="height: 83vh;" src="https://bradleyculley.github.io/images/Les-Voyagers-2.jpeg" />
-  <div style="font-size: 12px; font-style: italic;">²</div>
+  <div style="font-size: 12px; font-style: italic;">³</div>
 </div>
 
 <br/>
 Sources:<br/>
 ¹: [https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16](https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16) <br/>
-²: [brunocatalano.com](brunocatalano.com)
+²: [https://www.thecolosseum.org/facts/](https://www.thecolosseum.org/facts/)
+³: [brunocatalano.com](brunocatalano.com)
