@@ -44,7 +44,8 @@ With his family, he immigrated to France at the age of 10.</p>
 </div>
 
 <br/>
-Sources:<br/>
+Sources:<br/><br/>
+
 
 ¹: [https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16](https://onlyartbronzestatue.com/product/les-voyageurs-by-french-artist-bruno-catalano-oab-bc16) <br/>
 ²: [https://www.thecolosseum.org/facts/](https://www.thecolosseum.org/facts/) <br/>
