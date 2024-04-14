@@ -21,7 +21,7 @@
 </p>
 
 <p>
-    See here for the whole conversation: https://www.youtube.com/watch?v=x58FnWgCGCs
+    See here for the whole conversation: [https://www.youtube.com/watch?v=x58FnWgCGCs](https://www.youtube.com/watch?v=x58FnWgCGCs)
 </p>
 
 <b>Culture is the root</b>
@@ -32,8 +32,8 @@
 </p>
 
 <p>
-    Technology is nothing to sneeze at though.
-    Only one event in human history has truly changed the course of human prosperity: the invention of the steam engine, in [[add date for its invention, and a citation]]
+    Technology is nothing to sneeze at.
+    Only one event in history has truly changed the course of human prosperity: the invention of the steam engine, in [[add date for its invention, and a citation]]
     <div align="center">
       <img src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 10px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
@@ -46,27 +46,22 @@
 </p>
 
 <p>
-    So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known and implemented among the middle class and the wealthy?
-    Technology, entrepreneurship, and wealth are good and necessary, but not sufficient.
+    So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known, and already implemented among the middle class and the wealthy?
+    Technology, entrepreneurship, and wealth are necessary, but not sufficient.
 </p>
 
 <p>
     In 2011, the state of Vermont passed H.202, resulting in single-payer (a.k.a. completely government-funded) healthcare for Vermont residents.
     It never made it out of the planning stages. 
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    A year later, it was dead:
+    A year later, the bill was dead:
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    In other words, "I, as a business owner, would have to spend my money on poor people?".
+    In other words, "I, as a business owner, would have to spend money on <span style="font-style: italic;">poor people?</span>".
 </p>
 
 <p>
-    American culture is quite individualistic. It's not a selfish culture - far from it - but it is individualistic.
-    Pass all the laws you want - culture is much more fundamental.
-</p>
-
-<p>
-    That's what's not adding up for Bernie Sanders. I do believe he's well-intentioned.
-    The issue is that he's trying, to use a corporate term, to put lipstick on a pig.
+    American culture is quite individualistic. It's not selfish - far from it - but it's individualistic.
+    Pass all the laws you want: culture is more fundamental than the law.
 </p>
 
 <p>
@@ -79,7 +74,7 @@
     of the press. Big deal. They guaranteed freedom of speech, of the press, of
     street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
     Whoa, that is  wonderful stuff!
-    " - Justice Antonin Scalia
+    " - Former Supreme Court Justice Antonin Scalia
 </p>
 
 <p>
@@ -90,98 +85,124 @@
 <b>What is culture?</b>
 <p>
     Culture is often associated with its externalities: food, language, religion, special dances, special rituals, cool hats.
-    But it's actually what in mathematics is called a set of axiomatic invariants.
+    But it's what in mathematics is called a set of axiomatic invariants.
     That's the stuff so fundamental (when you grow up in the culture) that it seems obvious.
 </p>
 
 <p>
     A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
     Here are the 5 dimensions in his theory, plotted for a few countries:
-    https://upload.wikimedia.org/wikipedia/commons/0/0e/Hofstede_4_countries_6_dimensions.png
 
-    Note the score for "invididualism" for The United States? That was the hitch with Green Mountain Care.
+    <div align="center">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" />
+    </div>
+
+    As you can see, the United States has a score of 91 in the "invididualism" dimension.
+    That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in individualism among every country in the world. 
+    That was the hitch with Green Mountain Care.
 </p>
 
 <p>
-    A culture need not be in one-to-one association with a nation though.
-    Every family has its own culture.
-    The same for every town, school, and even every relationship between two people.
+    A culture need not be in one-to-one association with a nation.
+    Every family has a culture.
+    So does every town, school, and even every interpersonal relationship.
 </p>
 
 <p>
-    Culture is often ostensibly consequentialist: "spicy food is good for you".
+    Culture is often ostensibly consequentialist: "fermented food is good for you".
     While it can have consequentialist ramifications, it's fundamentally deontological: "I like this vibe".
 </p>
 
 <b>The most important thing in the world</b>
 <p>
     You can't be completely civilized, or expect a completely civilized experience, in a larger culture that is uncivilized.
-    I see people in the United States desperately trying.
+    Try being "Mr. Nice Guy" in prison.
+    I see people in the United States endlessly trying to circumvent this.
     Trying to create the perfect bubble.
-    Then they have a crazy neighbor.
-    Or their kid gets tangled up in drugs.
+    Then they have a crazy neighbor who throws beer cans into their yard.
+    Or their teenage child gets tangled up in drugs.
 </p>
 
 <p>
-    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (link his essay).
-    Military veteran, tenured professor, respected senior employee, loved grandmother with a big extended family.
+    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
+    Military veteran, tenured professor, respected senior vice president, grandmother with a big and loving extended family.
+    I cite these unironically, by the way.
 </p>
 
 <p>
     Because it's the most important thing in the world, people will do nearly anything for culture.
-    A demonstration of this is The United States' various failed attempts at nation-building in foreign countries.
+    A demonstration of this is The United States' various failed attempts at nation-building abroad.
     People would rather have no government, or a disfunctional government, than a culturally-foreign government.
-    So the US-backed government collapses as soon as the US leaves. They never wanted it.
+    The US-backed government collapses as soon as the US leaves. Pretty simple: they never wanted it.
 </p>
 
 <p>
     Paul Erdős was a famous mathematician who led an unusual life.
     He was homeless, a bachelor with no children, and owned only what he could carry in a suitcase.
     He traveled from mathematical event to mathematical event, staying in the homes of other mathematicians, who hosted him.
-    Beyond the biological basics, he really only had the culture of professional mathematics and his good position within it, and he was happy as a clam. 
+    Beyond the biological basics, he really only had the culture of professional mathematics and his well-respected position within it.
+    He was happy as a clam. 
 </p>
 
-<b>Culture is the end product</b>
+<p>
+    "Another roof, another proof" -Paul Erdős (https://www.nature.com/articles/383584a0.pdf)
+</p>
+
+<b>Culture is the refined product</b>
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
-    In life, we have different social roles: teacher, soldier, doctor.
+    In life, we have different social and professional roles: teacher, soldier, doctor.
     Many of them are, albeit in sophisticated ways, fighting entropy.
-    Toward what does labor aspire? Why exist? Why do anything?
+    Why bother? Why exist? Why do anything?
 </p>
 
 <p>
-    The medieval French built beautiful cathedrals. The Mayans built glorious Ziggurats.
-    The physical embodiment of a cultural motif like that is a nice metaphor for what's always happening in a culture.
-    Cultures aim to convert the raw materials of the activities of their people into certain refined cultural edifices in physical/emotional/intellectual space.
-    What's built is an aesthetic, or to use a colloquial term, a vibe.
-    It's like dinner with your extended family: the food and the restaurant aren't the point. The vibe is the point and end product, built in emotional space.
+    The medieval French built beautiful cathedrals.
+    A cathedral - the physical embodiment of a cultural motif - is a metaphor for what's always happening in a culture.
+    Cultures aim to convert the raw materials of human effort into certain refined cultural edifices in physical, emotional, and intellectual space.
+</p>
+<p>
+    The "refined product", then, is the aesthetic, or to use a colloquial term, the vibe.
+    It's like dinner with your extended family: the food and the restaurant aren't the point.
+    The point is the vibe, effulgent in emotional space.
+</p>
+
+<b>Teleology</b>
+<p>
+    If you pick a random Wikipedia page and click the first link that's not pronunciation-related, then click the first link on the page it takes you to, and continue this procedure, you eventually end up on the Wikipedia page for "Philosophy".
+    It all points back to philosophy.
+    Philosophy feels like the wrong term for the vibe of a family dinner, but it's in a more everyday sense.
 </p>
 
 <p>
-    If you pick a random Wikipedia page and click the first link that's not pronunciation-related, then click the first link on the page it takes you to, and continue this procedure, eventually you end up on the Wikipedia page for "Philosophy".
+    The philosophical term for "refined product" is teleology: the end goal.
+    So that's the answer to the question of "why do anything?".
+    It's for the vibe of it.
 </p>
 
-<b>How do you change the culture?</b>
+<b>How do we change the culture?</b>
 <p>
-In Bach's words: "What can we do about it? We can only change the culture."
-How do we change the culture?
+    In Bach's words: "What can we do about it? We can only change the culture."
+    Ok, so how do we change the culture?
 </p>
 
 <p>
     In my opinion, this was solved by the 18th century Scottish philosopher David Hume.
-    He had an oddly specific answer: the "public intellectual".
+    He had an oddly specific answer: "the public intellectual".
     Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual, who out of both inclination and necessity makes their work palatable and interesting for everyday people.
     Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Carl Sagan, Ayn Rand, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
 </p>
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
-    Beyond the biological basics, public intellectuals create the software we all run.
-    I think the concept of public intellectual is on a gradient. Each of us can be public intellectuals somewhere on the gradient.
-    We can shape the culture in our family, our workplace, or beyond.
+    Beyond the biological basics, public intellectuals create the software we run.
+    Public intellectual is on a gradient: each of us can be a public intellectual somehow.
+    We can shape the culture in our family or workplace, perhaps.
+</p>
 
+<p>
     Years ago, I saw a question in an online forum: "which profession has had the greatest impact on the world?".
-    Soldier, politician, explorer, scientist.
+    Politician, explorer, scientist.
     One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
 </p>
 
