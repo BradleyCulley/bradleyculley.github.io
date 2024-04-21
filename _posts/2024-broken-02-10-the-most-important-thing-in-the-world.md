@@ -3,8 +3,8 @@
 <b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
-    I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German artificial intelligence researcher and cognitive scientist, and the AI model GPT-3.
-    Dr. Bach has prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
+    I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
+    Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
 </p>
 
 <p>
@@ -21,28 +21,32 @@
 </p>
 
 <p>
-    See here for the whole conversation: [https://www.youtube.com/watch?v=x58FnWgCGCs](https://www.youtube.com/watch?v=x58FnWgCGCs)
+    [https://www.youtube.com/watch?v=x58FnWgCGCs](https://www.youtube.com/watch?v=x58FnWgCGCs)
+    Click the image below to watch the whole conversation:<br/>
+    <div align="center">
+      <a href="https://www.youtube.com/watch?v=x58FnWgCGCs" target="_blank">
+        <img style="width: 50vw;" src="https://bradleyculley.github.io/images/Bach_Goethe.png" />
+      </a>
+    </div>
 </p>
 
-<b>Culture is the root</b>
+<b>Culture is the key</b>
 <p>
     I used to think technological innovation is the key to a better society.
     If we made a better microchip or a new vaccine, things would be good.
-    I still think it's part of the puzzle, but it's not at the root.
 </p>
 
 <p>
     Technology is nothing to sneeze at.
-    Only one event in history has truly changed the course of human prosperity: the invention of the steam engine, in [[add date for its invention, and a citation]]
+    Only one event in history has markedly changed human prosperity: the invention of the first commercially successful steam engine in 1712¹.
     <div align="center">
       <img src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 10px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
     </div>
-    -https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/
 </p>
 
 <p>
-    As an adult, I saw that despite incredible innovation in medicine, people suffer and die from uncomplicated diseases, including here in The United States.
+    As an adult, I saw that despite innovation in medicine, people suffer and die from uncomplicated diseases, including here in the United States.
 </p>
 
 <p>
@@ -65,16 +69,14 @@
 </p>
 
 <p>
-    "
-    But then I tell them, "If you think a bill of rights is what sets us apart,
+    "But then I tell them, "If you think a bill of rights is what sets us apart,
     you’re crazy." Every banana republic in the world has a bill of rights. Every
     president for life has a bill of rights. The bill of rights of the former evil
     empire, the Union of Soviet Socialist Republics, was much better than ours.
     I mean it literally. It was much better. We guarantee freedom of speech and
     of the press. Big deal. They guaranteed freedom of speech, of the press, of
     street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
-    Whoa, that is  wonderful stuff!
-    " - Former Supreme Court Justice Antonin Scalia
+    Whoa, that is  wonderful stuff!" - Former Supreme Court Justice Antonin Scalia
 </p>
 
 <p>
@@ -171,7 +173,7 @@
 <p>
     If you pick a random Wikipedia page and click the first link that's not pronunciation-related, then click the first link on the page it takes you to, and continue this procedure, you eventually end up on the Wikipedia page for "Philosophy".
     It all points back to philosophy.
-    Philosophy feels like the wrong term for the vibe of a family dinner, but it's in a more everyday sense.
+    Philosophy feels like the wrong word for the vibe of a family dinner, but it's in an everyday sense.
 </p>
 
 <p>
@@ -205,6 +207,56 @@
     Politician, explorer, scientist.
     One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
 </p>
+
+
+Sources<br/>
+¹: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
+²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 -----

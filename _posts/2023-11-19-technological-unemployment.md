@@ -94,7 +94,8 @@ Reasoning:
           </a>
         </div>
         <br/><br/>
-        That thing could change a faucet. Sensors and actuators aren't the limiting factor: software is.<br/><br/>
+        I'm pretty sure that thing could change a faucet if it were programmed to make the correct movement.
+        Sensors and actuators aren't the limiting factor: software is.<br/><br/>
         As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
 
