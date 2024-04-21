@@ -21,8 +21,7 @@
 </p>
 
 <p>
-    [https://www.youtube.com/watch?v=x58FnWgCGCs](https://www.youtube.com/watch?v=x58FnWgCGCs)
-    Click the image below to watch the whole conversation:<br/>
+    Click the image below to watch the whole conversation<br/>
     <div align="center">
       <a href="https://www.youtube.com/watch?v=x58FnWgCGCs" target="_blank">
         <img style="width: 50vw;" src="https://bradleyculley.github.io/images/Bach_Goethe.png" />
@@ -39,9 +38,10 @@
 <p>
     Technology is nothing to sneeze at.
     Only one event in history has markedly changed human prosperity: the invention of the first commercially successful steam engine in 1712¹.
+    That's what kicked off the sharp increases in this graph:
     <div align="center">
       <img src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">This image is from a blog post titled "There was only one industrial revolution". Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">This graph is from a blog post titled "There was only one industrial revolution". Good title.</div>
     </div>
 </p>
 
@@ -50,21 +50,25 @@
 </p>
 
 <p>
-    So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known, and already implemented among the middle class and the wealthy?
+    So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are already known and already implemented among the middle class and the wealthy?
     Technology, entrepreneurship, and wealth are necessary, but not sufficient.
 </p>
 
 <p>
-    In 2011, the state of Vermont passed H.202, resulting in single-payer (a.k.a. completely government-funded) healthcare for Vermont residents.
-    It never made it out of the planning stages. 
-    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    A year later, the bill was dead:
-    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    In other words, "I, as a business owner, would have to spend money on <span style="font-style: italic;">poor people?</span>".
+    In 2011, the state of Vermont passed bill H.202, which legislated a single-payer (a.k.a. completely government-funded) healthcare system for Vermont residents.
+    The system was called Green Mountain Care, named after Vermont's nickname: "The Green Mountain State".
+    Green Mountain Care never made it out of the planning stages. 
 </p>
 
 <p>
-    American culture is quite individualistic. It's not selfish - far from it - but it's individualistic.
+    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
+    A year later, the bill was dead.
+    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
+    In other words, "I, as a business owner, would have to spend <span style="font-style: italic;">my</span> money on <span style="font-style: italic;">poor people?</span>".
+</p>
+
+<p>
+    American culture is quite individualistic. It's not selfish - far from it - but it is individualistic.
     Pass all the laws you want: culture is more fundamental than the law.
 </p>
 
@@ -80,7 +84,7 @@
 </p>
 
 <p>
-    The reason Nordic prisons are humane is not that there's this law or that law stating they ought to be, nor even that they're well-funded.
+    The reason Nordic prisons are humane is not that there's this law or that law stating they ought to be, nor even that the prisons are well-funded (which they are).
     They're humane because the society around them is humane. It's the culture.
 </p>
 
