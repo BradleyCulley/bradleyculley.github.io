@@ -51,7 +51,7 @@
     Technology, entrepreneurship, and wealth are necessary, but not sufficient.
 </p>
 
-<b>Green Mountain care</b>
+<b>Green Mountain Care and The Law</b>
 <p>
     In 2011, the state of Vermont passed bill H.202, which legislated a single-payer (a.k.a. completely government-funded) healthcare system for Vermont residents.
     The system was called Green Mountain Care, named after Vermont's nickname: "The Green Mountain State".
@@ -86,12 +86,18 @@
     Whoa, that is  wonderful stuff!" - Former Supreme Court Justice Antonin Scalia - https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
 </p>
 
+<b>Prison</b>
 <p>
 "The degree of civilization in a society can be judged by entering its prisons"
 -Not Fyodor Dostoevsky
 
 The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
 It does, however, capture aspects of his thinking about justice systems.
+
+Dostoevsky spent four years incarcerated in a Siberian prison camp, and afterward wrote a semi-autobiographical book, "The House of the Dead", about life in such a prison camp.
+Here's something he actually did say, in "The House of the Dead":
+"In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
+</p>
 
 <p>
     On the left, the first Google Image Search result for "American Prison".
@@ -138,6 +144,13 @@ It does, however, capture aspects of his thinking about justice systems.
     While it can have consequentialist ramifications, it's fundamentally deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
+<p>
+    The deontological/consequentialist disconnect thing threw me for a major loop as a young adult.
+    As a literal-minded STEM person, I assumed various cultural claims being made were true in a literal sense.
+    After all, the claims of mathematics and physics are literally true.
+    In fact, <start link to solved and unsolved>nobody has solved the fear of death, or how to harmonize humans into consistent moral goodness<end link to solved and unsolved>.
+</p>
+
 <b>The most important thing in the world</b>
 <p>
     You can't be completely civilized, or expect a completely civilized experience, in a larger culture that is uncivilized.
@@ -147,13 +160,12 @@ It does, however, capture aspects of his thinking about justice systems.
 <p>
     Americans forever try to circumvent this.
     Try to create the perfect bubble.
-    Then you have a crazy neighbor who throws empty beer cans into your yard.
+    Then you have a crazy neighbor who throws empty beer cans over into your yard.
 </p>
 
 "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
 -On Crime and Punishment, from The Prophet, by Kahlil Gibran
 https://poets.org/poem/crime-and-punishment
-
 
 <p>
     I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
@@ -163,10 +175,7 @@ https://poets.org/poem/crime-and-punishment
 
 <p>
     Culture is the most important thing in the world, so people will do nearly anything for culture.
-    A demonstration of this is The United States' various failed attempts at nation-building abroad.
-    People would rather have no government, or a dysfunctional government, than a culturally-foreign government.
-    The US-backed government collapses when the US leaves.
-    Pretty simple: they never wanted it.
+    For example, people would generally rather have a dysfunctional government, or no government at all, than a culturally-foreign government.
 </p>
 
 <p>
@@ -178,7 +187,8 @@ https://poets.org/poem/crime-and-punishment
 </p>
 
 <p>
-    "Another roof, another proof" -Paul Erdős (https://www.nature.com/articles/383584a0.pdf)
+    "Another roof, another proof"
+    -Paul Erdős (https://www.nature.com/articles/383584a0.pdf)
 </p>
 
 <b>The refined product</b>
@@ -191,7 +201,8 @@ https://poets.org/poem/crime-and-punishment
 
 <p>
     The medieval French built beautiful cathedrals.
-    A cathedral is a nice example of the physical embodiment of certain cultural motifs.
+    A cathedral is a nice example of the physical reification of cultural motifs.
+    Joseph Campell referred to this as "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
@@ -236,6 +247,35 @@ https://poets.org/poem/crime-and-punishment
 <p>
     When Joscha Bach was asked what he finds meaningful in life, 
 </p>
+
+<b>Another Way to Change the Culture</b>
+<p>
+    All well and good, but I'm an engineer by trade, and this is where the practical side of me comes out.
+    Yes you can be a public intellectual, but cultural change is generally gradual, even glacial.
+    Moreover, it's often limited to a bounded <i>sub</i>culture.
+    Many people have the experience of a passing association with a well-organized, moral, and pleasant institution such as a university or a good employer, only to be dumped back into the real world of people wearing pajama pants at Walmart.
+</p>
+
+<p>
+    Though he influenced it in a positive direction, even Carl Sagan couldn't wholly save American culture, nor even re-steer the mainstream really.
+    He acknowledged this himself, in a part of his book The Demon-Haunted World in which he discusses scientists' aspirations for the 1939 New York World's Fair:  
+    "However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal." (TODO: add citation)
+    Or more simply:
+    "You Can't Fix Stupid"
+    -Ron White (TODO add citation)
+</p>
+
+<p>
+    So what's the solution?
+    I suggest another interpretation of "change the culture": moving <i>oneself</i> to another culture.
+    By analogy, we do this all the time in engineering.
+    If an engineering system is, for lack of a better term, "borked", we simply discard it in favor of something that works.
+    We also try to avoid inventing anything or building from scratch.
+    If there's a solution that works, we use that.
+    I've made this decision myself.
+    It's my reason for recently permanently leaving the United States and immigrating to Ireland.
+</p>
+
 
 Sources<br/>
 ¹: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
