@@ -250,7 +250,7 @@ https://poets.org/poem/crime-and-punishment
 
 <b>Another Way to Change the Culture</b>
 <p>
-    All well and good, but I'm an engineer by trade, and this is where the practical side of me comes out.
+    All well and good, but are you going to <i>meaningfully</i> change the cultures that meaningfully affect you?
     Yes you can be a public intellectual, but cultural change is generally gradual, even glacial.
     Moreover, it's often limited to a bounded <i>sub</i>culture.
     Many people have the experience of a passing association with a well-organized, moral, and pleasant institution such as a university or a good employer, only to be dumped back into the real world of people wearing pajama pants at Walmart.
@@ -268,10 +268,17 @@ https://poets.org/poem/crime-and-punishment
 <p>
     So what's the solution?
     I suggest another interpretation of "change the culture": moving <i>oneself</i> to another culture.
-    By analogy, we do this all the time in engineering.
-    If an engineering system is, for lack of a better term, "borked", we simply discard it in favor of something that works.
+</p>
+
+<p>
+    I'm an engineer by trade. By analogy, we do this all the time in engineering.
+    If an engineering system is broken, we discard it.
     We also try to avoid inventing anything or building from scratch.
-    If there's a solution that works, we use that.
+    If there's a known solution, we use it.
+    Not doing so is known as the "sunk cost fallacy" - the idea that you've already invested time/money/effort into something, so you should stick with it.
+</p>
+
+<p>
     I've made this decision myself.
     It's my reason for recently permanently leaving the United States and immigrating to Ireland.
 </p>
