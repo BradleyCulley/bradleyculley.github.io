@@ -94,7 +94,7 @@
 The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
 It does, however, capture aspects of his thinking about justice systems.
 
-Dostoevsky spent four years incarcerated in a Siberian prison camp, and afterward wrote a semi-autobiographical book, "The House of the Dead", about life in such a prison camp.
+Dostoevsky spent four years incarcerated in a Siberian prison camp, and afterward wrote a semi-autobiographical book, "The House of the Dead", about life in such a prison camp. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
 Here's something he actually did say, in "The House of the Dead":
 "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
 </p>
