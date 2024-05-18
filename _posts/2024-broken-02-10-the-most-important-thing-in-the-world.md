@@ -251,8 +251,8 @@ https://poets.org/poem/crime-and-punishment
 <b>Another Way to Change the Culture</b>
 <p>
     All well and good, but are you going to <i>meaningfully</i> change the cultures that meaningfully affect you?
-    Yes you can be a public intellectual, but cultural change is generally gradual, even glacial.
-    Moreover, it's often limited to a bounded <i>sub</i>culture.
+    Yes you can be a public intellectual, but cultural change is generally gradual...glacial even.
+    Moreover, change is often bounded within a <i>sub</i>culture.
     Many people have the experience of a passing association with a well-organized, moral, and pleasant institution such as a university or a good employer, only to be dumped back into the real world of people wearing pajama pants at Walmart.
 </p>
 
@@ -271,18 +271,17 @@ https://poets.org/poem/crime-and-punishment
 </p>
 
 <p>
-    I'm an engineer by trade. By analogy, we do this all the time in engineering.
-    If an engineering system is broken, we discard it.
+    I'm an engineer by trade.
+    By analogy, we do this all the time.
+    If an engineered system is broken, we often simply discard it.
     We also try to avoid inventing anything or building from scratch.
-    If there's a known solution, we use it.
-    Not doing so is known as the "sunk cost fallacy" - the idea that you've already invested time/money/effort into something, so you should stick with it.
+    If there's a solution that's known to work, we use it.
 </p>
 
 <p>
     I've made this decision myself.
     It's my reason for recently permanently leaving the United States and immigrating to Ireland.
 </p>
-
 
 Sources<br/>
 ¹: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
