@@ -86,7 +86,7 @@
     Whoa, that is  wonderful stuff!" - Former Supreme Court Justice Antonin Scalia - https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
 </p>
 
-<b>Prison</b>
+<b>Prison: The True Barometer</b>
 <p>
 "The degree of civilization in a society can be judged by entering its prisons"
 -Not Fyodor Dostoevsky
@@ -202,7 +202,7 @@ https://poets.org/poem/crime-and-punishment
 <p>
     The medieval French built beautiful cathedrals.
     A cathedral is a nice example of the physical reification of cultural motifs.
-    Joseph Campell referred to this as "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
+    Joseph Campbell referred to this as "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
