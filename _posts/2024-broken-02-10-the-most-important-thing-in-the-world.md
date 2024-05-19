@@ -162,8 +162,7 @@ Thus was the problem with Green Mountain Care.
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness. People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
     Made famous by Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
     Roseto's culture, carried over from Italy, literally made people healthier.
-    Quantifiably a lot healthier, even.
-    "They had to understand the culture he or she was a part of...they had to appreciate the idea that the values of the people we surround ourselves with have a profound effect on who we are" (quoted from Outliers, so quote it from there) -https://www.episcopalhealth.org/leadership/roseto-connection/
+    "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
 </p>
 
 <p>
@@ -271,6 +270,8 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 
 
     TODO: maybe remove this sentence: In other words, "<span style="font-style: italic;">I</span>, as a business owner, would have to spend money on poor people?".
+
+    "They had to understand the culture he or she was a part of...they had to appreciate the idea that the values of the people we surround ourselves with have a profound effect on who we are" (quoted from Outliers, so quote it from there) -https://www.episcopalhealth.org/leadership/roseto-connection/
 
 
 <p>
