@@ -160,6 +160,7 @@ Thus was the problem with Green Mountain Care.
 
 <p>
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness. People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
+    TODO: potentially include some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
     Made famous by Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
     Roseto's culture, carried over from Italy, literally made people healthier.
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
@@ -251,7 +252,15 @@ Thus was the problem with Green Mountain Care.
 <p>
     So what's the solution?
     I suggest another interpretation of "change the culture": moving <i>oneself</i> to another culture.
-    One can do both, as well: public intellectual and get out of Dodge.
+    One can do both, as well: public intellectual and move to a culture that's a better fit.
+</p>
+
+<p>
+    "Now when he reached the foot of the hill, he turned again towards the sea, and he saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
+    And his soul cried out to them, and he said:
+    Sons of my ancient mother, you riders of the tides,
+    How often have you sailed in my dreams."
+    -Kahlil Gibran (add citation superscript)
 </p>
 
 Sources<br/>
