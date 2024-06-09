@@ -68,11 +68,6 @@
 </p>
 
 <p>
-    American culture is quite individualistic. It's not selfish - far from it - but it is individualistic.
-    Pass all the laws you want: culture is more fundamental than the law.
-</p>
-
-<p>
     "But then I tell them, "If you think a bill of rights is what sets us apart,
     you’re crazy." Every banana republic in the world has a bill of rights. Every
     president for life has a bill of rights. The bill of rights of the former evil
@@ -129,7 +124,7 @@ Here's something he actually did say, in "The House of the Dead":
 
 As you can see, the United States has a score of 91 in the "individualism" dimension.
 That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in the world in the individualism dimension. 
-Thus was the problem with Green Mountain Care.
+That was the problem with Green Mountain Care.
 </p>
 
 <p>
@@ -180,7 +175,7 @@ Thus was the problem with Green Mountain Care.
 </p>
 
 <p>
-    I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
+    I've noticed that people who've found happiness in life have typically "found their people" and become part of the "Inner Ring" among those people, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
     Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
 </p>
 
@@ -200,7 +195,7 @@ Thus was the problem with Green Mountain Care.
 <p>
     The medieval French built beautiful cathedrals.
     Cathedrals are physical reifications of abstract cultural motifs.
-    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
+    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
@@ -345,6 +340,11 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
     The philosophical term for "refined product" is teleology: the end goal.
     So that's the answer to the question of "why do anything?".
     For the vibes.
+</p>
+
+<p>
+    American culture is quite individualistic. It's not selfish - far from it - but it is individualistic.
+    Pass all the laws you want: culture is more fundamental than the law.
 </p>
 
 "Without philosophy, action has no meaning"
