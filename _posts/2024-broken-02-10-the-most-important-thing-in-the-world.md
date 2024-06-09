@@ -36,17 +36,16 @@
 </p>
 
 <p>
+    Technology's nothing to sneeze at though.
     Only one event in history has markedly changed human prosperity: the invention of the first commercially successful steam engine, in 1712¹.
-    That's what kicked off the sharp increases in this graph:
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">The graph is from a blog post titled "There was only one industrial revolution" (https://lukemuehlhauser.com/there-was-only-one-industrial-revolution). Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution" (https://lukemuehlhauser.com/there-was-only-one-industrial-revolution). Good title.</div>
     </div>
 </p>
 
 <p>
-    As an adult, I saw more clearly that despite innovation in medicine, people suffer and die from uncomplicated diseases, including here in the United States.
-    Mass incarceration, mass homelessness, endless wars.
+    As an adult, I saw, for example, that despite innovation in medicine, people suffer and die from preventable diseases, including in wealthy countries.
     Technology, entrepreneurship, and wealth are necessary, but not sufficient.
 </p>
 
@@ -64,7 +63,7 @@
 
 <p>
     This was in the wealthiest country in the world, in a state (Vermont) that's in about the top third in the country for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5), and, for American standards, has high state taxes, including a 6% sales tax (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
-    Vermont was also ranked the 2nd most politically-liberal state in 2014, the year the bill died, so it's not as simple as political orientation. (https://news.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)
+    Vermont was also ranked the 2nd most politically-liberal state in 2014, the year the bill died, so it's not as simple as left/right political orientation. (https://news.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)
 </p>
 
 <p>
@@ -96,7 +95,7 @@ The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigth
 It does, however, capture aspects of his thinking.
 
 Dostoevsky was incarcerated for four years in a Siberian prison camp, and afterward wrote a semi-autobiographical book, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
-Here's something he actually did say, in "The House of the Dead":
+Here's something he actually <i>did</i> say, in "The House of the Dead":
 "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
 </p>
 
@@ -145,7 +144,8 @@ That was the problem with Green Mountain Care.
 <p>
     Americans forever try to circumvent this.
     Try to create the perfect bubble.
-    Then you have a neighbor who throws empty beer cans over into your yard.
+    Then your neighbor start throwing empty beer cans over the fence, into your yard.
+    Your teenage son develops a heroin addiction.
 </p>
 
 <p>
@@ -155,10 +155,10 @@ That was the problem with Green Mountain Care.
 
 <p>
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness. People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
-    TODO: potentially include some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
     Made famous by Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
     Roseto's culture, carried over from Italy, literally made people healthier.
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
+    TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
 </p>
 
 <p>
