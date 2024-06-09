@@ -4,7 +4,7 @@
 
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
-    Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the great 18th and 19th century German intellectual.
+    Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
 </p>
 
 <p>
@@ -167,6 +167,19 @@ Thus was the problem with Green Mountain Care.
 </p>
 
 <p>
+    Culture makes the good, and also mitigates the bad.
+    Professor James Falon
+
+    Numerous studies have found that antisocial personality disorder (ASPD, roughly the same as the term "psychopathy" in popular parlance) is only about 50% genetically determined.
+    People with ASPD are your classical picture of "evil": remorseless, violent, uncontrollable. 
+    They account for <x TODO fill in and cite>% of murderers.
+    The prevalence of the disorder is 10-15 times higher among prisoners than among the general population (2-3% versus 35% in prison), and the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
+    However, it's only 50% heritable. The other 50% is environmental. If you grow up in a good environment, you're much less likely to become a psychopath (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
+    This is true for nearly all such disorders of the mind.
+    Famously, 
+</p>
+
+<p>
     I've noticed that people who've found happiness in life have typically "found their tribe" and become part of the "Inner Ring" within that tribe, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
     Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
 </p>
@@ -213,14 +226,12 @@ Thus was the problem with Green Mountain Care.
 
 <p>
     In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.
-    Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Carl Sagan, Ayn Rand, Malcolm X, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
+    Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Ayn Rand, Carl Sagan, Malcolm X, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
 </p>
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
-    Public intellectual is on a gradient, by the way.
-    There are varied ways to be a public intellectual - to shape a culture.
-    One can influence the culture in their family or workplace, or within a whole field of work.
+    Also, public intellectual is on a gradient: one can influence the culture in their family or workplace, or within a whole field of work.
 </p>
 
 <p>
@@ -235,18 +246,21 @@ Thus was the problem with Green Mountain Care.
 
 <b>Another Way to Change the Culture</b>
 <p>
-    All well and good, but are you going to <i>meaningfully</i> change the cultures that meaningfully affect you?
-    Yes you can be a public intellectual, but cultural change is often gradual...glacial, even.
+    "You Can't Fix Stupid"
+    -Ron White (TODO add citation)
+</p>
+
+<p>
+    All well and good, but can you <i>meaningfully</i> change the cultures that meaningfully affect you?
+    Cultural change is often gradual...glacial, even.
     Moreover, change is often bounded within a <i>sub</i>culture.
     Many have had the experience of a passing association with a well-organized, moral, pleasant institution such as a university or a good job, only to be dumped back into the real world of people wearing pajama pants at Walmart.
 </p>
 
 <p>
-    Though he influenced it in a positive direction, even Carl Sagan couldn't wholly save American culture, nor even re-steer the mainstream really.
-    He acknowledged this himself, in a part of his book The Demon-Haunted World in which he discusses scientists' aspirations for the 1939 New York World's Fair:  
+    Though he influenced it in a positive direction, even Carl Sagan couldn't fix American culture, nor even re-steer the mainstream very much.
+    He kind of acknowledged this, in a part of his book The Demon-Haunted World, in which he discusses the hopes of some famous scientists for the 1939 New York World's Fair:  
     "However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal." (TODO: add citation)
-    "You Can't Fix Stupid"
-    -Ron White (TODO add citation)
 </p>
 
 <p>
@@ -256,7 +270,7 @@ Thus was the problem with Green Mountain Care.
 </p>
 
 <p>
-    "Now when he reached the foot of the hill, he turned again towards the sea, and he saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
+    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
     And his soul cried out to them, and he said:
     Sons of my ancient mother, you riders of the tides,
     How often have you sailed in my dreams."
