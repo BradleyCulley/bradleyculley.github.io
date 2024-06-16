@@ -94,7 +94,7 @@
 The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
 It does, however, capture aspects of his thinking.
 
-Dostoevsky was incarcerated for four years in a Siberian prison camp, and afterward wrote a semi-autobiographical book, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
+Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
 Here's something he actually <i>did</i> say, in "The House of the Dead":
 "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
 </p>
@@ -107,15 +107,24 @@ Here's something he actually <i>did</i> say, in "The House of the Dead":
 
 #### What is culture?
 <p>
-    Culture is often framed through externalities: food, language, religion, special dances, special rituals, special hats.
-    But it's actually what in mathematics is called a set of axiomatic invariants.
-    It's the stuff so fundamental (when you grow up in the culture) that it seems obvious.
+    There's a culture to every town, school, and even every relationship between two people.
 </p>
 
 <p>
-    A good framework for these invariants is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
+    Culture is often ostensibly consequentialist: "fermented food is good for you".
+    While it can have consequentialist ramifications (such as universal healthcare), it's actually deontological: "This food reminds me of my childhood. It feels like home."
+</p>
+
+<p>
+    It's often framed through externalities: food, language, religion, dances.
+    It's more like air, though.
+    It's the stuff so fundamental, when you grow up in the culture, that you don't notice it.
+</p>
+
+<p>
+    A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
     Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973. -https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory 
-    Here are the 5 cultural dimensions in his theory, plotted for a few countries:
+    These are the 5 cultural dimensions in his theory, plotted for a few countries:
 
 <div align="center">
       <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
@@ -126,16 +135,8 @@ That particular graph only shows 4 countries, but in Hofstede's full analysis, t
 That was the problem with Green Mountain Care.
 </p>
 
-<p>
-    There's a culture to every town, school, and even every relationship between two people.
-</p>
-
-<p>
-    Culture is often ostensibly consequentialist: "fermented food is good for you".
-    While it can have consequentialist ramifications (such as universal healthcare), it's actually deontological: "This food reminds me of my childhood. It feels like home."
-</p>
-
 #### "The most important thing in the world"
+1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized, or expect a completely civilized experience, in a larger culture that is uncivilized.
     Can you be "Mr. Nice Guy" in prison?
@@ -156,36 +157,47 @@ That was the problem with Green Mountain Care.
 <p>
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness. People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
     Made famous by Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
-    Roseto's culture, carried over from Italy, literally made people healthier.
+    Roseto's culture, carried over from Italy, made people healthier.
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
 </p>
 
+2. Makes the good, and mitigates the bad.
 <p>
-    Culture makes the good, and also mitigates the bad.
-    Professor James Falon
+    Professor James Falon was a neuroscientist at UC Irvine.
+    One day, while researching brain scans of people with, and without, clinical psychopathy (antisocial personality disorder), Falon discovered a scan of his own brain had been miscategorized.
+    He was using the scan of brain as an experimental control - a healthy brain.
+    However, the scan had been classified by one of his technicians as showing the signs of psychopathy.
+    Upon investigating the issue, he discovered that the classification was indeed legitimate: he had the brain of a psychopath.
+    
+    What he didn't have, however, was much, if any, of the typical outward behaviors of a psychopath.
+    He was well-adjusted, professionally successful, and happily married with children.
 
-    Numerous studies have found that Antisocial Personality Disorder (ASPD, roughly the same as the popular term "psychopathy") is only about 50% genetically determined.
-    People with ASPD are your classical picture of "evil": remorseless, violent, uncontrollable.
-    They account for <x TODO fill in and cite>% of murderers.
+    It turns out that clinical psychopathy is only about 50% genetically determined.
+    The other 50% is determined by the person's experiences in life, especially during childhood. (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
+    Dr. Falon attributed his well-adjusted life to a happy childhood.
+
+    People with psychopathy are your classic picture of evil: remorseless, violent, uncontrollable.
+    They represent x% of murderers, for example.
+    There are no documented cases of curing the disorder.
+
     The prevalence of the disorder is 10-15 times higher among prisoners than among the general population (2-3% versus 35% in prison).
-    ASPD is the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
+    It's also the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
 
-    ASPD is only 50% heritable. The other 50% is environmental.
-    If you grow up in a good environment, you're much less likely to become a psychopath (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
-    This is true for nearly all such disorders of the mind.
-    Famously, Professor James Falon
+    Such an impact of early life environment, which is ultimately a facet of culture, is true for nearly all such disorders of the mind. (citation)
 </p>
 
+3. Finding the tribe
 <p>
     I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
     Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
 </p>
 
+4. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for culture.
-    For example, people tend to choose a dysfunctional government, or no government at all, instead a culturally-foreign government.
-    It makes sense.
+    For example, people tend choosing a dysfunctional government, or no government at all, instead of a culturally-foreign government.
+    Understandable.
 </p>
 
 ### Teleology
@@ -240,13 +252,6 @@ TODO edit: Cultural values are non-negotiable. If you're baking a cake the one t
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
-    Also, public intellectual is on a gradient: one can influence the culture in their family or workplace, or within a whole field of work.
-</p>
-
-<p>
-    Years ago, I saw a question in an online forum that went something like this: "which profession has had the greatest impact on the world?".
-    Politician, explorer, scientist, etc.
-    One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
 </p>
 
 <p>
@@ -260,20 +265,15 @@ TODO edit: Cultural values are non-negotiable. If you're baking a cake the one t
 </p>
 
 <p>
-    The public intellectual thing is nice, but can you <i>meaningfully</i> change the cultures that meaningfully affect you?
-    Can you do it during your lifetime?
+    The public intellectual thing is nice, but can you meaningfully change the cultures that meaningfully affect you?
+    Can you do it in your lifetime?
     Cultural change is often gradual. Glacial, even.
-    Moreover, change is often bounded within a <i>sub</i>culture.
-</p>
-<p>
-    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution such as a university or a good job, only to be dumped back into the real world.
-    It seemed like we finally had our ducks in a row in the subculture, but the real world is still the real world.
+    Moreover, change often only happens in a <i>sub</i>culture.
 </p>
 
 <p>
-    Though he influenced it, even Carl Sagan couldn't wholly reshape American culture.
-    He kind of acknowledged this, in a part of his book The Demon-Haunted World, in which he discusses the hopes of some famous scientists for the 1939 New York World's Fair:  
-    "However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal." (TODO: add citation)
+    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
+    It seemed like we finally had things right, in the subculture, but the real world is still the real world.
 </p>
 
 <p>
@@ -309,6 +309,17 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 
     "They had to understand the culture he or she was a part of...they had to appreciate the idea that the values of the people we surround ourselves with have a profound effect on who we are" (quoted from Outliers, so quote it from there) -https://www.episcopalhealth.org/leadership/roseto-connection/
 
+<p>
+    Though he influenced it, even Carl Sagan couldn't reshape American culture.
+    He kind of acknowledged this, in a part of his book The Demon-Haunted World, in which he discusses the hopes of some famous scientists for the 1939 New York World's Fair:  
+    "However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal." (TODO: add citation)
+</p>
+
+<p>
+    Years ago, I saw a question in an online forum that went something like this: "which profession has had the greatest impact on the world?".
+    Politician, explorer, scientist, etc.
+    One of the answers made the case for "the amateur philosopher", otherwise known as the public intellectual.
+</p>
 
 <p>
     The deontological/consequentialist disconnect threw me for a major loop as a young adult.
