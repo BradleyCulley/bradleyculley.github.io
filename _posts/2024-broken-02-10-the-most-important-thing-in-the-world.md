@@ -132,7 +132,7 @@ That was the problem with Green Mountain Care.
 
 <p>
     Culture is often ostensibly consequentialist: "fermented food is good for you".
-    While it can have consequentialist ramifications, it's actually deontological: "This food reminds me of my childhood. It feels like home."
+    While it can have consequentialist ramifications (such as universal healthcare), it's actually deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
 #### "The most important thing in the world"
@@ -150,7 +150,7 @@ That was the problem with Green Mountain Care.
 
 <p>
     "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
-    -On Crime and Punishment, from The Prophet, by Kahlil Gibran (https://poets.org/poem/crime-and-punishment)
+    -Kahlil Gibran (https://poets.org/poem/crime-and-punishment)
 </p>
 
 <p>
@@ -165,24 +165,36 @@ That was the problem with Green Mountain Care.
     Culture makes the good, and also mitigates the bad.
     Professor James Falon
 
-    Numerous studies have found that antisocial personality disorder (ASPD, roughly the same as the term "psychopathy" in popular parlance) is only about 50% genetically determined.
-    People with ASPD are your classical picture of "evil": remorseless, violent, uncontrollable. 
+    Numerous studies have found that Antisocial Personality Disorder (ASPD, roughly the same as the popular term "psychopathy") is only about 50% genetically determined.
+    People with ASPD are your classical picture of "evil": remorseless, violent, uncontrollable.
     They account for <x TODO fill in and cite>% of murderers.
-    The prevalence of the disorder is 10-15 times higher among prisoners than among the general population (2-3% versus 35% in prison), and the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
-    However, it's only 50% heritable. The other 50% is environmental. If you grow up in a good environment, you're much less likely to become a psychopath (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
+    The prevalence of the disorder is 10-15 times higher among prisoners than among the general population (2-3% versus 35% in prison).
+    ASPD is the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
+
+    ASPD is only 50% heritable. The other 50% is environmental.
+    If you grow up in a good environment, you're much less likely to become a psychopath (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
     This is true for nearly all such disorders of the mind.
-    Famously, 
+    Famously, Professor James Falon
 </p>
 
 <p>
-    I've noticed that people who've found happiness in life have typically "found their people" and become part of the "Inner Ring" among those people, to use CS Lewis' excellent term (https://www.lewissociety.org/innerring).
+    I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
     Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
 </p>
 
 <p>
-    Culture is the most important thing in the world, so people will do nearly anything for culture.
-    For example, people would usually rather have a dysfunctional government, or no government at all, than a culturally-foreign government.
+    Culture is the most important thing in the world, so people will do most anything for culture.
+    For example, people tend to choose a dysfunctional government, or no government at all, instead a culturally-foreign government.
+    It makes sense.
 </p>
+
+### Teleology
+Teleology is a Greek word, defined as "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes."
+Something is teleological if not just a means to an end, but rather an end upon itself.
+You could say a painting is teleological: it doesn't serve some other purpose
+
+https://www.britannica.com/topic/teleology
+The Greek philosopher Aristotle invented the idea of teleology  
 
 #### The Refined Product
 <p>
@@ -199,6 +211,8 @@ That was the problem with Green Mountain Care.
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
+
+TODO edit: Cultural values are non-negotiable. If you're baking a cake the one thing that's non-negotiable is that you have a cake at the end. You can swap out the flower for a whole grain flour you can swap out the sugar for Splenda and you can swap out the icing for dairy-free icing but you have to make a cake. It's teleological.
 
 <p>
     The refined products, then, of all human effort are the aesthetics.
@@ -246,14 +260,18 @@ That was the problem with Green Mountain Care.
 </p>
 
 <p>
-    All well and good, but can you <i>meaningfully</i> change the cultures that meaningfully affect you?
-    Cultural change is often gradual...glacial, even.
+    The public intellectual thing is nice, but can you <i>meaningfully</i> change the cultures that meaningfully affect you?
+    Can you do it during your lifetime?
+    Cultural change is often gradual. Glacial, even.
     Moreover, change is often bounded within a <i>sub</i>culture.
-    Many have had the experience of a passing association with a well-organized, moral, pleasant institution such as a university or a good job, only to be dumped back into the real world of people wearing pajama pants at Walmart.
+</p>
+<p>
+    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution such as a university or a good job, only to be dumped back into the real world.
+    It seemed like we finally had our ducks in a row in the subculture, but the real world is still the real world.
 </p>
 
 <p>
-    Though he influenced it in a positive direction, even Carl Sagan couldn't fix American culture, nor even re-steer the mainstream very much.
+    Though he influenced it, even Carl Sagan couldn't wholly reshape American culture.
     He kind of acknowledged this, in a part of his book The Demon-Haunted World, in which he discusses the hopes of some famous scientists for the 1939 New York World's Fair:  
     "However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal." (TODO: add citation)
 </p>
