@@ -198,6 +198,8 @@ That was the problem with Green Mountain Care.
     Culture is the most important thing in the world, so people will do most anything for culture.
     For example, people tend choosing a dysfunctional government, or no government at all, instead of a culturally-foreign government.
     Understandable.
+    When you take a person's culture, you effectively take their last breath, their most valuable possession.
+    This is something communism does which I find particularly vile: banning tradition, banning religions, and so on.
 </p>
 
 ### Teleology
