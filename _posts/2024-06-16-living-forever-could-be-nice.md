@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
-  <div style="font-size: 12px; font-style: italic; text-align: center;">We've pushed up the average, but the end is stuck around 120¹</div>
+  <div style="font-size: 12px; font-style: italic; text-align: center;">We've pushed up the average, but the maximum is stuck around 120¹</div>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@ As with the old trope that "money isn't important", what we wish were true (that
 
 <p>
 Also interesting was what happened <i>after</i> she achieved financial freedom.
-She said her wealth grew faster afterwards
+She said her wealth grew faster afterward.
 She worked more in alignment with her personal missions, took more calculated risks, and so on.
 </p>
 
@@ -43,25 +43,26 @@ His answer was "Everything. Nothing."².
 </p>
 
 <p>
-I think solving the ability to live as long as one likes will be similar.
+I think the ability to live as long as one likes will be similar.
 I think the potential downsides, such as logistical problems, are oversold.
-Humans are good at problem-solving...though usually only once the problem is looming.
+Humans are good at problem-solving...usually once the problem is imminent.
 </p>
 
 <p>
-Imagine if Eratosthenes, Euler, Edison, Einstein, Noether, von Neumann, da Vinci, Tesla, and Isambard Kingdom Brunel were all alive and well today. Each would have a career hundreds, or thousands, of years long.
+Imagine if Eratosthenes, Euler, Edison, Einstein, Noether, von Neumann, da Vinci, Tesla, and Isambard Kingdom Brunel were all alive and well. Each would have a career hundreds, or thousands, of years long.
 We might be Kardashev Type-II or Type-III already.
 </p>
 
 <p>
-In longevity research, there's the idea of "longevity escape velocity": living long enough, or aging slowly enough, to "catch the train" of scientific progress such that one achieves immortality³.
+In longevity research, there's the idea of "longevity escape velocity".
+That means living long enough, or aging slowly enough, to "catch the train" of scientific progress such that one ultimately achieves immortality³.
 "[I]n a given year in which longevity escape velocity would be maintained, medical advances would increase people's remaining life expectancy more than the year that just went by"³.
 I don't think longevity escape velocity, the possibility of curing aging entirely, and so on, are necessarily millenarian.
 </p>
 
 <p>
 The image at the top of this post shows the anchoring effect humans currently experience: the maximum age is stuck around 120 years.
-However, there's been effective research in extending the lifespan of lab animals and, first the first time 2019, in humans⁴. 
+However, there's been effective research in extending the lifespan of lab animals and, for the first time in 2019, in humans⁴. 
 In a 2019 study lead by Dr. Greg Fahy, treatment with recombinant human growth hormone (rhGH) caused the cellular age of participants to be "approximately 1.5 years less than baseline after 1 year of treatment"⁴.
 </p>
 
@@ -83,7 +84,7 @@ Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
 
 <p>
 Hydras do not die of old age, and in fact do not age at all.⁶
-They have an unlimited capacity to reset their cells to a "fresh" state.⁴
+They have an unlimited capacity to reset their cells to a "fresh" state.⁶
 </p>
 
 <p>
@@ -93,7 +94,7 @@ The transcription factor "forkhead box O" (FoxO) has been identified as a critic
 </p>
 
 <p>
-Hydras are proof it's possible. I think it'll be quite pleasant.
+Hydras prove it's possible. I think it'll be quite pleasant.
 </p>
 
 <br/>
