@@ -7,8 +7,10 @@
 
 <br/>
 <p>
-Last summer, I was thinking about longevity research while driving around Maine looking at land for sale.<br/><br/>
+Last summer, I was thinking about longevity research while driving around Maine looking at land for sale.
+</p>
 
+<p>
 Below is a positive thought that came to mind.
 </p>
 
@@ -67,7 +69,7 @@ In a 2019 study lead by Dr. Greg Fahy, treatment with recombinant human growth h
 The anchoring around 120 years appears to be due to the Hayflick limit.⁵
 The Hayflick limit is the number of times a human cell can divide.⁵
 Once you hit the limit, the cell stops dividing, the tissue starts to die, and so does the person.
-It's like a candle burning through its wax.<br/><br/>
+It's like a candle burning through its wax.<br/>
 
 I think AI can help solve this.
 </p>
@@ -77,18 +79,21 @@ Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
 <div style="text-align: center;">
     <img style="height: 80vh;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
 </div>
+</p>
 
+<p>
 Hydras do not die of old age, and in fact do not age at all.⁶
-They have an unlimited capacity to reset their cells to a "fresh" state.⁴<br/><br/>
+They have an unlimited capacity to reset their cells to a "fresh" state.⁴
+</p>
 
+<p>
 "Research today appears to confirm Martinez' study.
 Hydra stem cells have a capacity for indefinite self-renewal.
 The transcription factor "forkhead box O" (FoxO) has been identified as a critical driver of the continuous self-renewal of Hydra."⁶
 </p>
 
 <p>
-Hydras are proof it's possible.
-And I think it'll be quite pleasant.
+Hydras are proof it's possible. I think it'll be quite pleasant.
 </p>
 
 <br/>
