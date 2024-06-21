@@ -2,7 +2,7 @@
 
 <div>
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
-  <div style="font-size: 12px; font-style: italic;">We've pushed up the average a lot, but the end seems stuck at about 120¹</div>
+  <div style="font-size: 12px; font-style: italic;">We've pushed up the average, but the end is stuck around 120¹</div>
 </div>
 
 Last summer, I was thinking about longevity research while driving around Maine looking at land for sale.
