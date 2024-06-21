@@ -1,7 +1,7 @@
 ### Living Forever Could Be Nice
 
-<div>
-  <img style="height: 80vh;" align="center" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
+<div style="text-align: center;">
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
   <div style="font-size: 12px; font-style: italic; text-align: center;">We've pushed up the average, but the end is stuck around 120¹</div>
 </div>
 
@@ -74,7 +74,7 @@ I think AI can help solve this.
 
 <p>
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
-<div>
+<div style="text-align: center;">
     <img style="height: 80vh;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
 </div>
 
