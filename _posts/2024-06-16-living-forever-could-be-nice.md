@@ -7,7 +7,7 @@
 
 <br/>
 <p>
-Last summer, I was thinking about longevity research while driving around Maine looking at land for sale.
+Last summer, I was thinking about longevity research while driving around Maine looking at land for sale.<br/><br/>
 
 Below is a positive thought that came to mind.
 </p>
