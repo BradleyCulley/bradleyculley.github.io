@@ -47,7 +47,7 @@ Humans are good at problem-solving...though usually only once the problem is loo
 </p>
 
 <p>
-Imagine if Eratosthenes, Euler, Edison, Einstein, Noether, von Neumann, da Vinci, Tesla, and Isambard Kingdom Brunel were all still alive and well today, each with a career hundreds or thousands of years long.
+Imagine if Eratosthenes, Euler, Edison, Einstein, Noether, von Neumann, da Vinci, Tesla, and Isambard Kingdom Brunel were all alive and well today. Each would have a career hundreds, or thousands, of years long.
 We might be Kardashev Type-II or Type-III already.
 </p>
 
