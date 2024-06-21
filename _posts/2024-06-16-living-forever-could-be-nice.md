@@ -60,7 +60,7 @@ I don't think longevity escape velocity, the possibility of curing aging entirel
 <p>
 The image at the top of this post shows the anchoring effect humans currently experience: the maximum age is stuck around 120 years.
 However, there's been effective research in extending the lifespan of lab animals and, first the first time 2019, in humans⁴. 
-In a 2019 study lead by Dr. Greg Fahy, treatment with recombinant human growth hormone (rhGH) [caused a net decrease of 2.5 years in the cellular age of human participants](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf)⁴.
+In a 2019 study lead by Dr. Greg Fahy, treatment with recombinant human growth hormone (rhGH) caused the cellular age of participants to be "approximately 1.5 years less than baseline after 1 year of treatment"⁴.
 </p>
 
 <p>
