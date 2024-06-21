@@ -1,8 +1,8 @@
 ### Living Forever Could Be Nice
 
 <div>
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
-  <div style="font-size: 12px; font-style: italic;">We've pushed up the average, but the end is stuck around 120¹</div>
+  <img style="height: 80vh;" align="center" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
+  <div style="font-size: 12px; font-style: italic; text-align: center;">We've pushed up the average, but the end is stuck around 120¹</div>
 </div>
 
 <br/>
@@ -74,9 +74,10 @@ I think AI can help solve this.
 
 <p>
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
-<put the image here>
-    <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
+<div>
+    <img style="height: 80vh;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
 </div>
+
 Hydras do not die of old age, and in fact do not age at all.⁶
 They have an unlimited capacity to reset their cells to a "fresh" state.⁴<br/><br/>
 
