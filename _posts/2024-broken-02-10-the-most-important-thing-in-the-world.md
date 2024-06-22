@@ -139,7 +139,7 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 </p>
 
 <div align="center">
-      <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
+  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
 </div>
 
 <p>
