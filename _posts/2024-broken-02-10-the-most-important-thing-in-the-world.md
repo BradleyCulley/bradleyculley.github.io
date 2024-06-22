@@ -46,7 +46,6 @@
 
 <p>
     As an adult, I saw, for example, that despite innovation in medicine, people suffer and die from preventable diseases, including in wealthy countries.
-    Technology, entrepreneurship, and wealth are necessary, but not sufficient.
 </p>
 
 #### Green Mountain Care
@@ -143,10 +142,10 @@ That was the problem with Green Mountain Care.
 </p>
 
 <p>
-    Americans forever try to circumvent this.
+    Americans forever try to get around this.
     Try to create the perfect bubble.
     Then your neighbor start throwing empty beer cans over the fence, into your yard.
-    Your teenage son develops a heroin addiction.
+    Your son develops a heroin addiction.
 </p>
 
 <p>
@@ -162,7 +161,7 @@ That was the problem with Green Mountain Care.
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
 </p>
 
-2. Makes the good, and mitigates the bad.
+2. Mitigates the bad
 <p>
     Professor James Falon was a neuroscientist at UC Irvine.
     One day, while researching brain scans of people with, and without, clinical psychopathy (antisocial personality disorder), Falon discovered a scan of his own brain had been miscategorized.
@@ -170,63 +169,65 @@ That was the problem with Green Mountain Care.
     However, the scan had been classified by one of his technicians as showing the signs of psychopathy.
     Upon investigating the issue, he discovered that the classification was indeed legitimate: he had the brain of a psychopath.
     
-    What he didn't have, however, was much, if any, of the typical outward behaviors of a psychopath.
-    He was well-adjusted, professionally successful, and happily married with children.
+    What he didn't have was much of the typical outward behaviors of a psychopath.
+    He was well-adjusted, professionally successful, and happily married.
 
     It turns out that clinical psychopathy is only about 50% genetically determined.
     The other 50% is determined by the person's experiences in life, especially during childhood. (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
     Dr. Falon attributed his well-adjusted life to a happy childhood.
 
     People with psychopathy are your classic picture of evil: remorseless, violent, uncontrollable.
-    They represent x% of murderers, for example.
+    They represent x% of murderers, despite comprising only about 1% of the world population. -https://www.psychologytoday.com/us/blog/unique-everybody-else/201812/are-murderers-unfairly-labeled-psychopaths
     There are no documented cases of curing the disorder.
 
-    The prevalence of the disorder is 10-15 times higher among prisoners than among the general population (2-3% versus 35% in prison).
+    The prevalence of the disorder is 10-15 times higher among prisoners than it is among the general population (2-3% versus 35% in prison).
     It's also the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
 
-    Such an impact of early life environment, which is ultimately a facet of culture, is true for nearly all such disorders of the mind. (citation)
+    Such an impact of early life environment, which is ultimately a facet of culture, is true for nearly all such disorders of the mind.
 </p>
 
-3. Finding the tribe
+3. Finding one's people
 <p>
     I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
     Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
+    Success for most of human history, and even of organismal history within our lineage, was becoming a valued, trusted, and well-respected member of a group. 
 </p>
 
 4. Defending culture
 <p>
-    Culture is the most important thing in the world, so people will do most anything for culture.
-    For example, people tend choosing a dysfunctional government, or no government at all, instead of a culturally-foreign government.
-    Understandable.
-    When you take a person's culture, you effectively take their last breath, their most valuable possession.
-    This is something communism does which I find particularly vile: banning tradition, banning religions, and so on.
+    Culture is the most important thing in the world, so people will do most anything for it.
+    For example, people will generally choose a dysfunctional government, a new (unproven) government, or no government at all, over a culturally-foreign government.
+    Completely understandable.
+</p>
+
+<p>
+    When you take a person's culture, you take their last breath, their most valuable possession.
+    Communism and colonialism both do this: ban religions, erase traditions, and so on.
 </p>
 
 ### Teleology
-Teleology is a Greek word, defined as "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes."
-Something is teleological if not just a means to an end, but rather an end upon itself.
-You could say a painting is teleological: it doesn't serve some other purpose
-
-https://www.britannica.com/topic/teleology
-The Greek philosopher Aristotle invented the idea of teleology  
+<p>
+    The Greek philosopher Aristotle invented the idea of teleology. --Add citation
+    Teleology is a Greek word, meaning "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes." -https://www.britannica.com/topic/teleology
+    Something is teleological if not just a means to an end, but rather an end upon itself.
+    One could, as Aristotle did, say happiness is teleological, for example. --add citation
+    Happiness doesn't need to serve some other end: it's valuable all by itself.
+</p>
 
 #### The Refined Product
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
-    In life, we have different social and professional roles: teacher, soldier, doctor.
-    Many of them are essentially fighting entropy - creating and sustaining the raw materials (people).
+    In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
+    They're creating and sustaining the raw materials of civilization: people.
     But why bother? Why do anything?
 </p>
 
 <p>
-    The medieval French built beautiful cathedrals.
-    Cathedrals are physical reifications of abstract cultural motifs.
+    The medieval French built beautiful cathedrals: physical reifications of cultural motifs.
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
-
-TODO edit: Cultural values are non-negotiable. If you're baking a cake the one thing that's non-negotiable is that you have a cake at the end. You can swap out the flower for a whole grain flour you can swap out the sugar for Splenda and you can swap out the icing for dairy-free icing but you have to make a cake. It's teleological.
 
 <p>
     The refined products, then, of all human effort are the aesthetics.
@@ -267,20 +268,20 @@ TODO edit: Cultural values are non-negotiable. If you're baking a cake the one t
 </p>
 
 <p>
-    The public intellectual thing is nice, but can you meaningfully change the cultures that meaningfully affect you?
-    Can you do it in your lifetime?
-    Cultural change is often gradual. Glacial, even.
+    Public intellectuals <i>can</i> change the culture, but can you meaningfully change the cultures that meaningfully affect you?
+    In your lifetime?
+    Cultural change is often gradual. Glacial even.
     Moreover, change often only happens in a <i>sub</i>culture.
 </p>
 
 <p>
-    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
-    It seemed like we finally had things right, in the subculture, but the real world is still the real world.
+    Many of us have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
+    In the subculture, it seemed like we got our ducks in a row. Outside the bubble, though, the real world persists.
 </p>
 
 <p>
     So what's the solution?
-    I suggest another interpretation of "change the culture": moving <i>oneself</i> to another culture.
+    I suggest another interpretation of "change the culture": moving oneself to another culture.
     One can do both, as well: public intellectual and move to a culture that's a better fit.
 </p>
 
