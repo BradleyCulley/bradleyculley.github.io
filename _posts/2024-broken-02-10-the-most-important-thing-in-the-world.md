@@ -1,5 +1,12 @@
 ### The Most Important Thing In The World
 
+<div align="center">
+  <img style="width: 70vw;" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
+  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
+</div>
+
+https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/cpsprodpb/14FB0/production/_107763958_family_garden976.jpg.webp
+
 <b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
@@ -61,7 +68,8 @@
 </p>
 
 <p>
-    This was in the wealthiest country in the world, in a state (Vermont) that's in about the top third in the country for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5), and, for American standards, has high state taxes, including a 6% sales tax (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
+    This was in the wealthiest country in the world.
+    It was in a state (Vermont) that's in about the top third in the country for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
     Vermont was also ranked the 2nd most politically-liberal state in 2014, the year the bill died, so it's not as simple as left/right political orientation. (https://news.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)
 </p>
 
@@ -92,14 +100,14 @@
 </p>
 
 <p>
-The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
-It does, however, capture aspects of his thinking.
+    The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
+    It does, however, capture aspects of his thinking.
 </p>
 
 <p>
-Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
-Here's something he actually <i>did</i> say, in "The House of the Dead":
-"In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
+    Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
+    Here's something he actually <i>did</i> say, in "The House of the Dead":
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
 </p>
 
 <p>
@@ -135,9 +143,9 @@ Here's something he actually <i>did</i> say, in "The House of the Dead":
 </div>
 
 <p>
-As you can see, the United States has a score of 91 in the "individualism" dimension.
-That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in the world in the individualism dimension. 
-That was the problem with Green Mountain Care.
+    As you can see, the United States has a score of 91 in the "individualism" dimension.
+    That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in the world in the individualism dimension. 
+    That was the problem with Green Mountain Care.
 </p>
 
 #### "The most important thing in the world"
@@ -150,7 +158,9 @@ That was the problem with Green Mountain Care.
 <p>
     Americans forever try to get around this.
     Try to create the perfect bubble.
-    Then your neighbor start throwing empty beer cans over the fence, into your yard.
+    Then something crazy happens, and the bubble is breached.
+    Your $100,000 health insurance claim gets denied.
+    Your son becomes addicted to heroin.
 </p>
 
 <p>
@@ -194,14 +204,13 @@ That was the problem with Green Mountain Care.
 3. Finding one's people
 <p>
     I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
-    Military veteran, tenured professor, respected senior vice president, grandparent with a big and loving extended family.
-    Success for most of human history, and even of organismal history within our lineage, was becoming a valued, trusted, and well-respected member of a group. 
+    Military veteran, tenured professor, respected senior vice president, grandparent with a big extended family.
 </p>
 
 4. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
-    For example, people will generally choose a dysfunctional government, a new (unproven) government, or no government at all, over a culturally-foreign government.
+    For example, people will generally choose a dysfunctional government, a new and unproven government, or no government at all, over a culturally-foreign government.
     Completely understandable.
 </p>
 
@@ -213,18 +222,24 @@ That was the problem with Green Mountain Care.
 ### Teleology
 <p>
     The Greek philosopher Aristotle invented the idea of teleology. --Add citation
-    Teleology is a Greek word, meaning "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes." -https://www.britannica.com/topic/teleology
-    Something is teleological if not just a means to an end, but rather an end upon itself.
-    One could, as Aristotle did, say happiness is teleological, for example. --add citation
-    Happiness doesn't need to serve some other end: it's valuable all by itself.
+    It's a Greek word, meaning "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes." -https://www.britannica.com/topic/teleology
+    Something is teleological if it's not just a means to an end, but rather an end upon itself.
+    For example, one could, as Aristotle did, say that happiness is teleological. --add citation
+    Happiness is valuable all by itself.
 </p>
 
 #### The Refined Product
+Maybe remove this:
+<p>
+    "Without philosophy, action has no meaning"
+    -Sébastien Foucan --TODO add then cite source
+</p>
+
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
     In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
     They're creating and sustaining the raw materials of civilization: people.
-    But why bother? Why do anything?
+    But why bother? Why do anything? What's the teleology?
 </p>
 
 <p>
@@ -281,13 +296,13 @@ That was the problem with Green Mountain Care.
 
 <p>
     Many of us have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
-    In the subculture, it seemed like we got our ducks in a row. Outside the bubble, though, the real world persists.
+    In the subculture, it seemed like we finally had our ducks in a row. The real world persists, though.
 </p>
 
 <p>
-    So what's the solution?
+    What's the solution?
     I suggest another interpretation of "change the culture": moving oneself to another culture.
-    One can do both, as well: public intellectual and move to a culture that's a better fit.
+    One can do both, as well: be a public intellectual and move to a culture that better suits the way you see the world.
 </p>
 
 <p>
@@ -302,6 +317,7 @@ Sources<br/>
 ¹: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
 ²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
 ²: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+²: header photo : https://thestoryinstitute.com/halden
 
 
 First image search result for "Nordic Prison":
