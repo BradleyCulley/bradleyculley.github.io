@@ -5,8 +5,6 @@
   <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
 </div>
 
-https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/cpsprodpb/14FB0/production/_107763958_family_garden976.jpg.webp
-
 <b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
@@ -62,9 +60,9 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 </p>
 
 <p>
-    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." (https://en.wikipedia.org/wiki/Vermont_health_care_reform)
+    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
     A year later, the bill was dead.
-    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." (https://en.wikipedia.org/wiki/Vermont_health_care_reform)
+    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
 </p>
 
 <p>
@@ -81,7 +79,7 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
     I mean it literally. It was much better. We guarantee freedom of speech and
     of the press. Big deal. They guaranteed freedom of speech, of the press, of
     street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
-    Whoa, that is  wonderful stuff!" - Former Supreme Court Justice Antonin Scalia - https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
+    Whoa, that is  wonderful stuff!" - Former Supreme Court Justice Antonin Scalia -https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
 </p>
 
 #### Prison: A True Barometer
@@ -92,6 +90,11 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 
     On the left, the first Google Image Search result for "American Prison".
     On the right, the same for "Nordic Prison".
+-First image search result for "Nordic Prison":
+https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+
+-First image search result for "American Prison":
+https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
 </p>
 
 <p>
@@ -105,9 +108,9 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 </p>
 
 <p>
-    Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
+    Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. -https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
     Here's something he actually <i>did</i> say, in "The House of the Dead":
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." -page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal
 </p>
 
 <p>
@@ -165,7 +168,7 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 
 <p>
     "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
-    -Kahlil Gibran (https://poets.org/poem/crime-and-punishment)
+    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 </p>
 
 <p>
@@ -229,12 +232,6 @@ https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/c
 </p>
 
 #### The Refined Product
-Maybe remove this:
-<p>
-    "Without philosophy, action has no meaning"
-    -Sébastien Foucan --TODO add then cite source
-</p>
-
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
     In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
@@ -244,7 +241,7 @@ Maybe remove this:
 
 <p>
     The medieval French built beautiful cathedrals: physical reifications of cultural motifs.
-    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". (TODO: citation)
+    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". -The Hero with a Thousand Faces, by Joseph Campbell, page 358
     It's also a metaphor for what's always happening in a culture.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
@@ -270,25 +267,20 @@ Maybe remove this:
 
 <p>
     In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.
-    Some famous public intellectuals: Buddha, Jesus, Confucius, Noam Chomsky, Ayn Rand, Carl Sagan, Malcolm X, Andreĭ Sakharov, Hannah Arendt, Albert Einstein, and Joan of Arc.
 </p>
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
 </p>
 
-<p>
-    When Joscha Bach was asked what he finds meaningful in life, TODO: finish the quote
-</p>
-
 <b>Another Way to Change the Culture</b>
 <p>
     "You Can't Fix Stupid"
-    -Ron White (TODO add citation)
+    -Ron White -https://www.goodreads.com/author/quotes/15169.Ron_White
 </p>
 
 <p>
-    Public intellectuals <i>can</i> change the culture, but can you meaningfully change the cultures that meaningfully affect you?
+    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
     In your lifetime?
     Cultural change is often gradual. Glacial even.
     Moreover, change often only happens in a <i>sub</i>culture.
@@ -296,13 +288,13 @@ Maybe remove this:
 
 <p>
     Many of us have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
-    In the subculture, it seemed like we finally had our ducks in a row. The real world persists, though.
+    In the subculture, we finally had our ducks in a row. The real world persisted, though.
 </p>
 
 <p>
     What's the solution?
     I suggest another interpretation of "change the culture": moving oneself to another culture.
-    One can do both, as well: be a public intellectual and move to a culture that better suits the way you see the world.
+    One can do both, as well: be a public intellectual and move to a culture that suits you better.
 </p>
 
 <p>
@@ -310,7 +302,7 @@ Maybe remove this:
     And his soul cried out to them, and he said:
     Sons of my ancient mother, you riders of the tides,
     How often have you sailed in my dreams."
-    -Kahlil Gibran (add citation superscript)
+    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 </p>
 
 Sources<br/>
@@ -319,6 +311,7 @@ Sources<br/>
 ²: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 ²: header photo : https://thestoryinstitute.com/halden
 
+https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/cpsprodpb/14FB0/production/_107763958_family_garden976.jpg.webp
 
 First image search result for "Nordic Prison":
 https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
@@ -378,6 +371,11 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
     So what's the wealth and technology worth if you have an underclass teeming with problems, the solutions to which are known, and already implemented among the middle class and the wealthy?
 </p>
 
+Maybe remove this:
+<p>
+    "Without philosophy, action has no meaning"
+    -Sébastien Foucan --TODO add then cite source
+</p>
 
 <b>Teleology</b>
 <p>
