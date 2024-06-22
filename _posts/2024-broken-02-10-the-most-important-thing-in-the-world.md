@@ -36,7 +36,7 @@
 </p>
 
 <p>
-    Technology's nothing to sneeze at though.
+    Technology's nothing to sneeze at.
     Only one event in history has markedly changed human prosperity: the invention of the first commercially successful steam engine, in 1712¹.
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
@@ -89,10 +89,14 @@
 <p>
     "The degree of civilization in a society can be judged by entering its prisons"
     -Not Fyodor Dostoevsky
-    
+</p>
+
+<p>
 The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
 It does, however, capture aspects of his thinking.
+</p>
 
+<p>
 Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. (https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel))
 Here's something he actually <i>did</i> say, in "The House of the Dead":
 "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." (page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal)
@@ -124,11 +128,13 @@ Here's something he actually <i>did</i> say, in "The House of the Dead":
     A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
     Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973. -https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory 
     These are the 5 cultural dimensions in his theory, plotted for a few countries:
+</p>
 
 <div align="center">
       <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
 </div>
 
+<p>
 As you can see, the United States has a score of 91 in the "individualism" dimension.
 That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in the world in the individualism dimension. 
 That was the problem with Green Mountain Care.
@@ -145,7 +151,6 @@ That was the problem with Green Mountain Care.
     Americans forever try to get around this.
     Try to create the perfect bubble.
     Then your neighbor start throwing empty beer cans over the fence, into your yard.
-    Your son develops a heroin addiction.
 </p>
 
 <p>
