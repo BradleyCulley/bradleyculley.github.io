@@ -183,31 +183,30 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 <p>
     Professor James Falon was a neuroscientist at UC Irvine.
     One day, while researching brain scans of people with, and without, clinical psychopathy (antisocial personality disorder), Falon discovered a scan of his own brain had been miscategorized.
-    He was using the scan of brain as an experimental control - a healthy brain.
-    However, the scan had been classified by one of his technicians as showing the signs of psychopathy.
-    Upon investigating the issue, he discovered that the classification was indeed legitimate: he had the brain of a psychopath.
-    
-    What he didn't have was much of the typical outward behaviors of a psychopath.
-    He was well-adjusted, professionally successful, and happily married.
 
-    It turns out that clinical psychopathy is only about 50% genetically determined.
-    The other 50% is determined by the person's experiences in life, especially during childhood. (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
-    Dr. Falon attributed his well-adjusted life to a happy childhood.
-
-    People with psychopathy are your classic picture of evil: remorseless, violent, uncontrollable.
-    They represent x% of murderers, despite comprising only about 1% of the world population. -https://www.psychologytoday.com/us/blog/unique-everybody-else/201812/are-murderers-unfairly-labeled-psychopaths
+    People with psychopathy are your classic picture of "evil": remorseless, violent, uncontrollable.
+    About 30% of murderers are clinical psychopaths, despite psychopaths comprising just 1% of the population. -https://www.psychologytoday.com/us/blog/unique-everybody-else/201812/are-murderers-unfairly-labeled-psychopaths
     There are no documented cases of curing the disorder.
 
     The prevalence of the disorder is 10-15 times higher among prisoners than it is among the general population (2-3% versus 35% in prison).
     It's also the most common disorder among prisoners (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742412/). -https://www.ncbi.nlm.nih.gov/books/NBK546673/, https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03710-y
 
-    Such an impact of early life environment, which is ultimately a facet of culture, is true for nearly all such disorders of the mind.
+    Falon was using the scan of his own brain as an experimental control - a healthy brain.
+    The scan had been classified by one of his technicians as showing the physical signs of psychopathy.
+    Upon further investigation, he discovered the classification was indeed legitimate: he had the brain of a psychopath.
+    
+    What he didn't have was much of the typical behaviors of a psychopath.
+    He was well-adjusted, professionally successful, and happily married.
+
+    It turns out clinical psychopathy is only about 50% genetically determined.
+    The other 50% is determined by the person's experiences in life, especially during childhood. (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
+    Dr. Falon attributed his well-adjusted life to a happy childhood.
 </p>
 
 3. Finding one's people
 <p>
-    I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
-    Military veteran, tenured professor, respected senior vice president, grandparent with a big extended family.
+    I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle among those people.
+    Tenured professor, senior vice president, grandparent with lots of offspring.
 </p>
 
 4. Defending culture
@@ -222,21 +221,12 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
     Communism and colonialism both do this: ban religions, erase traditions, and so on.
 </p>
 
-### Teleology
-<p>
-    The Greek philosopher Aristotle invented the idea of teleology. --Add citation
-    It's a Greek word, meaning "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes." -https://www.britannica.com/topic/teleology
-    Something is teleological if it's not just a means to an end, but rather an end upon itself.
-    For example, one could, as Aristotle did, say that happiness is teleological. --add citation
-    Happiness is valuable all by itself.
-</p>
-
 #### The Refined Product
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
     In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
     They're creating and sustaining the raw materials of civilization: people.
-    But why bother? Why do anything? What's the teleology?
+    But why bother? Why do anything?
 </p>
 
 <p>
@@ -287,8 +277,8 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    Many of us have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, only to be dumped back into the real world.
-    In the subculture, we finally had our ducks in a row. The real world persisted, though.
+    You've probably had the experience of a passing association with a well-organized, moral, pleasant institution, such as a university or a good job, only to be dumped back into the real world.
+    In the subculture, we finally had our ducks in a row. The real world was still the real world though.
 </p>
 
 <p>
@@ -320,6 +310,16 @@ First image search result for "American Prison":
 https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
 
 ----
+
+
+### Teleology
+<p>
+    The Greek philosopher Aristotle invented the idea of teleology. --Add citation
+    It's a Greek word, meaning "the position that certain phenomena are best understood and explained in terms of their purposes rather than their causes." -https://www.britannica.com/topic/teleology
+    Something is teleological if it's not just a means to an end, but rather an end upon itself.
+    For example, one could, as Aristotle did, say that happiness is teleological. --add citation
+    Happiness is valuable all by itself.
+</p>
 
 
     TODO: maybe remove this sentence: In other words, "<span style="font-style: italic;">I</span>, as a business owner, would have to spend money on poor people?".
@@ -372,6 +372,8 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 Maybe remove this:
+
+
 <p>
     "Without philosophy, action has no meaning"
     -Sébastien Foucan --TODO add then cite source
