@@ -225,7 +225,11 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 <p>
     In manufacturing, you start with raw materials and end with a finished product.
     In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
-    They're creating and sustaining the raw materials of civilization: people.
+    Curing an illness is valuable, but once the pain is gone, you're back to "square one", so to speak.
+</p>
+
+<p>
+    The roles are creating and sustaining the raw materials: people.
     But why bother? Why do anything?
 </p>
 
