@@ -54,6 +54,16 @@ We might be Kardashev Type-II or Type-III already.
 </p>
 
 <p>
+On a personal level, and to put it poetically, 100 normal-length lifetimes should really be the bare minimum.
+I once saw someone remark upon a biographical film, about a man in his 80s who had lived an amazing life, that people like that ought to be able to start over and live another lifetime.
+
+I'd like 30 lifetimes, let's say, for a PhD, and some years of teaching and original research, in all the fields I'd like to understand.
+Mathematics, history (probably need a few of these for good coverage), psychology, artificial intelligence, religion, biology, philosophy, medicine, sociology, literature, and so on.
+A few lifetimes for fluency in at least one language in each major language family.
+The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
+</p>
+
+<p>
 In longevity research, there's the idea of "longevity escape velocity".
 That means living long enough, or aging slowly enough, to "catch the train" of scientific progress such that one ultimately achieves immortality³.
 "[I]n a given year in which longevity escape velocity would be maintained, medical advances would increase people's remaining life expectancy more than the year that just went by"³.
