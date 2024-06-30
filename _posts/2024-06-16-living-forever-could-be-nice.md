@@ -63,8 +63,8 @@ I once saw someone remark upon a biographical film, about a man in his 80s who h
 </p>
 
 <p>
-I'd like 30 lifetimes, let's say, for a PhD then teaching and original research, in all the fields I'd like to understand.
-Mathematics, history (probably a fw times over for good coverage), psychology, computing, artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and so on.
+I'd like 30 lifetimes, let's say, for a PhD then teaching and original research, in so many fields.
+Mathematics, history (a few times over for good coverage of world history), psychology, computing, artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and so on.
 A few lifetimes for fluency in at least one language in each major language family.
 The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
 </p>
