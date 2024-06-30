@@ -1,11 +1,11 @@
 Decision-making over a lifetime is traversing large n-ary tree of decisions.
 
-An n-ary tree looks like this:
+The "n" in "n-ary" refers to the maximum number of branches coming out of each node in the tree.
 
+A 3-ary tree looks like this:
+https://en.wikipedia.org/wiki/Ternary_tree#/media/File:Ternary_tree.png
 
-The "n" in "n-ary" refers to the number of branches coming out of each node in the tree.
-
-A 5-ary tree looks like this:
+A 4-ary tree looks like this:
 
 
 A lifetime of decisions would be a tree something like this:
@@ -17,8 +17,8 @@ There are so many more, though, that some percentage of the time have immense co
 Whether to talk to that stranger who seems a bit overly friendly.
 Whether to slow down and tie your shoes before walking down the stairs.
 
-Every year, 12,000 people die in stairway-related accidents.
-Stairway accidents are the second leading cause of injury after motor vehicle accidents.
+Every year, 12,000 people die in stairway-related accidents. -https://www.attorneywdkickham.com/stairway-staircase-accidents.html#:~:text=Consider%20these%20statistics%20from%20the,are%2012%2C000%20stairway%20accident%20deaths.
+Stairway accidents are the second leading cause of injury after motor vehicle accidents. -https://www.attorneywdkickham.com/stairway-staircase-accidents.html#:~:text=Consider%20these%20statistics%20from%20the,are%2012%2C000%20stairway%20accident%20deaths.
 The seemingly-trivial can be consequential.
 
 As with the stairway accidents, many of the nodes have decision paths that lead to really bad outcomes: death, incapacitation, imprisonment, etc.
