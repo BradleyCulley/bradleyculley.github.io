@@ -33,7 +33,7 @@ As with the old trope that "money isn't important", what we wish were true (that
 
 <p>
 Also interesting was what happened <i>after</i> she achieved financial freedom.
-She said her wealth grew <i>faster</i> afterward.
+She said her wealth grew faster afterward.
 She worked more in alignment with her personal missions, took more calculated risks, and so on.
 </p>
 
