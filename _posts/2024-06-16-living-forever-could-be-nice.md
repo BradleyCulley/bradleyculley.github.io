@@ -33,13 +33,13 @@ As with the old trope that "money isn't important", what we wish were true (that
 
 <p>
 Also interesting was what happened <i>after</i> she achieved financial freedom.
-She said her wealth grew faster afterward.
+She said her wealth grew <i>faster</i> afterward.
 She worked more in alignment with her personal missions, took more calculated risks, and so on.
 </p>
 
 <p>
-Mark Cuban was once asked "What's the best thing about being a billionaire? The worst?"².
-His answer: "Everything. Nothing."².
+Mark Cuban was once asked, "What's the best thing about being a billionaire? The worst?".
+His answer: "Everything. Nothing."²
 </p>
 
 -----
@@ -58,7 +58,7 @@ We might be Kardashev Type-II or Type-III already.
 -----
 
 <p>
-On a personal level, and to put it poetically, 100 normal-length lifetimes should really be the bare minimum.
+On a personal level, to put it poetically, 100 normal-length lifetimes should really be the bare minimum.
 I once saw someone remark upon a biographical film, about a man in his 80s who had lived an amazing life, that people like that ought to be able to start over and live another lifetime.
 </p>
 
@@ -83,16 +83,18 @@ I don't think longevity escape velocity, the possibility of curing aging entirel
 <p>
 The image at the top of this post shows the anchoring effect humans currently experience: the maximum age is stuck around 120 years.
 However, there's been effective research in extending the lifespan of lab animals and, for the first time in 2019, in humans⁴. 
-In a 2019 study lead by Dr. Greg Fahy, treatment with recombinant human growth hormone (rhGH) caused the cellular age of participants to be "approximately 1.5 years less than baseline after 1 year of treatment"⁴.
+In a 2019 study led by Dr. Greg Fahy, treatment with recombinant human growth hormone (rhGH) caused the cellular age of participants to be "approximately 1.5 years less than baseline after 1 year of treatment"⁴.
 </p>
 
 <p>
-The anchoring around 120 years appears to be due to the Hayflick limit.⁵
-The Hayflick limit is the number of times a human cell can divide.⁵
-Once you hit the limit, the cell stops dividing, the tissue starts to die, and so does the person.
-It's like a candle burning through its wax.<br/>
+The anchoring around 120 years appears to be due to the Hayflick limit.
+The Hayflick limit is the number of times a human cell can divide.
+Once you hit the limit, the cell stops dividing, the tissue starts to die, and so does the person.⁵
+It's like a candle burning through its wax.
+</p>
 
-I think AI can help solve this.
+<p>
+I think artificial intelligence can help solve this.
 </p>
 
 -----
