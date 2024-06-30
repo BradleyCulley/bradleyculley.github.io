@@ -39,8 +39,10 @@ She worked more in alignment with her personal missions, took more calculated ri
 
 <p>
 Mark Cuban was once asked "What's the best thing about being a billionaire? The worst?"².
-His answer was "Everything. Nothing."².
+His answer: "Everything. Nothing."².
 </p>
+
+-----
 
 <p>
 I think the ability to live as long as one likes will be similar.
@@ -53,24 +55,30 @@ Imagine if Eratosthenes, Euler, Edison, Einstein, Noether, von Neumann, da Vinci
 We might be Kardashev Type-II or Type-III already.
 </p>
 
+-----
+
 <p>
 On a personal level, and to put it poetically, 100 normal-length lifetimes should really be the bare minimum.
 I once saw someone remark upon a biographical film, about a man in his 80s who had lived an amazing life, that people like that ought to be able to start over and live another lifetime.
 </p>
 
 <p>
-I'd like 30 lifetimes, let's say, for a PhD, and some years of teaching and original research, in all the fields I'd like to understand.
-Mathematics, history (probably need a few of these for good coverage), psychology, artificial intelligence, religion, biology, philosophy, medicine, sociology, literature, and so on.
+I'd like 30 lifetimes, let's say, for a PhD then teaching and original research, in all the fields I'd like to understand.
+Mathematics, history (probably a fw times over for good coverage), psychology, computing, artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and so on.
 A few lifetimes for fluency in at least one language in each major language family.
 The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
 </p>
 
+-----
+
 <p>
 In longevity research, there's the idea of "longevity escape velocity".
-That means living long enough, or aging slowly enough, to "catch the train" of scientific progress such that one ultimately achieves immortality³.
+That's living long enough to "catch the train" of scientific progress such that one ultimately achieves immortality³.
 "[I]n a given year in which longevity escape velocity would be maintained, medical advances would increase people's remaining life expectancy more than the year that just went by"³.
 I don't think longevity escape velocity, the possibility of curing aging entirely, and so on, are necessarily millenarian.
 </p>
+
+-----
 
 <p>
 The image at the top of this post shows the anchoring effect humans currently experience: the maximum age is stuck around 120 years.
@@ -86,6 +94,8 @@ It's like a candle burning through its wax.<br/>
 
 I think AI can help solve this.
 </p>
+
+-----
 
 <p>
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
@@ -106,7 +116,7 @@ The transcription factor "forkhead box O" (FoxO) has been identified as a critic
 </p>
 
 <p>
-So, Hydras prove it's possible. I think it'll be quite pleasant.
+So, Hydras prove it's possible. I think it'll be quite nice.
 </p>
 
 <br/>
