@@ -1,49 +1,116 @@
-Decision-making over a lifetime is traversing large n-ary tree of decisions.
+### N-Ary Life
 
-The "n" in "n-ary" refers to the maximum number of branches coming out of each node in the tree.
+<p>
+    <div style="text-align: center; font-weight: bold; font-size: 16px;">
+        Decision-making over a lifetime is traversing a giant tree of options.
+        Those who succeed are a bit like skilled craftpeople at the game of life.
+    </div>
+</p>
 
-A 3-ary tree looks like this:
-https://en.wikipedia.org/wiki/Ternary_tree#/media/File:Ternary_tree.png
+<p>
+The "n" in "n-ary tree" refers to the maximum number of branches coming out of each node in the tree.
+</p>
 
-A 4-ary tree looks like this:
+<p>
+A 2-ary tree looks like this:
+<div style="text-align: center;">
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/binary-tree.png" />
+</div>
+</p>
 
+<p>
+A 3-ary tree:
+<div style="text-align: center;">
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/ternary-tree.png" />
+</div>
+</p>
 
-A lifetime of decisions would be a tree something like this:
+<p>
+And an n-ary tree:
+<div style="text-align: center;">
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/n-Ary-tree.png" />
+</div>
+</p>
 
-The sheer number of decisions is immense.
+<p>
+And a lifetime of decisions:
+<div style="text-align: center;">
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/n-Ary-tree-with-text.png" />
+</div>
+</p>
 
-One tends to discretize out a distillation of only the most salient ones, such as whether to take that new job.
-There are so many more, though, that some percentage of the time have immense consequences.
-Whether to talk to that stranger who seems a bit overly friendly.
+<p>
+The sheer number of decisions one makes, between birth and death, is enormous.
+</p>
+
+<p>
+In our memories, we distill the most salient, such as choosing a spouse.
+But there are so many more that matter greatly.
+Whether to talk to that stranger who seems a bit too friendly.
+</p>
+
+<p>
+"We take risks all the time when we speak to people. When we engage with someone and trust them, we are taking a risk."<br/>
+-David Belle https://www.youtube.com/watch?v=NOYKME-WOZo (timestamp 8:00)
+</p>
+
+<p>
 Whether to slow down and tie your shoes before walking down the stairs.
-
 Every year, 12,000 people die in stairway-related accidents. -https://www.attorneywdkickham.com/stairway-staircase-accidents.html#:~:text=Consider%20these%20statistics%20from%20the,are%2012%2C000%20stairway%20accident%20deaths.
 Stairway accidents are the second leading cause of injury after motor vehicle accidents. -https://www.attorneywdkickham.com/stairway-staircase-accidents.html#:~:text=Consider%20these%20statistics%20from%20the,are%2012%2C000%20stairway%20accident%20deaths.
-The seemingly-trivial can be consequential.
+Seemingly-trivial, yet in truth, consequential.
+</p>
 
-As with the stairway accidents, many of the nodes have decision paths that lead to really bad outcomes: death, incapacitation, imprisonment, etc.
+<p>
+As with the stairway accidents, surprisingly-many decision paths lead to really bad outcomes: death, incapacitation, imprisonment.
+</p>
 
-There's also a stochastic element. People are victims of random crimes, random weather events, random diseases.
-There is non-smoker's lung cancer, for example.
+<p>
+There's also stochasticity: random crimes, random weather events, random diseases.
+Non-smoker's lung cancer, for example.
+What a maze!
+</p>
 
-What a maze it is to navigate!
-Intrusive thoughts, self-sabotage, the list goes on.
+<p>
+Intrusive thoughts, self-sabotage, fake friends...the list goes on.
+</p>
 
-Perhaps this is why veneration of the elderly is such as common cultural belief worldwide.
-Putting aside any other reason, they've TODO fill in
-It's interesting to think, from a computational perspective, about those cultures that truly venerate the elderly.
+<p>
+All cultures I'm aware of venerate the elderly as a general principle.
+</p>
 
-Particularly the "in good social standing" elderly.
-An 80-year-old in good social standing has truly navigated an impressive game of "life tetris".
-All sufficiently old (i.e. mature) cultures that I'm aware of venerate the elderly.
+<p>
+Putting aside other motivations for this veneration, an elderly person has exhibited a certain impressive technical skill.
+The ancient Greeks had a special word - technê - for practical knowledge.
+They had a separate word - epistêmê - for purely theoretical knowledge.
+</p>
 
-It really is wise to venerate them, and learn their navigational subtleties.
+<p>
+String theory would be epistêmê; how to behave in a job interview would be technê.
+Socrates, the great Greek philosopher, believed that technê - practical knowledge - is the most important kind of knowledge.
+The pinnacle of knowledge, one could say.  -https://en.wikipedia.org/wiki/Techne, or https://plato.stanford.edu/entries/episteme-techne/
+</p>
 
-12 years ago, I was doing a work-share on a farm in New Hampshire.
-Somewhat impromptu, one of the people I was working for - a 68-year-old woman - told me "relationships are the most important thing in life".
+<p>
+This is something I've noticed among older people in good social standing.
+Like the cage fighter who knows how to handle themselves in the cage, they may not know all manner of theory in martial arts, but they're good on the important stuff, and on what actually works. 
+</p>
 
-Have been thinking about a lot of things in terms of the ruliad recently, and this is no exception.
-That 80-year-old has made it deep into the ruliad.
+<p>
+An 80-year-old in good social standing has navigated an impressively large game of "life tetris".
+It really is wise to venerate them, and to learn their navigational subtleties.
+</p>
+
+<p>
+In 2012, I was doing a work-share on a farm in New Hampshire.
+One day, one of the farmers and I were weeding a flower garden, chatting as we worked side-by-side.
+She was 68 years old, and by all measures had "won the game of life".
+</p>
+
+<p>
+She was happily married and had been for over 40 years, had three successful children (all with Ivy League university degrees), a big house, good health, and many good friends.
+A bit out of the flow of the conversation, she paused for a minute and said to me in what seemed to be a very carefully considered way, "relationships are the most important thing in life".
+</p>
 
 Sources:
-https://en.wikipedia.org/wiki/Ternary_tree#/media/File:Ternary_tree.png
+----
