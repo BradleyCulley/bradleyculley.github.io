@@ -30,7 +30,7 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
    4. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
    There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
-   Now that person has three problems, not two.<br><br>The alcoholism being perhaps the most complex of them all.
+   Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
    Clinically, this is characterized by the Diathesis-stress model: [https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model](https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model). <br/><br/>
    "Diathesis" refers to a person's innate tolerance for complexity and stress.
    In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
