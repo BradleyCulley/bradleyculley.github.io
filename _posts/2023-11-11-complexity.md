@@ -18,7 +18,7 @@ Those are all good things, but piling on complexity too quickly is a common mala
 In fact, I see some people pile on #3 while #1 is in progress.
 Marriage, kids, and a mortgage while you're still in medical school? That's wild!<br>
 
-   I think a few phenomena cause us to "take on too much":
+   I think a few phenomena cause us to take on too much:
    1. Things like going back to school are implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
    That's only after the fact, though. In the midst of it, they're high complexity tasks...often much higher than anticipated.<br/><br/>
    One doesn't just buy a home. 
