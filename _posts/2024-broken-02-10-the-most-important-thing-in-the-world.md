@@ -42,7 +42,7 @@
 
 <p>
     Technology's nothing to sneeze at.
-    Only one event in history has markedly changed human prosperity: the invention of the first commercially successful steam engine, in 1712¹.
+    Only one historical event has truly changed the course of human prosperity: the invention of the first commercially successful steam engine, in 1712¹.
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution" (https://lukemuehlhauser.com/there-was-only-one-industrial-revolution). Good title.</div>
@@ -50,25 +50,26 @@
 </p>
 
 <p>
-    As an adult, I saw, for example, that despite innovation in medicine, people suffer and die from preventable diseases, including in wealthy countries.
+    Later in life, I saw, for example, that despite innovations in medicine, people suffer and die from preventable diseases, including in wealthy countries.
 </p>
 
 #### Green Mountain Care
 <p>
-    In 2011, the state of Vermont passed bill H.202, legislating a single-payer (completely government-funded) healthcare system for Vermont residents.
-    The system was called Green Mountain Care, named after Vermont's nickname: "The Green Mountain State".
+    In 2011, the state of Vermont passed bill H.202, legislating a completely government-funded healthcare system for Vermont residents.
+    The system was called "Green Mountain Care", named after Vermont's nickname: "The Green Mountain State".
 </p>
 
 <p>
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
-    A year later, the bill was dead.
+    A year later, in 2014, the bill was dead.
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
 </p>
 
 <p>
-    This was in the wealthiest country in the world.
-    It was in a state (Vermont) that's in about the top third in the country for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
+    The Green Mountain Care failure happened in the wealthiest country in the world.
+    It was in a state (Vermont) that's in about the top third of states for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
     Vermont was also ranked the 2nd most politically-liberal state in 2014, the year the bill died, so it's not as simple as left/right political orientation. (https://news.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)
+    So what was the problem?
 </p>
 
 <p>
@@ -108,7 +109,8 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    Dostoevsky was imprisoned for four years in a Siberian prison camp. Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. -https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
+    Dostoevsky was imprisoned for four years in a Siberian prison camp, starting his sentence in 1849.
+    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. -https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
     Here's something he actually <i>did</i> say, in "The House of the Dead":
     "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." -page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal
 </p>
@@ -130,15 +132,15 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    It's often framed through externalities: food, language, religion, dances.
+    Culture is often framed through externalities: food, language, religion, dances.
     It's more like air, though.
-    It's the stuff so fundamental, when you grow up in the culture, that you don't notice it.
+    It's the stuff so fundamental, when you grow up with it, that you don't even notice it.
 </p>
 
 <p>
     A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
     Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973. -https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory 
-    These are the 5 cultural dimensions in his theory, plotted for a few countries:
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries:
 </p>
 
 <div align="center">
@@ -147,8 +149,8 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States scored the highest in the world in the individualism dimension. 
-    That was the problem with Green Mountain Care.
+    That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States is still the highest in the world in the individualism dimension. 
+    That was the problem with Green Mountain Care: the United States is very individualistic.
 </p>
 
 #### "The most important thing in the world"
