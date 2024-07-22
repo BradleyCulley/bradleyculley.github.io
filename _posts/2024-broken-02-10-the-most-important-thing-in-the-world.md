@@ -161,11 +161,11 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    Americans forever try to get around this.
+    Americans forever try to circumvent this.
     Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
-    Your $100,000 health insurance claim gets denied.
-    Your son becomes addicted to heroin.
+    Your $87,000 health insurance claim gets denied.
+    Your son gets addicted to heroin.
 </p>
 
 <p>
