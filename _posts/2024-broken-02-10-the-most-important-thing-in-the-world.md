@@ -2,10 +2,10 @@
 
 <div align="center">
   <img style="width: 70vw;" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
-  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
+  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway¹</div>
 </div>
 
-<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
+<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach²</b>
 
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
@@ -22,7 +22,7 @@
     <b>Bach:</b><br>
     "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us".<br><br>
     <b>Goethe:</b><br>
-    "Then let's begin to create a new culture."
+    "Then let's begin to create a new culture."²
 </p>
 
 <p>
@@ -42,10 +42,10 @@
 
 <p>
     Technology's nothing to sneeze at.
-    Only one historical event has truly changed the course of human prosperity: the invention of the first commercially successful steam engine, in 1712¹.
+    Only one historical event has truly changed the course of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution" (https://lukemuehlhauser.com/there-was-only-one-industrial-revolution). Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
     </div>
 </p>
 
@@ -203,6 +203,7 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
     It turns out clinical psychopathy is only about 50% genetically determined.
     The other 50% is determined by the person's experiences in life, especially during childhood. (https://www.psypost.org/new-psychology-research-indicates-psychopathy-is-linked-to-social-power-and-dating-success-in-adverse-environments/, TODO find other citations).
     Dr. Falon attributed his well-adjusted life to a happy childhood.
+    In other words, the culture of his early life.
 </p>
 
 3. Finding one's people
@@ -219,13 +220,13 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    When you take a person's culture, you take their last breath, their most valuable possession.
-    Communism and colonialism both do this: ban religions, erase traditions, and so on.
+    When you take a person's culture, you take their last breath - their most valuable possession.
+    Communism and colonialism both do this: ban religions, ban languages, erase histories.
 </p>
 
 #### The Refined Product
 <p>
-    In manufacturing, you start with raw materials and end with a finished product.
+    In manufacturing, you go from raw materials to a finished product.
     In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
     Curing an illness is valuable, but once the pain is gone, you're back to "square one", so to speak.
 </p>
@@ -238,7 +239,7 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 <p>
     The medieval French built beautiful cathedrals: physical reifications of cultural motifs.
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". -The Hero with a Thousand Faces, by Joseph Campbell, page 358
-    It's also a metaphor for what's always happening in a culture.
+    It's also a metaphor for what culture does.
     Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
 
@@ -257,7 +258,7 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 
 <p>
     18th century Scottish philosopher David Hume had an oddly specific answer to this.
-    His answer was "the public intellectual".
+    His said the way to change the culture is via being a public intellectual. -TODO add citation
     Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
 </p>
 
@@ -266,7 +267,7 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    Culture is upstream of everything else, and public intellectuals create the culture.
+    Culture is upstream of everything else, and public intellectuals create the culture, so they're at the root.
 </p>
 
 <b>Another Way to Change the Culture</b>
@@ -277,13 +278,13 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 
 <p>
     Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
-    In your lifetime?
-    Cultural change is often gradual. Glacial even.
-    Moreover, change often only happens in a <i>sub</i>culture.
+    Can you in your lifetime?
+    Cultural change is often gradual...glacial even.
+    Moreover, change is often only in a <i>sub</i>culture.
 </p>
 
 <p>
-    You've probably had the experience of a passing association with a well-organized, moral, pleasant institution, such as a university or a good job, only to be dumped back into the real world.
+    Many of us have had the experience of a passing association with a well-organized, moral, pleasant institution, such as a university or a good job, only to be dumped back into the real world.
     In the subculture, we finally had our ducks in a row. The real world was still the real world though.
 </p>
 
@@ -302,10 +303,17 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 Sources<br/>
-¹: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
+¹: https://thestoryinstitute.com/halden
+²: https://www.youtube.com/watch?v=FMfA6i60WDA
+³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
+⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
+²³⁴⁵⁶⁷⁸⁹: 
 ²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
-²: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
-²: header photo : https://thestoryinstitute.com/halden
+³: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+⁴: 
+⁵: 
+
+
 
 https://www.bbc.com/news/stories-48885846 - https://ichef.bbci.co.uk/news/1536/cpsprodpb/14FB0/production/_107763958_family_garden976.jpg.webp
 
@@ -316,6 +324,21 @@ First image search result for "American Prison":
 https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
 
 ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Teleology
