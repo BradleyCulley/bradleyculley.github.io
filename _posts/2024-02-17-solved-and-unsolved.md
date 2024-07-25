@@ -109,7 +109,7 @@ Unsolved isn't unsolvable though
         </p>
         <p>
             The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.
-            A pretty simple solution: "Housing First".
+            A simple solution: "Housing First".
         </p>
         <p>
             The United States has 653,104 people experiencing homelessness.⁶
