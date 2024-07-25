@@ -108,7 +108,7 @@ Unsolved isn't unsolvable though
             How did they do that? "The country has adopted a Housing First policy, whereby social services assign homeless individuals rental homes first, and issues like mental health and substance abuse are treated second."⁵
         </p>
         <p>
-            The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend to not be in a state of mind, body, and life to successfully navigate administrative box-checking.
+            The problem with programs that try to get people clean and healthy before giving them housing is that people in the situation of homelessness tend not to be in a state of mind, body, and life to successfully navigate administrative box-checking.
             A pretty simple solution: "Housing First".
         </p>
         <p>
