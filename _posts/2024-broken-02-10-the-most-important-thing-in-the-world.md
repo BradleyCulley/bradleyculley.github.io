@@ -160,7 +160,7 @@
     Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
-    Your son gets addicted to heroin.
+    Your son becomes addicted to heroin.
 </p>
 
 <p>
