@@ -144,7 +144,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    That particular graph only shows 4 countries, but in Hofstede's full analysis, the United States is still the highest in the world in the individualism dimension. 
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States is the highest in the world in individualism. 
     That was the problem with Green Mountain Care: the United States is very individualistic.
 </p>
 
