@@ -89,13 +89,8 @@
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
 
-    On the left, the first Google Image Search result for "American Prison".
-    On the right, the same for "Nordic Prison".
--First image search result for "Nordic Prison":
-https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
-
--First image search result for "American Prison":
-https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
+    On the left, the first Google Image Search result for "American Prison".⁵
+    On the right, the same for "Nordic Prison".⁶
 </p>
 
 <p>
@@ -104,15 +99,15 @@ https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dis
 </p>
 
 <p>
-    The above quote is often mis-attributed to Fyodor Dostoevsky (e.g. https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons/), but he never said or wrote that.
+    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.⁷
     It does, however, capture aspects of his thinking.
 </p>
 
 <p>
-    Dostoevsky was imprisoned for four years in a Siberian prison camp, starting his sentence in 1849.
-    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place. -https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
+    Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
+    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.⁸
     Here's something he actually <i>did</i> say, in "The House of the Dead":
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution." -page 186: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."⁹
 </p>
 
 <p>
@@ -307,6 +302,13 @@ Sources<br/>
 ²: https://www.youtube.com/watch?v=FMfA6i60WDA
 ³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
 ⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
+⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
+⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
+⁸: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
+⁹: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
+¹⁰:
+
 ²³⁴⁵⁶⁷⁸⁹: 
 ²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
 ³: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
