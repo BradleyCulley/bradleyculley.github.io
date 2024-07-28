@@ -134,8 +134,8 @@
 
 <p>
     A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973. -https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory 
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries:
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.¹⁰
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹¹:
 </p>
 
 <div align="center">
@@ -144,7 +144,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States is the highest in the world in individualism. 
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States is the highest in the world in individualism.¹²
     That was the problem with Green Mountain Care: the United States is very individualistic.
 </p>
 
@@ -160,20 +160,23 @@
     Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
-    Your son becomes addicted to heroin.
+    Your son gets addicted to heroin.
 </p>
 
 <p>
     "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
-    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+    -Kahlil Gibran¹³
 </p>
 
 <p>
-    "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness. People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
-    Made famous by Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
+    "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness.
+    People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
+    Made famous in Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
     Roseto's culture, carried over from Italy, made people healthier.
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
+    TODO: note how the effect went away by the 1970s, such that Roseto's health statistics became about the same as those of nearby towns.
+    The presumed causative effect being the fading of the Italian culture, via assimilation to American culture.
 </p>
 
 2. Mitigates the bad
@@ -307,7 +310,10 @@ Sources<br/>
 ⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
 ⁸: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
 ⁹: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
-¹⁰:
+¹⁰: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
+¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
+¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 
 ²³⁴⁵⁶⁷⁸⁹: 
 ²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
