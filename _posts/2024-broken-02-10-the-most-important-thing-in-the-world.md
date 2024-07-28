@@ -170,10 +170,14 @@
 
 <p>
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness.
-    People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns." -https://www.episcopalhealth.org/leadership/roseto-connection/
-    Made famous in Malcolm Gladwell's book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy. -citation for Outliers
+    People in Roseto seemed to simply die of old age, while those in neighboring towns struggled with heart disease and many more health concerns."¹⁴
+</p>
+
+<p>
+    Made famous in Malcolm Gladwell's 2008 book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy.¹⁵
     Roseto's culture, carried over from Italy, made people healthier.
-    "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without." -https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community/
+    "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without."¹⁷
+
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
     TODO: note how the effect went away by the 1970s, such that Roseto's health statistics became about the same as those of nearby towns.
     The presumed causative effect being the fading of the Italian culture, via assimilation to American culture.
@@ -314,6 +318,12 @@ Sources<br/>
 ¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
 ¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
 ¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+¹⁴: https://www.episcopalhealth.org/leadership/roseto-connection/
+¹⁵: https://www.thriftbooks.com/w/outliers-the-story-of-success-by-malcolm-gladwell/245740/item/3948203/#edition=4783902&idiq=2957010 
+¹⁶: 
+¹⁷: https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community
+
+
 
 ²³⁴⁵⁶⁷⁸⁹: 
 ²: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution/)
