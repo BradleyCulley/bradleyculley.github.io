@@ -178,6 +178,10 @@
     Roseto's culture, carried over from Italy, made people healthier.
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without."¹⁷
 
+    <div align="center">
+      <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
+    </div>
+
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
     TODO: note how the effect went away by the 1970s, such that Roseto's health statistics became about the same as those of nearby towns.
     The presumed causative effect being the fading of the Italian culture, via assimilation to American culture.
