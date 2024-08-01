@@ -2,6 +2,12 @@ Story from the dream, about the mirror in the front yard, the sunlight, the lens
 The house was a mix of Hank's house in CT and Ann and Dave's house in Norridgewock, plus some other influences perhaps.
 It was a nice house, of wealthy people.
 
+TODO - add the details about the house, the family, their jobs, their ages, their professions, and so on.
+TODO: maybe remove some of the details/sentences around her experience
+TODO: add that the surface of the mirror curved inward, so that it looked rather like a spoon.
+This was so that it could focus the sun's rays on the lens in the wall for a full 60 seconds or so.
+Also add that when she walked up to the mirror and looked at it, she stood a bit off to the side, so the reflected rays wouldn't get in her eyes.
+
 The light shines perfectly like that once a year.
 
 If you sit in the chair on the beam of light, you can ask yourself one question and you'll receive a completely true answer.
