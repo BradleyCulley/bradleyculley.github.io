@@ -175,16 +175,20 @@
 
 <p>
     Made famous in Malcolm Gladwell's 2008 book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy.¹⁵
+    "Roseto, Pennsylvania, an Italian American town in eastern Pennsylvania that from 1955 to 1965 was found to have had a strikingly low mortality rate from myocardial infarction relative to Bangor, an immediately adjacent town, and three other nearby communities. The usually accepted risk factors were at least as prevalent in Roseto as in the two control communities that were studied in detail."
+    Scientists concluded it was the culture of Roseto that was responsible for this difference in health outcomes. --TODO: add citation
+    
+    Here are the data - 
+
     Roseto's culture, carried over from Italy, made people healthier.
+    
     "Between the family values, and the culture, there was little stress because there was an abundance of family. You weren’t without."¹⁷
 
-    <div align="center">
-      <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
-    </div>
+    "In 1963, after the initial period of study, the investigators made a prediction that the loosening of family ties and community cohesion would be accompanied by loss of relative protection of Rosetans from death due to myocardial infarction. By the late 1960s and early 1970s the predicted social change was evident, as was the predicted increase in incidence of myocardial infarction. These changes were reflected in greater prevalence of myocardial infarction among the living and in higher mortality rates."
+
+    In other words, by the 1970s, the effect was gone, faded away via assimilation into mainstream American culture.
 
     TODO: cite some results from this study: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/pdf/amjph00545-0027.pdf
-    TODO: note how the effect went away by the 1970s, such that Roseto's health statistics became about the same as those of nearby towns.
-    The presumed causative effect being the fading of the Italian culture, via assimilation to American culture.
 </p>
 
 2. Mitigates the bad
