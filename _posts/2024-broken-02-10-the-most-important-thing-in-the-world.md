@@ -106,7 +106,7 @@
 <p>
     Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
     Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.⁸
-    Here's something he actually <i>did</i> say, in "The House of the Dead":
+    Here's something he <i>did</i> say, in "The House of the Dead":
     "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."⁹
 </p>
 
@@ -129,7 +129,7 @@
 <p>
     Culture is often framed through externalities: food, language, religion, dances.
     It's more like air, though.
-    It's the stuff so fundamental, when you grow up with it, that you don't even notice it.
+    It's the stuff so fundamental, when you grow up with it, you don't even notice it.
 </p>
 
 <p>
@@ -149,9 +149,13 @@
 </p>
 
 #### "The most important thing in the world"
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh;" />
+</div>
+
 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
-    You can't be completely civilized, or expect a completely civilized experience, in a larger culture that is uncivilized.
+    You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in prison?
 </p>
 
@@ -160,13 +164,152 @@
     Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
-    Your son gets addicted to heroin.
 </p>
 
 <p>
     "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
     -Kahlil Gibran¹³
 </p>
+
+2. Finding one's people
+<p>
+    I've noticed that people who've found happiness in life have typically "found their people" and become part of the trusted inner circle.
+    Tenured professor, senior vice president, grandparent with lots of offspring.
+</p>
+
+3. Defending culture
+<p>
+    Culture is the most important thing in the world, so people will do most anything for it.
+    For example, choosing a dysfunctional government, or no government at all, over a culturally-foreign government.
+    It makes sense.
+</p>
+
+<p>
+    When you take a person's culture, you take their last breath, their most valuable possession.
+    Communism and colonialism both do this: ban religions, ban languages, erase histories.
+</p>
+
+#### Refined Product
+<p>
+    In manufacturing, you go from raw materials to a finished product.
+    In life, we have different social and professional roles: parent, teacher, soldier, doctor.
+    Curing an illness is valuable, but once the pain is gone, you're back to "square one", so to speak.
+</p>
+
+<p>
+    The roles are create and sustain the raw materials: people.
+    But why bother? Why do anything?
+</p>
+
+<p>
+    The medieval French built beautiful cathedrals: physical reifications of cultural motifs.
+    They poured resources into the cathedrals.
+    A cathedral is an end onto itself.
+</p>
+
+<p>
+    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".¹⁴
+    That's a metaphor for what culture does.
+    Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
+</p>
+
+<p>
+    The refined products, then, of all human effort are aesthetics.
+    Or, to use a colloquial term, vibes.
+    At dinner with your extended family, the table, the chairs, and the food aren't the point.
+    The point is the vibe, effulgent in emotional space.
+</p>
+
+#### "We can only change the culture"
+<p>
+    "What can we do about it? We can only change the culture."
+    How do we change the culture?
+</p>
+
+<p>
+    18th century Scottish philosopher David Hume had an oddly specific answer.
+    His said the way to change the culture is through being a public intellectual. -TODO add citation
+    Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
+</p>
+
+<p>
+    In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.
+</p>
+
+<p>
+    Culture is upstream of everything else, and public intellectuals create the culture, so they're at the root of it all.
+</p>
+
+<b>Another Way to Change the Culture</b>
+<p>
+    "You Can't Fix Stupid"
+    -Ron White -https://www.goodreads.com/author/quotes/15169.Ron_White
+</p>
+
+<p>
+    Public intellectuals can change the culture, but can <i>you</i> meaningfully change the cultures that meaningfully affect you?
+    In your lifetime?
+    Cultural change is often gradual, glacial even.
+    Moreover, change is often only in a sub-culture.
+</p>
+
+<p>
+    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job, then later return to the real world.
+    In the subculture, we finally had our ducks in a row. The real world was still real world-ing, though.
+</p>
+
+<p>
+    What's the solution?
+    I suggest another interpretation of "change the culture": move oneself to another culture.
+</p>
+
+<p>
+    One can do both, as well: be a public intellectual and move to a culture that suits you better.
+    In many cases, it's intellectually and logistically easier to become a cultural critic from the vantage point of another culture.
+    There's a long history of expatriate public intellectuals.
+</p>
+
+<p>
+    Moreover, there's the idea that "you can't be in it without getting it on you".
+    If you spend time in a room filled with smoke, you'll smell like smoke after a while.
+</p>
+
+<p>
+    For example, protest all you want: your taxes still fund the American military-industrial complex.
+    You can say you don't like it...or you can stop personally funding it.
+</p>
+
+<p>
+    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
+    And his soul cried out to them, and he said:
+    Sons of my ancient mother, you riders of the tides,
+    How often have you sailed in my dreams."
+    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+</p>
+
+Sources<br/>
+¹: https://thestoryinstitute.com/halden
+²: https://www.youtube.com/watch?v=FMfA6i60WDA
+³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
+⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
+⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
+⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
+⁸: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
+⁹: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
+¹⁰: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
+¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
+¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+
+
+¹⁴: https://www.episcopalhealth.org/leadership/roseto-connection/
+¹⁵: https://www.thriftbooks.com/w/outliers-the-story-of-success-by-malcolm-gladwell/245740/item/3948203/#edition=4783902&idiq=2957010 
+¹⁶: 
+¹⁷: https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community
+
+
 
 <p>
     "It was a close-knit, tiny community of Italian immigrants who had a remarkable lack of heart disease and other sickness.
@@ -176,8 +319,8 @@
 <p>
     Made famous in Malcolm Gladwell's 2008 book "Outliers", 1950s Roseto Pennsylvania was a community of immigrants from Italy.¹⁵
     "Roseto, Pennsylvania, an Italian American town in eastern Pennsylvania that from 1955 to 1965 was found to have had a strikingly low mortality rate from myocardial infarction relative to Bangor, an immediately adjacent town, and three other nearby communities. The usually accepted risk factors were at least as prevalent in Roseto as in the two control communities that were studied in detail."
-    Scientists concluded it was the culture of Roseto that was responsible for this difference in health outcomes. --TODO: add citation
-    
+    Scientists concluded the culture of Roseto was responsible for the difference in health outcomes. --TODO: add citation
+
     Here are the data - 
 
     Roseto's culture, carried over from Italy, made people healthier.
@@ -216,120 +359,6 @@
     In other words, the culture of his early life.
 </p>
 
-3. Finding one's people
-<p>
-    I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle among those people.
-    Tenured professor, senior vice president, grandparent with lots of offspring.
-</p>
-
-4. Defending culture
-<p>
-    Culture is the most important thing in the world, so people will do most anything for it.
-    For example, people will generally choose a dysfunctional government, a new and unproven government, or no government at all, over a culturally-foreign government.
-    Completely understandable.
-</p>
-
-<p>
-    When you take a person's culture, you take their last breath - their most valuable possession.
-    Communism and colonialism both do this: ban religions, ban languages, erase histories.
-</p>
-
-#### The Refined Product
-<p>
-    In manufacturing, you go from raw materials to a finished product.
-    In life, we have different social and professional roles: father, mother, teacher, soldier, doctor.
-    Curing an illness is valuable, but once the pain is gone, you're back to "square one", so to speak.
-</p>
-
-<p>
-    The roles are creating and sustaining the raw materials: people.
-    But why bother? Why do anything?
-</p>
-
-<p>
-    The medieval French built beautiful cathedrals: physical reifications of cultural motifs.
-    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven". -The Hero with a Thousand Faces, by Joseph Campbell, page 358
-    It's also a metaphor for what culture does.
-    Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
-</p>
-
-<p>
-    The refined products, then, of all human effort are the aesthetics.
-    Or, to use a colloquial term, the vibes.
-    At dinner with your extended family, the table, the chairs, and the food aren't the point.
-    The point is the vibe, effulgent in emotional space.
-</p>
-
-#### "We can only change the culture"
-<p>
-    "What can we do about it? We can only change the culture."
-    How do we change the culture?
-</p>
-
-<p>
-    18th century Scottish philosopher David Hume had an oddly specific answer to this.
-    His said the way to change the culture is via being a public intellectual. -TODO add citation
-    Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
-</p>
-
-<p>
-    In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.
-</p>
-
-<p>
-    Culture is upstream of everything else, and public intellectuals create the culture, so they're at the root.
-</p>
-
-<b>Another Way to Change the Culture</b>
-<p>
-    "You Can't Fix Stupid"
-    -Ron White -https://www.goodreads.com/author/quotes/15169.Ron_White
-</p>
-
-<p>
-    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
-    Can you in your lifetime?
-    Cultural change is often gradual...glacial even.
-    Moreover, change is often only in a <i>sub</i>culture.
-</p>
-
-<p>
-    Many of us have had the experience of a passing association with a well-organized, moral, pleasant institution, such as a university or a good job, only to be dumped back into the real world.
-    In the subculture, we finally had our ducks in a row. The real world was still the real world though.
-</p>
-
-<p>
-    What's the solution?
-    I suggest another interpretation of "change the culture": moving oneself to another culture.
-    One can do both, as well: be a public intellectual and move to a culture that suits you better.
-</p>
-
-<p>
-    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
-    And his soul cried out to them, and he said:
-    Sons of my ancient mother, you riders of the tides,
-    How often have you sailed in my dreams."
-    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
-</p>
-
-Sources<br/>
-¹: https://thestoryinstitute.com/halden
-²: https://www.youtube.com/watch?v=FMfA6i60WDA
-³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
-⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
-⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
-⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
-⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
-⁸: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
-⁹: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
-¹⁰: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
-¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
-¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
-¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
-¹⁴: https://www.episcopalhealth.org/leadership/roseto-connection/
-¹⁵: https://www.thriftbooks.com/w/outliers-the-story-of-success-by-malcolm-gladwell/245740/item/3948203/#edition=4783902&idiq=2957010 
-¹⁶: 
-¹⁷: https://filitaliainternational.org/2018/09/roseto-effect-and-the-healing-power-of-community
 
 
 
