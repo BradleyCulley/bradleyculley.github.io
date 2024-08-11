@@ -228,16 +228,28 @@
 
 <p>
     18th century Scottish philosopher David Hume had an oddly specific answer.
-    His said the way to change the culture is through being a public intellectual. -TODO add citation
-    Hume distinguished between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
+    Hume said the way to change the culture is through being a public intellectual.
+    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.¹⁵
 </p>
 
 <p>
-    In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.
+    In Hume's view, the public intellectual, out of both proclivity and necessity, makes their work palatable and interesting for everyday people.¹⁵
 </p>
 
 <p>
-    Culture is upstream of everything else, and public intellectuals create the culture, so they're at the root of it all.
+    "This is why Hume so deeply believed in the role and significance of public intellectuals.
+    These were people who, unlike university professors that Hume grew to dislike immensely had to excite a passion-based attachment to ideas, wisdom, and insight.
+    Only if they succeeded would they have the money to eat.
+    It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
+    Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁵
+</p>
+
+<p>
+    Culture is upstream of all else, and public intellectuals create the culture.
+    Years ago, I read a short essay in response to the question "which profession has, on balance, been the most influential throughout history".
+    The well-argued answer was "the amateur philosopher", also known as the public intellectual".
+    From Buddha to J. K. Rowling and Carl Sagan.
 </p>
 
 <b>Another Way to Change the Culture</b>
@@ -271,12 +283,12 @@
 
 <p>
     Moreover, there's the idea that "you can't be in it without getting it on you".
-    If you spend time in a room filled with smoke, you'll smell like smoke after a while.
+    If you spend time in a smoke-filled room, you'll begin to smell like smoke.
 </p>
 
 <p>
     For example, protest all you want: your taxes still fund the American military-industrial complex.
-    You can say you don't like it...or you can stop personally funding it.
+    You can say you don't like it...or you move abroad and stop personally funding it.
 </p>
 
 <p>
@@ -302,6 +314,7 @@ Sources<br/>
 ¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
 ¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 ¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+¹⁵: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
 
 
 ¹⁴: https://www.episcopalhealth.org/leadership/roseto-connection/
