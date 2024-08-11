@@ -5,6 +5,34 @@ It was a nice house, of wealthy people.
 TODO - add the details about the house, the family, their jobs, their ages, their professions, and so on.
 TODO: maybe remove some of the details/sentences around her experience
 TODO: add that the surface of the mirror curved inward, so that it looked rather like a spoon.
+
+The Andersons lived on a 15-acre plot of land, not quite in the countryside...more like a fancy suburb.
+In their suburb, each home stood on a sizeable plot of land, had a long driveway, and usually a pool.
+One couldn't see most homes from the road.
+Homes sat at the end of tree-lined driveways, surrounded by neatly trimmed lawns.
+Privacy, quiet, a good deal of forest, and throughout, a well-mannered peacefulness.
+
+The Anderson residence was at once homely and stately. It had arched doorways, thick wooden doors, made of cherry wood, or something like that.
+
+Sarah and Evan had grown up in the home. Their parents had purchased the home years before they were born.
+
+Sarah was 21, a rising senior at a well-known college, majoring in chemistry, with plans to become a scientist.
+Evan was 26 and worked in real estate development. He'd studied economics in college, also at a well-known school.
+
+Growing up, there was a particular family ritual, specific to the family home.
+
+When the mother and father, Edward and Barbara, bought the home, the realtor had shown them a peculiar feature: a reflecting mirror in the back yard, a lens built into the wall, and a chair inside the home.
+
+Twice a year, at the vernal and autumnal equinoxes, the sun is in just the right place in the sky such the sun's rays shine perfectly into the center of mirror.
+When that happens, the mirror, which is shaped like a spoon, focuses the light into the center of the lens in the wall.
+The back wall of the house, in which the lens is embedded, is about 20 feet away from the mirror, across a stretch of lawn.
+
+The lens, which is roughly the size and shape of an old-fashioned spyglass, is about half a foot long and about 3 inches in diameter.
+
+The lens is built right into the wall, such that one end is flush with the outside of the wall, and the other end is flush with the inside of the wall.
+
+-----
+
 This was so that it could focus the sun's rays on the lens in the wall for a full 60 seconds or so.
 Also add that when she walked up to the mirror and looked at it, she stood a bit off to the side, so the reflected rays wouldn't get in her eyes.
 
