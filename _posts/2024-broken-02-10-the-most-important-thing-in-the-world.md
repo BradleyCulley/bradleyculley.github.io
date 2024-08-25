@@ -213,8 +213,8 @@ The important thing is how the instinct of the people interprets it."<br/>
 Photo to add:
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothic-Rayonnant_Rose-6.jpg/600px-Gothic-Rayonnant_Rose-6.jpg
 
-maybe this, but it's not as good: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NOTRE_DAME_DE_PARIS_May_2012.jpg/440px-NOTRE_DAME_DE_PARIS_May_2012.jpg
 
+maybe this, but it's not as good: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NOTRE_DAME_DE_PARIS_May_2012.jpg/440px-NOTRE_DAME_DE_PARIS_May_2012.jpg
 
 <p>
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".¹⁴
