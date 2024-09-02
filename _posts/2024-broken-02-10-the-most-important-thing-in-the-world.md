@@ -60,15 +60,14 @@
 </p>
 
 <p>
-    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
+    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
     A year later, in 2014, the bill was dead.
-    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state." -https://en.wikipedia.org/wiki/Vermont_health_care_reform
+    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
 </p>
 
 <p>
     The Green Mountain Care failure happened in the wealthiest country in the world.
-    It was in a state that's in about the top third of states for GDP per capita (data for 2014: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) (https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf).
-    Vermont was also ranked the 2nd most politically-liberal state in 2014, the year the bill died, so it's not as simple as left/right political orientation. (https://news.gallup.com/poll/181505/mississippi-alabama-louisiana-conservative-states.aspx)
+    In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
     So what was the problem?
 </p>
 
@@ -89,7 +88,7 @@
 It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
 What gets written into a constitution is never essential.
 The important thing is how the instinct of the people interprets it."<br/>
-― Oswald Spengler, Prussianism and Socialism -https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
+―Oswald Spengler, Prussianism and Socialism -https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
 </p>
 
 #### Prison: A True Barometer
@@ -211,10 +210,9 @@ The important thing is how the instinct of the people interprets it."<br/>
 </p>
 
 Photo to add:
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothic-Rayonnant_Rose-6.jpg/600px-Gothic-Rayonnant_Rose-6.jpg
-
-
-maybe this, but it's not as good: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NOTRE_DAME_DE_PARIS_May_2012.jpg/440px-NOTRE_DAME_DE_PARIS_May_2012.jpg
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Notre-Dam-Rose.jpg" style="height: 80vh;" />
+</div> -https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Gothic-Rayonnant_Rose-6.jpg
 
 <p>
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".¹⁴
@@ -285,7 +283,7 @@ maybe this, but it's not as good: https://upload.wikimedia.org/wikipedia/commons
 
 <p>
     Also, there's the idea that "you can't be in it without getting it on you".
-    If you spend time in a smoke-filled room, you'll smell like smoke.
+    If you spend time in a smokey room, you'll smell like smoke.
 </p>
 
 <p>
@@ -306,6 +304,11 @@ Sources<br/>
 ²: https://www.youtube.com/watch?v=FMfA6i60WDA
 ³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
 ⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
+⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform
+⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5
+⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25)
+
+
 ⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
 ⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
 ⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
