@@ -72,6 +72,46 @@
 </p>
 
 <p>
+    I believe the problem was cultural. The problem wasn't political, wasn't logistical, and wasn't economic.
+    Green Mountain Care didn't "almost make it". It was doomed from the start.
+    The reason, I argue, is that the United States is very <i>culturally</i> individualistic.
+    Paying for someone else's healthcare is anti-individualistic.
+</p>
+
+<p>
+    I should note that individualism isn't the same as selfishness.
+    For example, measured by donations to charity, Americans are outliers in our self<i>less</i>ness.
+</p>
+
+<p>
+    "And among individual givers in the U.S., while the wealthy do their part (as you’ll see later in this essay), the vast predominance of offerings come from average citizens of moderate income.
+    Six out of ten U.S. households donate to charity in a given year, and the typical household’s annual gifts add up to between two and three thousand dollars."
+</p>
+
+<p>
+    "This is different from the patterns in any other country. Per capita, Americans voluntarily donate about seven times as much as continental Europeans.
+    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."
+    -https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity
+</p>
+
+### What is culture?
+<p>
+    A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.¹⁰
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹¹:
+</p>
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
+</div>
+
+<p>
+    As you can see, the United States has a score of 91 in the "individualism" dimension.
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States scores the highest in the world in individualism.¹²
+    That was the problem with Green Mountain Care: the United States is very individualistic.
+</p>
+
+<p>
     "But then I tell them, "If you think a bill of rights is what sets us apart,
     you’re crazy." Every banana republic in the world has a bill of rights. Every
     president for life has a bill of rights. The bill of rights of the former evil
@@ -84,11 +124,11 @@
 </p>
 
 <p>
-"A people can never choose between different types of government.
-It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
-What gets written into a constitution is never essential.
-The important thing is how the instinct of the people interprets it."<br/>
-―Oswald Spengler, Prussianism and Socialism -https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
+    "A people can never choose between different types of government.
+    It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
+    What gets written into a constitution is never essential.
+    The important thing is how the instinct of the people interprets it."<br/>
+    ―Oswald Spengler, Prussianism and Socialism -https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
 </p>
 
 #### Prison: A True Barometer
@@ -119,8 +159,8 @@ The important thing is how the instinct of the people interprets it."<br/>
 </p>
 
 <p>
-    The reason Nordic prisons are humane isn't that there's this law or that law stating they ought to be, nor even that Nordic prisons are well-funded (which they are).
-    They're humane because the society around them is humane.
+    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating that they ought to be, nor even that Nordic prisons are well-funded (which they are).
+    Nordic prisons are humane because the society around them is humane.
     It's the culture.
 </p>
 
@@ -138,22 +178,6 @@ The important thing is how the instinct of the people interprets it."<br/>
     Culture is often framed through externalities: food, language, religion, rituals.
     It's more like air, though.
     It's the stuff so fundamental - when you grow up with it - that you don't even notice it.
-</p>
-
-<p>
-    A good framework for this is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.¹⁰
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹¹:
-</p>
-
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh;" />
-</div>
-
-<p>
-    As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States is the highest in the world in individualism.¹²
-    That was the problem with Green Mountain Care: the United States is very individualistic.
 </p>
 
 #### "The most important thing in the world"
@@ -181,7 +205,7 @@ The important thing is how the instinct of the people interprets it."<br/>
 
 2. Finding one's people
 <p>
-    I've noticed that people who've found happiness in life have typically "found their people" and become part of a trusted inner circle.
+    I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
 </p>
 
@@ -206,7 +230,8 @@ The important thing is how the instinct of the people interprets it."<br/>
 
 <p>
     The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
-    They poured resources into the cathedrals, and each cathedral was an end onto itself.
+    They poured resources into the cathedrals. But a cathedral doesn't produce grain or print the news.
+    A cathedral is an end onto itself. 
 </p>
 
 Photo to add:
@@ -217,12 +242,12 @@ Photo to add:
 <p>
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".¹⁴
     That's a metaphor for what culture does.
-    Cultures aim to convert the raw materials of human effort into refined edifices in physical, social, intellectual, and emotional space.
+    Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
 </p>
 
 <p>
-    The refined products, then, are aesthetics.
-    Or, to use a colloquial term, vibes.
+    The refined products, then, are the aesthetics.
+    Or, to use a colloquial term, the vibes.
     At dinner with your extended family, the table, the chairs, and the food aren't the point.
     The point is the vibe, effulgent in emotional space.
 </p>
@@ -233,7 +258,7 @@ Photo to add:
 </p>
 
 <p>
-    18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
+    The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
     Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.¹⁵
 </p>
 
@@ -253,7 +278,7 @@ Photo to add:
     From Buddha to Carl Sagan.
 </p>
 
-<b>Another Way to Change the Culture</b>
+#### Another Way to Change the Culture<
 <p>
     "You Can't Fix Stupid"
     -Ron White¹⁶
@@ -261,14 +286,14 @@ Photo to add:
 
 <p>
     Public intellectuals can change the culture, but can you personally change the culture enough to fix what you don't like?
-    In your lifetime?
-    Cultural change is usually gradual...glacial, even.
+    Can you do so in your lifetime?
+    Cultural change is generally gradual...glacial even.
 </p>
 
 <p>
     Moreover, change is often only in a sub-culture.
-    Many have had the experience of a passing association with a well-organized, moral, and pleasant institution, such as a university or a good job.
-    Then you return to the real world. In the subculture, the ducks were finally in a row. The real world was still real world-ing, though.
+    Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
+    In the subculture, the ducks were finally in a row. Then you return to the real world, though.
 </p>
 
 <p>
@@ -277,18 +302,18 @@ Photo to add:
 </p>
 
 <p>
-    One can do both, as well: be a public intellectual and move to a culture that suits you better.
+    One can do both, as well: be a public intellectual and move to a culture that better suits you.
     There's a long history of expatriate public intellectuals.
 </p>
 
 <p>
-    Also, there's the idea that "you can't be in it without getting it on you".
+    Also, there's the idea that you "can't be in it without getting it on you".
     If you spend time in a smokey room, you'll smell like smoke.
 </p>
 
 <p>
-    For example, no matter your views, as an American your taxes still fund the American prison-industrial complex.
-    You can say you don't like it, or you can move abroad and stop personally funding it.
+    It's hard to avoid being swept up into the dysfunctions of a culture.
+    Bubbles don't really work.
 </p>
 
 <p>
