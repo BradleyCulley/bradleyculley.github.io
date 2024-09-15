@@ -108,19 +108,6 @@
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
     The graph only shows 4 countries, but in Hofstede's full analysis, the United States scores the highest in the world in individualism.¹²
-    That was the problem with Green Mountain Care: the United States is very individualistic.
-</p>
-
-<p>
-    "But then I tell them, "If you think a bill of rights is what sets us apart,
-    you’re crazy." Every banana republic in the world has a bill of rights. Every
-    president for life has a bill of rights. The bill of rights of the former evil
-    empire, the Union of Soviet Socialist Republics, was much better than ours.
-    I mean it literally. It was much better. We guarantee freedom of speech and
-    of the press. Big deal. They guaranteed freedom of speech, of the press, of
-    street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account. 
-    Whoa, that is  wonderful stuff!"
-    <br/>-Former Supreme Court Justice Antonin Scalia -https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
 </p>
 
 <p>
@@ -149,6 +136,8 @@
 <p>
     The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.⁷
     It does, however, capture aspects of his thinking.
+    And while the quote is apocryphal, the idea rings true.
+    Prisons unmask the true priorities of a society.
 </p>
 
 <p>
@@ -159,7 +148,8 @@
 </p>
 
 <p>
-    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating that they ought to be, nor even that Nordic prisons are well-funded (which they are).
+    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating that they ought to be.
+    Nor are Nordic prisons humane because they're well-funded (which they are).
     Nordic prisons are humane because the society around them is humane.
     It's the culture.
 </p>
@@ -188,12 +178,11 @@
 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
-    Can you be "Mr. Nice Guy" in prison?
+    Can you be "Mr. Nice Guy" in a violent prison?
 </p>
 
 <p>
-    Americans forever try to circumvent this.
-    Try to create the perfect bubble.
+    Americans forever try to circumvent this; try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
 </p>
@@ -207,6 +196,7 @@
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
+    They're in alignment with particular cultural motifs.
 </p>
 
 3. Defending culture
@@ -219,37 +209,6 @@
 <p>
     When you take a person's culture, you take their last breath, their most valuable possession.
     Communism and colonialism both do this: ban religions, ban languages, erase histories.
-</p>
-
-4. Refined Product
-<p>
-    In manufacturing, you go from raw materials to a finished product.
-    In life, we have various social and professional roles: parent, teacher, soldier, doctor.
-    Curing an illness is valuable, but once the illness is cured, you're back to "square one", so to speak.
-</p>
-
-<p>
-    The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
-    They poured resources into the cathedrals. But a cathedral doesn't produce grain or print the news.
-    A cathedral is an end onto itself. 
-</p>
-
-Photo to add:
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/Notre-Dam-Rose.jpg" style="height: 80vh;" />
-</div> -https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Gothic-Rayonnant_Rose-6.jpg
-
-<p>
-    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".¹⁴
-    That's a metaphor for what culture does.
-    Cultures aim to convert the raw materials of human effort into refined edifices in physical, intellectual, and emotional space.
-</p>
-
-<p>
-    The refined products, then, are the aesthetics.
-    Or, to use a colloquial term, the vibes.
-    At dinner with your extended family, the table, the chairs, and the food aren't the point.
-    The point is the vibe, effulgent in emotional space.
 </p>
 
 #### "We can only change the culture"
@@ -285,15 +244,15 @@ Photo to add:
 </p>
 
 <p>
-    Public intellectuals can change the culture, but can you personally change the culture enough to fix what you don't like?
-    Can you do so in your lifetime?
-    Cultural change is generally gradual...glacial even.
+    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affected you?
+    In your lifetime?
+    Cultural change is generally gradual. Glacial even.
 </p>
 
 <p>
     Moreover, change is often only in a sub-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    In the subculture, the ducks were finally in a row. Then you return to the real world, though.
+    In the subculture, our ducks were finally in a row. Then you return to the real world.
 </p>
 
 <p>
@@ -333,7 +292,6 @@ Sources<br/>
 ⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5
 ⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25)
 
-
 ⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
 ⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
 ⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
@@ -346,5 +304,3 @@ Sources<br/>
 ¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
 ¹⁵: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
 ¹⁶: https://www.goodreads.com/author/quotes/15169.Ron_White
-
-
