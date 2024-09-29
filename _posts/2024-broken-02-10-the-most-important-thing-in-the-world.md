@@ -50,12 +50,12 @@
 </p>
 
 <p>
-    Later in life, I saw that, for example, despite innovations in medicine, people suffer and die from preventable diseases, including in wealthy countries.
+    Later in life, I saw that technology is necessary, but not sufficient.
 </p>
 
 #### Green Mountain Care
 <p>
-    In 2011, the state of Vermont passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.
+    In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.⁵
     The system was called "Green Mountain Care", after Vermont's nickname: "The Green Mountain State".
 </p>
 
@@ -72,9 +72,9 @@
 </p>
 
 <p>
-    I believe the problem was cultural. The problem wasn't political, wasn't logistical, and wasn't economic.
-    Green Mountain Care didn't "almost make it". It was doomed from the start.
-    The reason, I argue, is that the United States is very <i>culturally</i> individualistic.
+    I believe the problem was cultural. The problem wasn't political, logistical, or even economic.
+    Green Mountain Care didn't "almost make it". It was always doomed.
+    The reason, I believe, is that the United States is very <i>culturally</i> individualistic.
     Paying for someone else's healthcare is anti-individualistic.
 </p>
 
@@ -107,7 +107,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States scores the highest in the world in individualism.¹²
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.¹²
 </p>
 
 <p>
@@ -126,6 +126,7 @@
 
     On the left, the first Google Image Search result for "American Prison".⁵
     On the right, the same for "Nordic Prison".⁶
+    It's not about money.
 </p>
 
 <p>
@@ -182,7 +183,7 @@
 </p>
 
 <p>
-    Americans forever try to circumvent this; try to create the perfect bubble.
+    Americans forever try to circumvent this. Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
 </p>
@@ -196,7 +197,7 @@
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
-    They're in alignment with particular cultural motifs.
+    They're in deep alignment with a culture.
 </p>
 
 3. Defending culture
@@ -232,7 +233,7 @@
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
-    Years ago, I read a short essay about which profession has had the most influence throughout history.
+    Years ago, I read an essay about which profession has had the most influence throughout history.
     It made a good argument for "the amateur philosopher", also known as the public intellectual".
     From Buddha to Carl Sagan.
 </p>
@@ -244,15 +245,15 @@
 </p>
 
 <p>
-    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affected you?
+    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
     In your lifetime?
-    Cultural change is generally gradual. Glacial even.
+    Cultural change is usually gradual. Glacial, even.
 </p>
 
 <p>
-    Moreover, change is often only in a sub-culture.
+    Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    In the subculture, our ducks were finally in a row. Then you return to the real world.
+    In the subculture, the ducks were finally in a row. Then you go back to the real world.
 </p>
 
 <p>
@@ -263,23 +264,24 @@
 <p>
     One can do both, as well: be a public intellectual and move to a culture that better suits you.
     There's a long history of expatriate public intellectuals.
+    Distance often begets the most rational analysis, even.
 </p>
 
 <p>
-    Also, there's the idea that you "can't be in it without getting it on you".
+    Then there's the idea that you "can't be in it without getting it on you".
     If you spend time in a smokey room, you'll smell like smoke.
 </p>
 
 <p>
-    It's hard to avoid being swept up into the dysfunctions of a culture.
-    Bubbles don't really work.
+    It's hard to avoid being swept into the dysfunctions of a culture.
+    Bubbles don't work.
 </p>
 
 <p>
-    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.
-    And his soul cried out to them, and he said:
-    Sons of my ancient mother, you riders of the tides,
-    How often have you sailed in my dreams."
+    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.<br/>
+    And his soul cried out to them, and he said:<br/>
+    Sons of my ancient mother, you riders of the tides,<br/>
+    How often have you sailed in my dreams."<br/>
     -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 </p>
 
