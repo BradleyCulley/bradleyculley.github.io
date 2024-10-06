@@ -282,7 +282,7 @@
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    -Kahlil Gibran -https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+    -Kahlil Gibran¹⁷
 </p>
 
 Sources<br/>
@@ -306,3 +306,4 @@ Sources<br/>
 ¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
 ¹⁵: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
 ¹⁶: https://www.goodreads.com/author/quotes/15169.Ron_White
+¹⁷: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
