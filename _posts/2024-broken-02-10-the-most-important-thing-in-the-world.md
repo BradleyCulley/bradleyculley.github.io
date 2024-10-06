@@ -73,32 +73,24 @@
 
 <p>
     I believe the problem was cultural. The problem wasn't political, logistical, or even economic.
-    Green Mountain Care didn't "almost make it". It was always doomed.
-    The reason, I believe, is that the United States is very <i>culturally</i> individualistic.
+    The United States is quite culturally individualistic.
     Paying for someone else's healthcare is anti-individualistic.
 </p>
 
 <p>
     I should note that individualism isn't the same as selfishness.
-    For example, measured by donations to charity, Americans are outliers in our self<i>less</i>ness.
 </p>
 
 <p>
-    "And among individual givers in the U.S., while the wealthy do their part (as you’ll see later in this essay), the vast predominance of offerings come from average citizens of moderate income.
-    Six out of ten U.S. households donate to charity in a given year, and the typical household’s annual gifts add up to between two and three thousand dollars."
-</p>
-
-<p>
-    "This is different from the patterns in any other country. Per capita, Americans voluntarily donate about seven times as much as continental Europeans.
-    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."
-    -https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity
+    "Per capita, Americans voluntarily donate about seven times as much as continental Europeans.
+    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
 
 ### What is culture?
 <p>
     A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.¹⁰
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹¹:
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.⁹
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹⁰:
 </p>
 
 <div align="center">
@@ -107,7 +99,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.¹²
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.¹¹
 </p>
 
 <p>
@@ -115,7 +107,7 @@
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
     The important thing is how the instinct of the people interprets it."<br/>
-    ―Oswald Spengler, Prussianism and Socialism -https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
+    ―Oswald Spengler, Prussianism and Socialism¹²
 </p>
 
 #### Prison: A True Barometer
@@ -124,8 +116,8 @@
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
 
-    On the left, the first Google Image Search result for "American Prison".⁵
-    On the right, the same for "Nordic Prison".⁶
+    On the left, the first Google Image Search result for "American Prison".¹³
+    On the right, the same for "Nordic Prison".¹⁴
     It's not about money.
 </p>
 
@@ -135,7 +127,7 @@
 </p>
 
 <p>
-    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.⁷
+    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
     It does, however, capture aspects of his thinking.
     And while the quote is apocryphal, the idea rings true.
     Prisons unmask the true priorities of a society.
@@ -143,9 +135,9 @@
 
 <p>
     Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
-    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.⁸
+    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.¹⁶
     Here's something he <i>did</i> say, in "The House of the Dead":
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."⁹
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."¹⁷
 </p>
 
 <p>
@@ -190,7 +182,7 @@
 
 <p>
     "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
-    -Kahlil Gibran¹³
+    -Kahlil Gibran¹⁸
 </p>
 
 2. Finding one's people
@@ -219,7 +211,7 @@
 
 <p>
     The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
-    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.¹⁵
+    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.¹⁹
 </p>
 
 <p>
@@ -228,7 +220,7 @@
     Only if they succeeded would they have the money to eat.
     It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
     Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁵
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁹
 </p>
 
 <p>
@@ -241,7 +233,7 @@
 #### Another Way to Change the Culture<
 <p>
     "You Can't Fix Stupid"
-    -Ron White¹⁶
+    -Ron White²⁰
 </p>
 
 <p>
@@ -282,7 +274,7 @@
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    -Kahlil Gibran¹⁷
+    -Kahlil Gibran¹⁸
 </p>
 
 Sources<br/>
@@ -293,17 +285,18 @@ Sources<br/>
 ⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform
 ⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5
 ⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25)
+⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity
+⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
+¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
+¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
+¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
+¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/
+¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
+¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
+¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+¹⁹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
+²⁰: https://www.goodreads.com/author/quotes/15169.Ron_White
 
-⁵: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
-⁶: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
-⁷: https://bigthink.com/words-of-wisdom/fyodor-dostoevsky-you-can-just-a-society-by-entering-its-prisons
-⁸: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
-⁹: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
-¹⁰: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
-¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
-¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
-¹³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 ¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
-¹⁵: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
-¹⁶: https://www.goodreads.com/author/quotes/15169.Ron_White
-¹⁷: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
