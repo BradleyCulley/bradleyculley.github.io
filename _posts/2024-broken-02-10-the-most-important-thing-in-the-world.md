@@ -103,6 +103,18 @@
 </p>
 
 <p>
+    "But then I tell them, "If you think a bill of rights is what sets us apart,
+    you’re crazy." Every banana republic in the world has a bill of rights. Every
+    president for life has a bill of rights. The bill of rights of the former evil
+    empire, the Union of Soviet Socialist Republics, was much better than ours.
+    I mean it literally. It was much better. We guarantee freedom of speech and
+    of the press. Big deal. They guaranteed freedom of speech, of the press, of
+    street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account.
+    Whoa, that is  wonderful stuff!"
+    <br/>-Former Supreme Court Justice Antonin Scalia -https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
+</p>
+
+<p>
     "A people can never choose between different types of government.
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
@@ -178,6 +190,7 @@
     Americans forever try to circumvent this. Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
+    Your child dies of a drug overdose.
 </p>
 
 <p>
@@ -200,8 +213,44 @@
 </p>
 
 <p>
+    Communism and colonialism both attempt to usurp culture: ban religions, ban languages, erase histories.
     When you take a person's culture, you take their last breath, their most valuable possession.
-    Communism and colonialism both do this: ban religions, ban languages, erase histories.
+</p>
+
+4. Refined Product
+<p>
+    In manufacturing, you go from raw materials to a finished product.
+    In life, we have various social and professional roles: parent, soldier, doctor.
+    Curing an illness is valuable, but once the illness is cured, you're back to "square one", so to speak.
+    So why do anything? Why set the whole thing up?
+</p>
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Notre-Dam-Rose.jpg" style="height: 80vh;" />
+</div>¹⁹
+
+<p>
+    The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
+    They poured resources into them. But a cathedral doesn't mill grain or print the news.
+    It's an end onto itself.
+</p>
+
+<p>
+    The Nordic prison is a cultural motif too.
+    Like the Rose Window of the Notre-Dame de Paris, it's reflective of its ideals.
+</p>
+
+<p>
+    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
+    That's a metaphor for culture.
+    Cultures aim to convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
+</p>
+
+<p>
+    The refined products, then, are the aesthetics.
+    Or, you could say, the vibes.
+    At dinner with your extended family, the table, the chairs, and the food aren't the point.
+    The point is the vibe, effulgent in emotional space.
 </p>
 
 #### "We can only change the culture"
@@ -296,7 +345,10 @@ Sources<br/>
 ¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
 ¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
 ¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+x19: https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Gothic-Rayonnant_Rose-6.jpg
+new 20: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+
 ¹⁹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
 ²⁰: https://www.goodreads.com/author/quotes/15169.Ron_White
 
-¹⁴: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+

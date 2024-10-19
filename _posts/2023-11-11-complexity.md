@@ -28,7 +28,15 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
    I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
    It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
-   4. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
+   4. Complexity removal "shortcuts",  like going "off-grid" in an RV in a national park.
+   Being off-grid an RV in a national park means that you'll going to have to figure out your showering situation.
+   A gravity-fed shower you hang from a tree branch, for example.
+   The trouble comes in the winter, when the shower will be freezing cold. 
+   You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
+   The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
+   Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
+   As the lyrics of an old Eagles song say, "every refuge has its price".
+   5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
    There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
    Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
    Clinically, this is characterized by the Diathesis-stress model: [https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model](https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model). <br/><br/>
