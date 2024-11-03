@@ -37,12 +37,12 @@
 #### Culture is the Key
 <p>
     I used to think technological innovation is the key to a better society.
-    If we made a better microchip or a new vaccine, things would be good.
+    If we made a better microchip or a new medication, things would be good.
 </p>
 
 <p>
     Technology's nothing to sneeze at.
-    Only one things has truly changed the course of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
+    Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
@@ -68,20 +68,18 @@
 <p>
     The Green Mountain Care failure happened in the wealthiest country in the world.
     In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
+    There was also significant political will, or the bill wouldn't have materialized in the first place.
     So what was the problem?
 </p>
 
 <p>
-    I believe the problem was cultural. The problem wasn't political, logistical, or even economic.
+    I believe the problem was cultural. The problem wasn't political, logistical, or even economic, as many might posit.
     The United States is quite culturally individualistic.
-    Paying for someone else's healthcare is anti-individualistic.
+    Paying for someone else's healthcare isn't individualistic.
 </p>
 
 <p>
     I should note that individualism isn't the same as selfishness.
-</p>
-
-<p>
     "Per capita, Americans voluntarily donate about seven times as much as continental Europeans.
     Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
@@ -155,7 +153,7 @@
 <p>
     Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating that they ought to be.
     Nor are Nordic prisons humane because they're well-funded (which they are).
-    Nordic prisons are humane because the society around them is humane.
+    They're humane because the society around them is humane.
     It's the culture.
 </p>
 
@@ -172,7 +170,7 @@
 <p>
     Culture is often framed through externalities: food, language, religion, rituals.
     It's more like air, though.
-    It's the stuff so fundamental - when you grow up with it - that you don't even notice it.
+    It's the stuff so fundamental, when you grow up with it, that you don't even notice.
 </p>
 
 #### "The most important thing in the world"
@@ -213,7 +211,7 @@
 </p>
 
 <p>
-    Communism and colonialism both attempt to usurp culture: ban religions, ban languages, erase histories.
+    Communism and colonialism usurp culture: ban religions, ban languages, erase histories.
     When you take a person's culture, you take their last breath, their most valuable possession.
 </p>
 
@@ -226,7 +224,8 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Notre-Dam-Rose.jpg" style="height: 80vh;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh;" />
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
 </div>¹⁹
 
 <p>
@@ -236,8 +235,19 @@
 </p>
 
 <p>
-    The Nordic prison is a cultural motif too.
-    Like the Rose Window of the Notre-Dame de Paris, it's reflective of its ideals.
+The report finding Georgia prisons to be in violation of the constitution:
+https://www.justice.gov/usao-ndga/media/1371541/dl?inline
+</p>
+
+<p>
+    The average American prison, too, is a cultural motif.
+    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling consequences of prison brutality.
+    "If you don't like it, don't go to prison", it's said.
+</p>
+
+<p>
+    And so is the Nordic prison.
+    Each, like The Sainte-Chapelle chapel, is luminous in reflection of certain ideals.
 </p>
 
 <p>
@@ -260,7 +270,7 @@
 
 <p>
     The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
-    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.¹⁹
+    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
 </p>
 
 <p>
@@ -269,20 +279,20 @@
     Only if they succeeded would they have the money to eat.
     It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
     Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁹
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."²¹
 </p>
 
 <p>
     Culture is upstream of everything else, and public intellectuals create the culture.
     Years ago, I read an essay about which profession has had the most influence throughout history.
-    It made a good argument for "the amateur philosopher", also known as the public intellectual".
-    From Buddha to Carl Sagan.
+    It made the argument for "the amateur philosopher", also known as the public intellectual".
+    From Joan of Arc to Carl Sagan.
 </p>
 
 #### Another Way to Change the Culture<
 <p>
     "You Can't Fix Stupid"
-    -Ron White²⁰
+    -Ron White²²
 </p>
 
 <p>
@@ -294,28 +304,28 @@
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    In the subculture, the ducks were finally in a row. Then you go back to the real world.
+    In that subculture, the ducks were finally in a row.
+    But then you're back in the real world.
 </p>
 
 <p>
     What's the solution?
-    I suggest another interpretation of "change the culture": move oneself to another culture.
+    I suggest another interpretation of "change the culture": move yourself to another culture.
 </p>
 
 <p>
-    One can do both, as well: be a public intellectual and move to a culture that better suits you.
+    And you can do both.
+    You can be a public intellectual and move to a culture that better suits you.
     There's a long history of expatriate public intellectuals.
-    Distance often begets the most rational analysis, even.
+    Distance begets rational analysis, in many aspects of life.
+    And you can often best effect change from outside the storm.
 </p>
 
 <p>
-    Then there's the idea that you "can't be in it without getting it on you".
+    There's also the idea that you "can't be in it without getting it on you".
     If you spend time in a smokey room, you'll smell like smoke.
-</p>
-
-<p>
-    It's hard to avoid being swept into the dysfunctions of a culture.
-    Bubbles don't work.
+    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel its imprint on their soul.
+    Bubbles don't really work.
 </p>
 
 <p>
@@ -323,7 +333,7 @@
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    -Kahlil Gibran¹⁸
+    -Kahlil Gibran²³
 </p>
 
 Sources<br/>
@@ -345,10 +355,16 @@ Sources<br/>
 ¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
 ¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
 ¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
-x19: https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#/media/File:Gothic-Rayonnant_Rose-6.jpg
-new 20: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr
+²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
+²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
+²²: https://www.goodreads.com/author/quotes/15169.Ron_White
+²³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 
-¹⁹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
-²⁰: https://www.goodreads.com/author/quotes/15169.Ron_White
+
+Incorporate this the prisons section: https://www.wbrc.com/2019/04/12/bloody-truth/
+
+
+²⁰: 
 
 
