@@ -126,19 +126,19 @@
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
 
-    On the left, the first Google Image Search result for "American Prison".¹³
-    On the right, the same for "Nordic Prison".¹⁴
-    It's not about money.
+On the left, the first Google Image Search result for "American Prison".¹³
+On the right, the same for "Nordic Prison".¹⁴
+It's not about money.
 </p>
 
 <p>
-    "The degree of civilization in a society can be judged by entering its prisons"
-    -Not Fyodor Dostoevsky
+    "The degree of civilization in a society can be judged by entering its prisons"<br/>
+    <i>-Not Fyodor Dostoevsky</i>
 </p>
 
 <p>
     The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
-    It does, however, capture aspects of his thinking.
+    It does capture aspects of his thinking, though.
     And while the quote is apocryphal, the idea rings true.
     Prisons unmask the true priorities of a society.
 </p>
@@ -170,7 +170,7 @@
 <p>
     Culture is often framed through externalities: food, language, religion, rituals.
     It's more like air, though.
-    It's the stuff so fundamental, when you grow up with it, that you don't even notice.
+    It's the stuff so fundamental, when you grow up with it, that you don't even notice it.
 </p>
 
 #### "The most important thing in the world"
@@ -178,32 +178,32 @@
   <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh;" />
 </div>
 
-1. "Only with a good culture can we enjoy all of the good things that are available to us"
+##### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
 </p>
 
 <p>
-    Americans forever try to circumvent this. Try to create the perfect bubble.
-    Then something crazy happens, and the bubble is breached.
+    Americans forever try to circumvent this. We try to create the perfect bubble.
+    Then something crazy happens, and our bubble is breached.
     Your $87,000 health insurance claim gets denied.
     Your child dies of a drug overdose.
 </p>
 
 <p>
-    "[T]he corner-stone of the temple is not higher than the lowest stone in its foundation"
-    -Kahlil Gibran¹⁸
+    "The corner-stone of the temple is not higher than the lowest stone in its foundation"<br/>
+    <i>-Kahlil Gibran¹⁸</i>
 </p>
 
-2. Finding one's people
+##### 2. Finding one's people
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
     They're in deep alignment with a culture.
 </p>
 
-3. Defending culture
+##### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
     For example, choosing a dysfunctional government, or no government at all, over a culturally-foreign government.
@@ -215,24 +215,24 @@
     When you take a person's culture, you take their last breath, their most valuable possession.
 </p>
 
-4. Refined Product
+##### 4. Refined Product
 <p>
     In manufacturing, you go from raw materials to a finished product.
     In life, we have various social and professional roles: parent, soldier, doctor.
-    Curing an illness is valuable, but once the illness is cured, you're back to "square one", so to speak.
+    Curing an illness is valuable, but once the illness is cured, you're back to "square one".
     So why do anything? Why set the whole thing up?
+</p>
+
+<p>
+    The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
+    They poured resources into them. A cathedral doesn't mill grain or plow the fields.
+    It's an end onto itself.
 </p>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
-</div>¹⁹
-
-<p>
-    The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
-    They poured resources into them. But a cathedral doesn't mill grain or print the news.
-    It's an end onto itself.
-</p>
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹</div>
+</div>
 
 <p>
 The report finding Georgia prisons to be in violation of the constitution:
@@ -337,28 +337,28 @@ https://www.justice.gov/usao-ndga/media/1371541/dl?inline
 </p>
 
 Sources<br/>
-¹: https://thestoryinstitute.com/halden
-²: https://www.youtube.com/watch?v=FMfA6i60WDA
-³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565)
-⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution
-⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform
-⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5
-⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25)
-⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity
-⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
-¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png
-¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/
-¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus
-¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus
-¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
-¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/
-¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel)
-¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186)
-¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
-¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr
-²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358)
-²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html
-²²: https://www.goodreads.com/author/quotes/15169.Ron_White
+¹: https://thestoryinstitute.com/halden <br/>
+²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
+³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
+⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
+⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
+⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
+⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
+⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
+⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
+¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
+¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
+¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
+¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
+¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
+¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
+¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
+¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
+¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
+²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
+²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
+²²: https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
 ²³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
 
 
