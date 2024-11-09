@@ -364,7 +364,5 @@ Sources<br/>
 
 Incorporate this the prisons section: https://www.wbrc.com/2019/04/12/bloody-truth/
 
-
-²⁰: 
-
-
+Add to the essay the fact that we spend more on our fractal you know fractured hyper dysfunctional medical system more as a percentage of GDP then Denmark does on their much better universal health care system so it's not about money it's about vibes
+And also look and also of course get the stats behind that and then also look into the same thing for the prison system we probably spend more you know as a flat monetary dollar amount per prisoner per year then Norway for example or maybe let's say Denmark or Sweden or Finland
