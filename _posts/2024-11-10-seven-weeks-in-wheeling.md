@@ -49,11 +49,6 @@
     He added that while they're not violent, they will steal your property.
 </p>
 
-<p>
-    That arrangement on property rights was perhaps synecdochic of the social situation in Wheeling as a whole.
-    And of Wheeling, so perhaps of the United States.
-</p>
-
 <div style="text-align: center;">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
