@@ -64,7 +64,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.jpeg" />
       <div style="font-size: 16; font-style: italic; text-align: center;">The health insurance company</div>
     </div>
 </p>
@@ -77,7 +77,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.png" />
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
     </div>
 </p>
 <br/>
