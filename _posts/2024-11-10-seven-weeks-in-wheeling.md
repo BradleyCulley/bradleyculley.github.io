@@ -35,7 +35,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After" />
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
   <div style="font-size: 12px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street, many of which are comprised of apartments.</div>
 </div>
 
