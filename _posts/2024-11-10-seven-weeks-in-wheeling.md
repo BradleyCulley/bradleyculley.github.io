@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    In Wheeling, I worked remotely, took long walks down the downtown streets and riverfront paths, and visited a buddy in Pittsburgh a few times.
+    In Wheeling, I worked remotely, took long walks through the downtown and along the river, and visited a buddy in Pittsburgh a few times.
 </p>
 
 <p>
