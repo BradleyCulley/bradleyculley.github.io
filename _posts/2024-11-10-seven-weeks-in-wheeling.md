@@ -32,14 +32,14 @@
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Before.png" />
-      <div style="font-size: 16; font-style: italic; text-align: center;">A home for sale, perhaps soon to be renovated</div>
+      <div style="font-size: 16; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
     </div>
 </p>
 <br/>
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
-      <div style="font-size: 16px; font-style: italic; text-align: center;">Across the street from the home for sale: renovated buildings on main street.</div>
+      <div style="font-size: 16px; font-style: italic; text-align: center;">Renovated buildings, across the street from the home for sale</div>
     </div>
 </p>
 <br/>
