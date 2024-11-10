@@ -43,6 +43,9 @@
     I chatted with a local man about the homelessness.
     He said it's sad.
     He added that while they're not violent, they will steal your property.
+</p>
+
+<p>
     That arrangement on property rights was perhaps synecdochic of the social situation in Wheeling as a whole.
     And of Wheeling, so perhaps of the United States.
 </p>
@@ -55,8 +58,11 @@
     The sleekest, most modern building in Wheeling is a health insurance company.
     Can't make this stuff up.
     It's surrounded by a 7-or-so-foot-high metal fence.
+</p>
+
+<p>
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
-    The metal fence, I will note, has moved beyond "serves solely to mark a property boundary", headed toward "will repel an intruder, including a determined one".
+    The metal fence, I will note, has moved beyond "serves solely to mark a property boundary", on the way toward "will repel an intruder, including a fairly determined one".
 </p>
 
 <div style="text-align: center;">
