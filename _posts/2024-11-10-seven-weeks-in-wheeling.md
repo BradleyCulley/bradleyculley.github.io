@@ -39,7 +39,7 @@
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
-      <div style="font-size: 16px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street.<br/> They're freshly renovated and quite nice.</div>
+      <div style="font-size: 16px; font-style: italic; text-align: center;">Across the street from the home for sale: renovated buildings on main street.</div>
     </div>
 </p>
 <br/>
