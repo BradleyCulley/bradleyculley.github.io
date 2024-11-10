@@ -73,6 +73,7 @@
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
     When I went back the next day, someone unknown had taken my laundry out of the washing machine, put in a dryer, and paid for the dryer cycle.
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
+    The laundromat was empty of people, and they hadn't left a note, so I didn't know who to thank. 
 </p>
 <br/>
 <p>
