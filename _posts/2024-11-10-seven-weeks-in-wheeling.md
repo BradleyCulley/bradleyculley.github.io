@@ -95,7 +95,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling3" />
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
     </div>
 </p>
 <br/>
