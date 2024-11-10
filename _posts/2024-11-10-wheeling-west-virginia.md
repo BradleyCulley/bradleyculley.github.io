@@ -18,7 +18,7 @@
 <p>
     Wheeling was the first city in West Virginia.
     Faded industrial glory.
-    A strong sense of community, coupled with hard-boiled "I don't care if you live or die" individualism.
+    A strong sense of community, coupled with hard-nosed "I don't care if you live or die" individualism.
     A general and unspoken adherence to the aesthetics and operational principles of country western songs.
 </p>
 
