@@ -7,8 +7,8 @@
 
 <br/>
 <p>
-    In late 2021, I sold my house in Illinois and moved east.
-    On the way, I spent seven weeks in Wheeling, West Virginia.
+    <b>In late 2021, I sold my house in Illinois and moved east.
+    On the way, I spent seven weeks in Wheeling, West Virginia.</b>
 </p>
 
 <p>
