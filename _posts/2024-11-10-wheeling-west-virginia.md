@@ -24,9 +24,9 @@
 
 <p>
     Many homeless people in the streets.
-    Lots of new construction, and lots of properties being renovated.
+    Lots of new construction and lots of properties being renovated.
     The renovations were mostly, from the looks of it, being done by professional investors.
-    Nobody seemed much bothered about the homelessness.
+    Nobody seemed too bothered about the homelessness.
 </p>
 
 <div style="text-align: center;">
@@ -42,8 +42,8 @@
 <p>
     I chatted with a local man about the homelessness.
     He said it's sad.
-    He added that while they're not violet, they will steal your property.
-    That arrangement on property rights was perhaps synechdotic of the social situation in Wheeling as a whole.
+    He added that while they're not violent, they will steal your property.
+    That arrangement on property rights was perhaps synecdochic of the social situation in Wheeling as a whole.
     And of Wheeling, so perhaps of the United States.
 </p>
 
@@ -54,8 +54,8 @@
 <p>
     The sleekest, most modern building in Wheeling is a health insurance company.
     Can't make this stuff up.
-    It's surrounded by an 7-or-so-foot-high metal fence.
-    Inside the fence are well-manicured grounds with astroturf-esque grass and stone-walled terracing.
+    It's surrounded by a 7-or-so-foot-high metal fence.
+    Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
     The metal fence, I will note, has moved beyond "serves solely to mark a property boundary", headed toward "will repel an intruder, including a determined one".
 </p>
 
@@ -82,8 +82,8 @@
 
 <p>
     I called a tow truck.
-    The tow truck driver showed me how to jumpstart a manual car, so I could drive the car home myself.
-    He genuinely wanted to be as helpful as he could.
+    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home myself.
+    He genuinely wanted to be as helpful as he could be.
 </p>
 
 <div style="text-align: center;">
