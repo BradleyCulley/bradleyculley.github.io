@@ -66,7 +66,7 @@
 
 <p>
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
-    The metal fence, I will note, has moved beyond "serves solely to mark a property boundary", on the way toward "will repel an intruder, including a fairly determined one".
+    The metal fence has moved beyond "serves solely to mark a property boundary", on the way toward "will repel an intruder, including a fairly determined one".
 </p>
 
 <p>
