@@ -19,7 +19,7 @@
     Wheeling was the first city in West Virginia.
     Faded industrial glory.
     A strong sense of community, coupled with an "I don't care if you live or die" individualism.
-    A general and unspoken adherence to the aesthetics and operational principles of country western songs.
+    A general and unspoken adherence to the aesthetics and operational principles of country-western songs.
 </p>
 
 <p>
@@ -65,7 +65,7 @@
 <br/>
 <p>
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
-    When I went back the next day, someone unknown had taken my laundry out of the washing machine, put in a dryer, and paid for the dryer cycle.
+    When I went back the next day, someone unknown had taken my laundry out of the washing machine, put it in a dryer, and paid for the dryer cycle.
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
 <br/>
@@ -100,6 +100,6 @@
 </p>
 <br/>
 <p>
-    The owner of a car repair shop - a great man - spent the better part of an hour telling me his life's story.
+    The owner of a car repair shop, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
