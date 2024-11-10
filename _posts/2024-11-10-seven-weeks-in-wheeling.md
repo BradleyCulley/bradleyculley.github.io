@@ -48,13 +48,7 @@
     He said it's sad.
     He added that while they're not violent, they will steal your property.
 </p>
-<br/>
-<p>
-    <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
-    </div>
-</p>
-<br/>
+
 <p>
     Perhaps the sleekest building in Wheeling is the headquarters of a health insurance company.
     Can't make this stuff up.
@@ -77,7 +71,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
     </div>
 </p>
 <br/>
@@ -86,7 +80,13 @@
     He worked at a local bank, as I recall, and was headed home after work.
     When he found out I was new in town, he gave me his contact info in case I needed anything.
 </p>
-
+<br/>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+    </div>
+</p>
+<br/>
 <p>
     I called a tow truck.
     The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home myself.
