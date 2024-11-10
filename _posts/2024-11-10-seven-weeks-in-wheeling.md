@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
-  <div style="font-size: 12px; font-style: italic; text-align: center;">Main Street</div>
+  <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
 <br/>
@@ -32,14 +32,14 @@
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Before.png" />
-      <div style="font-size: 12px; font-style: italic; text-align: center;">A home for sale, perhaps soon to be renovated</div>
+      <div style="font-size: 16; font-style: italic; text-align: center;">A home for sale, perhaps soon to be renovated</div>
     </div>
 </p>
 
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
-      <div style="font-size: 12px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street, many of which are comprised of apartments.</div>
+      <div style="font-size: 16px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street, many of which contain apartments.</div>
     </div>
 </p>
 
@@ -72,7 +72,7 @@
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_Wheeling_West_Virginia.png" />
-      <div style="font-size: 12px; font-style: italic; text-align: center;">The health insurance company</div>
+      <div style="font-size: 16; font-style: italic; text-align: center;">The health insurance company</div>
     </div>
 </p>
 
