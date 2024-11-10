@@ -29,15 +29,19 @@
     Nobody seemed too bothered about the homelessness.
 </p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Before.png" />
-  <div style="font-size: 12px; font-style: italic; text-align: center;">A home for sale, perhaps soon to be renovated</div>
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Before.png" />
+      <div style="font-size: 12px; font-style: italic; text-align: center;">A home for sale, perhaps soon to be renovated</div>
+    </div>
+</p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
-  <div style="font-size: 12px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street, many of which are comprised of apartments.</div>
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
+      <div style="font-size: 12px; font-style: italic; text-align: center;">Across the street from the home for sale: typical buildings on main street, many of which are comprised of apartments.</div>
+    </div>
+</p>
 
 <p>
     I chatted with a local man about the homelessness.
@@ -65,10 +69,12 @@
     The metal fence, I will note, has moved beyond "serves solely to mark a property boundary", on the way toward "will repel an intruder, including a fairly determined one".
 </p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_Wheeling_West_Virginia.png" />
-  <div style="font-size: 12px; font-style: italic; text-align: center;">The health insurance company</div>
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_Wheeling_West_Virginia.png" />
+      <div style="font-size: 12px; font-style: italic; text-align: center;">The health insurance company</div>
+    </div>
+</p>
 
 <p>
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
@@ -76,9 +82,11 @@
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2" />
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2" />
+    </div>
+</p>
 
 <p>
     When my car's starter died, a guy walking by did everything in his power to help me.
@@ -92,9 +100,11 @@
     He genuinely wanted to be as helpful as he could be.
 </p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling3" />
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling3" />
+    </div>
+</p>
 
 <p>
     The transmission mechanic, a great man, spent the better part of an hour telling me his life's story.
