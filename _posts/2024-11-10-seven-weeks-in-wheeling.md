@@ -91,7 +91,7 @@
 <br/>
 <p>
     I called a tow truck.
-    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home myself.
+    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home.
     He genuinely wanted to be as helpful as he could be.
 </p>
 <br/>
