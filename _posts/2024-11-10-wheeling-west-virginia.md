@@ -7,12 +7,12 @@
 
 <br/>
 <p>
-    In late 2021, I sold my house in Illinois and moved East.
-    On the way East, I spent seven weeks in Wheeling, West Virginia.
+    In late 2021, I sold my house in Illinois and moved east.
+    On the way, I spent seven weeks in Wheeling, West Virginia.
 </p>
 
 <p>
-    In Wheeling, I worked remotely, took long walks down the main streets and riverfront paths, and visited a buddy in Pittsburgh a few times.
+    In Wheeling, I worked remotely, took long walks down the downtown streets and riverfront paths, and visited a buddy in Pittsburgh a few times.
 </p>
 
 <p>
