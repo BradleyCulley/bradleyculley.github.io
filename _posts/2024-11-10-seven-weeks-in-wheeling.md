@@ -47,6 +47,8 @@
     I chatted with a local man about the homelessness.
     He said it's sad.
     He added that while they're not violent, they will steal your property.
+    That tenuous truce on property rights is perhaps synecdochic of the situation in Wheeling as a whole.
+    And Wheeling, perhaps of the country.
 </p>
 
 <p>
