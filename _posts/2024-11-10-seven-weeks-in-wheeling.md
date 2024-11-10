@@ -62,6 +62,8 @@
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
 </p>
 
+<br/>
+
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
@@ -75,9 +77,11 @@
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
 
+<br/>
+
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2" />
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.png" />
     </div>
 </p>
 
