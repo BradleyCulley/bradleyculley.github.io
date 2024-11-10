@@ -1,4 +1,4 @@
-### Seven weeks in Wheeling, West Virginia
+### Seven Weeks in Wheeling
 
 <div style="text-align: center;">
   <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
