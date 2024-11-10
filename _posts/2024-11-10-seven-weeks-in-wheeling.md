@@ -55,7 +55,7 @@
 </p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1" />
+  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <p>
