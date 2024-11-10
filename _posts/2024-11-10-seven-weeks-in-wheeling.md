@@ -49,12 +49,14 @@
     He added that while they're not violent, they will steal your property.
 </p>
 
-<div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
-</div>
+<p>
+    <div style="text-align: center;">
+      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+    </div>
+</p>
 
 <p>
-    The sleekest, most modern building in Wheeling is a health insurance company.
+    Perhaps the sleekest, most modern building in Wheeling is a health insurance company.
     Can't make this stuff up.
     It's surrounded by a 7-or-so-foot-high metal fence.
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
