@@ -59,7 +59,7 @@
     Perhaps the sleekest building in Wheeling is the headquarters of a health insurance company.
     Can't make this stuff up.
     It's surrounded by a 7-or-so-foot-high metal fence.
-    Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
+    Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terraces.
 </p>
 <br/>
 <p>
