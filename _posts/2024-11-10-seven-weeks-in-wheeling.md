@@ -62,11 +62,7 @@
     The sleekest, most modern building in Wheeling is a health insurance company.
     Can't make this stuff up.
     It's surrounded by a 7-or-so-foot-high metal fence.
-</p>
-
-<p>
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terracing.
-    The metal fence has moved beyond "serves solely to mark a property boundary", on the way toward "will repel an intruder, including a fairly determined one".
 </p>
 
 <p>
