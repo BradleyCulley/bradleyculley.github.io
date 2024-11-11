@@ -16,7 +16,7 @@
 </p>
 
 <p>
-    Wheeling was the first city in West Virginia.
+    Wheeling was the first capital city of West Virginia, before the capital was moved to Charleston.
     Faded industrial glory.
     A strong sense of community, coupled with an "I don't care if you live or die" individualism.
     A general and unspoken adherence to the aesthetics and operational principles of country-western songs.
