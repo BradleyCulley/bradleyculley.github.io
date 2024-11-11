@@ -523,7 +523,7 @@ The branding is stone of various hues - mostly brown and grey.
 Beautiful. Have a look:
 
 <div align="center">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
   <div style="font-size: 16px; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
 </div>
 </p>

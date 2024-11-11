@@ -92,7 +92,7 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh; width: auto;" />
+  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh; width: auto; object-fit: contain;" />
 </div>
 
 <p>
@@ -175,7 +175,7 @@ It's not about money.
 
 #### "The most important thing in the world"
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh; width: auto;" />
+  <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh; width: auto; object-fit: contain;" />
 </div>
 
 ##### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
@@ -230,7 +230,7 @@ It's not about money.
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto; object-fit: contain;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹</div>
 </div>
 
