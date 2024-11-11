@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/John_von_Neumann.jpeg" />
-    <div style="font-size: 16; font-style: italic;">Photo taken summer 2021</div>
+    <div style="font-size: 16px; font-style: italic;">Photo taken summer 2021</div>
 </div>
 
 ------------------------------------------
@@ -481,7 +481,7 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/John_von_neumann_tomb.jpeg" />
-    <div style="font-size: 16; font-style: italic;">⁵</div>
+    <div style="font-size: 16px; font-style: italic;">⁵</div>
 </div>
 
 Sources:
@@ -524,7 +524,7 @@ Beautiful. Have a look:
 
 <div align="center">
   <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
-  <div style="font-size: 16; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
+  <div style="font-size: 16px; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
 </div>
 </p>
 
@@ -536,6 +536,6 @@ Here it is, at 26 Westcott Road:
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" />
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
-  <div style="font-size: 16; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
+  <div style="font-size: 16px; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
 </div>
 </p>

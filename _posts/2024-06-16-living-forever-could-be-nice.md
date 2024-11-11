@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
-  <div style="font-size: 16; font-style: italic; text-align: center;">We've pushed up the average, but the maximum is stuck around 120¹</div>
+  <div style="font-size: 16px; font-style: italic; text-align: center;">We've pushed up the average, but the maximum is stuck around 120¹</div>
 </div>
 
 <br/>
