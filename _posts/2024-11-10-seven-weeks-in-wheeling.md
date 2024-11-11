@@ -31,17 +31,17 @@
 </p>
 
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Before.png" />
-      <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Before.png" />
+  <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
+</div>
 <br/>
 
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
-      <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
+  <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
+</div>
 <br/>
 
 <p>
@@ -60,10 +60,10 @@
 </p>
 
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
-      <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+  <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
+</div>
 <br/>
 
 <p>
@@ -73,9 +73,9 @@
 </p>
 
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+</div>
 <br/>
 
 <p>
@@ -84,9 +84,9 @@
     When he found out I was new in town, he gave me his contact info in case I needed anything.
 </p>
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+</div>
 <br/>
 <p>
     I called a tow truck.
@@ -94,9 +94,9 @@
     He genuinely wanted to be as helpful as he could be.
 </p>
 <br/>
-    <div style="text-align: center;">
-      <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
-    </div>
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+</div>
 <br/>
 <p>
     The owner of one of the car repair shops where I took my car, a great man, spent the better part of an hour telling me his life's story.
