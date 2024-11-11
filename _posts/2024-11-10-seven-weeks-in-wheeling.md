@@ -30,16 +30,14 @@
     Nobody seemed too bothered about the homelessness.
 </p>
 
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
-<br/>
-
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
