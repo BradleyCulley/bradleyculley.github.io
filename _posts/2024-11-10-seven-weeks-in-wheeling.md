@@ -2,7 +2,7 @@
 
 <br/>
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
@@ -33,14 +33,14 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Before.png" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
@@ -64,7 +64,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
@@ -79,7 +79,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <p></p>
@@ -93,7 +93,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
 <p></p>
@@ -107,7 +107,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
 <p></p>
