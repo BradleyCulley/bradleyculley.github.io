@@ -1,7 +1,7 @@
 ### Seven Weeks in Wheeling
 
 <div style="text-align: center;">
-  <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
@@ -31,14 +31,14 @@
 
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Before.png" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Before.png" />
       <div style="font-size: 16; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
     </div>
 </p>
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/After.png" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/After.png" />
       <div style="font-size: 16px; font-style: italic; text-align: center;">Buildings across the street from the home for sale</div>
     </div>
 </p>
@@ -48,7 +48,7 @@
     He said it's sad.
     He added that while they're not violent, they will steal your property.
     That tenuous truce on property rights is perhaps synecdochic of the situation in Wheeling as a whole.
-    And Wheeling, perhaps of the country.
+    And Wheeling, of the country.
 </p>
 
 <p>
@@ -60,7 +60,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
       <div style="font-size: 16; font-style: italic; text-align: center;">The health insurance company</div>
     </div>
 </p>
@@ -73,7 +73,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
     </div>
 </p>
 <br/>
@@ -85,7 +85,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
     </div>
 </p>
 <br/>
@@ -97,7 +97,7 @@
 <br/>
 <p>
     <div style="text-align: center;">
-      <img style="height: 80vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+      <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
     </div>
 </p>
 <br/>
