@@ -1,7 +1,7 @@
 ### Seven Weeks in Wheeling
 
 <div style="text-align: center;">
-  <img style="max-height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
+  <img style="max-height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
