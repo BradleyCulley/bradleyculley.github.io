@@ -94,11 +94,9 @@
     He genuinely wanted to be as helpful as he could be.
 </p>
 <br/>
-<p>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
     </div>
-</p>
 <br/>
 <p>
     The owner of one of the car repair shops where I took my car, a great man, spent the better part of an hour telling me his life's story.
