@@ -30,20 +30,20 @@
     Nobody seemed too bothered about the homelessness.
 </p>
 
-<p>
+<br/>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Before.png" />
       <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
     </div>
-</p>
 <br/>
-<p>
+
+<br/>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
       <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
     </div>
-</p>
 <br/>
+
 <p>
     I chatted with a local man about the homelessness.
     He said it's sad.
@@ -58,37 +58,35 @@
     It's surrounded by a 7-or-so-foot-high metal fence.
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terraces.
 </p>
+
 <br/>
-<p>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
       <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
     </div>
-</p>
 <br/>
+
 <p>
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
     When I went back the next day, someone unknown had taken my laundry out of the washing machine, put it in a dryer, and paid for the dryer cycle.
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
+
 <br/>
-<p>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
     </div>
-</p>
 <br/>
+
 <p>
     When my car's starter died, a guy walking by did everything in his power to help me.
     He worked at a local bank, as I recall, and was headed home after work.
     When he found out I was new in town, he gave me his contact info in case I needed anything.
 </p>
 <br/>
-<p>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
     </div>
-</p>
 <br/>
 <p>
     I called a tow truck.
