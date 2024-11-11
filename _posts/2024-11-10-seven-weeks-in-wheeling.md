@@ -39,7 +39,7 @@
 <p>
     <div style="text-align: center;">
       <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/After.png" />
-      <div style="font-size: 16px; font-style: italic; text-align: center;">Buildings across the street from the home for sale</div>
+      <div style="font-size: 16px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
     </div>
 </p>
 <br/>
