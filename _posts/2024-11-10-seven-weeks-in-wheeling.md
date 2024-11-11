@@ -1,5 +1,6 @@
 ### Seven Weeks in Wheeling
 
+<br/>
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
@@ -105,3 +106,4 @@
     The owner of one of the car repair shops where I took my car, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
+<br/>
