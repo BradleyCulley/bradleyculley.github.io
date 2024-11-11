@@ -61,14 +61,14 @@
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terraces.
 </p>
 
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
-<br/>
+<p></p>
 
 <p>
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
@@ -76,13 +76,13 @@
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
 
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
-<br/>
+<p></p>
 
 <p>
     When my car's starter died, a guy walking by did everything in his power to help me.
@@ -90,13 +90,13 @@
     When he found out I was new in town, he gave me his contact info in case I needed anything.
 </p>
 
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
-<br/>
+<p></p>
 
 <p>
     I called a tow truck.
@@ -104,17 +104,17 @@
     He genuinely wanted to be as helpful as he could be.
 </p>
 
-<br/>
+<p></p>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
-<br/>
+<p></p>
 
 <p>
     The owner of one of the car repair shops where I took my car, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
 
-<br/>
+<p></p>
