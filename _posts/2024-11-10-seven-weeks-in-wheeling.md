@@ -2,7 +2,7 @@
 
 <br/>
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
@@ -32,14 +32,14 @@
 
 <p></p>
 
-<div style="text-align: center; object-fit: contain;">
+<div style="text-align: center;">
   <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <p></p>
 
-<div style="text-align: center; object-fit: contain;">
+<div style="text-align: center;">
   <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
@@ -63,8 +63,8 @@
 
 <p></p>
 
-<div style="text-align: center; object-fit: contain;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+<div style="text-align: center;">
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
@@ -79,7 +79,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <p></p>
@@ -87,33 +87,33 @@
 <p>
     When my car's starter died, a guy walking by did everything in his power to help me.
     He worked at a local bank, as I recall, and was headed home after work.
-    When he found out I was new in town, he gave me his contact info in case I needed anything.
+    When he found out I was new in town, he gave me his contact information in case I needed anything.
 </p>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
 <p></p>
 
 <p>
     I called a tow truck.
-    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home.
-    He genuinely wanted to be as helpful as he could be.
+    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home, which I did.
+    He truly wanted to be as helpful as he could.
 </p>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; object-fit: contain;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
 <p></p>
 
 <p>
-    The owner of one of the car repair shops where I took my car, a great man, spent the better part of an hour telling me his life's story.
+    The owner a car repair shop, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
 
