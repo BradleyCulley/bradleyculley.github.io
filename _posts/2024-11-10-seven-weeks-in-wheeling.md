@@ -43,7 +43,7 @@
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 183.68vh" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
-  <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
+  <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale.<br/>Typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
 <br/>
@@ -53,7 +53,7 @@
     I chatted with a local man about the homelessness.
     He said it's sad.
     He added that while they're not violent, they will steal your property if they get the chance.
-    That tenuous truce on property rights is perhaps synecdochic of the situation in Wheeling as a whole.
+    That tenuous truce on property rights is perhaps emblematic of the situation in Wheeling as a whole.
     And Wheeling, of the country.
 </p>
 
