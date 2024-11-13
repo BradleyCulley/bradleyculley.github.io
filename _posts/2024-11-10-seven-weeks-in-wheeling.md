@@ -2,7 +2,7 @@
 
 <br/>
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
 
@@ -33,14 +33,14 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 34.718vh; " src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 34.841vh; " src="https://bradleyculley.github.io/images/Wheeling_After.png" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
