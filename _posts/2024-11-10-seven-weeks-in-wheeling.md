@@ -30,20 +30,23 @@
     Nobody seemed too bothered about the homelessness.
 </p>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 184.338vh" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 183.68vh" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
+<br/>
 <br/>
 
 <p>
@@ -61,14 +64,16 @@
     Inside the fence are well-manicured grounds with astroturf-like grass and stone-walled terraces.
 </p>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 182.857vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
-<p></p>
+<br/>
+<br/>
 
 <p>
     One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
@@ -76,13 +81,15 @@
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
-<p></p>
+<br/>
+<br/>
 
 <p>
     When my car's starter died, a guy walking by did everything in his power to help me.
@@ -90,13 +97,15 @@
     When he found out I was new in town, he gave me his contact information in case I needed anything.
 </p>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
-<p></p>
+<br/>
+<br/>
 
 <p>
     I called a tow truck.
@@ -104,17 +113,20 @@
     He truly wanted to be as helpful as he could.
 </p>
 
-<p></p>
+<br/>
+<br/>
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
-<p></p>
+<br/>
+<br/>
 
 <p>
     The owner a car repair shop, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
 
-<p></p>
+<br/>
+<br/>
