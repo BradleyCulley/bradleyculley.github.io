@@ -85,7 +85,7 @@
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <br/>
@@ -101,7 +101,7 @@
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
 <br/>
@@ -117,7 +117,7 @@
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
 <br/>
