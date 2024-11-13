@@ -33,14 +33,14 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
+  <img style="height: 80vh; width: 184.338vh" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
+  <img style="height: 80vh; width: 183.68vh" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
@@ -64,7 +64,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+  <img style="height: 80vh; width: 182.857vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
@@ -79,7 +79,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <p></p>
@@ -93,7 +93,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
 <p></p>
@@ -107,7 +107,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+  <img style="height: 80vh; width: 106.67vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
 <p></p>
