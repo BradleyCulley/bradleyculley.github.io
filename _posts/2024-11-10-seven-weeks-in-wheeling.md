@@ -19,7 +19,7 @@
 <p>
     Wheeling was the first capital of West Virginia, before the capital was moved to Charleston.
     Faded industrial glory.
-    A strong sense of community, coupled with an "I don't care if you live or die" individualism.
+    A strong sense of community, coupled with "I don't care if you live or die" individualism.
     A general and unspoken adherence to the aesthetics and operational principles of country-western songs.
 </p>
 
@@ -33,14 +33,14 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/Before.png" />
+  <img style="height: 80vh; width: 34.718vh; " src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto; " src="https://bradleyculley.github.io/images/After.png" />
+  <img style="height: 80vh; width: 34.841vh; " src="https://bradleyculley.github.io/images/Wheeling_After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale. They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
@@ -49,7 +49,7 @@
 <p>
     I chatted with a local man about the homelessness.
     He said it's sad.
-    He added that while they're not violent, they will steal your property.
+    He added that while they're not violent, they will steal your property if they get the chance.
     That tenuous truce on property rights is perhaps synecdochic of the situation in Wheeling as a whole.
     And Wheeling, of the country.
 </p>
@@ -64,7 +64,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
@@ -79,7 +79,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
+  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling1.jpeg" />
 </div>
 
 <p></p>
@@ -93,7 +93,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
+  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling2.jpeg" />
 </div>
 
 <p></p>
@@ -107,7 +107,7 @@
 <p></p>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
+  <img style="height: 80vh; width: 60vh;" src="https://bradleyculley.github.io/images/Wheeling3.jpeg" />
 </div>
 
 <p></p>
