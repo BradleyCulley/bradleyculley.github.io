@@ -33,14 +33,14 @@
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 184.338vh" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
+  <img style="height: 43.3984%; width: 100%" src="https://bradleyculley.github.io/images/Wheeling_Before.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">A home for sale on Main Street, perhaps soon to be renovated</div>
 </div>
 
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 183.68vh" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
+  <img style="height: 43.5515%; width: 100%" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
   <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale.<br/>They're typical of the nice aesthetic of buildings in Wheeling.</div>
 </div>
 
@@ -64,7 +64,7 @@
 <br/>
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: 182.857vh;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
+  <img style="height: 43.75%; width: 100%;" src="https://bradleyculley.github.io/images/Health_Insurance_Company_In_Wheeling.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">The health insurance company</div>
 </div>
 
