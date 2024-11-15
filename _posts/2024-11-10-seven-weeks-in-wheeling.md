@@ -41,7 +41,7 @@
 
 <div style="text-align: center;">
   <img style="height: 43.5515%; width: 100%" src="https://bradleyculley.github.io/images/Wheeling_After.png" />
-  <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale.<br/>They're typical of the nice aesthetic of buildings in Wheeling.</div>
+  <div style="font-size: 15px; font-style: italic; text-align: center;">Buildings across the street from the home for sale<br/>They're typical of the nice aesthetic of buildings in Wheeling</div>
 </div>
 
 <br/>
