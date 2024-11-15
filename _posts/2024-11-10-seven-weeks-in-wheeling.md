@@ -100,8 +100,8 @@
 
 <p>
     I called a tow truck.
-    The tow truck driver showed me how to jumpstart a manual transmission car, so I could drive it home, which I did.
-    He truly wanted to be as helpful as he could.
+    The tow truck driver showed me how to jumpstart a manual transmission car, so I could just drive my car home, which I did.
+    He truly wanted to be as helpful as possible.
 </p>
 
 <br/>
