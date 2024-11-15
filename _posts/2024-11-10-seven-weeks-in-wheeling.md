@@ -7,10 +7,13 @@
 </p>
 
 <br/>
+
 <div style="text-align: center;">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Wheeling_Header.jpeg" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Main Street</div>
 </div>
+
+<br/>
 
 <p>
     In Wheeling, I worked remotely, took long walks through the downtown and along the river, and visited a buddy in Pittsburgh a few times.
