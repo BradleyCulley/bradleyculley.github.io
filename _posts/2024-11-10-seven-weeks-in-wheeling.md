@@ -113,7 +113,7 @@
 <br/>
 
 <p>
-    The owner a car repair shop, a great man, spent the better part of an hour telling me his life's story.
+    The owner of a car repair shop, a great man, spent the better part of an hour telling me his life's story.
     I still think about him sometimes.
 </p>
 
