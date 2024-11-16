@@ -61,7 +61,7 @@
 
 <p>
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
-    A year later, in 2014, the bill was dead.
+    A year later, the bill was dead.
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
 </p>
 
@@ -73,21 +73,21 @@
 </p>
 
 <p>
-    I believe the problem was cultural. The problem wasn't political, logistical, or even economic, as many might posit.
+    I believe the problem was entirely cultural. The problem wasn't political, logistical, or even economic.
     The United States is quite culturally individualistic.
     Paying for someone else's healthcare isn't individualistic.
 </p>
 
 <p>
     I should note that individualism isn't the same as selfishness.
-    "Per capita, Americans voluntarily donate about seven times as much as continental Europeans.
+    "Per capita, Americans voluntarily donate [to charity] about seven times as much as continental Europeans.
     Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
 
 ### What is culture?
 <p>
     A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries, between 1967 and 1973.⁹
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.⁹
     These are Hofstede's 5 cultural dimensions, plotted for a few countries¹⁰:
 </p>
 
@@ -98,18 +98,6 @@
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
     The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.¹¹
-</p>
-
-<p>
-    "But then I tell them, "If you think a bill of rights is what sets us apart,
-    you’re crazy." Every banana republic in the world has a bill of rights. Every
-    president for life has a bill of rights. The bill of rights of the former evil
-    empire, the Union of Soviet Socialist Republics, was much better than ours.
-    I mean it literally. It was much better. We guarantee freedom of speech and
-    of the press. Big deal. They guaranteed freedom of speech, of the press, of
-    street demonstrations and protests, and anyone who is caught trying to suppress criticism of the government will be called to account.
-    Whoa, that is  wonderful stuff!"
-    <br/>-Former Supreme Court Justice Antonin Scalia -https://www.govinfo.gov/content/pkg/CDOC-114sdoc12/pdf/CDOC-114sdoc12.pdf
 </p>
 
 <p>
@@ -128,7 +116,6 @@
 
 On the left, the first Google Image Search result for "American Prison".¹³
 On the right, the same for "Nordic Prison".¹⁴
-It's not about money.
 </p>
 
 <p>
@@ -139,20 +126,18 @@ It's not about money.
 <p>
     The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
     It does capture aspects of his thinking, though.
-    And while the quote is apocryphal, the idea rings true.
-    Prisons unmask the true priorities of a society.
 </p>
 
 <p>
     Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
     Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.¹⁶
-    Here's something he <i>did</i> say, in "The House of the Dead":
+    Here's something he <i>did</i> say, in "The House of the Dead":<br/>
     "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."¹⁷
 </p>
 
 <p>
-    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating that they ought to be.
-    Nor are Nordic prisons humane because they're well-funded (which they are).
+    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating they ought to be.
+    Nor are they humane because they're well-funded (which they are).
     They're humane because the society around them is humane.
     It's the culture.
 </p>
@@ -164,18 +149,19 @@ It's not about money.
 
 <p>
     Culture is often ostensibly consequentialist: "Fermented food is good for you".
-    While it can have consequentialist ramifications (such as universal healthcare), it's actually deontological: "This food reminds me of my childhood. It feels like home."
+    While it can have consequentialist ramifications, such as universal healthcare, it's actually deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
 <p>
     Culture is often framed through externalities: food, language, religion, rituals.
     It's more like air, though.
-    It's the stuff so fundamental, when you grow up with it, that you don't even notice it.
+    It's what's so fundamental, when you grow up with it, that you don't even notice.
 </p>
 
 #### "The most important thing in the world"
 <div align="center">
   <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh; width: auto; object-fit: contain;" />
+   <div style="font-size: 14px; font-style: italic;">The root</div>
 </div>
 
 ##### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
@@ -185,8 +171,8 @@ It's not about money.
 </p>
 
 <p>
-    Americans forever try to circumvent this. We try to create the perfect bubble.
-    Then something crazy happens, and our bubble is breached.
+    Americans forever try to circumvent this. Try to create the perfect bubble.
+    Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
     Your child dies of a drug overdose.
 </p>
@@ -212,7 +198,7 @@ It's not about money.
 
 <p>
     Communism and colonialism usurp culture: ban religions, ban languages, erase histories.
-    When you take a person's culture, you take their last breath, their most valuable possession.
+    When you take a person's culture, you take their last breath, so to speak.
 </p>
 
 ##### 4. Refined Product
@@ -220,7 +206,7 @@ It's not about money.
     In manufacturing, you go from raw materials to a finished product.
     In life, we have various social and professional roles: parent, soldier, doctor.
     Curing an illness is valuable, but once the illness is cured, you're back to "square one".
-    So why do anything? Why set the whole thing up?
+    Why do anything?
 </p>
 
 <p>
@@ -235,37 +221,30 @@ It's not about money.
 </div>
 
 <p>
-The report finding Georgia prisons to be in violation of the constitution:
-https://www.justice.gov/usao-ndga/media/1371541/dl?inline
-</p>
-
-<p>
     The average American prison, too, is a cultural motif.
-    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling consequences of prison brutality.
-    "If you don't like it, don't go to prison", it's said.
+    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of prison brutality.
+    "If you don't like it, don't go to prison", they say.
 </p>
 
 <p>
-    And so is the Nordic prison.
-    Each, like The Sainte-Chapelle chapel, is luminous in reflection of certain ideals.
+    The Nordic prison, too, is a cultural motif.
+    Each, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
 </p>
 
 <p>
     Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
-    That's a metaphor for culture.
     Cultures aim to convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
 <p>
     The refined products, then, are the aesthetics.
-    Or, you could say, the vibes.
     At dinner with your extended family, the table, the chairs, and the food aren't the point.
-    The point is the vibe, effulgent in emotional space.
+    The point is the aesthetic, effulgent in emotional space.
 </p>
 
 #### "We can only change the culture"
 <p>
-    "What can we do about it? We can only change the culture." How do we change the culture?
+    As Bach says, "What can we do about it? We can only change the culture." How do we change the culture?
 </p>
 
 <p>
@@ -283,13 +262,13 @@ https://www.justice.gov/usao-ndga/media/1371541/dl?inline
 </p>
 
 <p>
-    Culture is upstream of everything else, and public intellectuals create the culture.
+    Culture is the foundation of everything else, and public intellectuals create the culture.
     Years ago, I read an essay about which profession has had the most influence throughout history.
-    It made the argument for "the amateur philosopher", also known as the public intellectual".
+    It made the argument for "the amateur philosopher", also known as the public intellectual.
     From Joan of Arc to Carl Sagan.
 </p>
 
-#### Another Way to Change the Culture<
+#### Another Way to Change the Culture
 <p>
     "You Can't Fix Stupid"
     -Ron White²²
@@ -298,14 +277,14 @@ https://www.justice.gov/usao-ndga/media/1371541/dl?inline
 <p>
     Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
     In your lifetime?
-    Cultural change is usually gradual. Glacial, even.
+    Cultural change is often gradual. Glacial, even.
 </p>
 
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    In that subculture, the ducks were finally in a row.
-    But then you're back in the real world.
+    In that subculture, our ducks were finally in a row.
+    But once you're dumped back into the real world, things are still quite shabby.
 </p>
 
 <p>
@@ -314,17 +293,20 @@ https://www.justice.gov/usao-ndga/media/1371541/dl?inline
 </p>
 
 <p>
-    And you can do both.
-    You can be a public intellectual and move to a culture that better suits you.
+    You can do both, as well.
+    You can be a public intellectual <i>and</i> move to a culture that better suits you.
     There's a long history of expatriate public intellectuals.
-    Distance begets rational analysis, in many aspects of life.
+    Distance begets rationality.
     And you can often best effect change from outside the storm.
 </p>
 
 <p>
     There's also the idea that you "can't be in it without getting it on you".
     If you spend time in a smokey room, you'll smell like smoke.
-    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel its imprint on their soul.
+</p>
+
+<p>
+    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can feel the weight of it on their soul.
     Bubbles don't really work.
 </p>
 
@@ -335,6 +317,10 @@ https://www.justice.gov/usao-ndga/media/1371541/dl?inline
     How often have you sailed in my dreams."<br/>
     -Kahlil Gibran²³
 </p>
+
+
+<br/>
+<br/>
 
 Sources<br/>
 ¹: https://thestoryinstitute.com/halden <br/>
