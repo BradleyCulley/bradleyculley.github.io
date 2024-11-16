@@ -352,26 +352,26 @@
 <br/>
 
 References:<br/>
-¹: https://thestoryinstitute.com/halden <br/>
-²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
-³: https://www.thoughtco.com/history-of-steam-engines-4072565 <br/>
-⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
-⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
-⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
-⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
-⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
-⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
-¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
-¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
-¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
-¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
-¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
-¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
-¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
-¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
-¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
-¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
-²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
-²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
-²²: https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
-²³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+* https://thestoryinstitute.com/halden <br/>
+* https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
+* https://www.thoughtco.com/history-of-steam-engines-4072565 <br/>
+* https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
+* https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
+* https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
+* https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
+* https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
+* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
+* https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
+* https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
+* https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
+* https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
+* https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
+* https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
+* https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
+* https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
+* https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+* https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
+* https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
+* https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
+* https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
+* https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
