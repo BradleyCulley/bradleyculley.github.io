@@ -84,7 +84,6 @@
     Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
 
-### What is culture?
 <p>
     A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
     Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.⁹
@@ -142,6 +141,8 @@ On the right, the same for "Nordic Prison".¹⁴
     It's the culture.
 </p>
 
+<br/>
+
 #### What is culture?
 <p>
     There's a culture to every town, school, and even every relationship between two people.
@@ -157,6 +158,8 @@ On the right, the same for "Nordic Prison".¹⁴
     It's more like air, though.
     It's what's so fundamental, when you grow up with it, that you don't even notice.
 </p>
+
+<br/>
 
 #### "The most important thing in the world"
 <div align="center">
