@@ -241,7 +241,7 @@ On the right, the same for "Nordic Prison".
 <br/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 50.43%; width: 100%;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
 </div>
 
