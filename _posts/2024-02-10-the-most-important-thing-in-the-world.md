@@ -1,6 +1,6 @@
 ### The Most Important Thing In The World
 
-<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
+<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us"</b>
 
 <br/>
 
