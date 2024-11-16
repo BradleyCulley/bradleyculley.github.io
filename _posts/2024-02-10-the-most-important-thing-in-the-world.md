@@ -118,7 +118,7 @@
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
     The important thing is how the instinct of the people interprets it."<br/>
-    ―Oswald Spengler, Prussianism and Socialism
+    <i>―Oswald Spengler, Prussianism and Socialism</i>
 </p>
 
 <br/>
@@ -299,8 +299,8 @@ On the right, the same for "Nordic Prison".
 
 ### Another Way to Change the Culture
 <p>
-    "You Can't Fix Stupid"
-    -Ron White
+    "You Can't Fix Stupid"<br/>
+    <i>-Ron White</i>
 </p>
 
 <p>
