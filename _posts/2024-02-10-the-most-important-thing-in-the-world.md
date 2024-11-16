@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img style="width: 70vw;" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
+  <img style="width: 100%; height: 99.2857%" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
   <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
 </div>
 
@@ -31,7 +31,7 @@
     Click the image below to watch the whole conversation (about 4.5 minutes)<br>
     <div align="center">
       <a href="https://www.youtube.com/watch?v=x58FnWgCGCs" target="_blank">
-        <img src="https://bradleyculley.github.io/images/Bach_Goethe.png" style="width: 50vw;" />
+        <img src="https://bradleyculley.github.io/images/Bach_Goethe.png" style="width: 100%; height: 62.5%" />
       </a>
     </div>
 </p>
@@ -48,7 +48,7 @@
     Technology's nothing to sneeze at.
     Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
-      <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
+      <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution". Good title.</div>
     </div>
 </p>
@@ -97,7 +97,7 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 80vh; width: auto; object-fit: contain;" />
+  <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 49.038%; width: 100%;" />
 </div>
 
 <p>
@@ -118,7 +118,7 @@
 ### Prison: A True Barometer
 <p>
     <div align="center">
-      <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
+      <img style="width: 100%; height: 35.29%" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
 
 On the left, the first Google Image Search result for "American Prison".
@@ -171,7 +171,7 @@ On the right, the same for "Nordic Prison".
 
 ### "The most important thing in the world"
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh; width: auto; object-fit: contain;" />
+  <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 42%; width: 100%;" />
    <div style="font-size: 14px; font-style: italic;">The root</div>
 </div>
 
@@ -227,7 +227,7 @@ On the right, the same for "Nordic Prison".
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto; object-fit: contain;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
 </div>
 
