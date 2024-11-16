@@ -127,13 +127,11 @@
 <p>
     <div align="center">
       <img style="width: 100%; height: 35.29%" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
+      <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "American Prison".On the right, the same for "Nordic Prison".</div>
     </div>
+</p>
 
 <br/>
-
-On the left, the first Google Image Search result for "American Prison".
-On the right, the same for "Nordic Prison".
-</p>
 
 <p>
     "The degree of civilization in a society can be judged by entering its prisons"<br/>
