@@ -257,7 +257,7 @@ On the right, the same for "Nordic Prison".
 </p>
 
 <p>
-    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".
+    Joseph Campbell called sthis "the hieratic pantomime, making visible on earth the forms of heaven".
     Cultures aim to convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
