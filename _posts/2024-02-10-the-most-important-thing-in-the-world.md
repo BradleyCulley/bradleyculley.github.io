@@ -1,11 +1,13 @@
 ### The Most Important Thing In The World
 
+<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
+
+<br/>
+
 <div align="center">
   <img style="width: 70vw;" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
   <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
 </div>
-
-<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
