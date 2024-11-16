@@ -330,7 +330,7 @@ On the right, the same for "Nordic Prison".
 <p>
     Distance begets rationality.
     You can often best effect change from outside the storm.
-    In material ways, you'll be supporting a culture you believe in: your labor, your taxes...all your economic activity.
+    And in material ways, you'll be supporting a culture you believe in: your labor, your taxes.
 </p>
 
 <p>
