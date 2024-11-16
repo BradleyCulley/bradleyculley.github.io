@@ -296,17 +296,21 @@ On the right, the same for "Nordic Prison".¹⁴
     You can do both, as well.
     You can be a public intellectual <i>and</i> move to a culture that better suits you.
     There's a long history of expatriate public intellectuals.
-    Distance begets rationality.
-    And you can often best effect change from outside the storm.
 </p>
 
 <p>
-    There's also the idea that you "can't be in it without getting it on you".
+    Distance begets rationality.
+    You can often best effect change from outside the storm.
+    In material ways, you'll be supporting a culture you believe in: your labor, your taxes...all your economic activity.
+</p>
+
+<p>
+    Finally, there's the idea that you "can't be in it without getting it on you".
     If you spend time in a smokey room, you'll smell like smoke.
 </p>
 
 <p>
-    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can feel the weight of it on their soul.
+    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can feel the weight of it in their soul.
     Bubbles don't really work.
 </p>
 
