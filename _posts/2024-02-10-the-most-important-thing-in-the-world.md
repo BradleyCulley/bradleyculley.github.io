@@ -43,12 +43,12 @@
 ### Culture is the Key
 <p>
     I used to think technological innovation is the key to a better society.
-    If we made a better microchip or a new medication, things would be good.
+    If we made a better microchip or a new medicine, things would be good.
 </p>
 
 <p>
     Technology's nothing to sneeze at.
-    Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
+    Only one thing has deeply inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution". Good title.</div>
