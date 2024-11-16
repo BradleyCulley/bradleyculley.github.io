@@ -34,7 +34,9 @@
     </div>
 </p>
 
-#### Culture is the Key
+<br/>
+
+### Culture is the Key
 <p>
     I used to think technological innovation is the key to a better society.
     If we made a better microchip or a new medication, things would be good.
@@ -53,7 +55,9 @@
     Later in life, I saw that technology is necessary, but not sufficient.
 </p>
 
-#### Green Mountain Care
+<br/>
+
+### Green Mountain Care
 <p>
     In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.
     The system was called "Green Mountain Care", after Vermont's nickname: "The Green Mountain State".
@@ -107,7 +111,9 @@
     ―Oswald Spengler, Prussianism and Socialism
 </p>
 
-#### Prison: A True Barometer
+<br/>
+
+### Prison: A True Barometer
 <p>
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
@@ -143,7 +149,7 @@ On the right, the same for "Nordic Prison".
 
 <br/>
 
-#### What is culture?
+### What is culture?
 <p>
     There's a culture to every town, school, and even every relationship between two people.
 </p>
@@ -161,13 +167,13 @@ On the right, the same for "Nordic Prison".
 
 <br/>
 
-#### "The most important thing in the world"
+### "The most important thing in the world"
 <div align="center">
   <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 80vh; width: auto; object-fit: contain;" />
    <div style="font-size: 14px; font-style: italic;">The root</div>
 </div>
 
-##### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
+#### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
@@ -185,14 +191,14 @@ On the right, the same for "Nordic Prison".
     <i>-Kahlil Gibran</i>
 </p>
 
-##### 2. Finding one's people
+#### 2. Finding one's people
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
     They're in deep alignment with a culture.
 </p>
 
-##### 3. Defending culture
+#### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
     For example, choosing a dysfunctional government, or no government at all, over a culturally-foreign government.
@@ -204,7 +210,7 @@ On the right, the same for "Nordic Prison".
     When you take a person's culture, you take their last breath, so to speak.
 </p>
 
-##### 4. Refined Product
+#### 4. Refined Product
 <p>
     In manufacturing, you go from raw materials to a finished product.
     In life, we have various social and professional roles: parent, soldier, doctor.
@@ -245,7 +251,9 @@ On the right, the same for "Nordic Prison".
     The point is the aesthetic, effulgent in emotional space.
 </p>
 
-#### "We can only change the culture"
+<br/>
+
+### "We can only change the culture"
 <p>
     As Bach says, "What can we do about it? We can only change the culture." How do we change the culture?
 </p>
@@ -271,7 +279,9 @@ On the right, the same for "Nordic Prison".
     From Joan of Arc to Carl Sagan.
 </p>
 
-#### Another Way to Change the Culture
+<br/>
+
+### Another Way to Change the Culture
 <p>
     "You Can't Fix Stupid"
     -Ron White
@@ -325,11 +335,10 @@ On the right, the same for "Nordic Prison".
     -Kahlil Gibran
 </p>
 
-
 <br/>
 <br/>
 
-Sources<br/>
+References:<br/>
 ¹: https://thestoryinstitute.com/halden <br/>
 ²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
 ³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
