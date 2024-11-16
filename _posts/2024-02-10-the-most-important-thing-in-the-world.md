@@ -347,7 +347,7 @@ On the right, the same for "Nordic Prison".
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    -Kahlil Gibran
+    <i>-Kahlil Gibran</i>
 </p>
 
 <br/>
