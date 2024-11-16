@@ -1,6 +1,8 @@
 ### The Most Important Thing In The World
 
-<b style="text-align: center;">"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us"</b>
+<p style="text-align: center;">
+    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"</b>
+</p>
 
 <br/>
 
