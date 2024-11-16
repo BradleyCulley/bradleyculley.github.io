@@ -9,6 +9,8 @@
   <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
 </div>
 
+<br/>
+
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
     Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
@@ -53,6 +55,8 @@
     </div>
 </p>
 
+<br/>
+
 <p>
     Later in life, I saw that technology is necessary, but not sufficient.
 </p>
@@ -96,9 +100,13 @@
     These are Hofstede's 5 cultural dimensions, plotted for a few countries:
 </p>
 
+<br/>
+
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 49.038%; width: 100%;" />
 </div>
+
+<br/>
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
@@ -120,6 +128,8 @@
     <div align="center">
       <img style="width: 100%; height: 35.29%" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
+
+<br/>
 
 On the left, the first Google Image Search result for "American Prison".
 On the right, the same for "Nordic Prison".
@@ -175,6 +185,8 @@ On the right, the same for "Nordic Prison".
    <div style="font-size: 14px; font-style: italic;">The root</div>
 </div>
 
+<br/>
+
 #### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
@@ -226,10 +238,14 @@ On the right, the same for "Nordic Prison".
     It's an end onto itself.
 </p>
 
+<br/>
+
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
 </div>
+
+<br/>
 
 <p>
     The average American prison, too, is a cultural motif.
