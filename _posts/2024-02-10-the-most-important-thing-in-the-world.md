@@ -2,10 +2,10 @@
 
 <div align="center">
   <img style="width: 70vw;" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
-  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway¹</div>
+  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
 </div>
 
-<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach²</b>
+<b>"The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us" - Joscha Bach</b>
 
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
@@ -22,7 +22,7 @@
     <b>Bach:</b><br>
     "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us".<br><br>
     <b>Goethe:</b><br>
-    "Then let's begin to create a new culture."²
+    "Then let's begin to create a new culture."
 </p>
 
 <p>
@@ -45,7 +45,7 @@
     Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution". Good title.</div>
     </div>
 </p>
 
@@ -55,19 +55,19 @@
 
 #### Green Mountain Care
 <p>
-    In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.⁵
+    In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.
     The system was called "Green Mountain Care", after Vermont's nickname: "The Green Mountain State".
 </p>
 
 <p>
-    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
+    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."
     A year later, the bill was dead.
-    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
+    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."
 </p>
 
 <p>
     The Green Mountain Care failure happened in the wealthiest country in the world.
-    In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
+    In 2014, Vermont was in the top third of states for GDP per capita, and had a relatively high state income tax rate.
     There was also significant political will, or the bill wouldn't have materialized in the first place.
     So what was the problem?
 </p>
@@ -81,13 +81,13 @@
 <p>
     I should note that individualism isn't the same as selfishness.
     "Per capita, Americans voluntarily donate [to charity] about seven times as much as continental Europeans.
-    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
+    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."
 </p>
 
 <p>
     A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.⁹
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹⁰:
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries:
 </p>
 
 <div align="center">
@@ -96,7 +96,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.¹¹
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest <i>in the world</i> in individualism.
 </p>
 
 <p>
@@ -104,7 +104,7 @@
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
     The important thing is how the instinct of the people interprets it."<br/>
-    ―Oswald Spengler, Prussianism and Socialism¹²
+    ―Oswald Spengler, Prussianism and Socialism
 </p>
 
 #### Prison: A True Barometer
@@ -113,8 +113,8 @@
       <img style="width: 70vw;" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
     </div>
 
-On the left, the first Google Image Search result for "American Prison".¹³
-On the right, the same for "Nordic Prison".¹⁴
+On the left, the first Google Image Search result for "American Prison".
+On the right, the same for "Nordic Prison".
 </p>
 
 <p>
@@ -123,15 +123,15 @@ On the right, the same for "Nordic Prison".¹⁴
 </p>
 
 <p>
-    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
+    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.
     It does capture aspects of his thinking, though.
 </p>
 
 <p>
     Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
-    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.¹⁶
+    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.
     Here's something he <i>did</i> say, in "The House of the Dead":<br/>
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."¹⁷
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."
 </p>
 
 <p>
@@ -182,7 +182,7 @@ On the right, the same for "Nordic Prison".¹⁴
 
 <p>
     "The corner-stone of the temple is not higher than the lowest stone in its foundation"<br/>
-    <i>-Kahlil Gibran¹⁸</i>
+    <i>-Kahlil Gibran</i>
 </p>
 
 ##### 2. Finding one's people
@@ -220,12 +220,12 @@ On the right, the same for "Nordic Prison".¹⁴
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 80vh; width: auto; object-fit: contain;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹</div>
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
 </div>
 
 <p>
     The average American prison, too, is a cultural motif.
-    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of prison brutality.
+    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of [prison](https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/) [brutality](https://www.wbrc.com/2019/04/12/bloody-truth/).
     "If you don't like it, don't go to prison", they say.
 </p>
 
@@ -235,7 +235,7 @@ On the right, the same for "Nordic Prison".¹⁴
 </p>
 
 <p>
-    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
+    Joseph Campbell called such things "the hieratic pantomime, making visible on earth the forms of heaven".
     Cultures aim to convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
@@ -261,7 +261,7 @@ On the right, the same for "Nordic Prison".¹⁴
     Only if they succeeded would they have the money to eat.
     It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
     Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."²¹
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."
 </p>
 
 <p>
@@ -274,7 +274,7 @@ On the right, the same for "Nordic Prison".¹⁴
 #### Another Way to Change the Culture
 <p>
     "You Can't Fix Stupid"
-    -Ron White²²
+    -Ron White
 </p>
 
 <p>
@@ -322,7 +322,7 @@ On the right, the same for "Nordic Prison".¹⁴
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    -Kahlil Gibran²³
+    -Kahlil Gibran
 </p>
 
 
