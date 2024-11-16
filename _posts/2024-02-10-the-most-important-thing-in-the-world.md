@@ -250,12 +250,10 @@ On the right, the same for "Nordic Prison".
 <a>
     The average American prison, too, is a cultural motif.
     It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
-    "If you don't like it, don't go to prison", they say.
 </p>
 
 <p>
-    The Nordic prison, too, is a cultural motif.
-    Each, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
+    Each motif, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
 </p>
 
 <p>
