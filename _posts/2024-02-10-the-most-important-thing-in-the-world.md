@@ -168,7 +168,7 @@
 
 <p>
     Culture is often ostensibly consequentialist: "Fermented food is good for you".
-    While it can have consequentialist ramifications, such as universal healthcare, it's actually deontological: "This food reminds me of my childhood. It feels like home."
+    While it can have consequentialist ramifications, such as universal healthcare, it's fundamentally deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
 <p>
