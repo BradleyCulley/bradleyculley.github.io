@@ -206,7 +206,7 @@
 
 #### 2. Finding one's people
 <p>
-    I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
+    I've noticed people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
     They're in deep alignment with a culture.
 </p>
