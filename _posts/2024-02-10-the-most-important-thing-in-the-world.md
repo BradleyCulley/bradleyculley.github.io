@@ -44,12 +44,12 @@
 
 ### Culture is the Key
 <p>
-    I used to think technological innovation is the key to a better society.
-    If we made a better microchip or a new medicine, things would be good.
+    I used to think technological innovation, and entrepreneurship, is the key to a better society.
+    If we made a better microchip, a new medicine, or a successful company, things would be good.
 </p>
 
 <p>
-    Technology's nothing to sneeze at.
+    Technology's nothing to sneeze at, of course.
     Only one thing has deeply inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
@@ -60,7 +60,7 @@
 <br/>
 
 <p>
-    Later in life, I saw that technology is necessary, but not sufficient.
+    Later in life, I decided that technology and industry are necessary, but not sufficient.
 </p>
 
 <br/>
@@ -78,7 +78,7 @@
 </p>
 
 <p>
-    The Green Mountain Care failure happened in the wealthiest country in the world.
+    The failure of Green Mountain Care happened in the wealthiest country in the world.
     In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
     There was also significant political will, or the bill wouldn't have materialized in the first place.
     What was the problem?
@@ -172,7 +172,7 @@
 </p>
 
 <p>
-    Culture is often framed through externalities: food, language, religion, rituals.
+    Culture is often framed through externalities: language, religion, rituals.
     It's like air, though.
     It's so fundamental, when you grow up with it, that you don't even notice it.
 </p>
@@ -240,6 +240,7 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
+  <br/>
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹<br/>The most beautiful chapel I've ever seen</div>
 </div>
