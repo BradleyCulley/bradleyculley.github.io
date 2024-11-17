@@ -321,14 +321,14 @@
 
 <p>
     You can do both, as well.
-    You can be a public intellectual <i>and</i> move to a culture that better suits you.
+    You can be a public intellectual <i>and</i> move to a culture that suits you.
     There's a long history of expatriate public intellectuals.
 </p>
 
 <p>
     Distance begets rationality.
     You can often best effect change from outside the storm.
-    And in material ways, you'll be supporting a culture you believe in: your labor, your taxes.
+    In material ways, you'll be supporting a culture you believe in: your labor, your taxes.
 </p>
 
 <p>
