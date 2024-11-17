@@ -239,8 +239,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
-  <br/>
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%; margin-bottom: 5%;" />
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
   <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹<br/>The most beautiful chapel I've ever seen</div>
 </div>
