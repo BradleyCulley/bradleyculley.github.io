@@ -309,7 +309,7 @@
 
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
-    Many have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
+    Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
     In that subculture, our ducks were finally in a row.
     Then you're dumped back into the real world.
 </p>
