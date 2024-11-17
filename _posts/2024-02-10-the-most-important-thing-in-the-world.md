@@ -274,7 +274,7 @@
 </p>
 
 <p>
-    The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
+    The 18th century Scottish philosopher David Hume said the answer is to be a public intellectual.
     Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
 </p>
 
@@ -290,7 +290,7 @@
 <p>
     Culture is the foundation of everything else, and public intellectuals create the culture.
     Years ago, I read an essay about which profession has had the most influence throughout history.
-    It made the argument for "the amateur philosopher", also known as the public intellectual.
+    It made the case for "the amateur philosopher", also known as the public intellectual.
     From Joan of Arc to Carl Sagan.
 </p>
 
@@ -307,7 +307,7 @@
     Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
     In that subculture, our ducks were finally in a row.
-    Then you're dumped back into the real world.
+    Then you're dumped back into the real world of people wearing pajama pants at Walmart.
 </p>
 
 <p>
