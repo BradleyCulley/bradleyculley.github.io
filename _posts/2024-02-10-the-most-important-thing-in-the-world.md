@@ -1,14 +1,14 @@
 ### The Most Important Thing In The World
 
 <p style="text-align: center;">
-    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"</b>
+    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"²</b>
 </p>
 
 <br/>
 
 <div align="center">
   <img style="width: 100%; height: 99.2857%" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
-  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway</div>
+  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway¹</div>
 </div>
 
 <br/>
@@ -28,7 +28,7 @@
     <b>Bach:</b><br>
     "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us".<br><br>
     <b>Goethe:</b><br>
-    "Then let's begin to create a new culture."
+    "Then let's begin to create a new culture."²
 </p>
 
 <p>
@@ -67,25 +67,25 @@
 
 ### Green Mountain Care
 <p>
-    In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.
+    In March of 2011, the state of Vermont in the United States passed bill H.202, legislating a completely government-funded universal healthcare system for Vermont residents.⁵
     The system was called "Green Mountain Care", after Vermont's nickname: "The Green Mountain State".
 </p>
 
 <p>
-    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."
+    "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
     A year later, the bill was dead.
-    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."
+    "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
 </p>
 
 <p>
     The Green Mountain Care failure happened in the wealthiest country in the world.
-    In 2014, Vermont was in the top third of states for GDP per capita, and had a relatively high state income tax rate.
+    In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
     There was also significant political will, or the bill wouldn't have materialized in the first place.
-    So what was the problem?
+    What was the problem?
 </p>
 
 <p>
-    I believe the problem was entirely cultural. The problem wasn't political, logistical, or even economic.
+    I believe the problem was entirely cultural. The problem wasn't political, logistical, economic, or even political.
     The United States is quite culturally individualistic.
     Paying for someone else's healthcare isn't individualistic.
 </p>
@@ -93,13 +93,13 @@
 <p>
     I should note that individualism isn't the same as selfishness.
     "Per capita, Americans voluntarily donate [to charity] about seven times as much as continental Europeans.
-    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."
+    Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
 
 <p>
     A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries:
+    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.⁹
+    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹⁰:
 </p>
 
 <br/>
@@ -112,7 +112,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest in the world in individualism.
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest in the world in individualism.¹¹
 </p>
 
 <p>
@@ -120,7 +120,7 @@
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
     The important thing is how the instinct of the people interprets it."<br/>
-    <i>―Oswald Spengler, Prussianism and Socialism</i>
+    <i>―Oswald Spengler, Prussianism and Socialism¹²</i>
 </p>
 
 <br/>
@@ -129,7 +129,7 @@
 <p>
     <div align="center">
       <img style="width: 100%; height: 35.29%" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
-      <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "American Prison"<br/>On the right, the same for "Nordic Prison"</div>
+      <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "American Prison"¹³<br/>On the right, the same for "Nordic Prison"¹⁴</div>
     </div>
 </p>
 
@@ -141,15 +141,15 @@
 </p>
 
 <p>
-    That quote is often attributed to Fyodor Dostoevsky, but he never said or wrote that.
+    That quote is often attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
     It does capture aspects of his thinking, though.
 </p>
 
 <p>
     Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
-    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.
+    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.¹⁶
     Here's something he <i>did</i> say, in "The House of the Dead":<br/>
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."
+    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."¹⁷
 </p>
 
 <p>
@@ -201,12 +201,12 @@
 
 <p>
     "The corner-stone of the temple is not higher than the lowest stone in its foundation"<br/>
-    <i>-Kahlil Gibran</i>
+    <i>-Kahlil Gibran¹⁸</i>
 </p>
 
 #### 2. Finding one's people
 <p>
-    I've noticed people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
+    I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
     They're in deep alignment with a culture.
 </p>
@@ -241,7 +241,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris<br/>The most beautiful chapel I've ever seen</div>
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹<br/>The most beautiful chapel I've ever seen</div>
 </div>
 
 <br/>
@@ -255,7 +255,7 @@
 </p>
 
 <p>
-    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".
+    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
     Cultures convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
@@ -283,7 +283,7 @@
     Only if they succeeded would they have the money to eat.
     It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
     Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."²¹
 </p>
 
 <p>
@@ -296,11 +296,6 @@
 <br/>
 
 ### Another Way to Change the Culture
-<p>
-    "You Can't Fix Stupid"<br/>
-    <i>-Ron White</i>
-</p>
-
 <p>
     Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
     In your lifetime?
@@ -345,33 +340,33 @@
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    <i>-Kahlil Gibran</i>
+    <i>-Kahlil Gibran²³</i>
 </p>
 
 <br/>
 <br/>
 
-References:<br/>
-* https://thestoryinstitute.com/halden <br/>
-* https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
-* https://www.thoughtco.com/history-of-steam-engines-4072565 <br/>
-* https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
-* https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
-* https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
-* https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
-* https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
-* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
-* https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
-* https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
-* https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
-* https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
-* https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
-* https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
-* https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
-* https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
-* https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
-* https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
-* https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
-* https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
-* https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
-* https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
+Sources:<br/>
+¹: https://thestoryinstitute.com/halden <br/>
+²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
+³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
+⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
+⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
+⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
+⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
+⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
+⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
+¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
+¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
+¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
+¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
+¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
+¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
+¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
+¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
+¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
+²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
+²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
+²²: https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
+²³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
