@@ -173,8 +173,8 @@
 
 <p>
     Culture is often framed through externalities: food, language, religion, rituals.
-    It's more like air, though.
-    It's what's so fundamental, when you grow up with it, that you don't even notice.
+    It's like air, though.
+    It's so fundamental, when you grow up with it, that you don't even notice.
 </p>
 
 <br/>
@@ -197,7 +197,6 @@
     Americans forever try to circumvent this. Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
     Your $87,000 health insurance claim gets denied.
-    Your child dies of a drug overdose.
 </p>
 
 <p>
@@ -234,8 +233,7 @@
 
 <p>
     The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
-    They poured resources into them. A cathedral doesn't mill grain or plow the fields.
-    It's an end onto itself.
+    Ends onto themselves.
 </p>
 
 <br/>
@@ -257,14 +255,14 @@
 </p>
 
 <p>
-    Joseph Campbell called sthis "the hieratic pantomime, making visible on earth the forms of heaven".
-    Cultures aim to convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
+    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".
+    Cultures convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
 <p>
-    The refined products, then, are the aesthetics.
+    The refined products, then, are the aesthetics; the vibes.
     At dinner with your extended family, the table, the chairs, and the food aren't the point.
-    The point is the aesthetic, effulgent in emotional space.
+    The point is the vibe, effulgent in emotional space.
 </p>
 
 <br/>
