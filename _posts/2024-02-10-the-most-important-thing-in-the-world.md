@@ -337,7 +337,7 @@
 </p>
 
 <p>
-    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can feel the weight of it on their soul.
+    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel the weight of it on their soul.
 </p>
 
 <p>
