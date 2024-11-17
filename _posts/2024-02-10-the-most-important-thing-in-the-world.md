@@ -247,7 +247,7 @@
 
 <p>
     The average American prison, too, is a cultural motif.
-    It reflects hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
+    It reflects a certain hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
 </p>
 
 <p>
@@ -309,9 +309,9 @@
 
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
-    Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
+    Many have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
     In that subculture, our ducks were finally in a row.
-    But once you're dumped back into the real world, things are still quite shabby.
+    Then you're dumped back into the real world.
 </p>
 
 <p>
