@@ -141,7 +141,7 @@
 </p>
 
 <p>
-    The above quote is often mis-attributed to Fyodor Dostoevsky, but he never said or wrote that.
+    That quote is often attributed to Fyodor Dostoevsky, but he never said or wrote that.
     It does capture aspects of his thinking, though.
 </p>
 
@@ -214,7 +214,7 @@
 #### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
-    For example, choosing a dysfunctional government, or no government at all, over a culturally-foreign government.
+    For example, choosing a dysfunctional government over a culturally-foreign government.
     It makes sense.
 </p>
 
@@ -232,22 +232,22 @@
 </p>
 
 <p>
-    The medieval French built beautiful cathedrals: physical reifications of abstract cultural motifs.
+    The medieval French built beautiful religious buildings: physical reifications of abstract cultural motifs.
     Ends onto themselves.
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-upper-level.jpg" style="height: 50.43%; width: 100%;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris</div>
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris<br/>The most beautiful chapel I've ever seen</div>
 </div>
 
 <br/>
 
 <p>
-    The average American prison, too, is a cultural motif.
-    It reflects a certain hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
+    The average American prison reflects a certain hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
 </p>
 
 <p>
