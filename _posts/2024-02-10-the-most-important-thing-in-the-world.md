@@ -174,7 +174,7 @@
 <p>
     Culture is often framed through externalities: food, language, religion, rituals.
     It's like air, though.
-    It's so fundamental, when you grow up with it, that you don't even notice.
+    It's so fundamental, when you grow up with it, that you don't even notice it.
 </p>
 
 <br/>
