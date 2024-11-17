@@ -125,42 +125,6 @@
 
 <br/>
 
-### Prison: A True Barometer
-<p>
-    <div align="center">
-      <img style="width: 100%; height: 35.29%" src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" />
-      <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "American Prison"¹³<br/>On the right, the same for "Nordic Prison"¹⁴</div>
-    </div>
-</p>
-
-<br/>
-
-<p>
-    "The degree of civilization in a society can be judged by entering its prisons"<br/>
-    <i>-Not Fyodor Dostoevsky</i>
-</p>
-
-<p>
-    That quote is often attributed to Fyodor Dostoevsky, but he never said or wrote that.¹⁵
-    It does capture aspects of his thinking, though.
-</p>
-
-<p>
-    Starting in 1849, Dostoevsky was imprisoned for four years in a Siberian prison camp.
-    Afterward, he wrote a semi-autobiographical novel, "The House of the Dead", about life in such a place.¹⁶
-    Here's something he <i>did</i> say, in "The House of the Dead":<br/>
-    "In short, the right of corporal punishment given to one man over another is one of the sores of social life, one of the strongest forces destructive of every germ, every effort in society toward civic feeling, and a sufficient cause for its inevitable dissolution."¹⁷
-</p>
-
-<p>
-    Just like the reason Green Mountain Care failed, the reason Nordic prisons are humane isn't that there's this law or that law stating they ought to be.
-    Nor are they humane because they're well-funded (which they are).
-    They're humane because the society around them is humane.
-    It's the culture.
-</p>
-
-<br/>
-
 ### What is culture?
 <p>
     There's a culture to every town, school, and even every relationship between two people.
