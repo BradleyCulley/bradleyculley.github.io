@@ -97,9 +97,21 @@
 </p>
 
 <p>
-    A good framework for analyzing cultures is "Hofstede's cultural dimensions theory", created by Dutch social psychologist Geert Hofstede.
-    Hofstede's theory is the result of surveying 117,000 IBM employees across 50 countries between 1967 and 1973.⁹
-    These are Hofstede's 5 cultural dimensions, plotted for a few countries¹⁰:
+    "A people can never choose between different types of government.
+    It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
+    What gets written into a constitution is never essential.
+    The important thing is how the instinct of the people interprets it."<br/>
+    <i>―Oswald Spengler, Prussianism and Socialism¹²</i>
+</p>
+
+<br/>
+
+### What is culture?
+<p>
+    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 countries, asking them questions about everyday life.
+    The result was "Hofstede's cultural dimensions theory".
+    His theory assigns a score to "cultural dimensions" such an individualism versus collectivism.
+    These are 5 such dimensions, plotted for a few countries¹⁰:
 </p>
 
 <br/>
@@ -116,18 +128,7 @@
 </p>
 
 <p>
-    "A people can never choose between different types of government.
-    It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
-    What gets written into a constitution is never essential.
-    The important thing is how the instinct of the people interprets it."<br/>
-    <i>―Oswald Spengler, Prussianism and Socialism¹²</i>
-</p>
-
-<br/>
-
-### What is culture?
-<p>
-    There's a culture to every town, school, and even every relationship between two people.
+    There's a culture to every town, school, and every relationship between two people.
 </p>
 
 <p>
@@ -137,8 +138,7 @@
 
 <p>
     Culture is often framed through externalities: language, religion, rituals.
-    It's like air, though.
-    It's so fundamental, when you grow up with it, that you don't even notice it.
+    It's like air, though: so fundamental, when you're born into it, that you don't even notice it.
 </p>
 
 <br/>
@@ -172,13 +172,16 @@
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
-    They're in deep alignment with a culture.
+    They're in alignment - you could even say resonance - with a culture.
 </p>
+
+TODO: add a photo of people all of a kind. For example, a group of firefighters all in their gear.
+Make the caption: "feels good".
 
 #### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
-    For example, choosing a dysfunctional government over a culturally-foreign government.
+    Fight guerrilla wars, risk imprisonment, risk their lives.
     It makes sense.
 </p>
 
@@ -190,13 +193,13 @@
 #### 4. Refined Product
 <p>
     In manufacturing, you go from raw materials to a finished product.
-    In life, we have various social and professional roles: parent, soldier, doctor.
+    In life, you have roles  like parent, doctor, and soldier.
     Curing an illness is valuable, but once the illness is cured, you're back to "square one".
     Why do anything?
 </p>
 
 <p>
-    The medieval French built beautiful religious buildings: physical reifications of abstract cultural motifs.
+    The medieval French built beautiful cathedrals and chapels: physical reifications of abstract cultural motifs.
     Ends onto themselves.
 </p>
 
@@ -211,20 +214,21 @@
 <br/>
 
 <p>
-    The average American prison reflects a certain hard-nosed individualism, myopic to the social determinants of criminality, and - as described by Dostoevsky - the rippling effects of <a href="https://www.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer/" target="_blank">prison</a> <a href="https://www.wbrc.com/2019/04/12/bloody-truth/" target="_blank">brutality</a>.
+    The average American prison, too, is a sort of cultural motif.
+    It reflects the "individual responsibility" side of hard-nosed individualism.
+    So too for the average Nordic prison.
 </p>
 
 <p>
-    Each motif, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
+    Each motif, like The Sainte-Chapelle, is luminous in reflection of its ideals.
 </p>
 
 <p>
     Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
-    Cultures convert the raw materials of human striving into refined edifices in physical, intellectual, and emotional space.
 </p>
 
 <p>
-    The refined products, then, are the aesthetics; the vibes.
+    The refined products, then, are the aesthetics. The vibes.
     At dinner with your extended family, the table, the chairs, and the food aren't the point.
     The point is the vibe, effulgent in emotional space.
 </p>
@@ -237,8 +241,8 @@
 </p>
 
 <p>
-    The 18th century Scottish philosopher David Hume said the answer is to be a public intellectual.
-    Hume drew a distinction between the academic philosopher, cloistered in an ivory tower, and the public intellectual.
+    The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
+    Hume contrasted the academic philosopher - cloistered in an ivory tower, and the public intellectual - who spoke to the people.
 </p>
 
 <p>
