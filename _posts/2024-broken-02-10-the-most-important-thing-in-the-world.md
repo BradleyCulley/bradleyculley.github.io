@@ -1,7 +1,9 @@
 ### The Most Important Thing In The World
 
+<br/>
+
 <p style="text-align: center;">
-    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"²</b>
+    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"</b>
 </p>
 
 <br/>
@@ -49,8 +51,8 @@
 </p>
 
 <p>
-    Technology's nothing to sneeze at, of course.
-    Only one thing has deeply inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
+    Technology is important, though.
+    Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution". Good title.</div>
@@ -60,7 +62,7 @@
 <br/>
 
 <p>
-    Later in life, I decided that technology and industry are necessary, but not sufficient.
+    Later in life, I decided that technology and entrepreneurship are necessary, but not sufficient.
 </p>
 
 <br/>
@@ -73,6 +75,8 @@
 
 <p>
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
+</p>
+<p>
     A year later, the bill was dead.
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
 </p>
@@ -81,12 +85,15 @@
     The failure of Green Mountain Care happened in the wealthiest country in the world.
     In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
     There was also significant political will, or the bill wouldn't have materialized in the first place.
-    What was the problem?
+    So what was the problem?
 </p>
 
 <p>
     I believe the problem was entirely cultural. The problem wasn't political, logistical, economic, or even political.
-    The United States is quite culturally individualistic.
+</p>
+
+<p>
+    In particular, the United States is quite culturally individualistic.
     Paying for someone else's healthcare isn't individualistic.
 </p>
 
@@ -108,7 +115,7 @@
 
 ### What is culture?
 <p>
-    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 countries, asking them questions about everyday life.
+    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 different countries, asking them questions about everyday life.
     The result was "Hofstede's cultural dimensions theory".
     His theory assigns a score to "cultural dimensions" such an individualism versus collectivism.
     These are 5 such dimensions, plotted for a few countries¹⁰:
@@ -124,7 +131,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores the highest in the world in individualism.¹¹
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹¹
 </p>
 
 <p>
@@ -151,7 +158,7 @@
 
 <br/>
 
-#### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
+#### 1. "Only with a good culture can we enjoy all of the good things that are available to us" -Joscha Bach
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
@@ -172,21 +179,23 @@
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
-    They're in alignment - you could even say resonance - with a culture.
+    They're in deep alignment with a culture.
 </p>
 
-TODO: add a photo of people all of a kind. For example, a group of firefighters all in their gear.
-Make the caption: "feels good".
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%; margin-bottom: 5%;" />
+  <div style="font-size: 14px; font-style: italic;">Being part of the group just feels right</div>
+</div>
 
 #### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
-    Fight guerrilla wars, risk imprisonment, risk their lives.
+    Fight wars, risk imprisonment, risk their lives.
     It makes sense.
 </p>
 
 <p>
-    Communism and colonialism usurp culture: ban religions, ban languages, erase histories.
+    Communism and colonialism both usurp culture: ban religions, ban languages, erase histories.
     When you take a person's culture, you take their last breath, so to speak.
 </p>
 
@@ -229,6 +238,9 @@ Make the caption: "feels good".
 
 <p>
     The refined products, then, are the aesthetics. The vibes.
+</p>
+
+<p>
     At dinner with your extended family, the table, the chairs, and the food aren't the point.
     The point is the vibe, effulgent in emotional space.
 </p>
@@ -237,12 +249,16 @@ Make the caption: "feels good".
 
 ### "We can only change the culture"
 <p>
-    As Bach says, "What can we do about it? We can only change the culture." How do we change the culture?
+    As Joscha Bach says, "What can we do about it? We can only change the culture."
+</p>
+
+<p>
+    How do we change the culture?
 </p>
 
 <p>
     The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
-    Hume contrasted the academic philosopher - cloistered in an ivory tower, and the public intellectual - who spoke to the people.
+    Hume contrasted the academic philosopher, cloistered in an ivory tower, with the public intellectual, who spoke to the people.
 </p>
 
 <p>
@@ -256,8 +272,6 @@ Make the caption: "feels good".
 
 <p>
     Culture is the foundation of everything else, and public intellectuals create the culture.
-    Years ago, I read an essay about which profession has had the most influence throughout history.
-    It made the case for "the amateur philosopher", also known as the public intellectual.
     From Joan of Arc to Carl Sagan.
 </p>
 
@@ -265,9 +279,9 @@ Make the caption: "feels good".
 
 ### Another Way to Change the Culture
 <p>
-    Public intellectuals can change the culture, but can you meaningfully change the cultures that meaningfully affect you?
+    Public intellectuals can change the culture, but can you meaningfully change your culture?
     In your lifetime?
-    Cultural change is often gradual. Glacial, even.
+    Cultural change is often glacial.
 </p>
 
 <p>
@@ -290,8 +304,8 @@ Make the caption: "feels good".
 
 <p>
     Distance begets rationality.
-    You can often best effect change from outside the storm.
-    In material ways, you'll be supporting a culture you believe in: your labor, your taxes.
+    And you can often best effect change from outside the storm.
+    For example, you'll be materially supporting a culture you believe in: your labor, your taxes.
 </p>
 
 <p>
@@ -327,6 +341,8 @@ Sources:<br/>
 ¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
 ¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
 ¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
+: https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg (By Joshua Sherurcij, Attribution, https://commons.wikimedia.org/w/index.php?curid=16024528)
+
 ¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
 ¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
 ¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
