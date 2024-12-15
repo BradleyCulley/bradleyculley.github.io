@@ -135,7 +135,8 @@
 </p>
 
 <p>
-    There's a culture to every town, school, and every relationship between two people.
+    Culture isn't just a phenomenon of nations.
+    There's a culture to every town, school, and relationship.
 </p>
 
 <p>
@@ -162,18 +163,18 @@
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
-    Like secondhand smoke, you can't be "in it" without being affected by it.
 </p>
 
 <p>
-    Americans forever try to circumvent this.
+    When you meet someone who grew up in one culture, but has lived for years in a different culture, you can sort of feel the impact of the latter culture on their soul.
+    Like secondhand smoke, you can't be "in it" without "getting it on you".
+</p>
+
+<p>
+    Americans forever try to avoid this.
     Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
-</p>
-
-<p>
     Your $87,000 health insurance claim gets denied.
-    You're the victim of a random crime.
 </p>
 
 <p>
@@ -184,8 +185,8 @@
 #### 2. Finding one's people
 <p>
     Someone once told me about watching two firefighters in Portland, Maine throwing a baseball back and forth to each other in front of the fire station.
-    The person who'd seen it described how it just seemed like it would be nice to be one of those two firefighters.
-    An important duty, a close-knit team. 
+    The person who'd seen it said it just seemed like it would be so nice to be one of the two firefighters.
+    An important duty, a tightly-knit team. 
 </p>
 
 <p>
@@ -201,19 +202,19 @@
 #### 3. Defending culture
 <p>
     Culture is the most important thing in the world, so people will do most anything for it.
-    Fight wars, risk imprisonment, risk their lives.
+    Fight wars, risk their lives.
     It makes sense.
 </p>
 
 <p>
-    Communism and colonialism usurp culture: ban religions, ban languages, erase histories.
+    Communism and colonialism both usurp culture: ban religions, ban languages, erase histories.
     When you take a person's culture, you take their last breath, so to speak.
 </p>
 
 #### 4. Refined Product
 <p>
     In manufacturing, you go from raw materials to a finished product.
-    In life, you have roles  like parent, doctor, and soldier.
+    In life, you have roles like parent, doctor, and soldier.
     Curing an illness is valuable, but once the illness is cured, you're back to "square one".
     Why do anything?
 </p>
@@ -233,6 +234,11 @@
 
 <br/>
 
+<p>
+    The average American prison, too, is a reflection of certain cultural motifs.
+    For example, the "individual responsibility" aspect of individualism.
+</p>
+
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Nordic_Prison_and_American_Prison.png" style="height: 35.3%; width: 100%; margin-bottom: 5%;" />
   <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "Nordic Prison". On the right, the same for "American Prison".</div>
@@ -241,12 +247,7 @@
 <br/>
 
 <p>
-    The average American prison, too, is a reflection of certain cultural motifs.
-    For example, the "individual responsibility" aspect of individualism.
-</p>
-
-<p>
-    Each motif, like The Sainte-Chapelle, is, for better or worse, luminous in the reflection of its ideals.
+    Each motif, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
 </p>
 
 <p>
@@ -288,7 +289,7 @@
 </p>
 
 <p>
-    Culture is the foundation of everything else, and public intellectuals create the culture.
+    Culture is the foundation of all else, and public intellectuals create the culture.
     From Joan of Arc to Carl Sagan.
 </p>
 
@@ -298,7 +299,7 @@
 <p>
     Public intellectuals can change the culture, but can you meaningfully change your culture?
     In your lifetime?
-    Cultural change is often gradual; glacial even.
+    Cultural change is often gradual; glacial, even.
 </p>
 
 <p>
@@ -320,13 +321,12 @@
 </p>
 
 <p>
-    Distance begets rationality.
-    Also, you can often best effect change from outside the storm.
-    Finally, you'll materially support a good culture: your labor, your taxes.
+    Distance begets rationality, and you can often best effect change from outside the storm.
+    You'll materially support a good culture: your labor, your taxes.
 </p>
 
 <p>
-    Here's the thing: you can't be in it without getting it on you.
+    Most importantly, this bears repeating: you can't be in it without getting it on you.
 </p>
 
 <p>
