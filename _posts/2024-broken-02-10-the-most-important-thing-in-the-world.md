@@ -162,12 +162,18 @@
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
+    Like secondhand smoke, you can't be "in it" without being affected by it.
 </p>
 
 <p>
-    Americans forever try to circumvent this. Try to create the perfect bubble.
+    Americans forever try to circumvent this.
+    Try to create the perfect bubble.
     Then something crazy happens, and the bubble is breached.
+</p>
+
+<p>
     Your $87,000 health insurance claim gets denied.
+    You're the victim of a random crime.
 </p>
 
 <p>
@@ -177,6 +183,12 @@
 
 #### 2. Finding one's people
 <p>
+    Someone once told me about watching two firefighters in Portland, Maine throwing a baseball back and forth to each other in front of the fire station.
+    The person who'd seen it described how it just seemed like it would be nice to be one of those two firefighters.
+    An important duty, a close-knit team. 
+</p>
+
+<p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, grandparent with lots of offspring.
     They're in deep alignment with a culture.
@@ -184,7 +196,6 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%; margin-bottom: 5%;" />
-  <div style="font-size: 14px; font-style: italic;">Being part of the group just feels right</div>
 </div>
 
 #### 3. Defending culture
@@ -195,7 +206,7 @@
 </p>
 
 <p>
-    Communism and colonialism both usurp culture: ban religions, ban languages, erase histories.
+    Communism and colonialism usurp culture: ban religions, ban languages, erase histories.
     When you take a person's culture, you take their last breath, so to speak.
 </p>
 
@@ -222,14 +233,20 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Nordic_Prison_and_American_Prison.png" style="height: 35.3%; width: 100%; margin-bottom: 5%;" />
+  <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "Nordic Prison". On the right, the same for "American Prison".</div>
+</div>
+
+<br/>
+
 <p>
-    The average American prison, too, is a sort of cultural motif.
-    It reflects the "individual responsibility" side of hard-nosed individualism.
-    So too for the average Nordic prison.
+    The average American prison, too, is a reflection of certain cultural motifs.
+    For example, the "individual responsibility" aspect of individualism.
 </p>
 
 <p>
-    Each motif, like The Sainte-Chapelle, is luminous in reflection of its ideals.
+    Each motif, like The Sainte-Chapelle, is, for better or worse, luminous in the reflection of its ideals.
 </p>
 
 <p>
@@ -281,14 +298,14 @@
 <p>
     Public intellectuals can change the culture, but can you meaningfully change your culture?
     In your lifetime?
-    Cultural change is often glacial.
+    Cultural change is often gradual; glacial even.
 </p>
 
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
     In that subculture, our ducks were finally in a row.
-    Then you're dumped back into the real world of people wearing pajama pants at Walmart.
+    Then you're dumped back into the real world.
 </p>
 
 <p>
@@ -304,17 +321,12 @@
 
 <p>
     Distance begets rationality.
-    And you can often best effect change from outside the storm.
-    For example, you'll be materially supporting a culture you believe in: your labor, your taxes.
+    Also, you can often best effect change from outside the storm.
+    Finally, you'll materially support a good culture: your labor, your taxes.
 </p>
 
 <p>
-    Finally, there's the idea that you "can't be in it without getting it on you".
-    If you spend time in a smokey room, you'll smell like smoke.
-</p>
-
-<p>
-    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel the weight of it on their soul.
+    Here's the thing: you can't be in it without getting it on you.
 </p>
 
 <p>
@@ -342,6 +354,12 @@ Sources:<br/>
 ¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
 ¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
 : https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg (By Joshua Sherurcij, Attribution, https://commons.wikimedia.org/w/index.php?curid=16024528)
+
+First image search result for "Nordic Prison":
+https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+
+First image search result for "American Prison":
+https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
 
 ¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
 ¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
