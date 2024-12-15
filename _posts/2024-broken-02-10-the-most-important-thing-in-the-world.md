@@ -240,8 +240,8 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Nordic_Prison_and_American_Prison.png" style="height: 35.3%; width: 100%; margin-bottom: 5%;" />
-  <div style="font-size: 14px; font-style: italic;">On the left, the first Google Image Search result for "Nordic Prison". On the right, the same for "American Prison".</div>
+  <img src="https://bradleyculley.github.io/images/American-prison.jpeg" style="height: 66.7%; width: 100%; margin-bottom: 5%;" />
+  <div style="font-size: 14px; font-style: italic;">The first Google Image Search result for "American Prison".</div>
 </div>
 
 <br/>
