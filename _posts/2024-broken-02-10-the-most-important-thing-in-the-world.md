@@ -16,8 +16,8 @@
 <br/>
 
 <p>
-    I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the AI model GPT-3.
-    Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
+    I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the artificial intelligence model GPT-3.
+    Dr. Bach prompted the artificial intelligence model to answer as though it were Johann Wolfgang von Goethe, the renowned 18th and 19th century German intellectual.
 </p>
 
 <p>
@@ -46,12 +46,12 @@
 
 ### Culture is the Key
 <p>
-    I used to think technological innovation, and entrepreneurship, is the key to a better society.
-    If we made a better microchip, a new medicine, or a successful company, things would be good.
+    I used to think technological innovation is the key to a better society.
+    If we made a better microchip or a new medicine, things would be good.
 </p>
 
 <p>
-    Technology is important, though.
+    Technology is of course important.
     Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
@@ -62,7 +62,7 @@
 <br/>
 
 <p>
-    Later in life, I decided that technology and entrepreneurship are necessary, but not sufficient.
+    Later in life, I decided that technology is necessary, but not sufficient.
 </p>
 
 <br/>
@@ -76,20 +76,24 @@
 <p>
     "As of January 2013, Vermont was still working out the role of Green Mountain Care and the responsibilities of the bill, as well as how to fund the program."⁵
 </p>
+
 <p>
     A year later, the bill was dead.
+</p>
+
+<p>
     "As of April 2014, Vermont had yet to craft a bill that would address the $2 billion in extra spending necessary to fund the single-payer system, and by the end of the year, the state abandoned their plan for universal health care, citing the taxes required of smaller businesses within the state."⁵
 </p>
 
 <p>
     The failure of Green Mountain Care happened in the wealthiest country in the world.
-    In 2014, Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
-    There was also significant political will, or the bill wouldn't have materialized in the first place.
+    Also, in 2014 Vermont was in the top third of states for GDP per capita⁶, and had a relatively high state income tax rate⁷.
+    Finally, there was clearly significant political will, or the bill wouldn't have materialized in the first place.
     So what was the problem?
 </p>
 
 <p>
-    I believe the problem was entirely cultural. The problem wasn't political, logistical, economic, or even political.
+    I believe the problem was entirely <i>cultural</i>. The problem wasn't logistical, economic, or even political.
 </p>
 
 <p>
@@ -104,6 +108,7 @@
 </p>
 
 <p>
+    As Oswald Spengler wrote:<br/>
     "A people can never choose between different types of government.
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
@@ -115,10 +120,10 @@
 
 ### What is culture?
 <p>
-    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 different countries, asking them questions about everyday life.
+    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 different countries, asking them questions to understand their worldview.
     The result was "Hofstede's cultural dimensions theory".
-    His theory assigns a score to "cultural dimensions" such an individualism versus collectivism.
-    These are 5 such dimensions, plotted for a few countries¹⁰:
+    His theory assigns each country a score for each of 6 "cultural dimensions", such an individualism versus collectivism.
+    These are his findings plotted for a few countries¹⁰:
 </p>
 
 <br/>
@@ -136,7 +141,7 @@
 
 <p>
     Culture isn't just a phenomenon of nations.
-    There's a culture to every town, school, and relationship.
+    There's a culture to every town, school, and interpersonal relationship.
 </p>
 
 <p>
@@ -159,40 +164,31 @@
 
 <br/>
 
-#### 1. "Only with a good culture can we enjoy all of the good things that are available to us" -Joscha Bach
+#### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
     You can't be completely civilized in a larger culture that's uncivilized.
     Can you be "Mr. Nice Guy" in a violent prison?
 </p>
 
 <p>
-    When you meet someone who grew up in one culture, but has lived for years in a different culture, you can sort of feel the impact of the latter culture on their soul.
     Like secondhand smoke, you can't be "in it" without "getting it on you".
 </p>
 
 <p>
     Americans forever try to avoid this.
     Try to create the perfect bubble.
-    Then something crazy happens, and the bubble is breached.
-    Your $87,000 health insurance claim gets denied.
-</p>
-
-<p>
-    "The corner-stone of the temple is not higher than the lowest stone in its foundation"<br/>
-    <i>-Kahlil Gibran¹⁸</i>
+    Then something crazy happens - your neighbor starts throwing empty beer cans onto your lawn, let's say - and the bubble is breached.
 </p>
 
 #### 2. Finding one's people
 <p>
-    Someone once told me about watching two firefighters in Portland, Maine throwing a baseball back and forth to each other in front of the fire station.
-    The person who'd seen it said it just seemed like it would be so nice to be one of the two firefighters.
-    An important duty, a tightly-knit team. 
+    Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
 </p>
 
 <p>
     I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
-    Tenured professor, senior vice president, grandparent with lots of offspring.
-    They're in deep alignment with a culture.
+    Tenured professor, senior vice president, proud grandparent.
+    Deep alignment with a culture.
 </p>
 
 <div align="center">
@@ -201,24 +197,14 @@
 
 #### 3. Defending culture
 <p>
-    Culture is the most important thing in the world, so people will do most anything for it.
-    Fight wars, risk their lives.
-    It makes sense.
+    Culture is the most important thing in the world, so people will do most anything for it: fight wars, risk their lives.
 </p>
 
 <p>
     Communism and colonialism both usurp culture: ban religions, ban languages, erase histories.
-    When you take a person's culture, you take their last breath, so to speak.
 </p>
 
-#### 4. Refined Product
-<p>
-    In manufacturing, you go from raw materials to a finished product.
-    In life, you have roles like parent, doctor, and soldier.
-    Curing an illness is valuable, but once the illness is cured, you're back to "square one".
-    Why do anything?
-</p>
-
+#### 4. The Hieratic Pantomime
 <p>
     The medieval French built beautiful cathedrals and chapels: physical reifications of abstract cultural motifs.
     Ends onto themselves.
@@ -235,32 +221,22 @@
 <br/>
 
 <p>
-    The average American prison, too, is a reflection of certain cultural motifs.
-    For example, the "individual responsibility" aspect of individualism.
+    The average American prison, and the average Nordic prison, too, are for better or worse each a reflection of certain ideals
 </p>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%; margin-bottom: 5%;" />
-  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Halden Prison in Norway on the right</div>
+  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Nordic prison on the right</div>
 </div>
 
 <br/>
 
 <p>
-    Each motif, like The Sainte-Chapelle, is luminous in the reflection of its ideals.
+    Each motif, like The Sainte-Chapelle Chapel, is luminous in the reflection of its ideals.
 </p>
 
 <p>
     Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
-</p>
-
-<p>
-    The refined products, then, are the aesthetics. The vibes.
-</p>
-
-<p>
-    At dinner with your extended family, the table, the chairs, and the food aren't the point.
-    The point is the vibe, effulgent in emotional space.
 </p>
 
 <br/>
@@ -289,13 +265,17 @@
 </p>
 
 <p>
-    Culture is the foundation of all else, and public intellectuals create the culture.
-    From Joan of Arc to Carl Sagan.
+    Public intellectuals: from Joan of Arc to Carl Sagan.
 </p>
 
 <br/>
 
 ### Another Way to Change the Culture
+<p>
+    "You can't fix stupid"
+    -Ron White -https://www.brainyquote.com/quotes/ron_white_564229
+</p>
+
 <p>
     Public intellectuals can change the culture, but can you meaningfully change your culture?
     In your lifetime?
@@ -305,7 +285,6 @@
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    In that subculture, our ducks were finally in a row.
     Then you're dumped back into the real world.
 </p>
 
@@ -321,12 +300,7 @@
 </p>
 
 <p>
-    Distance begets rationality, and you can often best effect change from outside the storm.
-    You'll materially support a good culture: your labor, your taxes.
-</p>
-
-<p>
-    Most importantly, this bears repeating: you can't be in it without getting it on you.
+    Most importantly, it bears repeating: you can't be in it without getting it on you.
 </p>
 
 <p>
@@ -354,6 +328,8 @@ Sources:<br/>
 ¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
 ¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
 : https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg (By Joshua Sherurcij, Attribution, https://commons.wikimedia.org/w/index.php?curid=16024528)
+
+https://www.brainyquote.com/quotes/ron_white_564229
 
 First image search result for "Nordic Prison":
 https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590
