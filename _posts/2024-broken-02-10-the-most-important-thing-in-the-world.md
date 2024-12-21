@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center">
-  <img style="width: 100%; height: 74.93%" src="https://bradleyculley.github.io/images/Nordic-Prison.png" />
-  <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway¹</div>
+  <img style="width: 100%; height: 66.4268%" src="https://bradleyculley.github.io/images/Halden_Prison_Norway.png" />
+  <div style="font-size: 14px; font-style: italic;">Halden Prison in Norway¹</div>
 </div>
 
 <br/>
@@ -240,8 +240,8 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/American-prison.jpeg" style="height: 66.7%; width: 100%; margin-bottom: 5%;" />
-  <div style="font-size: 14px; font-style: italic;">The first Google Image Search result for "American Prison".</div>
+  <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%; margin-bottom: 5%;" />
+  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Halden Prison in Norway on the right</div>
 </div>
 
 <br/>
@@ -341,7 +341,7 @@
 <br/>
 
 Sources:<br/>
-¹: https://thestoryinstitute.com/halden <br/>
+¹: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
 ²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
 ³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
 ⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
@@ -359,7 +359,7 @@ First image search result for "Nordic Prison":
 https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590
 
 First image search result for "American Prison":
-https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
+https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php
 
 ¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
 ¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
