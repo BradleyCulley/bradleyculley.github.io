@@ -3,13 +3,13 @@
 <br/>
 
 <p style="text-align: center;">
-    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"</b>
+    <b>"The most important thing in the world is culture,<br/>because only with a good culture<br/>can we enjoy all of the good things that are available to us"</b>
 </p>
 
 <br/>
 
 <div align="center">
-  <img style="width: 100%; height: 99.2857%" src="https://bradleyculley.github.io/images/Halden-Prison.jpeg" />
+  <img style="width: 100%; height: 74.93%" src="https://bradleyculley.github.io/images/Nordic-Prison.png" />
   <div style="font-size: 14px; font-style: italic;">Halden Prison, Norway¹</div>
 </div>
 
@@ -356,7 +356,7 @@ Sources:<br/>
 : https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg (By Joshua Sherurcij, Attribution, https://commons.wikimedia.org/w/index.php?curid=16024528)
 
 First image search result for "Nordic Prison":
-https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653
+https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590
 
 First image search result for "American Prison":
 https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus/
