@@ -221,7 +221,8 @@
 <br/>
 
 <p>
-    The average American prison, and the average Nordic prison, too, are for better or worse each a reflection of certain ideals
+    The average American prison, and the average Nordic prison, too, are for better or worse each a reflection, a reification, of certain ideals.
+    For example, the American prison reflects the "individual responsibility" side of individualism. 
 </p>
 
 <div align="center">
