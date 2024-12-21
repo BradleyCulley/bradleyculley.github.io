@@ -166,18 +166,18 @@
 
 #### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
-    You can't be completely civilized in a larger culture that's uncivilized.
-    Can you be "Mr. Nice Guy" in a violent prison?
+    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel the weight of it on their soul. 
 </p>
 
 <p>
-    Like secondhand smoke, you can't be "in it" without "getting it on you".
+    A culture is like secondhand smoke: you can't be "in it" without "getting it on you".
 </p>
 
 <p>
     Americans forever try to avoid this.
     Try to create the perfect bubble.
-    Then something crazy happens - your neighbor starts throwing empty beer cans onto your lawn, let's say - and the bubble is breached.
+    Then something crazy happens: your neighbor starts throwing empty beer cans onto your lawn.
+    The bubble is breached.
 </p>
 
 #### 2. Finding one's people
