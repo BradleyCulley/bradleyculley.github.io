@@ -97,7 +97,7 @@
 </p>
 
 <p>
-    In particular, the United States is quite culturally individualistic.
+    In particular, the United States is quite <i>culturally</i> individualistic.
     Paying for someone else's healthcare isn't individualistic.
 </p>
 
@@ -120,13 +120,14 @@
 
 ### What is culture?
 <p>
-    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 different countries, asking them questions to understand their worldview.
-    The result was "Hofstede's cultural dimensions theory".
-    His theory assigns each country a score for each of 6 "cultural dimensions", such as individualism versus collectivism¹⁰.
-    These are his findings for a few countries¹¹:
+    Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 countries, asking them questions to understand their worldviews.
+    The result was "<i>Hofstede's cultural dimensions theory</i>".
+    His theory assigns each country a score for each of 6 "cultural dimensions", such as the dimension of individualism versus collectivism¹⁰.
 </p>
 
-<br/>
+<p>
+    These are his findings for a few countries¹¹:
+</p>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Hofstede_4_countries_6_dimensions.png" style="height: 49.038%; width: 100%;" />
