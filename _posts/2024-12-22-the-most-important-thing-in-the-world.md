@@ -306,7 +306,7 @@ ___
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    <i>-Kahlil Gibran²⁰</i>
+    <i>-Kahlil Gibran¹⁹</i>
 </p>
 
 <br/>
@@ -329,7 +329,6 @@ Sources:<br/>
 ¹⁴: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr by Benh LIEU SONG <br/>
 ¹⁵: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg By Oldmanisold <br/>
 ¹⁶: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
-¹⁷: [https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
-¹⁸: [https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
-¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
-²⁰: [https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+¹⁷: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
+¹⁸: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
+¹⁹: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
