@@ -235,7 +235,7 @@ ___
 <br/>
 
 <p>
-    Each motif, like The Sainte-Chapelle Chapel, is luminous in the reflection of its ideals.
+    Each manifestation of a motif, like The Sainte-Chapelle Chapel, is luminous in the reflection of its ideals.
 </p>
 
 <p>
