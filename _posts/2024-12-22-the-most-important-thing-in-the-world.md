@@ -242,8 +242,6 @@ ___
 
 <br/>
 
-<br/>
-
 <p>
     Each motif, like The Sainte-Chapelle Chapel, is luminous in the reflection of its ideals.
 </p>
