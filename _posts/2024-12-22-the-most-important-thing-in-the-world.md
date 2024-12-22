@@ -298,8 +298,7 @@ ___
 
 <p>
     Moreover, change is often only in a <i>sub</i>-culture.
-    Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job.
-    Then you're dumped back into the real world.
+    Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job, followed by a jarring return to the outside world.
 </p>
 
 <p>
