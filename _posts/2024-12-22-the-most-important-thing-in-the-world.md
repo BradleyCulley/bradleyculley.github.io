@@ -303,6 +303,9 @@ ___
 
 <p>
     What's the solution?
+</p>
+
+<p>
     I suggest another interpretation of "change the culture": move yourself to another culture.
 </p>
 
@@ -314,7 +317,7 @@ ___
 
 <p>
     It bears repeating: you can't be in it without getting it on you.
-    It's best to join a culture that reflects your inner light.
+    It's best to be in a culture that reflects your inner light.
 </p>
 
 <p>
