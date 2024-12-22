@@ -313,7 +313,6 @@ ___
 </p>
 
 <p>
-    It bears repeating: you can't be in it without getting it on you.
     It's best to be in a culture that reflects your inner light.
 </p>
 
