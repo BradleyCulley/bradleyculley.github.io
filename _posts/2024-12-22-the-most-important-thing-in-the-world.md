@@ -283,14 +283,7 @@ ___
 
 ### Another Way to Change the Culture
 <p>
-    "You can't fix stupid"<br/>
-    -<i>Ron White</i>¹⁹
-</p>
-
-<p>
-    Public intellectuals can change the culture, but can you meaningfully change your culture?
-    In your lifetime?
-    Cultural change is often gradual; glacial, even.
+    Public intellectuals can change the culture, but cultural change is often gradual; glacial, even.
 </p>
 
 <p>
@@ -313,7 +306,7 @@ ___
 </p>
 
 <p>
-    It's best to be in a culture that reflects your inner light.
+    It's good to be in a culture that reflects your inner light.
 </p>
 
 <p>
