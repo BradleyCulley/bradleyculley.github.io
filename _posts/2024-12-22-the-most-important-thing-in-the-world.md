@@ -148,7 +148,7 @@ ___
 </p>
 
 <p>
-    Culture is often ostensibly consequentialist: "Fermented food is good for you".
+    Culture is often ostensibly consequentialist: "fermented food is good for you".
 </p>
 
 <p>
@@ -234,7 +234,7 @@ ___
 <p>
     The average American prison, and the average Nordic prison, too, are each a reflection of certain cultural ideals.
     The average American prison reflects the "individual responsibility" side of individualism, for example.
-    It's really about what your heaven looks like.
+    It's really about what the culture's "heaven" looks like.
 </p>
 
 <br/>
@@ -298,7 +298,7 @@ ___
 </p>
 
 <p>
-    Moreover, change is often only in a <i>sub</i>-culture.
+    Moreover, change is often only in a <i>sub</i>culture.
     Many people have had the experience of a passing association with a well-organized, moral, and even pleasant institution, such as a university or a good job, followed by a jarring return to the outside world.
 </p>
 
