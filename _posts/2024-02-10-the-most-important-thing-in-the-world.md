@@ -233,9 +233,11 @@ ___
 <br/>
 
 <p>
-    The average American prison, and the average Nordic prison, too, are for better or worse each a reflection, a reification, of certain ideals.
-    For example, the American prison reflects the "individual responsibility" side of individualism. 
+    The average American prison, and the average Nordic prison, too, are for better or worse each a reflection of certain cultural ideals.
+    The average American prison reflects the "individual responsibility" side of individualism, for example. 
 </p>
+
+<br/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%;" />
@@ -264,7 +266,7 @@ ___
 </p>
 
 <p>
-    The 18th century Scottish philosopher David Hume had an oddly specific answer: be a public intellectual.
+    The 18th century Scottish philosopher David Hume had an oddly specific answer to this: be a public intellectual.
     Hume contrasted the academic philosopher, cloistered in an ivory tower, with the public intellectual, who spoke to the people.
 </p>
 
@@ -329,28 +331,23 @@ ___
 <br/>
 
 Sources:<br/>
-¹: [https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590](https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590) <br/>
-²: [https://www.youtube.com/watch?v=FMfA6i60WDA](https://www.youtube.com/watch?v=FMfA6i60WDA) <br/>
-³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
-⁴: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution) <br/>
-⁵: [https://en.wikipedia.org/wiki/Vermont_health_care_reform](https://en.wikipedia.org/wiki/Vermont_health_care_reform) <br/>
-⁶: [https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5](https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) <br/>
-⁷: [https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf](https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf) (page 25) <br/>
-⁸: [https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity](https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity) <br/>
-⁹: [https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus](https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus) <br/>
-¹⁰: [https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory) <br/>
-¹¹: [https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png](https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png) <br/>
-¹²: [https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/](https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/) <br/>
-¹³: [https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg](https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg) By Joshua Sherurcij <br/>
-¹⁴: [https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr](https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr) by Benh LIEU SONG <br/>
-¹⁵: [https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg](https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg) By Oldmanisold <br/>
-¹⁶: American Prison: [https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php](https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php), Nordic prison: [https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590](https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590) <br/>
-¹⁷: [https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook](https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook) (page 358) <br/>
-¹⁸: [https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html](https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html) <br/>
-¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White](https://www.goodreads.com/author/quotes/15169.Ron_White) <br/>
-²⁰: [https://www.gutenberg.org/files/58585/58585-h/58585-h.htm](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm)
-
-
-
-¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
-¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
+¹: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
+²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
+³: https://www.thoughtco.com/history-of-steam-engines-4072565 <br/>
+⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
+⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
+⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
+⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25 <br/>
+⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
+⁹: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
+¹⁰: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
+¹¹: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
+¹²: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
+¹³: https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg By Joshua Sherurcij <br/>
+¹⁴: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr by Benh LIEU SONG <br/>
+¹⁵: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg By Oldmanisold <br/>
+¹⁶: American Prison: [https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php <br/>
+¹⁷: [https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
+¹⁸: [https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
+¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
+²⁰: [https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
