@@ -10,7 +10,7 @@
 
 <div align="center">
   <img style="width: 100%; height: 66.4268%" src="https://bradleyculley.github.io/images/Halden_Prison_Norway.png" />
-  <div style="font-size: 14px; font-style: italic;">Halden Prison in Norway¹</div>
+  <div style="font-size: 15px; font-style: italic;">Halden Prison in Norway¹</div>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
     Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
+      <div style="font-size: 15px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
     </div>
 </p>
 
@@ -140,19 +140,24 @@
     The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹²
 </p>
 
+___
+
 <p>
     Culture isn't just a phenomenon of nations.
     There's a culture to every town, school, and interpersonal relationship.
 </p>
 
 <p>
-    Culture is often ostensibly consequentialist: "Fermented food is good for you".<br/>
+    Culture is often ostensibly consequentialist: "Fermented food is good for you".
+</p>
+
+<p>
     While it can have consequentialist ramifications, such as universal healthcare, it's fundamentally deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
 <p>
     Culture is often framed through externalities: language, religion, rituals.
-    It's like air, though: so fundamental, when you're born into it, that you don't even notice it.
+    It's really like air, though: so fundamental, when you're born into it, that you don't even notice it.
 </p>
 
 <br/>
@@ -160,12 +165,12 @@
 ### "The most important thing in the world"
 <div align="center">
   <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 42%; width: 100%;" />
-   <div style="font-size: 14px; font-style: italic;">The root</div>
+   <div style="font-size: 15px; font-style: italic;">The root</div>
 </div>
 
 <br/>
 
-#### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
+#### <b>1. "Only with a good culture can we enjoy all of the good things that are available to us"</b>
 <p>
     When I spend time with a person who grew up elsewhere and has lived for many years in the United States, I can, whether for better or worse, feel the imprint of it on their soul. 
 </p>
@@ -195,7 +200,7 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%;" />¹³
-  <div style="font-size: 14px; font-style: italic;">Belonging</div>
+  <div style="font-size: 15px; font-style: italic;">Belonging</div>
 </div>
 
 #### 3. Defending culture
@@ -218,7 +223,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
+  <div style="font-size: 15px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
 </div>
 
 <br/>
@@ -230,7 +235,7 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%;" />
-  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Nordic prison on the right¹⁶</div>
+  <div style="font-size: 15px; font-style: italic;">American Prison on the left, Nordic prison on the right¹⁶</div>
 </div>
 
 <br/>
