@@ -170,7 +170,7 @@
 </p>
 
 <p>
-    A culture is like secondhand smoke: you can't be "in it" without "getting it on you".
+    Culture is like secondhand smoke: you can't be "in it" without "getting it on you".
 </p>
 
 <p>
@@ -183,6 +183,7 @@
 #### 2. Finding one's people
 <p>
     Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
+    It just seemed nice.
 </p>
 
 <p>
@@ -193,11 +194,12 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%; margin-bottom: 5%;" />
+  <div style="font-size: 14px; font-style: italic;">Belonging</div>
 </div>
 
 #### 3. Defending culture
 <p>
-    Culture is the most important thing in the world, so people will do most anything for it: fight wars, risk their lives.
+    Culture is the most important thing in the world, so people will do most anything for it: risk imprisonment, risk their lives.
 </p>
 
 <p>
@@ -301,7 +303,8 @@
 </p>
 
 <p>
-    Most importantly, it bears repeating: you can't be in it without getting it on you.
+    It bears repeating: you can't be in it without getting it on you.
+    It's best to join a culture that reflects your inner light.
 </p>
 
 <p>
