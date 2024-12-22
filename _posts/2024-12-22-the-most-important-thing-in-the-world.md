@@ -180,7 +180,7 @@ ___
 </p>
 
 <p>
-    Americans forever try to avoid this; try to create the perfect bubble.
+    Americans forever try to circumvent this; try to create the perfect bubble.
     Then something crazy happens: your neighbor starts throwing empty beer cans onto your lawn.
     The bubble is breached.
 </p>
