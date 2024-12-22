@@ -3,7 +3,7 @@
 <br/>
 
 <p style="text-align: center;">
-    <b>"The most important thing in the world is culture,<br/>because only with a good culture<br/>can we enjoy all of the good things that are available to us"</b>
+    <b>"The most important thing in the world is culture,<br/>because only with a good culture can we enjoy all of the good things that are available to us"</b>
 </p>
 
 <br/>
@@ -55,7 +55,7 @@
     Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
-      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution". Good title.</div>
+      <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
     </div>
 </p>
 
@@ -102,7 +102,7 @@
 </p>
 
 <p>
-    I should note that individualism isn't the same as selfishness.
+    I should note that individualism isn't the same as selfishness. It's more complicated than that.
     "Per capita, Americans voluntarily donate [to charity] about seven times as much as continental Europeans.
     Even our cousins the Canadians give to charity at substantially lower rates, and at half the total volume of an American household."⁸
 </p>
@@ -113,7 +113,7 @@
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
     The important thing is how the instinct of the people interprets it."<br/>
-    <i>―Oswald Spengler, Prussianism and Socialism¹²</i>
+    <i>―Oswald Spengler, Prussianism and Socialism⁹</i>
 </p>
 
 <br/>
@@ -122,8 +122,8 @@
 <p>
     Between 1967 and 1973, Dutch social psychologist Geert Hofstede surveyed 117,000 IBM employees across 50 different countries, asking them questions to understand their worldview.
     The result was "Hofstede's cultural dimensions theory".
-    His theory assigns each country a score for each of 6 "cultural dimensions", such an individualism versus collectivism.
-    These are his findings plotted for a few countries¹⁰:
+    His theory assigns each country a score for each of 6 "cultural dimensions", such as individualism versus collectivism¹⁰.
+    These are his findings for a few countries¹¹:
 </p>
 
 <br/>
@@ -136,7 +136,7 @@
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹¹
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹²
 </p>
 
 <p>
@@ -145,7 +145,7 @@
 </p>
 
 <p>
-    Culture is often ostensibly consequentialist: "Fermented food is good for you".
+    Culture is often ostensibly consequentialist: "Fermented food is good for you".<br/>
     While it can have consequentialist ramifications, such as universal healthcare, it's fundamentally deontological: "This food reminds me of my childhood. It feels like home."
 </p>
 
@@ -166,11 +166,11 @@
 
 #### 1. "Only with a good culture can we enjoy all of the good things that are available to us"
 <p>
-    When I spend time with a person who grew up elsewhere, but has lived for many years in The United States, I can sort of feel the weight of it on their soul. 
+    When I spend time with a person who grew up elsewhere and has lived for many years in the United States, I can, whether for better or worse, feel the imprint of it on their soul. 
 </p>
 
 <p>
-    Culture is like secondhand smoke: you can't be "in it" without "getting it on you".
+    Culture is like secondhand cigarette smoke: you can't be "in it" without "getting it on you".
 </p>
 
 <p>
@@ -193,7 +193,7 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%; margin-bottom: 5%;" />
+  <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%;" />¹³
   <div style="font-size: 14px; font-style: italic;">Belonging</div>
 </div>
 
@@ -215,9 +215,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%; margin-bottom: 5%;" />
+  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
-  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁹<br/>The most beautiful chapel I've ever seen</div>
+  <div style="font-size: 14px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
 </div>
 
 <br/>
@@ -228,8 +228,8 @@
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%; margin-bottom: 5%;" />
-  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Nordic prison on the right</div>
+  <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%;" />
+  <div style="font-size: 14px; font-style: italic;">American Prison on the left, Nordic prison on the right¹⁶</div>
 </div>
 
 <br/>
@@ -239,7 +239,7 @@
 </p>
 
 <p>
-    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".²⁰
+    Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".¹⁷
 </p>
 
 <br/>
@@ -264,7 +264,7 @@
     Only if they succeeded would they have the money to eat.
     It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
     Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."²¹
+    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁸
 </p>
 
 <p>
@@ -275,8 +275,8 @@
 
 ### Another Way to Change the Culture
 <p>
-    "You can't fix stupid"
-    -Ron White -https://www.brainyquote.com/quotes/ron_white_564229
+    "You can't fix stupid"<br/>
+    -Ron White¹⁹
 </p>
 
 <p>
@@ -312,43 +312,35 @@
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    <i>-Kahlil Gibran²³</i>
+    <i>-Kahlil Gibran²⁰</i>
 </p>
 
 <br/>
 <br/>
 
 Sources:<br/>
-¹: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
-²: https://www.youtube.com/watch?v=FMfA6i60WDA <br/>
+¹: [https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590](https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590) <br/>
+²: [https://www.youtube.com/watch?v=FMfA6i60WDA](https://www.youtube.com/watch?v=FMfA6i60WDA) <br/>
 ³: [https://www.thoughtco.com/history-of-steam-engines-4072565](https://www.thoughtco.com/history-of-steam-engines-4072565) <br/>
-⁴: https://lukemuehlhauser.com/there-was-only-one-industrial-revolution <br/>
-⁵: https://en.wikipedia.org/wiki/Vermont_health_care_reform <br/>
-⁶: https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5 <br/>
-⁷: https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf (page 25) <br/>
-⁸: https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity <br/>
-⁹: https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory <br/>
-¹⁰: https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png <br/>
-¹¹: https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/ <br/>
-¹²: https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus <br/>
-: https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg (By Joshua Sherurcij, Attribution, https://commons.wikimedia.org/w/index.php?curid=16024528)
+⁴: [https://lukemuehlhauser.com/there-was-only-one-industrial-revolution](https://lukemuehlhauser.com/there-was-only-one-industrial-revolution) <br/>
+⁵: [https://en.wikipedia.org/wiki/Vermont_health_care_reform](https://en.wikipedia.org/wiki/Vermont_health_care_reform) <br/>
+⁶: [https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5](https://apps.bea.gov/iTable/index.html?appid=70&stepnum=40&Major_Area=3&State=0&Area=XX&TableId=21&Statistic=3&Year=2014&YearBegin=-1&Year_End=-1&Unit_Of_Measure=levels&Rank=1&Drill=1&nRange=5) <br/>
+⁷: [https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf](https://tax.vermont.gov/sites/tax/files/documents/2014IncBk-web_0.pdf) (page 25) <br/>
+⁸: [https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity](https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity) <br/>
+⁹: [https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus](https://www.goodreads.com/work/quotes/18583136-preu-entum-und-sozialismus) <br/>
+¹⁰: [https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory) <br/>
+¹¹: [https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png](https://en.m.wikipedia.org/wiki/File:Hofstede_4_countries_6_dimensions.png) <br/>
+¹²: [https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/](https://clearlycultural.com/geert-hofstede-cultural-dimensions/individualism/) <br/>
+¹³: [https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg](https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg) By Joshua Sherurcij <br/>
+¹⁴: [https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr](https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr) by Benh LIEU SONG <br/>
+¹⁵: [https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg](https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg) By Oldmanisold <br/>
+¹⁶: American Prison: [https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php](https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php), Nordic prison: [https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590](https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590) <br/>
+¹⁷: [https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook](https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook) (page 358) <br/>
+¹⁸: [https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html](https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html) <br/>
+¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White](https://www.goodreads.com/author/quotes/15169.Ron_White) <br/>
+²⁰: [https://www.gutenberg.org/files/58585/58585-h/58585-h.htm](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm)
 
-https://www.brainyquote.com/quotes/ron_white_564229
 
-First image search result for "Nordic Prison":
-https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590
-
-First image search result for "American Prison":
-https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php
 
 ¹³: https://www.zocalopublicsquare.org/2016/07/27/protestant-christianity-create-dismal-american-prison-system/ideas/nexus <br/>
 ¹⁴: https://medium.com/self-less/about-scandinavian-prisons-and-what-we-can-learn-from-them-c0c2680d6653 <br/>
-¹⁵: https://lareviewofbooks.org/short-takes/beyond-reasonable-doubt-dostoyevsky-quote-revisited/ <br/>
-¹⁶: https://en.wikipedia.org/wiki/The_House_of_the_Dead_(novel) <br/>
-¹⁷: https://www.google.com/books/edition/The_House_of_the_Dead/PVdgAAAAMAAJ?hl=en&gbpv=1&bsq=corporal (page 186) <br/>
-¹⁸: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
-¹⁹: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr <br/>
-²⁰: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
-²¹: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
-²²: https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
-²³: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
