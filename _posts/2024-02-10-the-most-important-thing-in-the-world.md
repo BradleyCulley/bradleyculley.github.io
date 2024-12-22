@@ -1,4 +1,4 @@
-### The Most Important Thing In The World
+### The Most Important Thing in The World
 
 <br/>
 
@@ -28,7 +28,7 @@
     <b>Goethe:</b><br>
     "What can we do about it? We can only change the culture."<br><br>
     <b>Bach:</b><br>
-    "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us".<br><br>
+    "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us."<br><br>
     <b>Goethe:</b><br>
     "Then let's begin to create a new culture."²
 </p>
@@ -44,7 +44,7 @@
 
 <br/>
 
-### Culture is the Key
+### Culture is the key
 <p>
     I used to think technological innovation is the key to a better society.
     If we made a better microchip or a new medicine, things would be good.
@@ -162,7 +162,7 @@ ___
 
 <br/>
 
-### "The most important thing in the world"
+### "The ost important thing in the world"
 <div align="center">
   <img src="https://bradleyculley.github.io/images/culture-is-the-root.png" style="height: 42%; width: 100%;" />
    <div style="font-size: 15px; font-style: italic;">The root</div>
@@ -180,8 +180,7 @@ ___
 </p>
 
 <p>
-    Americans forever try to avoid this.
-    Try to create the perfect bubble.
+    Americans forever try to avoid this; try to create the perfect bubble.
     Then something crazy happens: your neighbor starts throwing empty beer cans onto your lawn.
     The bubble is breached.
 </p>
