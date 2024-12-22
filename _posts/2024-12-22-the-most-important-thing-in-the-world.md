@@ -179,14 +179,6 @@ ___
     Culture is like smoke: you can't be "in it" without "getting it on you".
 </p>
 
-<p>
-    Americans forever try to circumvent this; try to create the perfect bubble.
-    Then something crazy happens: your neighbor starts throwing empty beer cans onto your lawn.
-    The bubble is breached.
-</p>
-
-<br/>
-
 #### 2. Finding One's People
 <p>
     Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
