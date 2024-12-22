@@ -232,17 +232,15 @@ ___
 <br/>
 
 <p>
-    The average American prison, and the average Nordic prison, too, are each a reflection of certain cultural ideals.
-    The average American prison reflects the "individual responsibility" side of individualism, for example.
-    It's really about what "heaven" looks like.
+    The average Nordic prison, too, is a reflection of certain cultural ideals.
 </p>
 
-<br/>
-
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/American-prison-next-to-Nordic-prison.png" style="height: 33.2%; width: 100%;" />
-  <div style="font-size: 15px; font-style: italic;">American Prison on the left, Nordic prison on the right¹⁶</div>
+  <img style="width: 100%; height: 66.4268%" src="https://bradleyculley.github.io/images/Halden_Prison_Norway.png" />
+  <div style="font-size: 15px; font-style: italic;">Halden Prison in Norway¹</div>
 </div>
+
+<br/>
 
 <br/>
 
