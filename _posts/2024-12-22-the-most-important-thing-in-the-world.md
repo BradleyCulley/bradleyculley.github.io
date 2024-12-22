@@ -217,7 +217,7 @@ ___
 
 <br/>
 
-#### <b>4. The Hieratic Pantomime</b>
+#### <b>4. The Forms of Heaven</b>
 <p>
     The medieval French built beautiful cathedrals and chapels: physical reifications of abstract cultural motifs.
     Ends onto themselves.
@@ -233,7 +233,8 @@ ___
 
 <p>
     The average American prison, and the average Nordic prison, too, are each a reflection of certain cultural ideals.
-    The average American prison reflects the "individual responsibility" side of individualism, for example. 
+    The average American prison reflects the "individual responsibility" side of individualism, for example.
+    It's really about what your "heaven" looks like.
 </p>
 
 <br/>
