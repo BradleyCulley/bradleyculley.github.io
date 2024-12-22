@@ -172,11 +172,11 @@ ___
 
 #### <b>1. "Only with a good culture can we enjoy all of the good things that are available to us"</b>
 <p>
-    When I spend time with a person who grew up elsewhere and has lived for many years in the United States, I can, whether for better or worse, feel the imprint of it on their soul. 
+    When I spend time with someone who grew up elsewhere and has lived for many years in the United States, I can, whether for better or worse for that particular person, feel the imprint of it on their soul. 
 </p>
 
 <p>
-    Culture is like secondhand cigarette smoke: you can't be "in it" without "getting it on you".
+    Culture is like smoke: you can't be "in it" without "getting it on you".
 </p>
 
 <p>
@@ -186,22 +186,26 @@ ___
     The bubble is breached.
 </p>
 
+<br/>
+
 #### 2. Finding one's people
 <p>
     Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
-    It just seemed nice.
+    It sounds nice.
 </p>
 
 <p>
-    I've noticed that people who've found happiness in life have usually "found their people" and become part of a trusted inner circle.
+    I've noticed that people who have found happiness in life have usually "found their people" and become part of a trusted inner circle.
     Tenured professor, senior vice president, proud grandparent.
     Deep alignment with a culture.
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%;" />¹³
-  <div style="font-size: 15px; font-style: italic;">Belonging</div>
+  <img src="https://bradleyculley.github.io/images/TFS_fire_equipment.jpg" style="height: 65.126%; width: 100%;" />
+  <div style="font-size: 15px; font-style: italic;">Belonging¹³</div>
 </div>
+
+<br/>
 
 #### 3. Defending culture
 <p>
@@ -212,13 +216,13 @@ ___
     Communism and colonialism both usurp culture: ban religions, ban languages, erase histories.
 </p>
 
+<br/>
+
 #### 4. The Hieratic Pantomime
 <p>
     The medieval French built beautiful cathedrals and chapels: physical reifications of abstract cultural motifs.
     Ends onto themselves.
 </p>
-
-<br/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
