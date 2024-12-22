@@ -170,7 +170,7 @@ ___
 
 <br/>
 
-##### <b>1. "Only with a good culture can we enjoy all of the good things that are available to us"</b>
+#### <b>1. "Only with a good culture can we enjoy all of the good things that are available to us"</b>
 <p>
     When I spend time with someone who grew up elsewhere and has lived for many years in the United States, I can, whether for better or worse for that particular person, feel the imprint of it on their soul. 
 </p>
@@ -187,7 +187,7 @@ ___
 
 <br/>
 
-##### <b>2. Finding One's People</b>
+#### <b>2. Finding One's People</b>
 <p>
     Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
     It sounded nice.
@@ -206,7 +206,7 @@ ___
 
 <br/>
 
-##### <b>3. Defending Culture</b>
+#### <b>3. Defending Culture</b>
 <p>
     Culture is the most important thing in the world, so people will do most anything for it: risk imprisonment, risk their lives.
 </p>
@@ -217,7 +217,7 @@ ___
 
 <br/>
 
-##### <b>4. The Hieratic Pantomime</b>
+#### <b>4. The Hieratic Pantomime</b>
 <p>
     The medieval French built beautiful cathedrals and chapels: physical reifications of abstract cultural motifs.
     Ends onto themselves.
