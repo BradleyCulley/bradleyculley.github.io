@@ -190,7 +190,7 @@ ___
 ##### <b>2. Finding One's People</b>
 <p>
     Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
-    It sounds nice.
+    It sounded nice.
 </p>
 
 <p>
