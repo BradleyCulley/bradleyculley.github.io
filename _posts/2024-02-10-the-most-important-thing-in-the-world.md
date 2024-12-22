@@ -17,7 +17,7 @@
 
 <p>
     I often come back to a conversation I heard years ago, between Dr. Joscha Bach, a German cognitive scientist, and the artificial intelligence model GPT-3.
-    Dr. Bach prompted the artificial intelligence model to answer as though it were Johann Wolfgang von Goethe, the renowned 18th and 19th century German intellectual.
+    Dr. Bach prompted GPT-3 to answer as though it were Johann Wolfgang von Goethe, the famous 18th and 19th century German intellectual.
 </p>
 
 <p>
@@ -52,7 +52,7 @@
 
 <p>
     Technology is of course important.
-    Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine in 1712³.
+    Only one thing has inflected the curve of human prosperity: the invention of the first commercially successful steam engine, in 1712³.
     <div align="center">
       <img style="width: 100%; height: 64.84%" src="https://bradleyculley.github.io/images/industrial-revolution.png" />
       <div style="font-size: 14px; font-style: italic;">From an essay titled "There was only one industrial revolution"⁴. Good title.</div>
@@ -62,7 +62,7 @@
 <br/>
 
 <p>
-    Later in life, I decided that technology is necessary, but not sufficient.
+    Later in life, I decided that technology is necessary, but not sufficient. This essay explains why.
 </p>
 
 <br/>
