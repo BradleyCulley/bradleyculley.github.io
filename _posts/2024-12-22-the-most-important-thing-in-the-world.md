@@ -237,7 +237,7 @@ ___
 
 <div align="center">
   <img style="width: 100%; height: 66.4268%" src="https://bradleyculley.github.io/images/Halden_Prison_Norway.png" />
-  <div style="font-size: 15px; font-style: italic;">Halden Prison in Norway¹</div>
+  <div style="font-size: 15px; font-style: italic;">Halden Prison in Norway¹⁶</div>
 </div>
 
 <br/>
@@ -343,7 +343,7 @@ Sources:<br/>
 ¹³: https://en.wikipedia.org/wiki/File:TFS_fire_equipment.jpg By Joshua Sherurcij <br/>
 ¹⁴: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg?uselang=fr by Benh LIEU SONG <br/>
 ¹⁵: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg By Oldmanisold <br/>
-¹⁶: American Prison: [https://www.chron.com/news/nation-world/article/Most-notorious-prisons-in-America-12494453.php <br/>
+¹⁶: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
 ¹⁷: [https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
 ¹⁸: [https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
 ¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
