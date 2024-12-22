@@ -275,6 +275,11 @@ ___
 
 ### Another Way to Change the Culture
 <p>
+    "You can't fix stupid"<br/>
+    -<i>Ron White</i>¹⁹
+</p>
+
+<p>
     Public intellectuals can change the culture, but cultural change is often gradual; glacial, even.
 </p>
 
@@ -306,7 +311,7 @@ ___
     And his soul cried out to them, and he said:<br/>
     Sons of my ancient mother, you riders of the tides,<br/>
     How often have you sailed in my dreams."<br/>
-    <i>-Kahlil Gibran¹⁹</i>
+    <i>-Kahlil Gibran²⁰</i>
 </p>
 
 <br/>
@@ -331,4 +336,6 @@ Sources:<br/>
 ¹⁶: https://www.abc.net.au/news/2022-10-05/what-are-nordic-prisons-like-criminal-justice/101481590 <br/>
 ¹⁷: https://www.jcf.org/product-page/the-hero-with-a-thousand-faces-ebook (page 358) <br/>
 ¹⁸: https://lmscontent.embanet.com/MVU/NURS600/Transcripts/MVU_NURS600_Hume.html <br/>
-¹⁹: https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+¹⁹: [https://www.goodreads.com/author/quotes/15169.Ron_White <br/>
+²⁰: [https://www.gutenberg.org/files/58585/58585-h/58585-h.htm <br/>
+
