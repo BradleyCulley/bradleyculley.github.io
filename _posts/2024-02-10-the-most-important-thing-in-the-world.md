@@ -287,7 +287,7 @@ ___
 ### Another Way to Change the Culture
 <p>
     "You can't fix stupid"<br/>
-    -Ron White¹⁹
+    -<i>Ron White</i>¹⁹
 </p>
 
 <p>
