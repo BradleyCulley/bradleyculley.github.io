@@ -300,11 +300,11 @@ ___
 <p>
     You can do both, as well.
     You can be a public intellectual <i>and</i> move to a culture that suits you.
-    There's a long history of expatriate public intellectuals.
+    You can often best effect change from outside the storm.
 </p>
 
 <p>
-    It's good to be in a culture that reflects your inner light.
+    Lastly, this bears repeating: you can't be in it without getting it on you.
 </p>
 
 <p>
