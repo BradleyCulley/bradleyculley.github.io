@@ -33,6 +33,6 @@ He was in his 50s, a full professor at Cornell, presumably quite wealthy, and wo
 
 That's perhaps emblematic of Sagan more generally.
 
-He spanned what is generally a chasmic divide between high intelligentsia (UChicago, Harvard, Cornell, writing a Pulizter Prize-winning book) and mainstream popular culture (the film Contact, the TV show Cosmos, etc.).
+He spanned what is generally a chasmic divide between high intelligentsia (UChicago, Harvard, Cornell, writing a Pulitzer Prize-winning book) and mainstream popular culture (the film Contact, the TV show Cosmos, etc.).
 
 Similarly, he spanned being an ivy-league professor - who usually operate solely in the realm of ideas - and physically getting out there and being arrested - twice - for his beliefs.
