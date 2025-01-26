@@ -15,7 +15,7 @@
 
 <p>
     Growing up, there was a particular family ritual specific to the home.
-    When their mother and father, Edward and Barbara, bought the home, the realtor had showed them a special feature: a reflecting mirror in the back yard, a spyglass built into the wall, and an old wooden chair inside one of the hallways.
+    When their mother and father, Edward and Barbara, bought the home, the realtor had showed them a special feature: a reflecting mirror in the back yard, a sort of small glass porthole built into the wall, and an old wooden chair inside one of the hallways.
     The mirror, which is roughly the shape of the head of a spoon, sits atop a burnished silver pole.
     The pole pokes up from the lush green of the back lawn rather like a street lamp.
 </p>
@@ -23,18 +23,18 @@
 <p>
     The mirror, atop the pole, stands about 3 feet above the grass and is about 20 feet from the stuccoed wall of the back of the home.
     Twice a year, at the vernal and autumnal equinoxes, the sun is positioned in the sky such that its rays strike the center of mirror.
-    When that happens, the mirror focuses those rays into a spyglass that's embedded into the back wall of the home.
+    When that happens, the mirror focuses those rays into a small glass porthole of sorts that's embedded into the back wall of the home.
 </p>
 
 <p>
-    The spyglass is about 3 inches in diameter, about 10 inches long, and sits about 3 feet up from the ground.
-    The spyglass is built right into the wall, so that one end is flush with the outside surface of the wall, and the other flush with the inside surface of the wall.
-    The wall containing the spyglass is the back wall of the hallway between the dining room and the foyer.
+    The porthole is about 3 inches in diameter, about 10 inches long, and sits about 3 feet up from the ground.
+    The porthole is built right into the wall, so that one end is flush with the outside surface of the wall, and the other flush with the inside surface of the wall.
+    The wall containing the porthole is the back wall of the hallway between the dining room and the foyer.
 </p>
 
 <p>
-    In that hallway, across from the wall in which the spyglass is embedded, there sits a brown wooden chair with faded dowels forming the back supports, and pleasantly worn armrests.
-    On the day of a given equinox, a family members sits in the chair, sunlight strikes the mirror, streams through the spyglass, and lands just about in the center of the person's chest.
+    In that hallway, across from the wall in which the porthole is embedded, there sits a brown wooden chair with faded dowels forming the back supports, and pleasantly worn armrests.
+    On the day of a given equinox, a family members sits in the chair, sunlight strikes the mirror, streams through the porthole, and lands just about in the center of the person's chest.
     The family tradition was that if you sit in the chair, with the beam of light on you, you can ask yourself - quietly in your mind - one question, to which you'll receive a completely honest answer.
 </p>
 
@@ -52,11 +52,11 @@
 <p>
     A few minutes before the equinox, the son Evan started looking among the cardboard boxes in the foyer until he found the wooden chair.
     He lifted it from the box, pulled away the packing material, and took it to the hallway.
-    In the hallway, he set the chair against the wall - across from the spyglass - and sat down, waiting for the light to appear.
+    In the hallway, he set the chair against the wall - across from the porthole - and sat down, waiting for the light to appear.
 </p>
 
 <p>
-    After a minute or so, the light began to beam through the spyglass, striking the center of his chest.
+    After a minute or so, the light began to beam through the porthole, striking the center of his chest.
     He sat still and upright, his mind entirely quiet.
     With closed eyes, he asked himself a question: "Why is my friend Henry generally nice to me, but every so often injects some small but piercing criticism of me?"
 </p>
