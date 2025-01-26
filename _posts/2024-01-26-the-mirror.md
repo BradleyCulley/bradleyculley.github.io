@@ -4,7 +4,6 @@
 <p>
     <i>
         A short story I wrote in 2024/2025.
-        It's not based on any other story/book/etc.
         The core idea came from a dream I had.
     </i>
 </p>
