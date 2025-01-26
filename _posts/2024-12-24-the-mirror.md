@@ -35,7 +35,7 @@
 </p>
 
 <p>
-    The porthole was about 3 inches in diameter, about 10 inches long, and sat about 3 feet up from the ground.
+    The glass porthole was about 3 inches in diameter, about 10 inches thick, and sat about 3 feet up from the ground.
     The porthole was built directly into the wall, with one end flush with the wall's exterior and the other with the wall's interior.
     The wall containing the porthole was the back wall of the hallway between the dining room and the foyer.
 </p>
