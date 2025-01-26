@@ -15,7 +15,7 @@
 
 <p>
     Growing up, there was a particular family ritual specific to the home.
-    When their mother and father, Edward and Barbara, bought the home, the realtor had showed them a special feature: a reflecting mirror in the back yard, a sort of small glass porthole built into the wall, and an old wooden chair inside one of the hallways.
+    When their mother and father, Edward and Barbara, bought the home, the realtor had shown them a special feature: a reflecting mirror in the back yard, a sort of small glass porthole built into the wall, and an old wooden chair inside one of the hallways.
     The mirror, which was roughly the shape of the head of a spoon, sat atop a burnished silver pole.
     The pole poked up from the lush green of the back lawn rather like a street lamp.
 </p>
@@ -34,7 +34,7 @@
 
 <p>
     In that hallway, across from the wall in which the porthole was embedded, there sat a brown wooden chair, with faded dowels forming the back supports, and pleasantly worn wooden armrests.
-    On the day of a given equinox, a family members would sit in the chair, and sunlight would strike the mirror, stream through the porthole, and land just about in the center of the person's chest.
+    On the day of a given equinox, a family member would sit in the chair; sunlight would strike the mirror, stream through the porthole, and land just about in the center of the person's chest.
     The family tradition was that if you sat in the chair, with the beam of light on you, you could ask yourself - quietly in your own mind - one question, to which you'd receive a completely honest answer.
 </p>
 
@@ -44,7 +44,7 @@
 </p>
 
 <p>
-    That summer, the parents had decided to sell the home, in order to downsize to a smaller place, since both children were off to college and launched into the world.
+    That autumn, the parents had decided to sell the home, in order to downsize to a smaller home, since both children were off to college and launched into the world.
     The autumnal equinox that year happened to be during a school break, a few weeks before the home was set to close and the family was set to move.
     On the day of the equinox, everyone was busy packing, cooking, and socializing.
 </p>
@@ -62,7 +62,7 @@
 </p>
 
 <p>
-    After a moment, he heard the voice in his mind, as though it were speaking from the center of his chest: "He hates you."
+    After a moment, he heard a voice in his mind, as though it was speaking from the center of his chest: "He hates you."
 </p>
 
 <p>
