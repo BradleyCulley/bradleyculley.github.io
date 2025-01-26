@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    The Anderson residence was both homely and stately: tan stucco exteriors, ivy growing along the walls, and arched doorways with thick cherry-wood doors.
+    The Anderson residence was both homey and stately: tan stucco exteriors, ivy growing along the walls, and arched doorways with thick cherry-wood doors.
     The children, Sarah and Evan, had both grown up in the home.
     Sarah was 21, a rising senior at a well-known college in another state, majoring in chemistry with plans to become a doctor.
     Evan was 26 and worked in marketing. He'd studied economics in college, also at a well-known college.
@@ -23,7 +23,7 @@
 
 <p>
     Growing up, there was a particular family ritual specific to the home.
-    When their mother and father, Edward and Barbara, bought the home, the realtor had shown them a special feature: a reflecting mirror in the back yard, a sort of small glass porthole built into the wall, and an old wooden chair inside one of the hallways.
+    When their mother and father, Edward and Barbara, bought the home, the realtor had shown them a special feature: a reflecting mirror in the backyard, a sort of small glass porthole built into the wall, and an old wooden chair inside one of the hallways.
     The mirror, which was roughly the shape of the head of a spoon, sat atop a burnished silver pole.
     The pole poked up from the lush green of the back lawn rather like a street lamp.
 </p>
@@ -31,7 +31,7 @@
 <p>
     The mirror, atop the pole, stood about 3 feet above the grass and was about 20 feet from the stuccoed wall of the back of the home.
     Twice a year, at the vernal and autumnal equinoxes, the sun was positioned in the sky such that its rays struck the center of the mirror.
-    When that happened, the mirror focused the light into a small glass porthole of sorts that was embedded into the back wall of the home.
+    When that happened, the mirror focused the light into a small glass porthole of sorts that was embedded in the back wall of the home.
 </p>
 
 <p>
@@ -59,7 +59,7 @@
 
 <p>
     A few minutes before the equinox, the son Evan began searching through the cardboard boxes in the foyer until he found the one containing the wooden chair.
-    He lifted it from the box, pulled away the packing material, and took it to the hallway.
+    He lifted it from the box, pulled away the packing material, and carried it to the hallway.
     In the hallway, he set the chair against the wall - across from the small glass porthole - and sat down, waiting for the light to appear.
 </p>
 
@@ -74,7 +74,7 @@
 </p>
 
 <p>
-    The voice was always clear yet quiet, like the rippling of a wave across a lake in the rain.
+    The voice was always clear yet quiet, like ripples moving across a lake in the rain.
 </p>
 
 <p>
@@ -84,7 +84,7 @@
 
 <p>
     The intricacies of the golden-braided pattern of the mirror's frame looked like the burls of an oak tree.
-    As the sun continued upward in the sky, and so downward in the mirror, he noticed something near the bottom of its dull gray reflective surface.
+    As the sun continued upward in the sky, and downward in the mirror, he noticed something near the bottom of its dull gray reflective surface.
     It was writing, etched in a neatly flowing golden script.
 </p>
 
