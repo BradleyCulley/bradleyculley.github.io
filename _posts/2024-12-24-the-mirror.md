@@ -90,5 +90,8 @@
 
 <p>
     He leaned closer and read the words to himself under his breath.
+</p>
+
+<p>
     It was a quote he'd seen somewhere, but couldn't remember where: "The closer you get to the truth, the simpler it becomes."
 </p>
