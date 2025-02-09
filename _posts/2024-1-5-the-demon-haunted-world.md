@@ -87,6 +87,6 @@ This is an excerpt of that section:<br/>
 <p>
     Perhaps in part because Sagan wrote the book while fighting the cancer that ultimately took his life, the book just feels different.
     It's much more visceral, deep, eloquent, and intense than typical scientific communication.
-    An unrestrained exposition of the most deeply-felt ideas of a dying genius.
+    The most deeply-felt beliefs of a dying genius.
 </p>
 
