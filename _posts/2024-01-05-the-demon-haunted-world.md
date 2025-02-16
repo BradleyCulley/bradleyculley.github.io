@@ -8,6 +8,10 @@
 <hr/>
 
 <p>
+ A New York Times bestseller. Winner of the Los Angeles Times Book Prize for 1996.
+</p>
+
+<p>
  Photo taken summer/fall 2020
 </p>
 
@@ -19,13 +23,24 @@
 <hr/>
 
 <p>
-    Quite an incredible book. It's his final book: published in 1997, a year after his death.
+    Quite an incredible book. It was Sagan final book. It was published in 1997, a year after his death.
+    It's an unrestrained exposition of the core elements of Sagan's worldview; most especially science, pseudoscience, rationality, and wonder.
+</p>
+
+<p>
+    The Washington Post aptly described the book as "Wonder-saturated"⁴.
 </p>
 
 <p>
     Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994, and passed away in December 1996.²
     The book was published in 1995.
-    And so he was working on the book at least in part during a time in which he knew he had cancer.
+    He was working on the book at least in part during a time in which he knew he had cancer.
+</p>
+
+<p>
+Sagan exhibited an inquisitive nature from very early on in life.
+
+> <p>Soon after entering elementary school, Sagan began to express his strong inquisitiveness about nature. He recalled taking his first trips to the public library alone, at age five, when his mother got him a library card. He wanted to learn what stars were, since none of his friends or their parents could give him a clear answer: "I went to the librarian and asked for a book about stars [...] and the answer was stunning. It was that the Sun was a star, but really close. The stars were suns, but so far away they were just little points of light. The scale of the universe suddenly opened up to me. It was a kind of religious experience. There was a magnificence to it, a grandeur, a scale which has never left me. Never ever left me."²</p>
 </p>
 
 <p>
@@ -76,12 +91,13 @@ This is an excerpt of that section:<br/>
 
 <p>
     Personally getting arrested for a cause is perhaps emblematic of Sagan more generally.
-    He spanned what's usually a chasmic divide between high intelligentsia (UChicago, Harvard, Cornell, astrophysics research, writing a Pulitzer Prize-winning book) and mainstream popular culture (the wildly popular film "Contact", the wildly popular TV show "Cosmos", etc.).
-    Similarly, he spanned the Ivy League and personally getting arrested - twice - for his beliefs.
+    He was an Ivy League professor. UChicago, Harvard, Cornell, cutting-edge astrophysics research, over 600 scientific publications, and more than 20 books, including a Pulitzer Prize-winning one.
+    He was also a wildly successful mainstream popular culture figure. He wrote the novel for the highly successful and Hugo Award-winning film "Contact", and created and hosted the wildly popular TV show "Cosmos", which won two Emmy awards and a Peabody Award. And so on.
 </p>
 
 <p>
-    The Washington Post aptly described the book as "Wonder-saturated"⁴.
+    And so he spanned what's usually a chasmic divide between high intelligentsia and mainstream popular culture.
+    Similarly, he spanned the Ivy League and personally getting arrested - twice - for his beliefs.
 </p>
 
 <p>
