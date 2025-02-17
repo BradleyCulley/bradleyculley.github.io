@@ -1,5 +1,5 @@
 ## <div align="center">The Demon-Haunted World: Science as a Candle in the Dark<div>
-<div style="font-size: 20px; font-weight: bold;" align="center">by Carl Sagan</div>
+<div style="font-size: 25px; font-weight: bold;" align="center">by Carl Sagan</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
