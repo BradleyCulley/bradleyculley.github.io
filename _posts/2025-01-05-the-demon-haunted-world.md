@@ -22,7 +22,7 @@
 <hr/>
 
 <p>
-    Quite an incredible book. It was Sagan final book. It was published in 1997, a year after his death.
+    Quite an incredible book. It was Sagan's final book.
     It's an unrestrained exposition of the core elements of Sagan's worldview: most especially science, pseudoscience, rationality, and wonder.
 </p>
 
@@ -31,9 +31,8 @@
 </p>
 
 <p>
-    Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994, and passed away in December 1996².
-    The book was published in 1995.
-    He was working on the book at least in part during a time in which he knew he had cancer.
+    Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994, the book was published in 1995, and he passed away in December 1996².
+    And so he worked on the book at least in part during a time in which he knew he had cancer.
 </p>
 
 <p>
