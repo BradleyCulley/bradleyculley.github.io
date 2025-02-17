@@ -32,14 +32,14 @@
 
 <p>
     Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994, the book was published in 1995, and he passed away in December 1996².
-    And so he worked on the book at least in part during a time in which he knew he had cancer.
+    And so he worked on the book, at least in part, during a time in which he knew he had cancer.
 </p>
 
 <p>
 Sagan exhibited a profound inquisitiveness from an early age.
+</p>
 
 > <p>Soon after entering elementary school, Sagan began to express his strong inquisitiveness about nature. He recalled taking his first trips to the public library alone, at age five, when his mother got him a library card. He wanted to learn what stars were, since none of his friends or their parents could give him a clear answer: "I went to the librarian and asked for a book about stars [...] and the answer was stunning. It was that the Sun was a star, but really close. The stars were suns, but so far away they were just little points of light. The scale of the universe suddenly opened up to me. It was a kind of religious experience. There was a magnificence to it, a grandeur, a scale which has never left me. Never ever left me."</p>
-</p>
 
 <p>
     I particularly liked Chapter 11, "The City of Grief" and Chapter 12, "The Fine Art of Baloney Detection".
