@@ -89,7 +89,7 @@ Sagan exhibited a profound inquisitiveness from an early age.
 <p>
     Personally getting arrested for a cause is perhaps emblematic of Sagan more generally.
     He was an Ivy League professor. UChicago, Harvard, Cornell, cutting-edge astrophysics research, over 600 scientific publications, and more than 20 books, including a Pulitzer Prize-winning one.
-    He was also a wildly successful mainstream popular culture figure. He wrote the novel for the highly successful and Hugo Award-winning film "Contact", and created and hosted the wildly popular TV show "Cosmos", which won two Emmy awards and a Peabody Award. And so on.
+    He was also a wildly successful mainstream popular culture figure. He wrote the novel for the highly successful and Hugo Award-winning film <i>Contact</i>, and created and hosted the wildly popular TV show "Cosmos", which won two Emmy awards and a Peabody Award. And so on.
 </p>
 
 <p>
