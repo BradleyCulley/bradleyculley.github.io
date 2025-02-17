@@ -98,7 +98,7 @@ Sagan exhibited a profound inquisitiveness from an early age.
 </p>
 
 <p>
-    Perhaps in part because Sagan wrote the book while fighting the cancer that ultimately took his life, the book just feels different.
+    Perhaps in part because Sagan wrote the book while fighting the cancer that ultimately took his life, the book feels different.
     It's much more visceral, deep, eloquent, and intense than typical scientific communication.
     The most deeply-felt ideas of a dying genius.
 </p>
