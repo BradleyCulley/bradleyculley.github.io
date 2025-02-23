@@ -32,21 +32,21 @@
 
 <p>
     Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994. The book was published in 1995 and Sagan passed away in December 1996².
-    And so he worked on the book, at least in part, during a time in which he knew he had cancer.
+    He worked on the book, at least in part, while knowing he had cancer.
 </p>
 
 <p>
-Sagan exhibited a profound inquisitiveness from an early age.
+Sagan displayed a profound inquisitiveness from an early age.
 </p>
 
 > <p>Soon after entering elementary school, Sagan began to express his strong inquisitiveness about nature. He recalled taking his first trips to the public library alone, at age five, when his mother got him a library card. He wanted to learn what stars were, since none of his friends or their parents could give him a clear answer: "I went to the librarian and asked for a book about stars [...] and the answer was stunning. It was that the Sun was a star, but really close. The stars were suns, but so far away they were just little points of light. The scale of the universe suddenly opened up to me. It was a kind of religious experience. There was a magnificence to it, a grandeur, a scale which has never left me. Never ever left me."</p>
 
 <p>
-    I particularly liked Chapter 11, "The City of Grief" and Chapter 12, "The Fine Art of Baloney Detection".
+    I particularly liked Chapter 11, <i>The City of Grief</i> and Chapter 12, <i>The Fine Art of Baloney Detection</i>.
 </p>
 
 <p>
-    "The City of Grief" speaks to Sagan's experience interacting with the public.
+    <i>The City of Grief</i> speaks to Sagan's experience interacting with the public.
     He put out an open request, via Parade Magazine, for responses from the public to his ideas on skepticism and scientific inquiry.
     What surprised Sagan the most was how many of the responses were indicative of a person in significant emotional, psychological, and just overall "life" distress.
 </p>
@@ -61,17 +61,17 @@ Sagan exhibited a profound inquisitiveness from an early age.
     <br/><br/>
     Rainer Maria Rilke,<br/> 
     'The Tenth Elegy' (1923)"<br/>
-    quoted on page 179¹
+    as cited on page 179¹
 </p>
 
 <hr/>
 
 <p>
-    Chapter 12, "The Fine Art of Baloney Detection", speaks to Sagan's beliefs around rigorous thinking and the naturally attendant dispellation of superstitions, hoaxes, and pseudoscience.
+    Chapter 12, <i>The Fine Art of Baloney Detection</i>, speaks to Sagan's beliefs around rigorous thinking and the naturally attendant dispellation of superstitions, hoaxes, and pseudoscience.
 </p>
 
 <p>
-    One of the sections from "The Fine Art of Baloney Detection" helped inspire an essay I wrote: <a href="https://bradleyculley.github.io/2024/02/17/solved-and-unsolved.html" target="_blank">Solved and Unsolved</a>.
+    One of the sections from <i>The Fine Art of Baloney Detection</i> helped inspire an essay I wrote: <a href="https://bradleyculley.github.io/2024/02/17/solved-and-unsolved.html" target="_blank"><i>Solved and Unsolved</i></a>.
 </p>
 
 <p>
@@ -106,7 +106,7 @@ Sagan exhibited a profound inquisitiveness from an early age.
 <p>
     Perhaps in part because Sagan wrote it while fighting the cancer that ultimately took his life, this book just feels different.
     It's more visceral, deep, eloquent, and intense than typical scientific communication.
-    The most deeply-felt beliefs of a dying genius.
+    The most deeply felt beliefs of a dying genius.
 </p>
 
 <br/>
