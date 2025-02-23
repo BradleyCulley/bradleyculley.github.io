@@ -5,25 +5,25 @@
   <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
 </div>
 
-<hr/>
-
-<p>
- A New York Times bestseller. Winner of the Los Angeles Times Book Prize for 1996.
-</p>
-
 <p>
  Photo taken summer/fall 2020
 </p>
 
 <hr/>
 
-> <p>"The 1939 New York World's Fair - that so transfixed me as a small visitor from darkest Brooklyn - was about "The World of Tomorrow." Merely by adopting such a motif, it promised that there would <i>be</i> a world of tomorrow, and the most casual glance affirmed that it would be better than the world of 1939. Although the nuance wholly passed me by, many people longed for such a reassurance on the eve of the most brutal and calamitous war in human history. I knew at least that I would be growing up in the future. The sleek and clean "tomorrow" portrayed by the Fair was appealing and hopeful. And something called science was plainly the means by which that future would be realized.</p><p>But if things had gone a little differently, the Fair could have given me enormously more. A fierce struggle had gone on behind the scenes. The vision that prevailed was that of the Fair's president and chief spokesman, Grover Whalen - former corporate executive, New York City police chief in a time of unprecedented police brutality, and public relations innovator. It was he who had envisioned the exhibit buildings as chiefly commercial, industrial, oriented to consumer products, and he who had convinced Stalin and Mussolini to build lavish national pavilions. (He later complained about how often he had been obliged to give the fascist salute.) The level of the exhibits, as one designer described it, was pitched to the mentality of a twelve-year-old."</p><p>However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal.</p><p>As events transpired, almost no real science was tacked on to the Fair's exhibits, despite the scientists' protests and their appeals to high principles. And yet, some of the little that was added trickled down to me and helped to transform my childhood. The corporate and consumer focused remained central, though, and essentially nothing appeared about science as a way of thinking, much less as a bulwark of a free society."<br/><br/>-pages 403-404¹</p>
+<p>
+ A New York Times bestseller. Winner of the Los Angeles Times Book Prize for 1996.
+</p>
+
+<hr/>
+
+> <p>The 1939 New York World's Fair - that so transfixed me as a small visitor from darkest Brooklyn - was about "The World of Tomorrow." Merely by adopting such a motif, it promised that there would <i>be</i> a world of tomorrow, and the most casual glance affirmed that it would be better than the world of 1939. Although the nuance wholly passed me by, many people longed for such a reassurance on the eve of the most brutal and calamitous war in human history. I knew at least that I would be growing up in the future. The sleek and clean "tomorrow" portrayed by the Fair was appealing and hopeful. And something called science was plainly the means by which that future would be realized.</p><p>But if things had gone a little differently, the Fair could have given me enormously more. A fierce struggle had gone on behind the scenes. The vision that prevailed was that of the Fair's president and chief spokesman, Grover Whalen - former corporate executive, New York City police chief in a time of unprecedented police brutality, and public relations innovator. It was he who had envisioned the exhibit buildings as chiefly commercial, industrial, oriented to consumer products, and he who had convinced Stalin and Mussolini to build lavish national pavilions. (He later complained about how often he had been obliged to give the fascist salute.) The level of the exhibits, as one designer described it, was pitched to the mentality of a twelve-year-old."</p><p>However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal.</p><p>As events transpired, almost no real science was tacked on to the Fair's exhibits, despite the scientists' protests and their appeals to high principles. And yet, some of the little that was added trickled down to me and helped to transform my childhood. The corporate and consumer focused remained central, though, and essentially nothing appeared about science as a way of thinking, much less as a bulwark of a free society.<br/><br/>-pages 403-404¹</p>
 
 <hr/>
 
 <p>
     Quite an incredible book. It was Sagan's final book.
-    It's an unrestrained exposition of the core elements of Sagan's worldview: most especially science, pseudoscience, rationality, and wonder.
+    It's an unrestrained exposition of the core elements of Sagan's worldview; most especially science, pseudoscience, rationality, and wonder.
 </p>
 
 <p>
@@ -31,7 +31,7 @@
 </p>
 
 <p>
-    Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994, the book was published in 1995, and he passed away in December 1996².
+    Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994. The book was published in 1995 and Sagan passed away in December 1996².
     And so he worked on the book, at least in part, during a time in which he knew he had cancer.
 </p>
 
@@ -48,20 +48,23 @@ Sagan exhibited a profound inquisitiveness from an early age.
 <p>
     "The City of Grief" speaks to Sagan's experience interacting with the public.
     He put out an open request, via Parade Magazine, for responses from the public to his ideas on skepticism and scientific inquiry.
-    What surprised Sagan most was how often the responses were indicative of a person in significant emotional, psychological, and just overall "life" distress.
+    What surprised Sagan the most was how many of the responses were indicative of a person in significant emotional, psychological, and just overall "life" distress.
 </p>
 
 <p>
-    Moving in the circles of high academia had perhaps sheltered Sagan.
+    Moving in the circles of high academia had perhaps sheltered him.
 </p>
 
 <p>
-    And thus the title of the chapter, which comes from a poem by the German poet Rainer Maria Rilke:<br/>
+    And thus the title of the chapter, which comes from a poem by the famous German poet Rainer Maria Rilke:<br/>
     ". . . how alien, alas, are the streets of the city of grief.
     <br/><br/>
     Rainer Maria Rilke,<br/> 
-    'The Tenth Elegy' (1923)", quoted on page 179¹
+    'The Tenth Elegy' (1923)"<br/>
+    quoted on page 179¹
 </p>
+
+<hr/>
 
 <p>
     Chapter 12, "The Fine Art of Baloney Detection", speaks to Sagan's beliefs around rigorous thinking and the naturally attendant dispellation of superstitions, hoaxes, and pseudoscience.
@@ -86,10 +89,13 @@ Sagan exhibited a profound inquisitiveness from an early age.
     He could have written an editorial in a major publication, but instead he physically went out and put his freedom at risk.
 </p>
 
+<hr/>
+
 <p>
     Personally getting arrested for a cause is perhaps emblematic of Sagan more generally.
-    He was an Ivy League professor. UChicago, Harvard, Cornell, cutting-edge astrophysics research, over 600 scientific publications, and more than 20 books, including a Pulitzer Prize-winning one.
-    He was also a wildly successful mainstream popular culture figure. He wrote the novel for the highly successful and Hugo Award-winning film <i>Contact</i>, and created and hosted the wildly popular TV show "Cosmos", which won two Emmy awards and a Peabody Award. And so on.
+    He was an Ivy League professor. He was associated at various times with UChicago, Harvard, and Cornell
+    He did cutting-edge astrophysics research, published over 600 scientific publications and more than 20 books, and even wrote a Pulitzer Prize-winning book.
+    He was also a deeply successful mainstream popular culture figure. He wrote the novel for the highly successful Hugo Award-winning film <i>Contact</i>, and created and hosted the wildly popular TV show <i>Cosmos</i>, which won two Emmy awards and a Peabody Award.
 </p>
 
 <p>
@@ -98,9 +104,9 @@ Sagan exhibited a profound inquisitiveness from an early age.
 </p>
 
 <p>
-    Perhaps in part because Sagan wrote it while fighting the cancer that ultimately took his life, ths book just feels different.
+    Perhaps in part because Sagan wrote it while fighting the cancer that ultimately took his life, this book just feels different.
     It's more visceral, deep, eloquent, and intense than typical scientific communication.
-    The most deeply-felt ideas of a dying genius.
+    The most deeply-felt beliefs of a dying genius.
 </p>
 
 <br/>
