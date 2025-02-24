@@ -74,7 +74,7 @@ Sagan displayed a profound inquisitiveness from an early age.
     This is an excerpt from that section of the book:<br/>
 </p>
 
-> <p>A very different prospect for something like eternal life was once proposed by the versatile British scientist J.B.S. Haldane, who was, among many other things, one of the founders of population genetics. Haldane imagined a far future when the stars have darkened and space is mainly filled with a cold, thin gas. Nevertheless, if we wait long enough statistical fluctuations in the density of this gas will occur. Over immense periods of time the fluctuations will be sufficient to reconstitute a Universe something like our own. If the Universe is infinitely old, there will be an infinite number of such reconstitutions, Haldane pointed out.</p><p>So in an infinitely old universe with an infinite number of appearances of galaxies, stars, planets and life, an identical Earth must reappear on which you and all your loved ones will be reunited. I'll be able to see my parents again and introduce them to the grandchildren they never knew. And all this will happen not once, but an infinite number of times.</p><p>But in this reflection I have underestimated what infinity means. In Haldane's picture, there will be universes, indeed an infinite number of them, in which our brains will have full recollection of many previous rounds. Satisfaction is at hand - tempered, though, by the thought of all those other universes which will also come into existence (again, not once but an infinite number of times) with tragedies and horrors vastly outstripping anything I've experienced this turn.</p><p>The Consolation of Haldane depends, though, on what kind of universe we live in, and maybe on such arcana as whether there's enough matter eventually to reverse the expansion of the universe, and the character of vacuum fluctuations. Those with a deep longing for life after death might, it seems, devote themselves to cosmology, quantum gravity, elementary particle phys- ics, and, especially, transfinite arithmetic.<br/><br/>-pages 192-193¹</p>
+> <p>A very different prospect for something like eternal life was once proposed by the versatile British scientist J.B.S. Haldane, who was, among many other things, one of the founders of population genetics. Haldane imagined a far future when the stars have darkened and space is mainly filled with a cold, thin gas. Nevertheless, if we wait long enough statistical fluctuations in the density of this gas will occur. Over immense periods of time the fluctuations will be sufficient to reconstitute a Universe something like our own. If the Universe is infinitely old, there will be an infinite number of such reconstitutions, Haldane pointed out.</p><p>So in an infinitely old universe with an infinite number of appearances of galaxies, stars, planets and life, an identical Earth must reappear on which you and all your loved ones will be reunited. I'll be able to see my parents again and introduce them to the grandchildren they never knew. And all this will happen not once, but an infinite number of times.</p><p>But in this reflection I have underestimated what infinity means. In Haldane's picture, there will be universes, indeed an infinite number of them, in which our brains will have full recollection of many previous rounds. Satisfaction is at hand — tempered, though, by the thought of all those other universes which will also come into existence (again, not once but an infinite number of times) with tragedies and horrors vastly outstripping anything I've experienced this turn.</p><p>The Consolation of Haldane depends, though, on what kind of universe we live in, and maybe on such arcana as whether there's enough matter eventually to reverse the expansion of the universe, and the character of vacuum fluctuations. Those with a deep longing for life after death might, it seems, devote themselves to cosmology, quantum gravity, elementary particle physics, and, especially, transfinite arithmetic.<br/><br/>-pages 192-193¹</p>
 
 <p>
     Something that gave me distinct respect for Sagan is that he was twice arrested for trespassing, for attempting to climb a fence during a protest against nuclear weapons testing in Nevada.
@@ -88,7 +88,7 @@ Sagan displayed a profound inquisitiveness from an early age.
 <hr/>
 
 <p>
-    Personally getting arrested for a cause is perhaps emblematic of Sagan more generally.
+    Getting arrested for a cause is perhaps emblematic of Sagan more generally.
     He was an Ivy League professor. He was associated at various times with UChicago, Harvard, and Cornell
     He did cutting-edge astrophysics research, published over 600 scientific publications and more than 20 books, and even wrote a Pulitzer Prize-winning book.
     He was also a deeply successful mainstream popular culture figure. He wrote the novel for the highly successful Hugo Award-winning film <i>Contact</i>, and created and hosted the wildly popular TV show <i>Cosmos</i>, which won two Emmy awards and a Peabody Award.
@@ -96,7 +96,7 @@ Sagan displayed a profound inquisitiveness from an early age.
 
 <p>
     And so he spanned what's usually a chasmic divide between high intelligentsia and mainstream popular culture.
-    Similarly, he spanned the Ivy League and personally getting arrested - twice - for his beliefs.
+    Similarly, he spanned the Ivy League and personally getting arrested—twice—for his beliefs.
 </p>
 
 <p>
@@ -107,6 +107,6 @@ Sagan displayed a profound inquisitiveness from an early age.
 
 <br/>
 Sources:<br/>
-¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
-²: <a href="https://en.wikipedia.org/wiki/Carl_Sagan">https://en.wikipedia.org/wiki/Carl_Sagan](https://en.wikipedia.org/wiki/Carl_Sagan</a><br/>
-³: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
+¹: <a target="_blank" href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
+²: <a target="_blank" href="https://en.wikipedia.org/wiki/Carl_Sagan">en.wikipedia.org/wiki/Carl_Sagan</a><br/>
+³: <a target="_blank" href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
