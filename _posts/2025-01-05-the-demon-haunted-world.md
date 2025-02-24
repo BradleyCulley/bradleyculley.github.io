@@ -27,7 +27,7 @@
 </p>
 
 <p>
-    Sagan was diagnosed with bone marrow cancer (myelodysplasia) in 1994. The book was published in 1995 and Sagan passed away in December 1996².
+    Sagan was diagnosed with bone marrow cancer (myelodysplasia) two years prior to his death from that disease, in 1996. The book was first published in 1995².
     He worked on the book, at least in part, while knowing he had cancer.
 </p>
 
