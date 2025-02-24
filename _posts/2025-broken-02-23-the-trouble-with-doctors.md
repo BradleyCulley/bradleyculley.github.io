@@ -34,7 +34,7 @@ Illinois who who recorded on my official medical record that I was whining or so
 
 I think it's no accident that the United States has gotten involved in and indeed started many of so many wars. If you think about who is held in high regard in American society one of the absolute pinnacles is active duty military members and military veterans. The country was founded by a war the country was let's say bolstered by many wars etc
 
-
+Add to the triplet doctors essay the idea of doctors feeling like they're gods and the idea of their long hours in training and sometimes in practice feeding into this idea that they're these people above other people and that that justifies the God like feeling and also the high compensation and that like investment banking the long hours in a way are to sort of morally self-compensate for what they're getting
 
 <br/>
 Sources:<br/>
