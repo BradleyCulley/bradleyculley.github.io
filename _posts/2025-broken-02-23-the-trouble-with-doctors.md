@@ -34,7 +34,13 @@ Illinois who who recorded on my official medical record that I was whining or so
 
 I think it's no accident that the United States has gotten involved in and indeed started many of so many wars. If you think about who is held in high regard in American society one of the absolute pinnacles is active duty military members and military veterans. The country was founded by a war the country was let's say bolstered by many wars etc
 
-Add to the triplet doctors essay the idea of doctors feeling like they're gods and the idea of their long hours in training and sometimes in practice feeding into this idea that they're these people above other people and that that justifies the God like feeling and also the high compensation and that like investment banking the long hours in a way are to sort of morally self-compensate for what they're getting
+The idea of doctors feeling like they're gods and the idea of their long hours in training and sometimes in practice feeding into this idea that they're these people above other people and that that justifies the God like feeling and also the high compensation and that like investment banking the long hours in a way are to sort of morally self-compensate for what they're getting
+
+Acute versus cronic. Doctors (and medicine in general) are good with acute and bad with cronic.
+Cronic is often written off as "nothing". I think that's tied to the lack of root cause medicine.
+Root cause for a broken bone is the freaking bone is broken and sticking out of your leg.
+Root cause takes zero time or effort in that case.
+Root cause for being tired all the time is difficult and time-consuming to figure out.
 
 <br/>
 Sources:<br/>
