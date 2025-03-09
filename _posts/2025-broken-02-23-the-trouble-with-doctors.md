@@ -42,6 +42,8 @@ Root cause for a broken bone is the freaking bone is broken and sticking out of 
 Root cause takes zero time or effort in that case.
 Root cause for being tired all the time is difficult and time-consuming to figure out.
 
+Another problem with doctors is that too often they simply don't care that you're sick/unwell/distressed/etc. I think the medical training somewhat selects for and inculcates breeds some degree of callousness. After all you got to be able to chop someone open and deal with extreme emotions and extreme situations involving life and death so on.
+
 <br/>
 Sources:<br/>
 ¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
