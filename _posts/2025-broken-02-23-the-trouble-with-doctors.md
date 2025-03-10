@@ -6,6 +6,16 @@
 </div>
 
 <hr/>
+The troubles with doctors are:
+<ul>
+    <li>convergent thinking</li>
+    <li>good at acute disease, bad at chronic disease</li>
+    <li>oversimplification</li>
+    <li>time pressure</li>
+    <li>myopia</li>
+    <li>superiority complex</li>
+</ul>
+
 The trouble with doctors includes convergent thinking, Time pressure induced simplification of what are often complex phenomena, what I will call medical simplification, what's that guy look up his name described as separating the patient from the environment and the environment from the society I think is what he was saying as well, give the example of women who express themselves and their breast cancer survival rates
 
 Port of medical simplification is not listening. Give the example of the doctor who said I should use over the ear headphones after I told him that it was ear plugs that I was using that I thought might be causing the problem. He was so profoundly not listening that he didn't listen to the actual phonemes of the actual (most important) word that I actually spoke. I said very clearly ear plugs and he was so tuned out to the entire conversation that he heard earphones.
