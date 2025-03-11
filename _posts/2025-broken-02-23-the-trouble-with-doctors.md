@@ -12,8 +12,10 @@ The troubles with doctors are:
     <li>good at acute disease, bad at chronic disease</li>
     <li>oversimplification</li>
     <li>time pressure</li>
-    <li>myopia</li>
-    <li>superiority complex</li>
+    <li>myopia: proximal versus root cause</li>
+    <li>superiority complex, imperiousness</li>
+    <li>callousness (a side effect of the job?)</li>
+    <li>access to care</li>
 </ul>
 
 The trouble with doctors includes convergent thinking, Time pressure induced simplification of what are often complex phenomena, what I will call medical simplification, what's that guy look up his name described as separating the patient from the environment and the environment from the society I think is what he was saying as well, give the example of women who express themselves and their breast cancer survival rates
