@@ -12,6 +12,8 @@ The troubles with doctors are:
     <li>good at acute disease, bad at chronic disease</li>
     <li>oversimplification</li>
     <li>time pressure</li>
+    <li>not listening (give earplugs versus earphones example)</li>
+    <li>treating to *their* satisfaction. Could e.g. give testosterone example.</li>
     <li>myopia: proximal versus root cause</li>
     <li>superiority complex, imperiousness</li>
     <li>callousness (a side effect of the job?)</li>
