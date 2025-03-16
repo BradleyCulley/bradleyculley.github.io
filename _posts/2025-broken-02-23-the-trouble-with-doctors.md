@@ -18,6 +18,7 @@ The troubles with doctors are:
     <li>superiority complex, imperiousness</li>
     <li>callousness (a side effect of the job?)</li>
     <li>access to care</li>
+    <li>medical-industrial complex</li>
 </ul>
 
 The trouble with doctors includes convergent thinking, Time pressure induced simplification of what are often complex phenomena, what I will call medical simplification, what's that guy look up his name described as separating the patient from the environment and the environment from the society I think is what he was saying as well, give the example of women who express themselves and their breast cancer survival rates
@@ -57,6 +58,8 @@ Root cause takes zero time or effort in that case.
 Root cause for being tired all the time is difficult and time-consuming to figure out.
 
 Another problem with doctors is that too often they simply don't care that you're sick/unwell/distressed/etc. I think the medical training somewhat selects for and inculcates breeds some degree of callousness. After all you got to be able to chop someone open and deal with extreme emotions and extreme situations involving life and death so on.
+
+Add to the trouble with doctors medical industrial complex. There's the problem of the doctors going into specialties just for the compensation or mostly for the compensation and in general with it the conversation being out of control in the US, Tell the story about my German friend who's a doctor and the system there and how it's much more sensible and pays for itself in a way. Gives the example of the dentist you told me he wasn't trying to buy a new boat but then I didn't get the eight or so fillings he recommended and it was fine
 
 <br/>
 Sources:<br/>

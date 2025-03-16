@@ -1,0 +1,2 @@
+There is a kind of sadness that comes from knowing too much, from seeing the world as it truly is. It is the sadness of understanding that life is not a grand adventure, but a series of small, insignificant moments, that love is not a fairy tale, but a fragile, fleeting emotion, that happiness is not a permanent state, but a rare, fleeting glimpse of something we can never hold onto. And in that understanding, there is a profound loneliness, a sense of being cut off from the world, from other people, from oneself.
+— Virginia Woolf, To the Lighthouse
