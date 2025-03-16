@@ -39,3 +39,43 @@ In common parlance we would think of someone like a priest, a monk or a pastor a
 But here I must say I agree with Lakshmi Prasad devkota, who's called the ascetic a deserter. 
 Getting literal about it The engineer is planted between heaven and earth with a certain special solidity. 
 In alignment with the heavens because they use the laws of the heavens the laws of nature, and an alignment with humanity because they do work that unequivocally serves humanity.
+
+I chatted with a person who was clearly sheltered/privileged the other day. My reaction was to think "oh that's nice"/"that's quite pleasant". I simply can't understand the mentality of those who see "privilege" and want to destroy it/tear it down/etc. My mentality it "that's quite nice, let's create that for everyone, using science and technology". Growth mindset versus fixed mindset. When I was in Sweden, almost everyone I met basically had zero emotional baggage, so far as I could tell. My thought was "oh this is so nice", it would be nice to make the whole world like this. This is also why I prefer engineering to something net-zero like being a lawyer. Also, the density of lawyers in government is perhaps a genesis of some of our ills.
+
+It's an irony that I hated writing as a child. I hated pretty much everything about it. The physical act of writing was painful. I had sloppy handwriting and was officially diagnosed with "disgraphia". I was given the option to complete my writing assignments on a computer. I briefly did so. An option that lasted until the first of my classmates made a remark about something like how it was "weird" I was using the computer. Back to pencil and paper I went.
+
+I hated having to come up with idea on demand. Creativity on demand, with very fixed parameters, isn't creativity. Maybe it took ChatGPT to prove this to us. The Greeks had the notions of the gods and the muses - being struck with inspiration. Serendipity. Once we finally unravel and map the mind, we'll perhaps then understand the stochastic nature of true creativity. For now, it's a black box, having little to do with contrived, banal, circumscribed gradeschool writing prompts.
+
+I disliked, but couldn't say quite hated, the whole aura of "writing people". They refused to think logically, straightforwardly, and in a solution-oriented manner. They had, and still have, an insufferable smugness of withering repugnancy. Go to a creative writing, literature, or theatre department. Then go to an electrical engineering department. The clearly, blatantly more intelligent, capable, society-supporting, wealth-building, true intellectuals are in nearly every case incomparably less haughty. This discongruity has been a constant tension of my life. In particular, the related question: why are dumb people seemingly always in charge?
+
+Blog post "Why an engineer", about the various engineers I met over the years, and how they influenced me. Including:
+-the environmental engineer husband in Waterville
+-the materials science engineer in PA
+-the electrical engineer in NH: Koerbers
+-the software engineers Matt and his data (don't use their names). Talk about how the dad had the aura of a farmer when I met him in person for the first (and only) time.
+-Destin from smarter every day
+-Santiago Gonzales
+-Salman Khan (I think one of his degrees was in engineering)
+-My advisor for my research project in Nepal: Anil Chitrakar
+-The treatment I heard of the engineer getting at the meeting in Nepal: probably leave that out
+
+Add to "why an engineer" essay: Matt from Bridgeware, and his dad (don't remember the dad's name now). Matt being a serious and kind of badass human, and the dad having the aura of a farmer when he came in the room. Honest work. Real work.
+
+Add to "why an engineer" essay: Matt from Bridgeware, and his dad (don't remember the dad's name now). Matt being a serious and kind of badass human, and the dad having the aura of a farmer when he came in the room. Honest work. Real work.
+
+Add to "why an engineer":
+
+Add to the essay about why an engineer The idea of someone described it to me with respect to medicine that once you learn all about the body and body systems and disease and you perform dissections of you know cadavers you kind of have this feeling where it's like well okay that's it that's the story that there's that there's no other piece there's no kind of magical piece
+
+And you kind of get to the end of this profession and you feel something like a strange combination of exhaustion and relief it's kind of like looking back at high school you go okay yeah I went through these different grades but there was nothing magical that happened when I got to the next grade it's kind of more the same it was reality it was the world it was like people so there's something similar that happens with professions when you get deep into object-oriented programming or networking or infrastructure or type safety type systems do at some point understand how they work and in a way it's both adenoma and a eureka because you feel the sort of you you experience kind of the intellectual splendor of the system of the intellectual framework that built all this up and of all the millions of hours of people working on it and making it all work and figuring it all out but on the
+other hand the magic is gone and a literal sense there's no piece that's missing anymore or that some mysterious I should say not missing mysterious is that word
+
+I once heard a police officer described who had retired describe he was you know in his civilian car he had already retired and he saw a police car you know drive through with their I think you know lights on siren and he he said he immediately in simultaneously thought three different things it was either two or three two that I remember are I hope he's safe or you know I hope he's careful the cop that he saw and then I think this the second one was I used to do that and the third thing that he thought was it doesn't matter
+
+Add to the why an engineer post that the arguably the best and most important philosopher of the 20th century Ludwig-Fitkinstein was an engineer first and it was in fact his sense of returning to the solidity of engineering and the practicality of engineering that drove the main arcs of his philosophical investigations and research and ideas conceptions
+
+Maybe include:
+Something I noticed as well is that major breakthroughs in medical research is surprising number of them are done by MD's rather than PhDs and I think that may be because they're close to the problem and they see it earlier practical point of view so an example would be kind of the head of the development of the HIV vaccine Dr David Ho and the head of the development of the salt polio vaccine Jonas sulk and also the doctor at OHSU I forgot his name
+
+Without overgeneralizing, the Wright Brothers were bicycle mechanics, and so on
+
