@@ -79,3 +79,5 @@ Something I noticed as well is that major breakthroughs in medical research is s
 
 Without overgeneralizing, the Wright Brothers were bicycle mechanics, and so on
 
+Add to the y in engineer the experience of the building that flashcards application in Binghamton and how I had the list of things and then I wrote the code and it worked and nobody could stop me so to speak from getting it done and getting exactly the outcome I wanted which is not something I was getting very much of at that point in life
+
