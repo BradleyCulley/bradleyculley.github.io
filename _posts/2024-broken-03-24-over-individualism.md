@@ -12,3 +12,8 @@ https://en.wikipedia.org/wiki/File:Chesapeake_Waterbird_Food_Web.jpg
 
 We've all heard the story of the son or daughter from a wealthy well-respected family who gets involved in drugs, or in crime, or is simply the victim of a crime.
 <end move this to to "overindividualism" post>:
+
+I think this is also why we tend to have cults in America. Mormons, Amish, liberals, etc. 
+
+Add to the food web essay or over individualism essay the phenomenon of seen on occasion of the extremely pious squared away well behaved almost unsettlingly well behaved child. The parent kind of both puts them in a bubble and heavily guides them in a direction of sort of almost caricature-esque levels of good behavior. When I see that I tend to think "That bubble will burst". I think it would be much preferable to guide the child in the direction of generally good behavior but also but also infuse them more with the real world. Cite The essay by that Ben guy about the golden necklace with the bite marks in it.
+
