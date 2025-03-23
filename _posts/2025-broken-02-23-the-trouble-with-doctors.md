@@ -18,6 +18,7 @@ The troubles with doctors are:
     <li>superiority complex, imperiousness</li>
     <li>callousness (a side effect of the job?)</li>
     <li>access to care</li>
+    <li>lack of training in nutrition, lack of focus on nutrition</li>
     <li>medical-industrial complex</li>
 </ul>
 
@@ -61,6 +62,8 @@ Another problem with doctors is that too often they simply don't care that you'r
 
 Add to the trouble with doctors medical industrial complex. There's the problem of the doctors going into specialties just for the compensation or mostly for the compensation and in general with it the conversation being out of control in the US, Tell the story about my German friend who's a doctor and the system there and how it's much more sensible and pays for itself in a way. Gives the example of the dentist you told me he wasn't trying to buy a new boat but then I didn't get the eight or so fillings he recommended and it was fine
 
+
+Add to the trouble with doctors a lack of training in emphasis on and holding in appropriately high regard The role of nutrition in health. This is also a special case of the acute versus chronic divide I believe. And give the example for example of Denis.m And high blood pressure, or of me losing 50 lb. Let food be thy medicine.
 <br/>
 Sources:<br/>
 ¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
