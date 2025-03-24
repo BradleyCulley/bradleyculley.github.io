@@ -22,6 +22,17 @@ The troubles with doctors are:
     <li>medical-industrial complex</li>
 </ul>
 
+In 2016 I started having earaches in my left ear
+
+I went to a series of walk-in clinics, each of which diagnosed me with an ear infection
+
+In each case, they prescribed antibiotics, which didn't seem to work.
+When the antibiotic was combined with a steroid, it seemed to help more.
+
+I remember a tiny bottle of the steroid and antibiotic mix being over $200, even with insurance.
+
+
+
 The trouble with doctors includes convergent thinking, Time pressure induced simplification of what are often complex phenomena, what I will call medical simplification, what's that guy look up his name described as separating the patient from the environment and the environment from the society I think is what he was saying as well, give the example of women who express themselves and their breast cancer survival rates
 
 Port of medical simplification is not listening. Give the example of the doctor who said I should use over the ear headphones after I told him that it was ear plugs that I was using that I thought might be causing the problem. He was so profoundly not listening that he didn't listen to the actual phonemes of the actual (most important) word that I actually spoke. I said very clearly ear plugs and he was so tuned out to the entire conversation that he heard earphones.
