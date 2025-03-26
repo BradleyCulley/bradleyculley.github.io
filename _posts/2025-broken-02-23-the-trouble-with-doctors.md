@@ -17,6 +17,7 @@ The troubles with doctors are:
     <li>myopia: proximal versus root cause</li>
     <li>superiority complex, imperiousness</li>
     <li>callousness (a side effect of the job?)</li>
+    <li>institutional betrayal - a more visercal kind of betrayal. Give example of punched by a stranger vs punched by a prison guard or punched by a parent or a teacher, etc.</li>
     <li>access to care</li>
     <li>lack of training in nutrition, lack of focus on nutrition</li>
     <li>medical-industrial complex</li>
