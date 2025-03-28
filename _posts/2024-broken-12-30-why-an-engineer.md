@@ -85,3 +85,5 @@ Add to the wine engineer post that a lot of people get into software engineering
 necessarily exactly who they really are. You have what in your algebra's called a projection of that person that perhaps emphasizes the parts that you love. And so similarly I don't think it's so strange to love a concept such as the symmetry or elegance of computer programming or it will engineered system.
 
 Add to the food web essay the phenomenon of seen on occasion of the extremely pious squared away well behaved almost unsettlingly well behaved child. The parent kind of both puts them in a bubble and heavily guides them in a direction of sort of almost caricature-esque levels of good behavior. When I see that I tend to think "That bubble will burst". I think it would be much preferable to guide the child in the direction of generally good behavior but also but also infuse them more with the real world. Cite The essay by that Ben guy about the golden necklace with the bite marks in it.
+
+Add the Niel Armstrong or whomever it was piece about being a pocket protected nerdy engineer 
