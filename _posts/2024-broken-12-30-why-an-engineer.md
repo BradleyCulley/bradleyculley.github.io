@@ -48,6 +48,17 @@ That work was done by Thomas Newcomen, a engineer in the iron industry (https://
 
 #### Like a farmer
 
+In the summer of 2009, I met an environmental engineer - a very nice man probably in his 50s or so - in the course of doing an internship at a community center in Maine.
+He had a certain peaceful solidity to him, which caught my attention.
+I once read an opinion that the key thing to look for in a good person to have in your life is that they are <b>unassuming</b>.
+
+It makes sense: the unassuming person is, as the saying goes, "comfortable in their own skin".
+I believe most all the ills of the world come from the outward manifestations of people's internal chaos and despair.
+"Projection", as the psychological term goes.
+
+That particular environmental engineer once explained that he was too old to do hands-on engineering, so he managed projects/people.
+He said so without any evidence of distress...more like bemusement.
+
 An engineer can't be said to be pushing false truths or even...more subtly...to be pushing not all that useful truths. 
 I think we all know university departments that are guilty, if we're completely honest, of pushing fairly useless information.
 Though of course that depends on one's definition of useless.
@@ -56,6 +67,9 @@ In common parlance we would think of someone like a priest, a monk or a pastor a
 But here I must say I agree with the great Nepali poet, Lakshmi Prasad devkota, who's called the ascetic "a deserter".
 <add quote from the poem here>
 
+
+
+delete:
 Getting literal about it The engineer is planted between heaven and earth with a certain special solidity. 
 
 In alignment with the heavens because they use the laws of the heavens (the laws of nature), and an alignment with humanity because they straightforwardly serve humanity.
