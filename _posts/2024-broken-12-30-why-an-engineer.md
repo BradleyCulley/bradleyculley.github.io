@@ -1,27 +1,39 @@
 
 One of my high school physics teachers was an aerospace engineer by trade.
+He'd taught physics at the school full-time for years by the time I met him.
 
-He held the rank of Colonel in the Air Force, and once showed us his military identification card.
+He held the rank of Colonel in the Air Force. One day, he showed us his military identification card.
 
 He was 64 years old when I took his physics class.
-He was from Huntsville, Alabama, and had worked on military aerospace projects before coming up to Northern Maine to teach.
-It's only in retrospect that I realize how much of a sacrifice he was making to teach us.
-Aeorspace engineering as a "full bird" Colonel would have paid so much more.
-And being honest, he would have garnered much more respect as a Colonel aerospace engineer.
-Also, in Huntsville, unlike in northern Maine, there wasn't snow on the ground from September to May.
-A wonderful man.
-He was my physics teacher the first half of my senior year, and had taught at the school for years prior.
+He was from Huntsville, Alabama, which goes by the nickname "Rocket City" due to its history in aerospace and spaceflight.
+
+He had worked on military aerospace projects for years before coming to our school in Northern Maine to teach physics.
+
+In retrospect, I realize the sacrifice he was making.
+
+Aerospace engineering as a "full bird" Air Force Colonel would have paid so much more, and garnered so much more respect.
+
+And unlike where our school was in Northern Maine, Huntsville doesn't have snow on the ground from September to May.
+Wife and three great kids. A thoroughly wonderful man.
+
+He was my physics teacher the first half of my senior year.
+
 After that first semester, he resigned when the economic situation of teaching, with three children to support, became too unjustified.
+
 He gave each of us a folded postcard with a note about his resignation.
-He'd had an open offer to come back to Huntsville any time and work on rockets, which he took.
+
+He had a standing offer to come back to Huntsville any time and work on rockets. That winter, he took the offer.
 
 
 He once told us 98% of the wealth in the United States is created by engineers.
-While I headed in a direction of science in college, that thought always stuck me with.
+While I headed in a direction of science, rather than engineering, in college, the 98% idea stuck me with.
+
 Science alone doesn't create wealth, any more than ideas create an essay.
-One needs to bridge the gap from ideas into the real world and real economy.
-Furthermore, engineering is often the rate-limiting factor in science.
-Isaac Newton could have had the <i>idea</i> of the Higgs Boson (and all the antecedent particle physics), but it wouldn't have been testable until around 300 years after he died.
+
+Engineering bridges the gap from ideas into the real world of money, business, and human systems.
+
+On a separate note, engineering is often the rate-limiting factor in science.
+Isaac Newton could have had the <i>idea</i> of the Higgs Boson, and all the antecedent particle physics, but nobody could have run an experiment to <i>test</i> for the Higgs Boson until around 300 years after Newton died.
 
 <p>
     The graph below, to which <a href="TODO add link to culture post">I often return in my thinking</a>, illustrates that fact.
@@ -34,9 +46,16 @@ Isaac Newton could have had the <i>idea</i> of the Higgs Boson (and all the ante
 
 That work was done by Thomas Newcomen, a engineer in the iron industry (https://en.wikipedia.org/wiki/Thomas_Newcomen)
 
-An engineer can't be said to be pedaling false truths or even to be peddling not all that useful truths. 
+#### Like a farmer
+
+An engineer can't be said to be pushing false truths or even...more subtly...to be pushing not all that useful truths. 
+I think we all know university departments that are guilty, if we're completely honest, of pushing fairly useless information.
+Though of course that depends on one's definition of useless.
+
 In common parlance we would think of someone like a priest, a monk or a pastor as being the epitome of virtue. 
-But here I must say I agree with Lakshmi Prasad devkota, who's called the ascetic a deserter. 
+But here I must say I agree with the great Nepali poet, Lakshmi Prasad devkota, who's called the ascetic "a deserter".
+<add quote from the poem here>
+
 Getting literal about it The engineer is planted between heaven and earth with a certain special solidity. 
 In alignment with the heavens because they use the laws of the heavens the laws of nature, and an alignment with humanity because they do work that unequivocally serves humanity.
 
