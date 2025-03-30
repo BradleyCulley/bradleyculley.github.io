@@ -59,6 +59,12 @@ I believe most all the ills of the world come from the outward manifestations of
 That particular environmental engineer once explained that he was too old to do hands-on engineering, so he managed projects/people.
 He said so without any evidence of distress...more like bemusement.
 
+Talk about Matt at Bridgeware, and his dad (without giving their names)
+Talk about Ken Koerber
+Talk about
+
+Mention the article about physics not being a viable job: find the link in emails to Ben Brooks if I can, and include it here
+
 An engineer can't be said to be pushing false truths or even...more subtly...to be pushing not all that useful truths. 
 I think we all know university departments that are guilty, if we're completely honest, of pushing fairly useless information.
 Though of course that depends on one's definition of useless.
