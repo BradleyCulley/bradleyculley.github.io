@@ -57,9 +57,19 @@ But here I must say I agree with the great Nepali poet, Lakshmi Prasad devkota, 
 <add quote from the poem here>
 
 Getting literal about it The engineer is planted between heaven and earth with a certain special solidity. 
-In alignment with the heavens because they use the laws of the heavens the laws of nature, and an alignment with humanity because they do work that unequivocally serves humanity.
 
-I chatted with a person who was clearly sheltered/privileged the other day. My reaction was to think "oh that's nice"/"that's quite pleasant". I simply can't understand the mentality of those who see "privilege" and want to destroy it/tear it down/etc. My mentality it "that's quite nice, let's create that for everyone, using science and technology". Growth mindset versus fixed mindset. When I was in Sweden, almost everyone I met basically had zero emotional baggage, so far as I could tell. My thought was "oh this is so nice", it would be nice to make the whole world like this. This is also why I prefer engineering to something net-zero like being a lawyer. Also, the density of lawyers in government is perhaps a genesis of some of our ills.
+In alignment with the heavens because they use the laws of the heavens (the laws of nature), and an alignment with humanity because they straightforwardly serve humanity.
+
+I chatted with a person who was clearly sheltered/privileged the other day.
+My reaction, and my mind has always worked this way, was to think "oh so that's nice". "Oh that's quite pleasant".
+When I visited Sweden, I thought "this is wonderful", not "how can I tear this down?".
+
+I simply can't understand the mentality of those who see "privilege" and want to destroy it/tear it down/etc. My mentality it "that's quite nice, let's create that for everyone, using science and technology". 
+Growth mindset versus fixed mindset. 
+When I was in Sweden, almost everyone I met basically had zero emotional baggage, so far as I could tell. 
+My thought was "oh this is so nice", it would be nice to make the whole world like this.
+This is also why I prefer engineering to something net-zero like being a lawyer. 
+Also, the density of lawyers in government is perhaps a genesis of some of our ills.
 
 It's an irony that I hated writing as a child. I hated pretty much everything about it. The physical act of writing was painful. I had sloppy handwriting and was officially diagnosed with "disgraphia". I was given the option to complete my writing assignments on a computer. I briefly did so. An option that lasted until the first of my classmates made a remark about something like how it was "weird" I was using the computer. Back to pencil and paper I went.
 
