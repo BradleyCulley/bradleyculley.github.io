@@ -3,7 +3,7 @@
 <div style="text-align: center">
 <br/>
 <i>The first poem I wrote in sixth grade English class, when I was 10 years old<br/>
-<br/><br/>
+<br/>
 
 <b style="font-size: 20px;">The raindrop</b><br/>
 
