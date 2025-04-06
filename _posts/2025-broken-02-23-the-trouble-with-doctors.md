@@ -32,7 +32,7 @@ When the antibiotic was combined with a steroid, it seemed to help more.
 
 I remember a tiny bottle of the steroid and antibiotic mix being over $200, even with insurance.
 
-
+Add the experience at the clinic in Virginia to the trouble with doctors
 
 The trouble with doctors includes convergent thinking, Time pressure induced simplification of what are often complex phenomena, what I will call medical simplification, what's that guy look up his name described as separating the patient from the environment and the environment from the society I think is what he was saying as well, give the example of women who express themselves and their breast cancer survival rates
 
