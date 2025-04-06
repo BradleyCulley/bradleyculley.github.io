@@ -1,4 +1,4 @@
-### The raindrop
+### The Raindrop
 
 <div style="text-align: center">
 <br/>
