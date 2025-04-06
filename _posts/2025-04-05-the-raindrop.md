@@ -2,9 +2,7 @@
 
 <div style="text-align: center">
 <br/>
-<i>The first poem I wrote in sixth grade English class, when I was 10 years old.<br/>
-Right before entering sixth grade and writing this poem,<br/>
-I went from living in a small rural town to living in the largest city in Maine.</i>
+<i>The first poem I wrote in sixth grade English class, when I was 10 years old<br/>
 <br/><br/>
 
 <b style="font-size: 20px;">The raindrop</b><br/>
