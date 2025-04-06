@@ -1,4 +1,4 @@
-## <div align="center">The Demon-Haunted World: Science as a Candle in the Dark<div>
+## <div align="center">The Demon-Haunted World<div>
 <div style="font-size: 25px; font-weight: bold;" align="center">by Carl Sagan</div><br/>
 
 <div align="center">
