@@ -21,7 +21,7 @@ Everything about the condo was pleasant. The host, the booking process, the unit
 I worked remotely and cooked a lot of pan-fried chicken.
 
 The trick was that it was January, so the AirBnB was quite reasonably priced.
-Most people don't go to the beach in the winter.
+Most people don't go to the beach in cold New England winters.
 
 I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall separating Ocean Boulevard from the sandy beach.
 There were constant medium-sized waves rolling in from the horizon; breaking when they hit the sand, crashing with a pleasant hiss.
