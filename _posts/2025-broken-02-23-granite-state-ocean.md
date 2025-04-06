@@ -6,7 +6,36 @@
 
 <hr/>
 
-Write an essay about the staying at the Airbnb right on the ocean in New Hampshire
+In early 2023, I had recently moved from Illinois to New Hampshire, and I booked an AirBnB in Hampton, New Hampshire.
+
+It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much; a little strip of coastal land.
+
+Hampton, New Hampshire is one of the towns on that strip of land. The short driveway to the AirBnB was off a road that ran right alongside the ocean.
+The road was named Ocean Boulevard, as it so happened.
+
+The condo was a rear building, at the end of a parking lot, but it was a few hundred feet from the ocean.
+Less than a 30-second walk.
+
+Everything about the condo was pleasant. The host, the booking process, the unit itself, the ocean right nearby.
+
+I worked remotely and cooked a lot of pan-fried chicken.
+
+The trick was that it was January, so the AirBnB was quite reasonably priced.
+Most people don't go to the beach in the winter.
+
+I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall separating Ocean Boulevard from the sandy beach.
+There were constant medium-sized waves rolling in from the horizon; breaking when they hit the sand, crashing with a pleasant hiss.
+
+The town was pretty quiet - not many people were out walking on the sidewalk, and there was that rythmic crashing of the waves.
+Henry David Thoreau wrote an entire book about walking.
+<Add quotation from his book here, and elsewhere>
+
+
+<mention that I don't have any complaints here - just felt like sharing>
+<talk about grandma Nora and how she loved the beach>
+<talk about how the brain naturally looks for problems, but not so much for serenity>
+<talk about how Khalil Gibran used the ocean as a metaphor so much in his writing, and talk about how others have done the same, such as Sufi poets>
+
 
 <br/>
 Sources:<br/>
