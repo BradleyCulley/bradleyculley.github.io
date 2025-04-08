@@ -31,11 +31,12 @@ Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
 
 
+"The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul." –Robert Wyland
+
 <mention that I don't have any complaints here - just felt like sharing>
 <talk about grandma Nora and how she loved the beach>
 <talk about how the brain naturally looks for problems, but not so much for serenity>
 <talk about how Khalil Gibran used the ocean as a metaphor so much in his writing, and talk about how others have done the same, such as Sufi poets>
-
 
 <br/>
 Sources:<br/>
