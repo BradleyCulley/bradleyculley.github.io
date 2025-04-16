@@ -74,6 +74,7 @@ Another problem with doctors is that too often they simply don't care that you'r
 
 Add to the trouble with doctors medical industrial complex. There's the problem of the doctors going into specialties just for the compensation or mostly for the compensation and in general with it the conversation being out of control in the US, Tell the story about my German friend who's a doctor and the system there and how it's much more sensible and pays for itself in a way. Gives the example of the dentist you told me he wasn't trying to buy a new boat but then I didn't get the eight or so fillings he recommended and it was fine
 
+Talk about the phenomenon of "jumping to surgery"
 
 Add to the trouble with doctors a lack of training in emphasis on and holding in appropriately high regard The role of nutrition in health. This is also a special case of the acute versus chronic divide I believe. And give the example for example of Denis.m And high blood pressure, or of me losing 50 lb. Let food be thy medicine.
 <br/>

@@ -44,20 +44,28 @@ Isaac Newton could have had the <i>idea</i> of the Higgs Boson, and all the ante
     </div>
 </p>
 
-That work was done by Thomas Newcomen, a engineer in the iron industry (https://en.wikipedia.org/wiki/Thomas_Newcomen)
+The first commercially-successful steam engine was invented by Thomas Newcomen, a engineer in the iron industry (https://en.wikipedia.org/wiki/Thomas_Newcomen)
 
 #### Like a farmer
 
-In the summer of 2009, I met an environmental engineer - a very nice man probably in his 50s or so - in the course of doing an internship at a community center in Maine.
-He had a certain peaceful solidity to him, which caught my attention.
+<p>
+In the summer of 2009, I met an environmental engineer while doing an internship.
+A nice man probably in his 50s or so.
+He had a peaceful solidity to him.
 I once read an opinion that the key thing to look for in a good person to have in your life is that they are <b>unassuming</b>.
+</p>
 
-It makes sense: the unassuming person is, as the saying goes, "comfortable in their own skin".
+<p>
+The unassuming person is, as the saying goes, "comfortable in their own skin".
 I believe most all the ills of the world come from the outward manifestations of people's internal chaos and despair.
 "Projection", as the psychological term goes.
+</p>
 
+<p>
 That particular environmental engineer once explained that he was too old to do hands-on engineering, so he managed projects/people.
-He said so without any evidence of distress...more like bemusement.
+He said so without distress...more like bemusement.
+</p>
+
 
 Talk about Matt at Bridgeware, and his dad (without giving their names)
 Talk about Ken Koerber
