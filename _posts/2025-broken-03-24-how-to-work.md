@@ -29,3 +29,6 @@ What you'll find is that office jobs are an extremely common way to become plent
 Steve Ballmer worked an office job all the way to being worth tens of billions of dollars.
 Dr. Jonas Salk worked an office and cured polio.
 Dr. David Ho worked an office job and found a cure for AIDs so revolutionary that people were sent home from hospice because they simply weren't going to die any more.
+
+You don't have to justify your office job to anyone serious.
+The surfer dude yoga teacher types might get snarky about it, but you can safely ignore them.
