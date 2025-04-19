@@ -50,15 +50,14 @@ The first commercially-successful steam engine was invented by Thomas Newcomen, 
 
 <p>
 In the summer of 2009, I met an environmental engineer while doing an internship.
-A nice man probably in his 50s or so.
-He had a peaceful solidity to him.
+A nice man probably in his 50s or so; a peaceful solidity to about him.
 I once read an opinion that the key thing to look for in a good person to have in your life is that they are <b>unassuming</b>.
 </p>
 
 <p>
 The unassuming person is, as the saying goes, "comfortable in their own skin".
 I believe most all the ills of the world come from the outward manifestations of people's internal chaos and despair.
-"Projection", as the psychological term goes.
+"Projection", as they say.
 </p>
 
 <p>
@@ -66,6 +65,17 @@ That particular environmental engineer once explained that he was too old to do 
 He said so without distress...more like bemusement.
 </p>
 
+<p>
+About 5 years later, I was working for a software company when I first met the company president and lead programmer.
+When we walked into the room, I thought "he reminds me of a farmer".
+In my reckoning, farmers tend to have: rugged humility, muted self-assurance, and a permanent sense of mild frustration.
+</p>
+
+<p>
+The programmer, like the farmer, deals directly with reality.
+The crops don't care if you're having a bad day.
+But if you do things correctly, things work out.
+</p>
 
 Talk about Matt at Bridgeware, and his dad (without giving their names)
 Talk about Ken Koerber
@@ -109,7 +119,7 @@ Blog post "Why an engineer", about the various engineers I met over the years, a
 -the environmental engineer husband in Waterville
 -the materials science engineer in PA
 -the electrical engineer in NH: Koerbers
--the software engineers Matt and his data (don't use their names). Talk about how the dad had the aura of a farmer when I met him in person for the first (and only) time.
+-the software engineers Matt and his dad (don't use their names). Talk about how the dad had the aura of a farmer when I met him in person for the first (and only) time.
 -Destin from smarter every day
 -Santiago Gonzales
 -Salman Khan (I think one of his degrees was in engineering)

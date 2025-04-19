@@ -30,7 +30,6 @@ The town was pretty quiet: not many people on the sidewalk, a rythmic crashing o
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
 
-
 "The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul." –Robert Wyland
 
 <mention that I don't have any complaints here - just felt like sharing>
