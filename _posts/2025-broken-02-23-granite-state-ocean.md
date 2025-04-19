@@ -16,17 +16,17 @@ The road was named Ocean Boulevard, as it so happened.
 The condo was a rear building, at the end of a parking lot, but it was a few hundred feet from the ocean.
 Less than a 30-second walk.
 
-Everything about the condo was pleasant. The host, the booking process, the unit itself, the ocean right nearby.
+Everything about the condo was pleasant: the host, the booking process, the condo itself, the ocean right nearby.
 
 I worked remotely and cooked a lot of pan-fried chicken.
 
-The trick was that it was January, so the AirBnB was quite reasonably priced.
+The trick was that it was January, so an oceanside AirBnB was pretty reasonably-priced.
 Most people don't go to the beach in cold New England winters.
 
 I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall separating Ocean Boulevard from the sandy beach.
 There were constant medium-sized waves rolling in from the horizon; breaking when they hit the sand, crashing with a pleasant hiss.
 
-The town was pretty quiet - not many people were out walking on the sidewalk, and there was that rythmic crashing of the waves.
+The town was pretty quiet: not many people on the sidewalk, a rythmic crashing of the waves.
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
 
