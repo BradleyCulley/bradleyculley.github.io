@@ -75,6 +75,7 @@ In my reckoning, farmers tend to have: rugged humility, muted self-assurance, an
 The programmer, like the farmer, deals directly with reality.
 The crops don't care if you're having a bad day.
 But if you do things correctly, things work out.
+Real work. Honest work. 
 </p>
 
 Talk about Matt at Bridgeware, and his dad (without giving their names)
@@ -82,15 +83,20 @@ Talk about Ken Koerber
 Talk about
 
 Mention the article about physics not being a viable job: find the link in emails to Ben Brooks if I can, and include it here
+Here's the article: http://yangxiao.cs.ua.edu/Don't%20Become%20a%20Scientist!.htm
+
+This was the thread with Ben in which I linked that article: https://mail.google.com/mail/u/0/#search/physics+job+ben+brooks/FMfcgxmQJRTMbgRDxbqClXLXHJKFSsfk
+That thread with Ben may be a good source of a whole new separate essay on AI, science, academia, industry, etc.
 
 An engineer can't be said to be pushing false truths or even...more subtly...to be pushing not all that useful truths. 
 I think we all know university departments that are guilty, if we're completely honest, of pushing fairly useless information.
 Though of course that depends on one's definition of useless.
 
 In common parlance we would think of someone like a priest, a monk or a pastor as being the epitome of virtue. 
-But here I must say I agree with the great Nepali poet, Lakshmi Prasad devkota, who's called the ascetic "a deserter".
-<add quote from the poem here>
+But here I must say I agree with the great Nepali poet, Lakshmi Prasad devkota, who called the ascetic "a deserter".
 
+"I see...the ascetic in his cave a deserter"
+https://www.scribd.com/document/245667626/Lunatic-poem-by-laxmi-prasad-devkota
 
 
 delete:
@@ -125,8 +131,6 @@ Blog post "Why an engineer", about the various engineers I met over the years, a
 -Salman Khan (I think one of his degrees was in engineering)
 -My advisor for my research project in Nepal: Anil Chitrakar
 -The treatment I heard of the engineer getting at the meeting in Nepal: probably leave that out
-
-Add to "why an engineer" essay: Matt from Bridgeware, and his dad (don't remember the dad's name now). Matt being a serious and kind of badass human, and the dad having the aura of a farmer when he came in the room. Honest work. Real work.
 
 Add to "why an engineer" essay: Matt from Bridgeware, and his dad (don't remember the dad's name now). Matt being a serious and kind of badass human, and the dad having the aura of a farmer when he came in the room. Honest work. Real work.
 
