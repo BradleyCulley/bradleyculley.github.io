@@ -1,6 +1,8 @@
 When I visited Pashupatinath, a very renowned and holy Hindu temple in Nepal, I saw death directly for the first time.
 Among other things, I saw people being cremated just a few yards in front of me.
 
+Todo: add a photo of the temple, maybe or maybe not including the cremation pyres
+
 I learned 4 things, in order of importance, with #1 being the most important and #4 being the least important, although they're all important:
 
 #1: the woman I should marry, spend the rest of my life with, and in whose arms I should die. As the song goes, "This woman is my destiny".
