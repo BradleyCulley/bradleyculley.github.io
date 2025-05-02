@@ -1,4 +1,4 @@
-### All the Answers, All At once
+### All the Answers, All At Once
 
 <div style="text-align: center">
 <br/>
