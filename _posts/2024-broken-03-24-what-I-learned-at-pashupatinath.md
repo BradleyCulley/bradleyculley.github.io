@@ -5,7 +5,13 @@ Todo: add a photo of the temple, maybe or maybe not including the cremation pyre
 
 I learned 4 things, in order of importance, with #1 being the most important and #4 being the least important, although they're all important:
 
-#1: the woman I should marry, spend the rest of my life with, and in whose arms I should die. As the song goes, "This woman is my destiny".
+#1: the woman I should marry, spend the rest of my life with, and in whose arms I should die. As the song goes:<br/>
+"Oh, don't you dare look back<br/>
+Just keep your eyes on me"<br/>
+I said, "You're holding back"<br/>
+She said, "Shut up and dance with me"<br/>
+<i><b>This woman is my destiny</b></i>
+
 #2: what I should do for work/meaning/purpose in life: serve the poor through being a doctor and public health public intellectual,
 in the way Dr. Paul Farmer did
 #3: you will die. Aubrey DeGrey, or anyone else, will not solve aging before it's your time to go.
