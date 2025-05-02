@@ -11,6 +11,7 @@ Just keep your eyes on me"<br/>
 I said, "You're holding back"<br/>
 She said, "Shut up and dance with me"<br/>
 <i><b>This woman is my destiny</b></i>
+-https://genius.com/Walk-the-moon-shut-up-and-dance-lyrics
 
 #2: what I should do for work/meaning/purpose in life: serve the poor through being a doctor and public health public intellectual,
 in the way Dr. Paul Farmer did
@@ -19,6 +20,7 @@ in the way Dr. Paul Farmer did
 Therefore, be practical. Be practical in your choice of career. Be practical in your life overall. There is no grander plan.
 While they miss a lot of emotional and psychological nuance, the atheists are fundamentally correct.
 This is known as "theodicy". "Stemming from theos (God) and dike (justice), a theodicy is an attempt to show how the justice, goodness and other features of God can be upheld in light of the evils in our world."
+-https://plato.stanford.edu/entries/theodicies/
 Turns out there's a simple answer: no God. You have to make your own.
 
 Those four "messages" came through so clearly and so unbelievably intensely that they were like pictures more than words.
