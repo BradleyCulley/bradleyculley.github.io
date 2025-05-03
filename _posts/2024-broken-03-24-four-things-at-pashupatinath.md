@@ -6,11 +6,12 @@ Todo: add a photo of the temple, maybe or maybe not including the cremation pyre
 I learned 4 things, in order of importance, with #1 being the most important and #4 being the least important, although they're all important:
 
 #1: the woman I should marry, spend the rest of my life with, and in whose arms I should die. As the song goes:<br/>
-"Oh, don't you dare look back<br/>
-Just keep your eyes on me"<br/>
-I said, "You're holding back"<br/>
-She said, "Shut up and dance with me"<br/>
-<i><b>This woman is my destiny</b></i>
+> "Oh, don't you dare look back<br/>
+> Just keep your eyes on me"<br/>
+> I said, "You're holding back"<br/>
+> She said, "Shut up and dance with me"<br/>
+> <i>This woman is my destiny</i>
+
 -https://genius.com/Walk-the-moon-shut-up-and-dance-lyrics
 
 #2: what I should do for work/meaning/purpose in life: serve the poor through being a doctor and public health public intellectual,
@@ -26,3 +27,11 @@ Turns out there's a simple answer: no God. You have to make your own.
 Those four "messages" came through so clearly and so unbelievably intensely that they were like pictures more than words.
 Afterwards, as I sat in the bus waiting to travel away from the temple in a bit of a dreamlike state.
 I felt a certain realism and calm, and I think had an expression I'd seen many times on my father's face: love, realism, acceptance.
+
+> You were born together, and together you shall be forevermore.<br/>
+> You shall be together when the white wings of death scatter your days.<br/>
+> Aye, you shall be together even in the silent memory of God.
+
+<br/>
+
+-https://www.gutenberg.org/files/58585/58585-h/58585-h.htm
