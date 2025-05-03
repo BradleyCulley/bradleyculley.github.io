@@ -74,16 +74,70 @@ In my reckoning, farmers tend to have: rugged humility, muted self-assurance, an
 <p>
 The programmer, like the farmer, deals directly with reality.
 The crops don't care if you're having a bad day.
-But if you do things correctly, things work out.
-Real work. Honest work. 
+But if you do things correctly, things work.
 </p>
 
-Talk about Matt at Bridgeware, and his dad (without giving their names)
-Talk about Ken Koerber
-Talk about
+### The Good Life
 
-Mention the article about physics not being a viable job: find the link in emails to Ben Brooks if I can, and include it here
-Here's the article: http://yangxiao.cs.ua.edu/Don't%20Become%20a%20Scientist!.htm
+<p>
+About a year and half after I graduated from college, I was doing workshares on farms in the Northeastern United States.
+I would work half days in exchange for food and lodging.
+One of the farms I worked on - in New Hampshire - was the home of a very very very nice husband and wife.
+The wife was a retired teacher and the husband was an retired electrical engineer.
+</p>
+
+<p>
+The husband had gotten both his undergraduate degree and his masters degree from MIT, as it happened.
+The husband and wife had met while he was still an undergraduate, and were still married, with three successful grown-up children, about 50 years later.
+They were both about as happy as a person can be in life. Great friends, a great social life, great hobbies, a beautiful house on many acres in a nice countryside town. 
+</p>
+
+<p>
+They were also unbelievable good to me during my stay as their guest. I still think of them regularly.
+</p>
+
+<p>
+It won't come as a surprise, then, that I remember thinking something like "hm, this is nice".
+</p>
+
+### Santiago Gonzales
+
+<add section about Santiago Gonzales>
+
+### Salman Khan
+
+(I think one of his degrees was in engineering)
+
+### Anil Chitrakar
+
+My advisor for my research project in Nepal: Anil Chitrakar
+
+### In-Demand, Respected
+
+-The treatment I heard of the engineer getting at the meeting in Nepal: probably leave that out
+
+### Don't Become a Scientist!
+
+<p>
+In 2016, I read an essay titled "Don't Become a Scientist!", by Professor Jonathan I. Katz, professor of physics at Washington University, St. Louis, Mo.
+
+Professor Katz wrote the article in 1999. This excerpt summarizes the essay:
+> Are you thinking of becoming a scientist? Do you want to uncover the mysteries of nature, perform experiments or carry out calculations to learn how the world works? Forget it!
+
+> Science is fun and exciting. The thrill of discovery is unique. If you are smart, ambitious and hard working you should major in science as an undergraduate. But that is as far as you should take it. After graduation, you will have to deal with the real world. That means that you should not even consider going to graduate school in science. Do something else instead: medical school, law school, computers or engineering, or something else which appeals to you.
+
+> Why am I (a tenured professor of physics) trying to discourage you from following a career path which was successful for me? Because times have changed (I received my Ph.D. in 1973, and tenure in 1976). American science no longer offers a reasonable career path. If you go to graduate school in science it is in the expectation of spending your working life doing scientific research, using your ingenuity and curiosity to solve important and interesting problems. You will almost certainly be disappointed, probably when it is too late to choose another career.
+
+> American universities train roughly twice as many Ph.D.s as there are jobs for them. When something, or someone, is a glut on the market, the price drops. In the case of Ph.D. scientists, the reduction in price takes the form of many years spent in ``holding pattern'' postdoctoral jobs. Permanent jobs don't pay much less than they used to, but instead of obtaining a real job two years after the Ph.D. (as was typical 25 years ago) most young scientists spend five, ten, or more years as postdocs. They have no prospect of permanent employment and often must obtain a new postdoctoral position and move every two years.
+
+-http://yangxiao.cs.ua.edu/Don't%20Become%20a%20Scientist!.htm
+</p>
+
+<p>
+From those I know personally who have done PhDs in pure science, Professor Katz's advice rings true.
+</p>
+
+
 
 This was the thread with Ben in which I linked that article: https://mail.google.com/mail/u/0/#search/physics+job+ben+brooks/FMfcgxmQJRTMbgRDxbqClXLXHJKFSsfk
 That thread with Ben may be a good source of a whole new separate essay on AI, science, academia, industry, etc.
