@@ -15,9 +15,9 @@ If not technē, is hedonia teleological? What about eudaimonia?
 
 Qualia in general? Specific qualia, such as raising children?
 
-What if an AI can raise children according to a specification?
+What if an AI can raise children - expertly - according to a specification?
 
-Are those things teleological when a machine can replicate them, down through neuromorphic signal transduction?
+Are human endeavors teleological when a machine can replicate them, down through neuromorphic signal transduction?
 
 It would be interesting if AI drove a renaissance in epistemology, teleology, and logos.
 
