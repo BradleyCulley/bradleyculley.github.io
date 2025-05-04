@@ -102,7 +102,20 @@ It won't come as a surprise, then, that I remember thinking something like "hm, 
 
 ### Santiago Gonzales
 
-<add section about Santiago Gonzales>
+<p>
+In around 2013, I saw a short journalistic piece on a teenage prodigy named Santiago Gonzales.
+This is the piece: https://www.youtube.com/watch?v=DBXZWB_dNsw.
+It struck some deep chord and drove me to pursue programming quite intensely.
+I'd been learning and doing programming in a more passive way prior to that.
+</p>
+
+<p>
+Later, I read an article in Rolling Stone Middle East about Santiago.
+That article struck an even deeper chord.
+One line in particular stuck with me: the journalist saying that Santiago reminded him of a description he'd read
+in one of the works of Dante, of "a mind on fire with the truth".
+And in particular of the experience of learning and understanding being a kind of intensely romantic experience: "intimate" and "commanding", I think were two of the words the journalist used.
+</p>
 
 ### Salman Khan
 
