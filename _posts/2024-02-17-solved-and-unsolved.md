@@ -38,6 +38,10 @@
         <p></p>
     </li>
     <li>
+        <b>"Theodicy"</b><br/>
+        <p>"[the] explanation of why a perfectly good, almighty, and all-knowing God permits evil. The term literally means “justifying God.”."¹⁰</p>
+    </li>
+    <li>
         <b>How to make people be good</b><br/>
         <p>Fixing classism, solipsism, the abuse of power, etc.<br/>
         Much effort over the millennia. Countless moral systems, with only partial success.</p>
@@ -178,3 +182,4 @@ Sources:<br/>
 ⁷: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
 ⁸:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
 ⁹: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
+¹⁰: [https://www.britannica.com/topic/theodicy-theology](https://www.britannica.com/topic/theodicy-theology)
