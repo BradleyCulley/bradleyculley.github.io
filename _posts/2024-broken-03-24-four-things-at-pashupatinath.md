@@ -10,7 +10,7 @@ I learned 4 things, in order of importance, with #1 being the most important and
 > Just keep your eyes on me"<br/>
 > I said, "You're holding back"<br/>
 > She said, "Shut up and dance with me"<br/>
-> <i>This woman is my destiny</i>
+> This woman is my destiny
 
 -https://genius.com/Walk-the-moon-shut-up-and-dance-lyrics
 

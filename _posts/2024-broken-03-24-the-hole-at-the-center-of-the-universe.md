@@ -2,3 +2,9 @@ There is a kind of sadness that comes from knowing too much, from seeing the wor
 — Virginia Woolf, To the Lighthouse
 
 Blog post: title "Ohhhhh". About how I used to think that pastors and priests had a literal direct link to God. Or somehow in theology training like actually, really, truly figured out theodicy and stuff. I grew up with a healthy respect and even admiration for institutions, which was completely dismantled by the disfunction in certain institutions I observed later in life
+
+Talk about theodicy
+
+Include this video from Elliot - Rachel Grimes: bloodroot: https://www.youtube.com/watch?v=g3RR1Wg_DCE
+
+Maybe talk about Heidegerrian Factity, Gerworfenheit, and Dasein 
