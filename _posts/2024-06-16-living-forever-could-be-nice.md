@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
   <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
-  <div style="font-size: 16px; font-style: italic; text-align: center;">We've pushed up the average, but the maximum is stuck around 120¹</div>
+  <div style="font-size: 16px; font-style: italic; text-align: center;">Why can't we push past 120?¹</div>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@ Years ago, I read about a woman who hit her financial freedom goal. The goal was
 </p>
 
 <p>
-She described it as an unbelievable feeling of joy, freedom, and lightness. She said that, if anything, the experience is underrated.
+She described it as unbelievable joy, freedom, and lightness. She said that, if anything, the experience is underrated.
 </p>
 
 <p>
@@ -33,7 +33,7 @@ As with the old trope that "money isn't important", what we wish were true (that
 
 <p>
 Also interesting was what happened <i>after</i> she achieved financial freedom.
-She said her wealth grew faster afterward.
+She said her wealth grew <i>faster</i> afterward.
 She worked more in alignment with her personal missions, took more calculated risks, and so on.
 </p>
 
@@ -63,9 +63,9 @@ I once saw someone remark upon a biographical film, about a man in his 80s who h
 </p>
 
 <p>
-I'd like a total 30 lifetimes, let's say, for a PhD then teaching and original research, in each of so many fields.
-Mathematics, history (a few times over for good coverage of world history), psychology, computing, artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and more.
-A few lifetimes for fluency in at least one language in each major language family.
+I'd like a total of <i>at least</i> 30 lifetimes, or so. Let's say a PhD, then teaching and original research, in each of so many fields.
+Mathematics, history (a few times over for good coverage of world history), psychology, computing - and artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and more.
+A few lifetimes for fluency in at least one language in each major language family. Let's say the Indo-European, Sino-Tibetan, Atlantic–Congo, Afroasiatic, Austronesian, and Dravidian language families to start⁷.
 The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
 </p>
 
@@ -118,7 +118,7 @@ The transcription factor "forkhead box O" (FoxO) has been identified as a critic
 </p>
 
 <p>
-So, Hydras prove it's possible. I think it'll be quite nice.
+So, Hydras prove it's possible. I think it would be nice.
 </p>
 
 <br/>
@@ -129,3 +129,4 @@ Sources:<br/>
 ⁴: [https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf) <br/>
 ⁵: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
 ⁶: [https://en.wikipedia.org/wiki/Hydra_(genus)](https://en.wikipedia.org/wiki/Hydra_(genus)) <br/>
+⁷: [https://en.wikipedia.org/wiki/List_of_language_families](https://en.wikipedia.org/wiki/List_of_language_families) <br/>
