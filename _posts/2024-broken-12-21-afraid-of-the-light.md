@@ -19,7 +19,9 @@ The French philosopher Michel Foucault called this "biopower":
 
 In his 1975 book, "Discipline and Punish", Foucault observed that schools, prisons, barracks, and hospitals all bear an uncanny resemblance to each other. He termed them all "Disciplinary institutions".
 
-In biology there's a maxim that "structure determines function". The function of a school and of a prison have eerily-many similarities, and therefore, perhaps, the characteristics of these institutions follow accordingly.
+In biology there's a maxim that "structure determines function". The function of a school and of a prison have eerily-many similarities, and therefore, perhaps, the "structural" characteristics - and even the physical design - of these institutions follow accordingly.
+Have you ever noticed how much an American prison looks like more-secured version of a public high school?
+The slate-grey concrete, the dull red, green, and blue pastel walls, the utilitarian windows, the brick exteriors.
 
 The standard rejoiner here is that schools must have some level of oppressive disciplinary control, otherwise how would we be able to shape students into adults?
 
