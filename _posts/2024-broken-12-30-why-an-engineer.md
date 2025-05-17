@@ -132,6 +132,10 @@ My advisor for my research project in Nepal: Anil Chitrakar
 ### Don't Become a Scientist!
 
 <p>
+I got my undergraduate degree in a pure physical science (astronomy). Why didn't I become a scientist?
+</p>
+
+<p>
 In 2016, I read an essay titled "Don't Become a Scientist!", by Professor Jonathan I. Katz, professor of physics at Washington University, St. Louis, Mo.
 
 Professor Katz wrote the article in 1999. This excerpt summarizes the essay:
