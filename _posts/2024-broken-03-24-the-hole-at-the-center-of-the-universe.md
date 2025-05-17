@@ -8,3 +8,6 @@ Talk about theodicy
 Include this video from Elliot - Rachel Grimes: bloodroot: https://www.youtube.com/watch?v=g3RR1Wg_DCE
 
 Maybe talk about Heidegerrian Factity, Gerworfenheit, and Dasein 
+
+Talk about Kurt Vonnegut and his writings. In particular, first, his experience in Dresden and his sentence about the bone dust mixed into the ground there.
+And second, his mention of the marathon runner, dead from old age on a stretcher in a hospital.
