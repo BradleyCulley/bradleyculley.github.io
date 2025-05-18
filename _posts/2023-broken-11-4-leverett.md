@@ -47,29 +47,28 @@ I just felt like writing it.
 </p>
 
 <p>
-Among the social milieu of the Northeastern liberal elite in which I grew up, there's an implicit and all-permeating secularism that in many ways is a good thing.
-There are no invocations of God when justifying behavior or performing decision-making.
-But there's perhaps something missing in leaving out things like pilgrimages.
+Among the social milieu of the Northeastern liberals in which I grew up, there's an implicit secularism that in many ways is a good thing.
+But there's perhaps something missing in leaving out religious experiences like pilgrimages.
 </p>
 
 <p>
 People have been making pilgrimages, in one form or another, for thousands of years.
-Also, they're often specifically pilgrimages on foot: walking to, or towards, the holy land - in whatever form that land may be.
+I've noticed, also, that they're often specifically pilgrimages on foot: walking to, or towards, a holy land of some kind.
 </p>
 
 <p>
 All humans were at one time persistence hunters.
 We would chase animals like Gazelles for extended periods of time, as a group, on foot, at a jogging pace, until the animal got exhausted.
-I once heard that typical total distances for the case - until the animal got exhaused - were about 10 kilometers. 
+I once heard that typical total distances for the chase - until the animal got exhausted - were about 10 kilometers. 
 </p>
 
 <p>
-I once read someone say it's perhaps no coincidence that modern humans get together and run road races as a group.
-Typical road race distances are about 5-10 kilometers, and most people run at a jogging pace.
+I once read the opinion that it's no coincidence that modern humans get together and run road races as a group.
+Typical road race distances are about 5-10 kilometers, usually at a jogging pace.
 </p>
 
 <p>
-A deep need for pilgrimages might be similar.
+A human need for pilgrimages, in some form or another, might be similar.
 </p>
 
 </i><br/><br/>
