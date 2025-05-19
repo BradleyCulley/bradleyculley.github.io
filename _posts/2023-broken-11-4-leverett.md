@@ -41,19 +41,14 @@ The one in Pokhara is at the top of a small mountain overlooking a lake.
 </p>
 
 <p>
-Below is a poem I wrote about the shrine and the surrounding area.
-The poem wasn't for a class or a project or anything.
-I just felt like writing it.
-</p>
-
-<p>
-Among the social milieu of the Northeastern liberals in which I grew up, there's an implicit secularism that in many ways is a good thing.
-But there's perhaps something missing in leaving out religious experiences like pilgrimages.
-</p>
-
-<p>
 People have been making pilgrimages, in one form or another, for thousands of years.
+A pilgrimage need to necessarily be directly religious in nature, either.
+It could be something like the Grand Canyon, the Eiffel Tower, or the birthplace of one of one's heros in life.
 I've noticed, also, that they're often specifically pilgrimages on foot: walking to, or towards, a holy land of some kind.
+</p>
+
+<p>
+
 </p>
 
 <p>
@@ -69,6 +64,16 @@ Typical road race distances are about 5-10 kilometers, usually at a jogging pace
 
 <p>
 A human need for pilgrimages, in some form or another, might be similar.
+</p>
+
+<p>
+Below is a poem I wrote about the shrine and the surrounding area.
+The poem wasn't for a class or a project or anything...just felt like writing it.
+</p>
+
+<p>
+The word "circumambulation", used in the poem, means walking around the shrine in a circular pattern.
+Circumambulation is a traditional way in which a religious devotee interacts with a temple or shrine.
 </p>
 
 </i><br/><br/>
