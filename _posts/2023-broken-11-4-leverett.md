@@ -87,7 +87,7 @@ And give that shade to mailboxes,<br/>
 which lie beneath the boughs that spring upward-<br/>
 from the dust of their gravel shore.<br/>
 
-And you, great white,<br/>
+And you, great shrine,<br/>
 hardly there amidst the pines,<br/>
 with hardly a glance to support<br/>
 your so worthy intentions.<br/>
