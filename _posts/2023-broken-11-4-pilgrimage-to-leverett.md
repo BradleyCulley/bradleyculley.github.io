@@ -1,4 +1,4 @@
-## <div align="center">Leverett</div>
+## <div align="center">Pilgrimage to Leverett</div>
 
 <div style="text-align: center">
 <p>
