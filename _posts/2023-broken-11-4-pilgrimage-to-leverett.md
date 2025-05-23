@@ -1,17 +1,19 @@
 ## <div align="center">Pilgrimage to Leverett</div>
 
-<div style="text-align: center">
 <p>
     On the last day of summer break before my junior year of college, in 2009, I took an 11-hour road trip from my hometown of Mercer, Maine to Leverett, Massachusetts.
+</p>
+
+<p>
     What was in Leverett, Massachusetts?
-    The New England Peace Pagoda, a Buddhist shrine. 
+    The New England Peace Pagoda, a Buddhist shrine.
 </p>
 
 <p>
     The building of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
     Here it is³:
     <div align="center">
-      <img src="https://bradleyculley.github.io/images/Leverett.jpeg" />
+      <img src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
     </div>
 </p>
 
@@ -76,6 +78,8 @@ The word "circumambulation", used in the poem, means walking around the shrine i
 Circumambulation is a traditional way in which a religious devotee interacts with a temple or shrine.
 </p>
 
+<div style="text-align: center">
+
 </i><br/><br/>
 <b style="font-size: 20px;">Leverett</b><br/><br/>
 
@@ -87,13 +91,14 @@ And give that shade to mailboxes,<br/>
 which lie beneath the boughs that spring upward-<br/>
 from the dust of their gravel shore.<br/>
 
-And you, great shrine,<br/>
+And you, great pagoda,<br/>
 hardly there amidst the pines,<br/>
 with hardly a glance to support<br/>
 your so worthy intentions.<br/>
 Or circumambulations to show how irrevocable<br/>
 is the nobility of your shining<br/>
 beneath the trees.<br/>
+
 </div>
 
 <br/>
