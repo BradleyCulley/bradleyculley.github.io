@@ -38,11 +38,11 @@ I drove to Leverett, spent perhaps 30 minutes or so at the site of the Pagoda, t
 
 <p>
 Around 9 months later, I visited another of the Peace Pagodas - this time in Pokhara, Nepal, while studying abroad in Nepal.
-The one in Pokhara is at the top of a small mountain overlooking a lake. Beautiful location.
+The one in Pokhara is at the top of a small mountain overlooking a lake. Beautiful:⁴
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Pokhara-Shanti-Stupa.jpg" />
-</div>⁴
+</div>
 </p>
 
 <p>
