@@ -1,7 +1,7 @@
 ## <div align="center">Pilgrimage to Leverett</div>
 
 <p>
-    In 2009, On the last day of summer break before my junior year of college, I took an 11-hour road trip from my hometown of Mercer, Maine to Leverett, Massachusetts.
+    In 2009, On the last day of summer break before my junior year of college, I took an 11-hour road trip from my hometown in Maine to Leverett, Massachusetts.
 </p>
 
 <p>
