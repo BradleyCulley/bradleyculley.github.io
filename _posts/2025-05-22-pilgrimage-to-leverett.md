@@ -13,7 +13,7 @@
     The building of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
     Here it is³:
     <div align="center">
-      <img src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
+      <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
     </div>
 </p>
 
@@ -93,6 +93,7 @@ beneath the trees.<br/>
 
 </div>
 
+<br/>
 <br/>
 Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga](https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga) <br/>
