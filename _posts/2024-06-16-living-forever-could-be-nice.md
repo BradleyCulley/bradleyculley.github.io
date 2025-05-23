@@ -1,7 +1,7 @@
 ### Living Forever Could Be Nice
 
 <div style="text-align: center;">
-  <img style="height: 80vh; width: auto;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Survival-Curves.png" />
   <div style="font-size: 16px; font-style: italic; text-align: center;">Why can't we push past 120?¹</div>
 </div>
 
@@ -102,7 +102,7 @@ I think artificial intelligence can help solve this.
 <p>
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁶
 <div style="text-align: center;">
-    <img style="height: 80vh; width: auto;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
+    <img style="height: 75%; width: 100%;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
 </div>
 </p>
 
