@@ -32,17 +32,10 @@ Nipponzan-Myōhōji-Daisanga is a highly peace-oriented group.
 
 <p>
 "In 1985 the first peace pagoda in the United States was completed, the New England Peace Pagoda in Leverett, Massachusetts."
-
-I drove to Leverett, spent perhaps 30 minutes or so at the site of the Pagoda, then drove home. About 11 hours round-trip.
 </p>
 
 <p>
-Around 9 months later, I visited another of the Peace Pagodas - this time in Pokhara, Nepal, while studying abroad in Nepal.
-The one in Pokhara is at the top of a small mountain overlooking a lake. Beautiful⁴:
-
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/Pokhara-Shanti-Stupa.jpg" />
-</div>
+On that day, I drove to Leverett, spent maybe 30 minutes at the site of the Pagoda, then drove home. About 11 hours round-trip.
 </p>
 
 <p>
