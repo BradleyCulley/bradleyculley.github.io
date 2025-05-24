@@ -11,7 +11,7 @@
 
 <p>
     The creation of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
-    This is a photo of the pagoda³:
+    This is a photo of the pagoda²:
     <div align="center">
       <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
     </div>
@@ -24,9 +24,9 @@
 <p>
 "The most recognizable achievement of Nipponzan-Myōhōji is peace pagodas (stupas), that have been erected in various locations around the world, the first of which was inaugurated in 1954 at Kumamoto in Japan. Since then cities such as London, New Delhi, Vienna, Comiso (in Italy) and Tokyo have all received peace pagodas."¹
 
-"Most, though not all, peace pagodas built since World War II have been built under the guidance of Nichidatsu Fujii (1885–1985), a Buddhist monk from Japan and founder of the Nipponzan-Myōhōji Buddhist Order."²
+"Most, though not all, peace pagodas built since World War II have been built under the guidance of Nichidatsu Fujii (1885–1985), a Buddhist monk from Japan and founder of the Nipponzan-Myōhōji Buddhist Order."³
 
-"In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace"²
+"In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace"³
 </p>
 
 <p>
@@ -114,7 +114,7 @@ beneath the trees.<br/>
 <br/>
 Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga](https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga) <br/>
-²: [https://en.wikipedia.org/wiki/Peace_Pagoda](https://en.wikipedia.org/wiki/Peace_Pagoda)<br/>
-³: [https://newenglandpeacepagoda.org](https://newenglandpeacepagoda.org)<br/>
+²: [https://newenglandpeacepagoda.org](https://newenglandpeacepagoda.org)<br/>
+³: [https://en.wikipedia.org/wiki/Peace_Pagoda](https://en.wikipedia.org/wiki/Peace_Pagoda)<br/>
 ⁴: [https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg](https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg)<br/>
 ⁵: [https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac](https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac/)<br/>
