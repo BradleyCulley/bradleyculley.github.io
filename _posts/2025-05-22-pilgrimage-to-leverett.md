@@ -69,6 +69,8 @@ Typical road race distances are about 5-10 kilometers, usually at a jogging pace
 A human need for pilgrimages might be similar.
 </p>
 
+<hr/>
+
 > The bottom of my shoes<br/>
 > are clean<br/>
 > from walking in the rain<br/>
@@ -98,7 +100,7 @@ and bend quietly the gait of children<br/>
 who wander in the shade.<br/>
 And give that shade to mailboxes,<br/>
 which lie beneath the boughs that spring upward-<br/>
-from the dust of their gravel shore.<br/>
+from the dust of their gravel shore.<br/><br/>
 
 And you, great pagoda,<br/>
 hardly there amidst the pines,<br/>

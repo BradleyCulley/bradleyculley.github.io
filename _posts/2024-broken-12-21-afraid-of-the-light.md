@@ -1,18 +1,39 @@
-I read a post on X recently, in which the author stated he was sick of making children do things against their will every day of their lives
+## <div align="center">Afraid of the Light</div>
 
+<p>
+I read a post on X recently, in which the author said he was sick of making children do things against their will every day of their lives
+</p>
+
+<p>
 After a certain point in the 1600s, candidates for rulers of the Ottoman Empire were confined to house arrest until they ascended to the throne and took power
+</p>
 
+<p>
 The building to which they were confined was called "Kafes", which simply and literally means "cage" in Turkish
+</p>
 
-Shocking to no one, Ottoman rulers came out of the literal cage batshit crazy. For example, Sultan Ibrahim, who ruled from 1640 to 1648, and was known as "Ibrahim the Mad".
+<p>
+Shocking no one, Ottoman rulers came out of the literal cage wildly crazy. An example is Sultan Ibrahim, who ruled from 1640 to 1648, who was known, un-creatively, as "Ibrahim the Mad".
+</p>
 
-Ibrahim the Mad was a sex addict and a dysfunctional ruler. Addiction is of course a textbook psychological reaction to traumatic life experiences.
+<p>
+Ibrahim the Mad was a sex addict and a wildly dysfunctional ruler. Addiction is, of course, a textbook psychological coping mechanism in response to traumatic life experiences.
+</p>
 
-Among other problems, Ibrahim the Mad's failed leadership led to the Cretan War (1645–1669). He was eventually executed (by strangling!) at the direction of his mother, at the age of 32.
+<p>
+Among other problems, Ibrahim the Mad's failed leadership led to the Cretan War (1645–1669).
+He was eventually executed (by strangling!) at the direction of his mother (!), at the age of 32.
+</p>
 
-I've noticed it's common practice to make children do things against their will more or less every day of their lives
+<hr/>
 
-Children then grow up and take power in the world. It's perhaps no coincidence that the world shaped by adults is as screwed up as it.
+<p>
+As the wise X poster notes, I've noticed it's common practice to make children do things against their will more or less every day of their lives
+"Ok yeah but what's the problem with that?, you may say. "After all, kids don't yet know what's good for them".
+Well, they don't stay kids forever.
+</p>
+
+Like Ibrahim the Mad, they grow up and take power in the world. It's perhaps no coincidence that the world shaped by adults is as bad as it.
 
 The French philosopher Michel Foucault called this "biopower":
 "For Foucault, biopower is a technology of power for managing humans in large groups; the distinctive quality of this political technology is that it allows for the control of entire populations."
