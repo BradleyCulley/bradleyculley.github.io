@@ -6,7 +6,8 @@
 
 <hr/>
 
-In early 2023, I had recently moved from Illinois to New Hampshire, and I booked an AirBnB in Hampton, New Hampshire.
+In early 2023, I'd recently moved from Illinois to New Hampshire.
+In New Hampshire, I spent some time living in Hampton, New Hampshire, right near the ocean.
 
 It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much; a little strip of coastal land.
 
@@ -18,7 +19,9 @@ Less than a 30-second walk.
 
 Everything about the condo was pleasant: the host, the booking process, the condo itself, the ocean right nearby.
 
-I worked remotely and cooked a lot of pan-fried chicken.
+I worked remotely and cooked a lot of pan-grilled chicken.
+
+<hr/>
 
 The trick was that it was January, so an oceanside AirBnB was pretty reasonably-priced.
 Most people don't go to the beach in cold New England winters.
