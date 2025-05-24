@@ -87,8 +87,6 @@ The word "circumambulation" in the poem means "walking around the shrine in a ci
 Circumambulation is a traditional way in which a person interacts with a shrine.
 </p>
 
-<hr/>
-
 <div style="text-align: center">
 
 <br/><br/>
