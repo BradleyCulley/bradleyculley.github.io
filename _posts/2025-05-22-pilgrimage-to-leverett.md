@@ -73,7 +73,7 @@ A human need for pilgrimages might be similar.
 > are clean<br/>
 > from walking in the rain<br/>
 
-― Haiku by Jack Kerouac⁴
+―Haiku by Jack Kerouac⁴
 
 <hr/>
 
