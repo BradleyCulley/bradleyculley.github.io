@@ -26,7 +26,7 @@
 
 "Most, though not all, peace pagodas built since World War II have been built under the guidance of Nichidatsu Fujii (1885–1985), a Buddhist monk from Japan and founder of the Nipponzan-Myōhōji Buddhist Order."³
 
-"In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace"³
+"In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace."³
 </p>
 
 <p>
@@ -36,19 +36,19 @@
 <hr/>
 
 <p>
-On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the Pagoda, then drove home. About 11 hours round-trip.
+On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the pagoda, then drove home. About 11 hours round-trip.
 </p>
 
 <hr/>
 
 <p>
 People have been making pilgrimages for thousands of years.
-A pilgrimage need not to be religious. It could be to the Grand Canyon or the Eiffel Tower.
+A pilgrimage need not be religious. It could be to the Grand Canyon or the Eiffel Tower.
 I've noticed, as well, that pilgrimages are often on foot: walking to a holy land of some kind.
 </p>
 
 <p>
-Earlier that same summer, on the way home from a different pilgrimage of sorts - to coastal Maine and back - I was talking to my father on the phone.
+Earlier that same summer, on the way home from a different pilgrimage of sorts — to coastal Maine and back — I was talking to my father on the phone.
 He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 </p>
 
@@ -73,7 +73,7 @@ A human need for pilgrimages might be similar.
 > are clean<br/>
 > from walking in the rain<br/>
 
-― Haiku by Jack Kerouac⁵
+― Haiku by Jack Kerouac⁴
 
 <hr/>
 
@@ -84,12 +84,12 @@ The poem wasn't for a class or a project or anything...just felt like writing it
 
 <p>
 The word "circumambulation" in the poem means "walking around the shrine in a circular pattern".
-Circumambulation is a traditional way in which a devotee interacts with shrine.
+Circumambulation is a traditional way in which a devotee interacts with a shrine.
 </p>
 
 <div style="text-align: center">
 
-</i><br/><br/>
+<br/><br/>
 <b style="font-size: 20px;">Leverett</b><br/><br/>
 
 Winding roads, roads that seem to slow the shrubs<br/>
@@ -116,5 +116,4 @@ Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga](https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga) <br/>
 ²: [https://newenglandpeacepagoda.org](https://newenglandpeacepagoda.org)<br/>
 ³: [https://en.wikipedia.org/wiki/Peace_Pagoda](https://en.wikipedia.org/wiki/Peace_Pagoda)<br/>
-⁴: [https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg](https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg)<br/>
-⁵: [https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac](https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac/)<br/>
+⁴: [https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac](https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac/)<br/>
