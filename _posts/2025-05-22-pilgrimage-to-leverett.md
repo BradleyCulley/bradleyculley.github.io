@@ -108,8 +108,7 @@ with hardly a glance to support<br/>
 your so worthy intentions.<br/>
 Or circumambulations to show how irrevocable<br/>
 is the nobility of your shining<br/>
-beneath the trees.<br/>
-
+beneath the trees.
 </div>
 
 <br/>
