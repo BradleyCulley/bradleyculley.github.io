@@ -1,25 +1,24 @@
 ## <div align="center">Pilgrimage to Leverett</div>
 
 <p>
-    In 2009, On the last day of summer break before my junior year of college, I took a road trip from my hometown in Maine to Leverett, Massachusetts, and back.
+    In 2009, on the last day of summer break before my junior year of college, I took a road trip from Maine to Leverett, Massachusetts, and back.
 </p>
 
 <p>
-    What was in Leverett, Massachusetts?
+    What's in Leverett, Massachusetts?
     The New England Peace Pagoda, a Buddhist shrine.
 </p>
 
 <p>
-    The building of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
-    Here it is³:
+    The creation of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
+    This is a photo of the pagoda³:
     <div align="center">
       <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
     </div>
 </p>
 
 <p>
-Nipponzan-Myōhōji-Daisanga is a highly peace-oriented group.
-"...[it] is actively engaged worldwide in the peace movement. It is the most pacifist group in Japan of seven religious movements surveyed by Robert Kisala."¹
+"...[Nipponzan-Myōhōji-Daisanga] is actively engaged worldwide in the peace movement. It is the most pacifist group in Japan of seven religious movements surveyed by Robert Kisala."¹
 </p>
 
 <p>
@@ -34,35 +33,53 @@ Nipponzan-Myōhōji-Daisanga is a highly peace-oriented group.
 "In 1985 the first peace pagoda in the United States was completed, the New England Peace Pagoda in Leverett, Massachusetts."
 </p>
 
+<hr/>
+
 <p>
-On that day, I drove to Leverett, spent maybe 30 minutes at the site of the Pagoda, then drove home. About 11 hours round-trip.
+On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the Pagoda, then drove home. About 11 hours round-trip.
+</p>
+
+<hr/>
+
+<p>
+People have been making pilgrimages for thousands of years.
+A pilgrimage need not to be religious. It could be to the Grand Canyon or the Eiffel Tower.
+I've noticed, as well, that pilgrimages are often on foot: walking to a holy land of some kind.
 </p>
 
 <p>
-People have been making pilgrimages, in one form or another, for thousands of years.
-A pilgrimage isn't always religious, either.
-It could be to the Grand Canyon, the Eiffel Tower, or the birthplace of one's hero in life.
-I've noticed, pilgrimages are often on foot: walking to a holy land of some kind.
+Earlier that same summer, on the way home from a different pilgrimage of sorts - to coastal Maine and back - I was talking to my father on the phone.
+He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
+</p>
+
+<hr/>
+
+<p>
+At one time, all humans were persistence hunters.
+We would chase animals for extended periods of time, as a group, on foot, at a jogging pace, until the animal got exhausted.
+I've heard that typical distances for the chase were about 10 kilometers. 
 </p>
 
 <p>
-All humans were at one time persistence hunters.
-We would chase animals like Gazelles for extended periods of time, as a group, on foot, at a jogging pace, until the animal got exhausted.
-I once heard that typical total distances for the chase - until the animal got exhausted - were about 10 kilometers. 
-</p>
-
-<p>
-I've read the opinion that it's no coincidence that modern humans get together and run road races as a group.
+I've read the opinion that it's no coincidence that, these days, humans get together and run road races as a group.
 Typical road race distances are about 5-10 kilometers, usually at a jogging pace.
 </p>
 
 <p>
-A human need for pilgrimages, in some form or another, might be similar.
+A human need for pilgrimages might be similar.
 </p>
 
+> The bottom of my shoes<br/>
+> are clean<br/>
+> from walking in the rain<br/>
+
+― Haiku by Jack Kerouac⁵
+
+<hr/>
+
 <p>
-Below is a poem I wrote about the shrine and the surrounding area.
-The poem wasn't for a class or a project or anything...I just felt like writing it.
+Below is a poem I wrote about the World Peace Pagoda in Leverett, and the surrounding area.
+The poem wasn't for a class or a project or anything...just felt like writing it.
 </p>
 
 <p>
@@ -100,3 +117,4 @@ Sources:<br/>
 ²: [https://en.wikipedia.org/wiki/Peace_Pagoda](https://en.wikipedia.org/wiki/Peace_Pagoda)<br/>
 ³: [https://newenglandpeacepagoda.org](https://newenglandpeacepagoda.org)<br/>
 ⁴: [https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg](https://en.wikipedia.org/wiki/Shanti_Stupa,_Pokhara#/media/File:Pokhara-Shanti-Stupa.jpg)<br/>
+⁵: [https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac](https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac/)<br/>
