@@ -78,14 +78,16 @@ A human need for pilgrimages might be similar.
 <hr/>
 
 <p>
-Below is a poem I wrote about the World Peace Pagoda in Leverett, and the surrounding area.
+Below is a poem I wrote about the World Peace Pagoda in Leverett and the surrounding area.
 The poem wasn't for a class or a project or anything...just felt like writing it.
 </p>
 
 <p>
 The word "circumambulation" in the poem means "walking around the shrine in a circular pattern".
-Circumambulation is a traditional way in which a devotee interacts with a shrine.
+Circumambulation is a traditional way in which a person interacts with a shrine.
 </p>
+
+<hr/>
 
 <div style="text-align: center">
 
