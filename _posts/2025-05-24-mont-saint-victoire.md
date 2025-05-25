@@ -13,13 +13,13 @@
 <hr/>
 
 <p>
-In college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
-The series of paintings is called "Mont Sainte-Victoire".
-The name of the class was "The Writing of Poetry".
+In a college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
+The series is titled "Mont Sainte-Victoire".
+The name of the college class was "The Writing of Poetry".
 </p>
 
 <p>
-I can't remember which painting in the series I was looking at when thinking of the poem. It may have been the one included above here. All the paintings in the series are similar, though. 
+I can't remember which painting in the series I was looking at when thinking of the poem. It may have been the one pictured above. All the paintings in the series are similar, though. 
 </p>
 
 <hr/>
@@ -59,7 +59,7 @@ fields between the homesteads<br/>
 white cloud and blue mountain<br/>
 float in muted synchrony<br/>
 beyond the sunshine hamlet<br/>
-and its aquaduct<br/>
+and its aqueduct<br/>
 
 <br/>
 <br/>
