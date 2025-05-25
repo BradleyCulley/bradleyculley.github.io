@@ -6,20 +6,20 @@
   <img src="https://bradleyculley.github.io/images/Mont_Sainte-Victoire.jpg" />
 </div>
 <span align="center">
-Mont Sainte-Victoire and the Viaduct of the Arc River Valley, by Paul Cézanne¹
+<i>Mont Sainte-Victoire and the Viaduct of the Arc River Valley</i>, by Paul Cézanne¹
 </span>
 <br>
 
 <hr/>
 
 <p>
-In college in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
+In college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
 The series of paintings is called "Mont Sainte-Victoire".
 The name of the class was "The Writing of Poetry".
 </p>
 
 <p>
-I can't remember which painting in the series I was looking at when thinking of the poem, but all the paintings in the series are similar. 
+I can't remember which painting in the series I was looking at when thinking of the poem. It may have been the one included above here. All the paintings in the series are similar, though. 
 </p>
 
 <hr/>
