@@ -99,7 +99,7 @@ that grow beside the trees<br/>
 and bend quietly the gait of children<br/>
 who wander in the shade.<br/>
 And give that shade to mailboxes,<br/>
-which lie beneath the boughs that spring upward-<br/>
+which lie beneath the boughs that spring upward<br/>
 from the dust of their gravel shore.<br/><br/>
 
 And you, great pagoda,<br/>
