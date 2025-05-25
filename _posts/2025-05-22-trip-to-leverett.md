@@ -1,4 +1,4 @@
-## <div align="center">Pilgrimage to Leverett</div>
+## <div align="center">Trip to Leverett</div>
 
 <p>
     In 2009, on the last day of summer break before my junior year of college, I took a road trip from Maine to Leverett, Massachusetts, and back.

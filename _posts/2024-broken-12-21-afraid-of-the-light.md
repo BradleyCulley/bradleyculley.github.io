@@ -33,7 +33,9 @@ As the wise X poster notes, I've noticed it's common practice to make children d
 Well, they don't stay kids forever.
 </p>
 
+<p>
 Like Ibrahim the Mad, they grow up and take power in the world. It's perhaps no coincidence that the world shaped by adults is as bad as it.
+</p>
 
 The French philosopher Michel Foucault called this "biopower":
 "For Foucault, biopower is a technology of power for managing humans in large groups; the distinctive quality of this political technology is that it allows for the control of entire populations."
