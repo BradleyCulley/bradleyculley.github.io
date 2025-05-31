@@ -85,3 +85,5 @@ Ripostes:<br/>
 "For as children tremble and fear everything in the blind darkness, so we in the light sometimes fear what is no more to be feared than the things that children in the dark hold in terror and imagine will come true"
 -Lucretius, from the poem "De Rerum Natura"
 </p>
+
+Add to the afraid of the light essay the prison stuff. The main prison with the guy being sprayed maybe. The Georgia prisons with a violation of their constitutional rights. The wing correctional essay and mother Jones and or it talks about the sexual slaves there. And tie it back to recidivism. You expect someone to endure these conditions and come out a well-functioning will adjusted member of society. That's a bit much.
