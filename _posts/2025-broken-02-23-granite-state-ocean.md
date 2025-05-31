@@ -6,34 +6,47 @@
 
 <hr/>
 
-In early 2023, I'd recently moved from Illinois to New Hampshire.
-In New Hampshire, I spent some time living in Hampton, New Hampshire, right near the ocean.
+"The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul." –Robert Wyland
 
-It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much; a little strip of coastal land.
+<hr/>
 
-Hampton, New Hampshire is one of the towns on that strip of land. The short driveway to the AirBnB was off a road that ran right alongside the ocean.
-The road was named Ocean Boulevard, as it so happened.
+In 2023, I spent some time living in Hampton, New Hampshire, right near the ocean.
 
-The condo was a rear building, at the end of a parking lot, but it was a few hundred feet from the ocean.
-Less than a 30-second walk.
+It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
 
-Everything about the condo was pleasant: the host, the booking process, the condo itself, the ocean right nearby.
+***TODO add a picture of a map with the coastline highlighted**
+
+Hampton, New Hampshire is one of the towns on that strip of coastline.
+The short driveway to the first place I lived in Hampton was off a road that ran directly alongside the ocean.
+
+The road was named "Ocean Boulevard".
+
+The condo was a rear building, at the end of a parking lot, but only a few hundred feet from the ocean.
+Less than a 60-second walk to be looking at the waves.
+
+Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
 
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <hr/>
 
-The trick was that it was January, so an oceanside AirBnB was pretty reasonably-priced.
+<p>
+The trick was I rented it in the winter, so it was pretty reasonably-priced.
 Most people don't go to the beach in cold New England winters.
+</p>
 
-I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall separating Ocean Boulevard from the sandy beach.
-There were constant medium-sized waves rolling in from the horizon; breaking when they hit the sand, crashing with a pleasant hiss.
+<p>
+I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then down the sidewalk along the seawall that separated Ocean Boulevard from the sandy beach below.
+Medium-sized waves rolled in constantly from the horizon; breaking when they hit the sand and crashing with a pleasant hiss.
+</p>
 
-The town was pretty quiet: not many people on the sidewalk, a rythmic crashing of the waves.
+<p>
+Hampton was quiet at night: not many people on the sidewalk. A big sky over the ocean; rythmic crashing of the waves.
+</p>
+
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
 
-"The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul." –Robert Wyland
 
 <mention that I don't have any complaints here - just felt like sharing>
 <talk about grandma Nora and how she loved the beach>
