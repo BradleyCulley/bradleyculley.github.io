@@ -108,7 +108,6 @@
 </p>
 
 <p>
-    As Oswald Spengler wrote:<br/>
     "A people can never choose between different types of government.
     It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
     What gets written into a constitution is never essential.
@@ -216,9 +215,10 @@ ___
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
-  <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
-  <div style="font-size: 15px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
+    <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
+    <br>
+    <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
+    <div style="font-size: 15px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
 </div>
 
 <br/>
