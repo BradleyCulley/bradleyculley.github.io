@@ -240,7 +240,7 @@ ___
 
 <p>
     Joseph Campbell called this "the hieratic pantomime, making visible on earth the forms of heaven".¹⁷
-    It's really about what heaven looks like to you.
+    It's really about which "forms of heaven" your culture <i>truly</i> prioritizes.
 </p>
 
 <br/>
