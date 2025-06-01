@@ -1,5 +1,9 @@
 ## <div align="center">Afraid of the Light</div>
 
+
+Perhaps quote this entire speech by Carl Sagan at the start of the essay, here: https://www.youtube.com/watch?v=4rmTK6-Ou4A
+The clip you've referenced features Carl Sagan walking along the ocean and reflecting on humanity's dreams—both beautiful and troubling. This segment is from the final episode of his 1980 television series Cosmos: A Personal Voyage, titled "Who Speaks for Earth?"
+
 <p>
 I read a post on X recently, in which the author said he was sick of making children do things against their will every day of their lives
 </p>

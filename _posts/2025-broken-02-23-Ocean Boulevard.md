@@ -31,18 +31,24 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 <hr/>
 
 <p>
-The trick was I rented it in the winter, so it was pretty reasonably-priced.
+The trick was I rented it in the winter, so it was reasonably priced.
 Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
-I used to go for walks, usually at night, from the condo building, through the parking lot, out to Ocean Boulevard, and then down the sidewalk along the seawall that separated Ocean Boulevard from the sandy beach below.
-Medium-sized waves rolled in constantly from the horizon; breaking when they hit the sand and crashing with a pleasant hiss.
+I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
+Waves rolled in constantly from the horizon; breaking when they hit the sand, each crashing with a muted hiss.
 </p>
 
 <p>
 Hampton was quiet at night: not many people on the sidewalk. A big sky over the ocean; rythmic crashing of the waves.
 </p>
+
+<hr/>
+
+Later, I stayed for a while in another condo, also on Ocean Boulevard, but this time with a direct ocean view.
+This is the view 
+
 
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
