@@ -10,9 +10,9 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Marpha.jpeg" />
 </div>
-<span align="center">
+<div align="center">
 (An orchard in Marpha, in the Annapurna mountain range of the Nepali Himalayas. I took the photo in 2010.)
-</span>
+</div>
 <br>
 
 ---
