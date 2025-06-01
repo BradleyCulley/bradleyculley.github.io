@@ -11,7 +11,7 @@
   <img src="https://bradleyculley.github.io/images/Marpha.jpeg" />
 </div>
 <div align="center">
-An orchard in Marpha, in the Annapurna mountain range of the Nepali Himalayas.<br/>I took the photo in 2010.
+An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<br/>I took the photo in 2010.
 </div>
 <br>
 
