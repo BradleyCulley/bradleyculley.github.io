@@ -37,11 +37,14 @@ Most people don't go to the beach in cold New England winters.
 
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
+This photo I took shows the seawall:
+
+
 Waves rolled in constantly from the horizon; breaking when they hit the sand, each crashing with a muted hiss.
 </p>
 
 <p>
-Hampton was quiet at night: not many people on the sidewalk. A big sky over the ocean; rythmic crashing of the waves.
+Hampton was quiet at night. Not many people were out on the sidewalk along the seawall. A big sky over the ocean; rythmic crashing of the waves.
 </p>
 
 <hr/>
