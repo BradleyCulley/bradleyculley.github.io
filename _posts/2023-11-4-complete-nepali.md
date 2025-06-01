@@ -1,5 +1,5 @@
-## <div align="center">Complete Nepali: A Teach Yourself Guide</div>
-<div style="font-size: 25px; font-weight: bold;" align="center">by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
+## <div align="center">Complete Nepali</div>
+<div style="font-size: 25px; font-weight: bold;" align="center">A Teach Yourself Guide, by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
 
 ---
 
