@@ -5,9 +5,9 @@
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Mont_Sainte-Victoire.jpg" />
 </div>
-<span align="center">
+<div align="center">
 <i>Mont Sainte-Victoire and the Viaduct of the Arc River Valley</i>, by Paul Cézanne¹
-</span>
+</div>
 <br>
 
 <hr/>
