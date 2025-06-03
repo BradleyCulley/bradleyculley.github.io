@@ -54,7 +54,7 @@ I am again Paul: again a painter<br/>
 A freshly woken mind<br/>
 from a midday nap projected<br/>
 onto the ill-defined edges,<br/>
-the windy country roads,
+the windy country roads,<br/>
 and spacious fields between the homesteads<br/>
 
 White cloud and blue mountain<br/>
