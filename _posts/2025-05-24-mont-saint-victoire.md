@@ -14,12 +14,13 @@
 
 <p>
 In a college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
-The series is titled "Mont Sainte-Victoire".
+The series is titled "Mont Sainte-Victoire". Mont Sainte-Victoire is a mountain ridge in the south of France.²
 The name of the college class was "The Writing of Poetry".
 </p>
 
 <p>
-I can't remember which painting in the series I was looking at when thinking of the poem. It may have been the one pictured above. All the paintings in the series are similar, though. 
+Below are the poems, with slight updates.
+I can't remember which painting in the series I was looking at when writing the poems. It may have been the one pictured above. All the paintings in the series are of the same landscape with the mountain ridge. 
 </p>
 
 <hr/>
@@ -53,10 +54,10 @@ I am again Paul: again a painter<br/>
 A freshly woken mind<br/>
 from a midday nap projected<br/>
 onto the ill-defined edges,<br/>
-the windy country roads and spacious<br/>
-fields between the homesteads<br/>
+the windy country roads,
+and spacious fields between the homesteads<br/>
 
-white cloud and blue mountain<br/>
+White cloud and blue mountain<br/>
 float in muted synchrony<br/>
 beyond the sunshine hamlet<br/>
 and its aqueduct<br/>
@@ -65,3 +66,4 @@ and its aqueduct<br/>
 <br/>
 Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/File:Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_(Metropolitan_Museum_of_Art).jpg](https://en.wikipedia.org/wiki/File:Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_(Metropolitan_Museum_of_Art).jpg) <br/>
+²: [https://en.wikipedia.org/wiki/Montagne_Sainte-Victoire](https://en.wikipedia.org/wiki/Montagne_Sainte-Victoire) <br/>
