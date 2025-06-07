@@ -1,7 +1,8 @@
 ## <div align="center">Granite State Ocean<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
+    <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
+    <div style="font-size: 15px; font-style: italic;">Hampton, New Hampshire. All photos in this post are my own, taken during my stay there.</div>
 </div>
 
 <hr/>
@@ -77,6 +78,20 @@ It was like a little jetpack of calm added to my mind.
 Perhaps like going to a spa or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly in a crazy crazy world — done something nice for yourself.
 A sliver of pure, simple, harmless self-love.
 </p>
+
+<p>
+We can often be quite hard on ourselves, especially among those of us who are conscientious and hard-working by nature.
+Bronnie Ware is an Australian palliative care worker and author.
+She works providing care to people who are in the process of dying.
+She is the author of the internationally bestselling memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
+Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/blog/regrets-of-the-dying/
+</p>
+
+<p>
+Eventually, I moved on from Hampton to live elsewhere in New Hampshire, but a piece of Hampton stayed with me.
+</p>
+
+https://bronnieware.com/blog/regrets-of-the-dying/
 
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
