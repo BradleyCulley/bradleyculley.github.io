@@ -82,7 +82,7 @@ A sliver of pure, simple, harmless self-love.
 <p>
 We can often be quite hard on ourselves, especially among those of us who are conscientious and hard-working by nature.
 Bronnie Ware is an Australian palliative care worker and author.
-She works providing care to people who are in the process of dying.
+She works providing care to people who are in the process of dying, whether from a terminal illness or simply from old age.
 She is the author of the internationally bestselling memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
 Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/blog/regrets-of-the-dying/
 </p>
