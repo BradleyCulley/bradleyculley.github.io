@@ -38,25 +38,26 @@ Most people don't go to the beach in cold New England winters.
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
 This photo I took shows the seawall:
-
+<add the photo>
 
 Waves rolled in constantly from the horizon; breaking when they hit the sand, each crashing with a muted hiss.
 </p>
 
 <p>
-Hampton was quiet at night. Not many people were out on the sidewalk along the seawall. A big sky over the ocean; rythmic crashing of the waves.
+Hampton was quiet at night. Not many people on the sidewalk by the seawall. A big sky over the ocean; rythmic crashing of the waves.
 </p>
 
 <hr/>
 
 Later, I stayed for a while in another condo, also on Ocean Boulevard, but this time with a direct ocean view.
-This is the view 
+This is the view:
+<include the view photo here>
 
 
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
 
-
+<Talk about the experience of working and looking over the ocean, Show the picture with my desk, put a note that all the photos are my own>
 <mention that I don't have any complaints here - just felt like sharing>
 <talk about grandma Nora and how she loved the beach>
 <talk about how the brain naturally looks for problems, but not so much for serenity>
