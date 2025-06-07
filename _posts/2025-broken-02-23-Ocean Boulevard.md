@@ -10,7 +10,7 @@
 
 <hr/>
 
-In 2023, I spent some time living in Hampton, New Hampshire, right near the ocean.
+A few years ago, I spent some time living in Hampton, New Hampshire, right near the ocean.
 
 It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
 
@@ -51,10 +51,32 @@ Hampton was quiet at night. Not many people on the sidewalk along the seawall. A
 
 <hr/>
 
-Later, I stayed for a while in another condo, also on Ocean Boulevard, but this time with a direct ocean view.
-This is the view:
-<include the view photo here>
+<p>
+I also stayed in a different condo on Ocean Boulevard, just down the road, this time with a direct oceanfront view.
+The condo had a sliding glass window that opened to a balcony looking out over the ocean:
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
+</div>
 
+Beautiful.
+</p>
+
+<p>
+I worked from a desk just off the righthand side of that photo.
+Sometimes I'd leave the curtains open so I could turn my desk chair the side and see the ocean. 
+</p>
+
+<p>
+Something I noticed, both from time spent sitting on that balcony and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
+Perhaps through some hardcoded circuits in the brain, it seems the sound of the ocean is naturally relaxing.
+For the first time, I really understood why people pay such a premium for oceanfront real estate.
+</p>
+
+<p>
+It was like a little jetpack of calm added to my mind.
+Perhaps like going to a spa or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly in a crazy crazy world — done something nice for yourself.
+A sliver of pure, simple, harmless self-love.
+</p>
 
 Henry David Thoreau wrote an entire book about walking.
 <Add quotation from his book here, and elsewhere>
