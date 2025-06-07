@@ -20,4 +20,4 @@ That is to say, if that doesn't happen, it'll be a breach of contract and I'll r
 for the termination of the contract by default by Capital One.
 The conversation fizzled out at that point and that's the last I heard.
 Folks from Capital One have reached out multiple times since, somehow always oblivious to my prior experience and offer.
-No hassle.
+As the marketing slogan goes, "Capital One no hassle".
