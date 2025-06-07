@@ -16,13 +16,13 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 
 ***TODO add a picture of a map with the coastline highlighted**
 
-Hampton, New Hampshire is one of the towns on that strip of coastline.
-The short driveway to the first place I lived in Hampton was off a road that ran directly alongside the ocean.
+Hampton is one of the towns on that strip of coastline.
+The short driveway to one of the places I lived in Hampton was off a road that ran directly alongside the ocean.
 
 The road was named "Ocean Boulevard".
 
-The condo was a rear building, at the end of a parking lot, but only a few hundred feet from the ocean.
-Less than a 60-second walk to be looking at the waves.
+The condo was a rear building, at the end of a parking lot, a few hundred feet from the ocean.
+Less than a 60-second walk to be on the beach listening to the waves.
 
 Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
 
@@ -38,13 +38,15 @@ Most people don't go to the beach in cold New England winters.
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
 This photo I took shows the seawall:
-<add the photo>
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
+</div>
 
-Waves rolled in constantly from the horizon; breaking when they hit the sand, each crashing with a muted hiss.
+Waves rolled in from the horizon, breaking when they hit the sand. Each crashed with a muted hiss.
 </p>
 
 <p>
-Hampton was quiet at night. Not many people on the sidewalk by the seawall. A big sky over the ocean; rythmic crashing of the waves.
+Hampton was quiet at night. Not many people on the sidewalk along the seawall. A big sky over the ocean, rythmic crashing of the waves.
 </p>
 
 <hr/>
