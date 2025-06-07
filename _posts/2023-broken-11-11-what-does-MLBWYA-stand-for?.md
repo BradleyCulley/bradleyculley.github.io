@@ -18,5 +18,5 @@ This is the front of the card he chose - beautiful design:
 
 <p>
 The phrase burrowed deeply into my mind.
-It seems as good a summary as possible of really matters in life, and so I've made it the title of this blog.
+It seems as good a summary as possible of matters most in life, and so I've made it the title of this blog.
 </p>
