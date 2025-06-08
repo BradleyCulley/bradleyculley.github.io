@@ -53,7 +53,7 @@ Circumambulation is a traditional way in which a person interacts with a shrine.
 
 <div style="text-align: center">
 
-<br/><br/>
+<br/>
 <b style="font-size: 20px;">Leverett</b><br/><br/>
 
 Winding roads, roads that seem to slow the shrubs<br/>
