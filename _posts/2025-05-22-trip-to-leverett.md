@@ -72,7 +72,7 @@ A human need for pilgrimages might be similar.
 <hr/>
 
 > The bottom of my shoes<br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are clean<br/>
+> are clean<br/>
 > from walking in the rain<br/>
 
 ―Haiku by Jack Kerouac⁴
