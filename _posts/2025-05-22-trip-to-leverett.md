@@ -51,7 +51,7 @@ I've noticed that pilgrimages are often on foot: walking to a holy land of some 
 
 <p>
 Earlier that same summer, on the way home from a different pilgrimage of sorts — to coastal Maine and back — I was talking to my father on the phone.
-He told me Jack Kerouac used to feel somehow "wiped clean", so to speak, after his travels.
+He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 </p>
 
 <hr/>
