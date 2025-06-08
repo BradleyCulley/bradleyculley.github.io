@@ -40,8 +40,8 @@ He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 </p>
 
 <p>
-Below is an updated version of a poem I wrote — I think shortly after the trip — about the area around the pagoda, and the pagoda itself.
-The poem wasn't for a class or anything: I just felt like writing it.
+Below is an updated version of a poem I wrote — I think shortly after the trip — about the area around the pagoda and the pagoda itself.
+The poem wasn't for a class or anything: just felt like writing it.
 </p>
 
 <p>
