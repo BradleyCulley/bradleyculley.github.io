@@ -79,4 +79,3 @@ Sources:<br/>
 ¹: [https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga](https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga) <br/>
 ²: [https://newenglandpeacepagoda.org](https://newenglandpeacepagoda.org)<br/>
 ³: [https://en.wikipedia.org/wiki/Peace_Pagoda](https://en.wikipedia.org/wiki/Peace_Pagoda)<br/>
-⁴: [https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac](https://briefpoems.wordpress.com/2017/05/29/the-taste-of-rain-american-haiku-by-jack-kerouac/)<br/>
