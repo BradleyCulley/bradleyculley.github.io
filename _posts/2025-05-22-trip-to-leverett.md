@@ -38,7 +38,7 @@
 <hr/>
 
 <p>
-On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the pagoda, then drove home. It was about 11-hours, round-trip.
+On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the pagoda, then drove home. The round trip was about 11-hours.
 </p>
 
 <hr/>
