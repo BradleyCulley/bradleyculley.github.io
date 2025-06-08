@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    The creation of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhism-adjacent Japanese religious organization founded in 1917¹.
+    The creation of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhist-adjacent Japanese religious organization founded in 1917¹.
     This is the pagoda - it's the structure on the right-hand side of the photo²:
     <div align="center">
       <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
@@ -38,7 +38,7 @@
 <hr/>
 
 <p>
-On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the pagoda, then drove home. The round trip was about 11-hours.
+On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of the pagoda, then drove home. The round trip was about 11 hours.
 </p>
 
 <hr/>
