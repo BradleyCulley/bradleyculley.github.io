@@ -58,7 +58,7 @@ He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 
 <p>
 At one time, all humans were persistence hunters.
-We would chase animals for extended periods of time, as a group, on foot, at a jogging pace, until the animal got exhausted.
+We would chase animals for extended periods of time as a group, on foot at a jogging pace, until the animal got exhausted.
 I've heard that typical distances for the chase were about 10 kilometers. 
 </p>
 
