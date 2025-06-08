@@ -29,8 +29,6 @@ The one in Leverett was the first built in the United States, in 1985.¹
 I drove to Leverett, spent maybe 30 minutes at the pagoda and the grounds around it, then drove home. The round trip was about 11 hours.
 </p>
 
-<hr/>
-
 <p>
 People have been making pilgrimages for thousands of years.
 A pilgrimage can be secular, too: the Grand Canyon or the Eiffel Tower.
@@ -41,8 +39,6 @@ I've noticed pilgrimages are often on foot: walking to some kind of holy land.
 Earlier that same summer, on the way home from a different pilgrimage of sorts — to coastal Maine and back — I was talking to my father on the phone.
 He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 </p>
-
-<hr/>
 
 <p>
 Below is an updated version of a poem I wrote — I think shortly after the trip — about the area around the pagoda, and the pagoda itself.
