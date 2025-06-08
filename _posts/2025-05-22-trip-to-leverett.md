@@ -35,7 +35,6 @@ On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of 
 People have been making pilgrimages for thousands of years.
 A pilgrimage can be secular, too: the Grand Canyon or the Eiffel Tower.
 I've noticed pilgrimages are often on foot: walking to some kind of holy land.
-There seems to be some deep human need for pilgrimages.
 </p>
 
 <p>
