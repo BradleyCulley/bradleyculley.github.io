@@ -23,7 +23,9 @@
 
 <p>
 "The most recognizable achievement of Nipponzan-Myōhōji is peace pagodas (stupas), that have been erected in various locations around the world, the first of which was inaugurated in 1954 at Kumamoto in Japan. Since then cities such as London, New Delhi, Vienna, Comiso (in Italy) and Tokyo have all received peace pagodas."¹
+</p>
 
+<p>
 "Most, though not all, peace pagodas built since World War II have been built under the guidance of Nichidatsu Fujii (1885–1985), a Buddhist monk from Japan and founder of the Nipponzan-Myōhōji Buddhist Order."³
 
 "In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace."³
