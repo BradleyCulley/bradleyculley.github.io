@@ -46,7 +46,7 @@ On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of 
 <p>
 People have been making pilgrimages for thousands of years.
 A pilgrimage need not be religious. It could be to the Grand Canyon or the Eiffel Tower.
-I've noticed, as well, that pilgrimages are often on foot: walking to a holy land of some kind.
+I've noticed that pilgrimages are often on foot: walking to a holy land of some kind.
 </p>
 
 <p>
