@@ -63,7 +63,7 @@ I've heard that typical distances for the chase were about 10 kilometers.
 </p>
 
 <p>
-I've read the opinion that it's no coincidence that, these days, humans get together and run road races as a group.
+I've read that it's no coincidence that, these days, humans get together and run road races as a group.
 Typical road race distances are about 5-10 kilometers, usually at a jogging pace.
 </p>
 
