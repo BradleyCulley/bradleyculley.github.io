@@ -35,6 +35,7 @@ On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of 
 People have been making pilgrimages for thousands of years.
 A pilgrimage can be secular, too: the Grand Canyon or the Eiffel Tower.
 I've noticed pilgrimages are often on foot: walking to some kind of holy land.
+There seems to be some deep human need for pilgrimages.
 </p>
 
 <p>
@@ -45,24 +46,7 @@ He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 <hr/>
 
 <p>
-Humans have a history of often being persistence hunters.
-We would chase animals for extended periods of time as a group, on foot at a jogging pace, until the animal got exhausted.
-I've heard that typical distances for the chase were about 10 kilometers. 
-</p>
-
-<p>
-I've read that it's no coincidence that, these days, humans get together and run road races as a group.
-Typical road race distances are about 5-10 kilometers, usually at a jogging pace.
-</p>
-
-<p>
-A human need for pilgrimages may be similar.
-</p>
-
-<hr/>
-
-<p>
-Below is an updated version of a poem I wrote — I think shortly after the trip — about the pagoda in Leverett, and the surrounding area.
+Below is an updated version of a poem I wrote — I think shortly after the trip — about the area around the pagoda, and the pagoda itself.
 The poem wasn't for a class or anything: I just felt like writing it.
 </p>
 
