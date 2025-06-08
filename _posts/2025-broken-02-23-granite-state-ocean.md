@@ -11,19 +11,33 @@
 
 <hr/>
 
-A few years ago, I spent some time living in Hampton, New Hampshire, right near the ocean.
+<p>
+A few years ago, I spent some time living right near the ocean, in Hampton, New Hampshire.
+</p>
 
+<p>
 It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
-
 ***TODO add a picture of a map with the coastline highlighted**
+</p>
 
+<p>
 Hampton is one of the towns on that strip of coastline.
 The short driveway to one of the places I lived in Hampton was off a road that ran directly alongside the ocean.
+</p>
 
+<p>
 The road was named "Ocean Boulevard".
-
 The condo was a rear building, at the end of a parking lot, a few hundred feet from the ocean.
 Less than a 60-second walk to be on the beach listening to the waves.
+</p>
+
+<p>
+This is beach, right near the condo:
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/the-beach-in-Hampton.jpg" />
+</div>
+</p>
+
 
 Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
 
@@ -32,13 +46,13 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 <hr/>
 
 <p>
-The trick was I rented it in the winter, so it was reasonably priced.
+The trick was renting it in the winter, when the price was much lower.
 Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
-This photo I took shows the seawall:
+This shows the seawall:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
 </div>
@@ -64,31 +78,26 @@ Beautiful.
 
 <p>
 I worked from a desk just off the righthand side of that photo.
-Sometimes I'd leave the curtains open so I could turn my desk chair the side and see the ocean. 
+Sometimes I'd leave the curtains open so I could swivel my desk chair and look out over the ocean. 
 </p>
 
 <p>
 Something I noticed, both from time spent sitting on that balcony and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
-Perhaps through some hardcoded circuits in the brain, it seems the sound of the ocean is naturally relaxing.
-For the first time, I really understood why people pay such a premium for oceanfront real estate.
+I understood why people pay such a premium for oceanfront real estate.
 </p>
 
 <p>
-It was like a little jetpack of calm added to my mind.
+It was a little jetpack of calm in my mind.
 Perhaps like going to a spa or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly in a crazy crazy world — done something nice for yourself.
-A sliver of harmless self-love.
+A harmless sliver of self-love.
 </p>
 
 <p>
-We can often be quite hard on ourselves, especially those of us who are conscientious and hard-working by nature.
+We can often be quite hard on ourselves, especially those who are conscientious and hard-working by nature.
 Bronnie Ware is an Australian palliative care worker and author.
 She works providing care to people who are in the process of dying, whether from a terminal illness or simply from old age.
 She is the author of the internationally bestselling memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
 Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/blog/regrets-of-the-dying/
-</p>
-
-<p>
-Eventually, I moved from Hampton to elsewhere in New Hampshire, but the good memories of Hampton stayed.
 </p>
 
 https://bronnieware.com/blog/regrets-of-the-dying/

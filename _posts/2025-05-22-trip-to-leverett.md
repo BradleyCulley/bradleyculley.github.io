@@ -32,11 +32,10 @@ I drove to Leverett, spent maybe 30 minutes at the pagoda and the grounds around
 <p>
 People have been making pilgrimages for thousands of years.
 A pilgrimage can be secular, too: the Grand Canyon or the Eiffel Tower.
-I've noticed pilgrimages are often on foot: walking to some kind of holy land.
 </p>
 
 <p>
-Earlier that same summer, on the way home from a different pilgrimage of sorts — to coastal Maine and back — I was talking to my father on the phone.
+Earlier that summer, on the way home from a different pilgrimage of sorts — to coastal Maine and back — I was talking to my father on the phone.
 He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 </p>
 
