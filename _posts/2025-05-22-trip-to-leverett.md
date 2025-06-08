@@ -82,8 +82,8 @@ A human need for pilgrimages might be similar.
 <hr/>
 
 <p>
-Below is a poem I wrote about the World Peace Pagoda in Leverett and the surrounding area.
-The poem wasn't for a class or a project or anything...just felt like writing it.
+Below is a poem I wrote — I think sometime shortly after the trip — about the World Peace Pagoda in Leverett and the surrounding area.
+The poem wasn't for a class or anything...just felt like writing it.
 </p>
 
 <p>
