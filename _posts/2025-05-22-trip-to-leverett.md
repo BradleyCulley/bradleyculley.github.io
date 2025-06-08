@@ -1,7 +1,7 @@
 ## <div align="center">Trip to Leverett</div>
 
 <p>
-    In 2009, on the last day of summer break before my junior year of college, I took a road trip from my home in central Maine to Leverett, Massachusetts, and back.
+    In 2009, on the last day of summer break before my junior year of college, I took a road trip from my home town in central Maine to Leverett, Massachusetts, and back.
 </p>
 
 <p>
@@ -18,21 +18,9 @@
 </p>
 
 <p>
-"...[Nipponzan-Myōhōji-Daisanga] is actively engaged worldwide in the peace movement. It is the most pacifist group in Japan of seven religious movements surveyed by Robert Kisala."¹
-</p>
-
-<p>
-"The most recognizable achievement of Nipponzan-Myōhōji is peace pagodas (stupas), that have been erected in various locations around the world, the first of which was inaugurated in 1954 at Kumamoto in Japan. Since then cities such as London, New Delhi, Vienna, Comiso (in Italy) and Tokyo have all received peace pagodas."¹
-</p>
-
-<p>
-"Most, though not all, peace pagodas built since World War II have been built under the guidance of Nichidatsu Fujii (1885–1985), a Buddhist monk from Japan and founder of the Nipponzan-Myōhōji Buddhist Order."³
-
-"In 1947, [Nichidatsu Fujii] began constructing Peace Pagodas as shrines to world peace."³
-</p>
-
-<p>
-"In 1985 the first peace pagoda in the United States was completed, the New England Peace Pagoda in Leverett, Massachusetts."
+There are peace pagodas all over the world, including in London, New Delhi, and Vienna.¹
+They are intended as shrines to promote world peace.³
+The one in Leverett was the first one in the United States, and was completed in 1985.¹
 </p>
 
 <hr/>
@@ -45,8 +33,8 @@ On that day in 2009, I drove to Leverett, spent maybe 30 minutes at the site of 
 
 <p>
 People have been making pilgrimages for thousands of years.
-A pilgrimage need not be religious. It could be to the Grand Canyon or the Eiffel Tower.
-I've noticed that pilgrimages are often on foot: walking to some kind of holy land.
+A pilgrimage can be secular, too: the Grand Canyon or the Eiffel Tower.
+I've noticed pilgrimages are often on foot: walking to some kind of holy land.
 </p>
 
 <p>
@@ -74,7 +62,7 @@ A human need for pilgrimages may be similar.
 <hr/>
 
 <p>
-Below is a slightly updated version of a poem I wrote — I think sometime shortly after the trip — about the World Peace Pagoda in Leverett and the surrounding area.
+Below is an updated version of a poem I wrote — I think shortly after the trip — about the pagoda in Leverett, and the surrounding area.
 The poem wasn't for a class or anything: I just felt like writing it.
 </p>
 
