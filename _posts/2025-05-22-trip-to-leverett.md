@@ -57,7 +57,7 @@ He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 <hr/>
 
 <p>
-Humans have a history of being persistence hunters.
+Humans have a history of often being persistence hunters.
 We would chase animals for extended periods of time as a group, on foot at a jogging pace, until the animal got exhausted.
 I've heard that typical distances for the chase were about 10 kilometers. 
 </p>
