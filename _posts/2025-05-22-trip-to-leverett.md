@@ -1,7 +1,7 @@
 ## <div align="center">Trip to Leverett</div>
 
 <p>
-    In 2009, on the last day of summer break before my junior year of college, I took a road trip from my home town in central Maine to Leverett, Massachusetts, and back.
+    In 2009, on the last day of summer break before my junior year of college, I took a road trip from my hometown in central Maine to Leverett, Massachusetts, and back.
 </p>
 
 <p>
@@ -11,7 +11,7 @@
 
 <p>
     The creation of the pagoda was organized by Nipponzan-Myōhōji-Daisanga, a Buddhist-adjacent Japanese religious organization founded in 1917¹.
-    This is the pagoda - it's the domed structure on the right-hand side of the photo²:
+    This is the pagoda — it's the domed structure on the right-hand side of the photo²:
     <div align="center">
       <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/World-Peace-Pagoda-in-Leverett.jpg" />
     </div>
@@ -41,7 +41,7 @@ He told me Jack Kerouac used to feel somehow "wiped clean" after his travels.
 
 <p>
 Below is an updated version of a poem I wrote — I think shortly after the trip — about the area around the pagoda and the pagoda itself.
-The poem wasn't for a class or anything: just felt like writing it.
+The poem wasn't for a class or anything: I just felt like writing it.
 </p>
 
 <p>
@@ -62,7 +62,7 @@ and bend quietly the gait of children<br/>
 who wander in the shade.<br/>
 And give that shade to mailboxes,<br/>
 which lie beneath the boughs that spring upward<br/>
-from the dust of their gravel shores.<br/><br/>
+from the dust of their gravel shore.<br/><br/>
 
 And you, great pagoda,<br/>
 hardly there amidst the pines,<br/>
