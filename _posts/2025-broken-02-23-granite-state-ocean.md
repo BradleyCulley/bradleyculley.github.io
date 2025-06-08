@@ -88,7 +88,7 @@ Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/
 </p>
 
 <p>
-Eventually, I moved on from Hampton to live elsewhere in New Hampshire, but a piece of Hampton stayed with me.
+Eventually, I moved from Hampton to live elsewhere in New Hampshire, but good memories of Hampton stayed with me.
 </p>
 
 https://bronnieware.com/blog/regrets-of-the-dying/
