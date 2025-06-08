@@ -87,9 +87,11 @@ The poem wasn't for a class or anything...just felt like writing it.
 </p>
 
 <p>
-The word "circumambulation" in the poem means "walking around the shrine in a circular pattern".
+The word "circumambulation" in the poem means "walking around a shrine in a circular pattern".
 Circumambulation is a traditional way in which a person interacts with a shrine.
 </p>
+
+<hr/>
 
 <div style="text-align: center">
 
