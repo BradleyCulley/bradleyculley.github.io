@@ -6,7 +6,7 @@
 
 <p>
     What's in Leverett, Massachusetts?
-    The New England Peace Pagoda, a Buddhist shrine.
+    The New England Peace Pagoda, a shrine.
 </p>
 
 <p>
