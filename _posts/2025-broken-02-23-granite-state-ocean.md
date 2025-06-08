@@ -76,7 +76,7 @@ For the first time, I really understood why people pay such a premium for oceanf
 <p>
 It was like a little jetpack of calm added to my mind.
 Perhaps like going to a spa or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly in a crazy crazy world — done something nice for yourself.
-A sliver of pure, simple, harmless self-love.
+A sliver of harmless self-love.
 </p>
 
 <p>
@@ -88,7 +88,7 @@ Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/
 </p>
 
 <p>
-Eventually, I moved from Hampton to live elsewhere in New Hampshire, but good memories of Hampton stayed with me.
+Eventually, I moved from Hampton to elsewhere in New Hampshire, but the good memories of Hampton stayed.
 </p>
 
 https://bronnieware.com/blog/regrets-of-the-dying/
