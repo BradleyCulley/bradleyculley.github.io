@@ -68,7 +68,7 @@ Typical road race distances are about 5-10 kilometers, usually at a jogging pace
 </p>
 
 <p>
-A need for pilgrimages may be similar.
+A human need for pilgrimages may be similar.
 </p>
 
 <hr/>
