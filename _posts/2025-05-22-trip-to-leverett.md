@@ -19,7 +19,7 @@
 
 <p>
 There are peace pagodas all over the world, including in London, New Delhi, and Vienna.¹
-They are intended as shrines to promote world peace.³
+They're intended as shrines to promote world peace.³
 The one in Leverett was the first one in the United States, and was completed in 1985.¹
 </p>
 
