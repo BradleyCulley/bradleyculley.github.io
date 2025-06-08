@@ -62,7 +62,7 @@ and bend quietly the gait of children<br/>
 who wander in the shade.<br/>
 And give that shade to mailboxes,<br/>
 which lie beneath the boughs that spring upward<br/>
-from the dust of their gravel shore.<br/><br/>
+from the dust of their gravel shores.<br/><br/>
 
 And you, great pagoda,<br/>
 hardly there amidst the pines,<br/>
