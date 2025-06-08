@@ -28,16 +28,20 @@ Less than a 60-second walk to be on the beach listening to the waves.
 </p>
 
 <p>
-This is beach, right near the condo:
+The is the beach, right near the condo:
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/the-beach-in-Hampton.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
 </div>
 </p>
 
-
-Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
-
+<p>
+Everything about the condo was pleasant: the friendly easygoing landlord, the off-street parking right near the door, the unit itself, and the ocean right nearby.
 I worked remotely and cooked a lot of pan-grilled chicken.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-1.jpg" />
+</div>
+</p>
 
 <hr/>
 
