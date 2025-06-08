@@ -7,10 +7,6 @@
 
 <hr/>
 
-"The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul." –Robert Wyland
-
-<hr/>
-
 <p>
 A few years ago, I spent some time living right near the ocean, in Hampton, New Hampshire.
 </p>
