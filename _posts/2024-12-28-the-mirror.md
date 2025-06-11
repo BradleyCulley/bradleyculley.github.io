@@ -88,7 +88,7 @@
 
 <p>
     After some time, he rose from the chair and walked outside to where the mirror stood.
-    He crouched in front of the mirror and peered at it intently - something he'd never done before.
+    He crouched in front of the mirror and peered intently at it - something he'd never done before.
 </p>
 
 <p>
