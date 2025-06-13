@@ -77,6 +77,9 @@ Add to the trouble with doctors medical industrial complex. There's the problem 
 Talk about the phenomenon of "jumping to surgery"
 
 Add to the trouble with doctors a lack of training in emphasis on and holding in appropriately high regard The role of nutrition in health. This is also a special case of the acute versus chronic divide I believe. And give the example for example of Denis.m And high blood pressure, or of me losing 50 lb. Let food be thy medicine.
+
+Add to the trouble with doctors essay The idea that, in my experience, doctors are neatly split between being insecure subtly emotionally scoundrelous muppets and being wonderful caring angels with an aura of healing that is, quite simply, palpable in their presence. Personally at least I know more or less immediately which category of health care professional I'm dealing with. The letter category by the way need not be gushy or saccharin - sometimes they're staid or even a bit rough around the edges, but you can tell they actually care. Do not settle.
+
 <br/>
 Sources:<br/>
 ¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
