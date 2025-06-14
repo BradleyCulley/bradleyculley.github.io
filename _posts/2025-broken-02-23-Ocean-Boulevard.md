@@ -124,20 +124,16 @@ Beyond a sort of passing enjoyment of the experience of living near the ocean, I
 Captivated, immersed, pleasantly lost in the experience of the ocean.
 </p>
 
-
 I mention that to say that's how I felt in Hampton: captivated by the ocean - consumed, transfixed.
 
 I mention that to say that's how I felt in Hampton: captivated by the ocean, consumed by the ocean, lost in the experience of the ocean.
 
 -> This is the one: >>> I mention that to say that's how I felt in Hampton: captivated, consumed, lost in the experience of the ocean.
 
-
 I mention that to say that's how I felt in Hampton: captivated by the ocean, consumed, transfixed.
 
 I mention that to say that's how I felt in Hampton.
 More than enjoying the experience in a sort of incidental passing way, I felt captivated by the ocean: consumed, transfixed.
-
-
 
 I mention that to say that's how I felt in Hampton.
 More than enjoying the experience in a sort of incidental passing way, I felt captivated by the ocean: consumed, immersed, transfixed.
