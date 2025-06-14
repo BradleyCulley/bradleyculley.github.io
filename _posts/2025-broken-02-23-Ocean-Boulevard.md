@@ -25,14 +25,18 @@ The road was named "Ocean Boulevard".
 </p>
 
 <p>
-The condo was a rear building, at the end of a parking lot, a few hundred feet from the ocean.
+The condo was a rear building, at the end of a parking lot, a few hundred feet a sidewalk that ran along the seawall next to the ocean.
 It was less than a 60-second walk to the beach.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
+</div>
 </p>
 
 <p>
 The beach near the condo:
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-5.jpg" />
 </div>
 </p>
 
@@ -54,12 +58,11 @@ Most people don't go to the beach in cold New England winters.
 
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall above the beach.
-This shows the seawall, sidewalk, and ocean:
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
-</div>
-
 Waves rolled in from the horizon, each breaking with a muted hiss as it hit the sand.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
+</div>
 </p>
 
 <p>
@@ -83,7 +86,15 @@ Beautiful.
 
 <p>
 I worked from a desk just off of the right-hand side of that photo.
-Sometimes I'd leave the curtains open, so I could swivel my chair occasionally and look out over the ocean. 
+Sometimes I'd leave the curtains open so I could rotate my desk chair occasionally and look out over the waves.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/window-and-balcony-in-the-rain.jpg" />
+</div>
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
+</div>
+
 </p>
 
 <p>
