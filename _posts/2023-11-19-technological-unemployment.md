@@ -25,7 +25,7 @@ Reasoning:
     That's illustrated in the header image above.<br/><br/>
 
 2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
-        Paradoxically, as we've automated more, there's been more to be done. 
+        Paradoxically, as we've automated more, there's been more that's available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. [https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/)
         Throughout history, people have predicted that innovations, such as cars, would on balance destroy jobs. So far, they haven't.<br/><br/>
         Two economic theories explain this paradox:<br/>
           1. Joseph Schumpeter's "Creative destruction" and<br/>

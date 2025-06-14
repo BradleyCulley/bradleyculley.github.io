@@ -1,14 +1,14 @@
 ## <div align="center">Granite State Ocean<div>
 
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton, New Hampshire. All photos in this post are my own, taken during my stay there.</div>
+    <img src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
+    <div style="font-size: 15px; font-style: italic;">Hampton, New Hampshire. All photos in this essay are ones I took during my stay in Hampton.</div>
 </div>
 
 <hr/>
 
 <p>
-A few years ago, I spent some time living right near the ocean, in Hampton, New Hampshire.
+A few years ago, I spent some time living right near the ocean in Hampton, New Hampshire.
 </p>
 
 <p>
