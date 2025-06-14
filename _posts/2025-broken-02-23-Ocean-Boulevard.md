@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos in this essay are ones I took during my stay in Hampton.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos in this essay are ones I took during my stay near the beach.</div>
 </div>
 
 <hr/>
