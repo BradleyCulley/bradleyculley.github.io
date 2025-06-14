@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton, New Hampshire. All photos in this essay are ones I took during my stay in Hampton.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos in this essay are ones I took during my stay in Hampton.</div>
 </div>
 
 <hr/>
@@ -63,7 +63,9 @@ Waves rolled in from the horizon, each breaking with a muted hiss when it hit th
 </p>
 
 <p>
-The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. The rhythmic crashing of the waves.
+The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. Rhythmic crashing of the waves.
+
+
 </p>
 
 <hr/>
