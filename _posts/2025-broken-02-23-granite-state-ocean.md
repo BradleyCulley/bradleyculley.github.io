@@ -1,7 +1,7 @@
 ## <div align="center">Granite State Ocean<div>
 
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
     <div style="font-size: 15px; font-style: italic;">Hampton, New Hampshire. All photos in this essay are ones I took during my stay in Hampton.</div>
 </div>
 
@@ -13,29 +13,31 @@ A few years ago, I spent some time living right near the ocean in Hampton, New H
 
 <p>
 It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
-***TODO add a picture of a map with the coastline highlighted**
+<div align="center">
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Coastline-of-New-Hamsphire.png" />
+</div>
 </p>
 
 <p>
-Hampton is one of the towns on that strip of coastline.
-The short driveway to one of the places I lived in Hampton was off a road that ran directly alongside the ocean.
-</p>
-
-<p>
+Hampton is one of the towns on that coastline.
+The short driveway to one of the places I lived in Hampton was right off a road that ran alongside the ocean.
 The road was named "Ocean Boulevard".
-The condo was a rear building, at the end of a parking lot, a few hundred feet from the ocean.
-Less than a 60-second walk to be on the beach listening to the waves.
 </p>
 
 <p>
-The is the beach, right near the condo:
+The condo was a rear building, at the end of a parking lot, a few hundred feet from the ocean.
+It was less than a 60-second walk to the beach.
+</p>
+
+<p>
+The beach near the condo:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
 </div>
 </p>
 
 <p>
-Everything about the condo was pleasant: the friendly easygoing landlord, the off-street parking right near the door, the unit itself, and the ocean right nearby.
+Everything about the condo was pleasant: the easygoing landlord, the off-street parking, the condo itself, and the ocean.
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
@@ -46,29 +48,29 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 <hr/>
 
 <p>
-The trick was renting it in the winter, when the price was much lower.
+The trick was renting the condo in the winter, which brought the price way down.
 Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
-I went for walks — usually at night — from the condo building, through the parking lot, out to Ocean Boulevard, and then along the seawall above the beach.
-This shows the seawall:
+I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall above the beach.
+This shows the seawall, sidewalk, and ocean:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
 </div>
 
-Waves rolled in from the horizon, breaking when they hit the sand. Each crashed with a muted hiss.
+Waves rolled in from the horizon, each breaking with a muted hiss when it hit the sand.
 </p>
 
 <p>
-Hampton was quiet at night. Not many people on the sidewalk along the seawall. A big sky over the ocean, rythmic crashing of the waves.
+The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. The rhythmic crashing of the waves.
 </p>
 
 <hr/>
 
 <p>
-I also stayed in a different condo on Ocean Boulevard, just down the road, this time with a direct oceanfront view.
-The condo had a sliding glass window that opened to a balcony looking out over the ocean:
+I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
+It had a sliding glass window with a balcony overlooking the sea:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
 </div>
@@ -77,27 +79,27 @@ Beautiful.
 </p>
 
 <p>
-I worked from a desk just off the righthand side of that photo.
-Sometimes I'd leave the curtains open so I could swivel my desk chair and look out over the ocean. 
+I worked from a desk just off of the right-hand side of that photo.
+Sometimes I'd leave the curtains open, so I could swivel my chair occasionally and look out over the ocean. 
 </p>
 
 <p>
-Something I noticed, both from time spent sitting on that balcony and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
-I understood why people pay such a premium for oceanfront real estate.
+Something I noticed, both from time spent on that balcony, and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
+I finally understood why people pay such a premium for oceanfront properties.
 </p>
 
 <p>
-It was a little jetpack of calm in my mind.
-Perhaps like going to a spa or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly in a crazy crazy world — done something nice for yourself.
-A harmless sliver of self-love.
+It was like a little jetpack of calm in my mind.
+Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy crazy world — done something purely to be nice to yourself.
+A sliver of self-love.
+Maybe remove: We can often be quite hard on ourselves, especially those of us who are conscientious and hard-working by nature.
 </p>
 
 <p>
-We can often be quite hard on ourselves, especially those who are conscientious and hard-working by nature.
-Bronnie Ware is an Australian palliative care worker and author.
-She works providing care to people who are in the process of dying, whether from a terminal illness or simply from old age.
-She is the author of the internationally bestselling memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
-Regret #5 is "I wish that I had let myself be happier" -https://bronnieware.com/blog/regrets-of-the-dying/
+Bronnie Ware is an Australian palliative care worker and best-selling author.
+She cares for people who are in the process of dying, whether from a terminal illness or simply from old age.
+She's also the author of the memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
+Regret #5 from her book is "I wish that I had let myself be happier" -https://bronnieware.com/blog/regrets-of-the-dying/
 </p>
 
 https://bronnieware.com/blog/regrets-of-the-dying/
