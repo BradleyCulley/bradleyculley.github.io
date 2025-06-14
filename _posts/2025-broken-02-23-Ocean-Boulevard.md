@@ -118,7 +118,10 @@ I can't remember the exact words of his descriptions, but he said something like
 </p>
 
 <p>
-I mention that to say that's how I felt in Hampton: captivated, consumed, lost in the experience of the ocean.
+I mention that to say that's how I felt in Hampton: captivated, transfixed, pleasantly lost in the experience of the ocean.
+
+Beyond a sort of passing enjoyment of the experience of living near the ocean, I felt transfixed by it.
+Captivated, immersed, pleasantly lost in the experience of the ocean.
 </p>
 
 
