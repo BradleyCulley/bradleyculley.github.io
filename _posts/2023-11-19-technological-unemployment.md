@@ -25,42 +25,44 @@ Reasoning:
     That's illustrated in the header image above.<br/><br/>
 
 2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
-        Paradoxically, as we've automated more, there's been more that's available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. [https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/)
-        Throughout history, people have predicted that innovations, such as cars, would on balance destroy jobs. So far, they haven't.<br/><br/>
-        Two economic theories explain this paradox:<br/>
-          1. Joseph Schumpeter's "Creative destruction" and<br/>
-          2. David Frederick Schloss' "Lump of Labor Fallacy"<br/><br/>
-              Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time."<br/>
-              -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
-              <br/><br/>
-              "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors."
-              -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
-              <br/><br/>
-              The point is that after switching from horses to cars, there were plenty of jobs building cars, fixing cars, and so on.
-              In fact, more jobs in total than in the era of horses.
-              <br/><br/>
-              Closely related is David Frederick Schloss' "Lump of Labor Fallacy".
-              <br/><br/>
-              "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."<br/>
-              -[https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model](https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model)
-              <br/><br/>
-              For a long time now, the total number of jobs, _and_ the total number of employed people, has pretty much only gone up:<br/>
-              <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
-              <br/><br/>
-              In fact, there are more job openings than unemployed people, part of a 10-year trend:<br/>
-              <img style="width: 50vw;" src="https://bradleyculley.github.io/images/unemployed_people_per_job_opening.png" /><br/><br/>
-              The red line going below "1" in the graph means there are more jobs than unemployed people.
-              It's solidly below 1 right now.
-              <br/><br/>
-              However, Creative Destruction and Lump of Labor aren't laws of nature. They could stop being true any time.<br/><br/>
-              "Connectionism", however, is actual science.
-              Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
-              But what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
-              No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing.<br/><br/>
-              Moore's Law may as well be a law of nature, for now at least. 
-              Moore's Law states that compute per dollar doubles every two years.<br/><br/>
-              Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models: [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556).
-              <br/><br/>
+   People have long predicted that technological innovations, such as automobiles, would on balance destroy jobs. Spoiler: they haven't. In fact, as we've automated more, there's been more work available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. [https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). To quote:
+
+> British economist William Stanley Jevons first presented his eponymous paradox in his 1865 book, “The Coal Question,” where he noted that more efficient steam engines had not led to a decrease in the use of coal in British factories as many believed, but increased the use as the fossil fuel became cheaper and more engines and factories were built.<br/><br/> “Efficiency can backfire by making a resource so cheap that everyone uses it more,” Piao summarizes, noting that British coal consumption tripled by 1900.
+
+Two economic theories explain this paradox:<br/>
+  1. Joseph Schumpeter's "Creative destruction" and<br/>
+  2. David Frederick Schloss' "Lump of Labor Fallacy"<br/><br/>
+      Joseph Schumpeter's "Creative destruction" is about "the process that sees new innovations replacing existing ones that are rendered obsolete over time."<br/>
+      -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
+      <br/><br/>
+      "As an example, in the late 1800s and early 1900s incremental improvements to horse and buggy transportation continued to be valuable, and innovations in the buggy and buggy whip could fetch a considerable price in the market.  With the introduction of Ford’s Model T in 1908, however, these “technologies” were effectively driven out by a superior innovation.  Over time, newer and better innovations will continue to drive out worse ones, just as the Model T did the horse and buggy and numerous iterations of vehicles have subsequently driven out the Model T and generations of its successors."
+      -[https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html](https://www.cmu.edu/epp/irle/irle-blog-pages/schumpeters-theory-of-creative-destruction.html)
+      <br/><br/>
+      The point is that after switching from horses to cars, there were plenty of jobs building cars, fixing cars, and so on.
+      In fact, more jobs in total than in the era of horses.
+      <br/><br/>
+      Closely related is David Frederick Schloss' "Lump of Labor Fallacy".
+      <br/><br/>
+      "The lump of labor fallacy is the assumption that there is a fixed amount of work to be done. If this were true, new jobs could not be generated, just redistributed. Those who believe the fallacy have often felt threatened by new technology or the entrance of new people into the labor force. These fears are rooted in a mistaken zero-sum view of the economy, which holds that when someone gains in a transaction, someone else loses. It's a tempting idea to some because it seems to be true. For example, jobs can be lost to automation and immigration. However, that is not the full story. In reality, the demand for labor is not fixed. Changes in one industry can be offset, or overshadowed, by growth in another. And as the labor force grows, total employment increases too (Figure 1)."<br/>
+      -[https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model](https://research.stlouisfed.org/publications/page1-econ/2020/11/02/examining-the-lump-of-labor-fallacy-using-a-simple-economic-model)
+      <br/><br/>
+      For a long time now, the total number of jobs, _and_ the total number of employed people, has pretty much only gone up:<br/>
+      <img style="width: 50vw;" src="https://bradleyculley.github.io/images/labor_force_and_employment.png" />
+      <br/><br/>
+      In fact, there are more job openings than unemployed people, part of a 10-year trend:<br/>
+      <img style="width: 50vw;" src="https://bradleyculley.github.io/images/unemployed_people_per_job_opening.png" /><br/><br/>
+      The red line going below "1" in the graph means there are more jobs than unemployed people.
+      It's solidly below 1 right now.
+      <br/><br/>
+      However, Creative Destruction and Lump of Labor aren't laws of nature. They could stop being true any time.<br/><br/>
+      "Connectionism", however, is actual science.
+      Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
+      But what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
+      No matter how fancy or well-paid the job, it's fundamentally just specific patterns of connected neurons firing.<br/><br/>
+      Moore's Law may as well be a law of nature, for now at least. 
+      Moore's Law states that compute per dollar doubles every two years.<br/><br/>
+      Likewise for the Chinchilla scaling laws, which guide how much data versus compute is optimal for training Large Language Models: [https://arxiv.org/abs/2203.15556](https://arxiv.org/abs/2203.15556).
+      <br/><br/>
 
 3.  **The areas of the economy that are un-automatable tend to require what AI scientists call "grounding".**
         In other words, real understanding. ChatGPT isn't grounded.<br/><br/>
