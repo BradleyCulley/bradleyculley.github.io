@@ -113,6 +113,23 @@ Maybe remove: We can often be quite hard on ourselves, especially those of us wh
 </p>
 
 <p>
+I once read a somehow quite moving description of a day in the life of an introvert, written by an introvert.
+I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become immersed in a book, lost in a book.
+</p>
+
+<p>
+I mention that to say that's how I felt in Hampton: captivated by the ocean - consumed, transfixed.
+
+I mention that to say that's how I felt in Hampton.
+More than enjoying the experience in a sort of incidental passing way, I felt captivated by the ocean: consumed, immersed, transfixed.
+
+It was more that I felt captivated - consumed, transfixed.
+I mention that to say that's how I felt in Hampton.
+Perhaps it would be too much to say becoming part of the book - of the imaginative world of the book, but it wouldn't be far off.
+
+</p>
+
+<p>
 Bronnie Ware is an Australian palliative care worker and best-selling author.
 She cares for people who are in the process of dying, whether from a terminal illness or simply from old age.
 She's also the author of the memoir <i>The Top Five Regrets of the Dying</i>. -https://bronnieware.com/blog/regrets-of-the-dying/
