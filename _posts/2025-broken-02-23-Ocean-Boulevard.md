@@ -25,7 +25,7 @@ The road was named "Ocean Boulevard".
 </p>
 
 <p>
-The condo was at the far end of a parking lot a few hundred feet from a sidewalk that ran along the seawall next to the ocean.
+The condo was at the back end of a parking lot a few hundred feet from a sidewalk that ran along the seawall next to the ocean.
 It was less than a 60-second walk to the beach.
 
 <div align="center">
