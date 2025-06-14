@@ -25,7 +25,7 @@ Reasoning:
     That's illustrated in the header image above.<br/><br/>
 
 2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
-   People have long predicted that technological innovations, such as automobiles, would on balance destroy jobs. Spoiler: they haven't. In fact, as we've automated more, there's been more work available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. [https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). To quote:
+   People have long predicted that technological innovations, such as automobiles, would on balance destroy jobs. Spoiler: they haven't. In fact, as we've automated more, there's been more work available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. -[https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). To quote:
 
 > British economist William Stanley Jevons first presented his eponymous paradox in his 1865 book, “The Coal Question,” where he noted that more efficient steam engines had not led to a decrease in the use of coal in British factories as many believed, but increased the use as the fossil fuel became cheaper and more engines and factories were built.<br/><br/> “Efficiency can backfire by making a resource so cheap that everyone uses it more,” Piao summarizes, noting that British coal consumption tripled by 1900.
 
@@ -54,7 +54,7 @@ Two economic theories explain this paradox:<br/>
       The red line going below "1" in the graph means there are more jobs than unemployed people.
       It's solidly below 1 right now.
       <br/><br/>
-      However, Creative Destruction and Lump of Labor aren't laws of nature. They could stop being true any time.<br/><br/>
+      However, Creative Destruction and The Lump of Labor Fallacy aren't laws of nature. They could stop being true any time.<br/><br/>
       "Connectionism", however, is actual science.
       Connectionism is the theory that thinking, memory, and so on are all enabled by the patterns of connections between neurons in the brain.<br/><br/>
       But what does that have to do with jobs? Well, ultimately human labor boils down to patterns of connections between neurons, and the firing of those neurons.
