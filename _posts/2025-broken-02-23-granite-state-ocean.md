@@ -59,13 +59,14 @@ This shows the seawall, sidewalk, and ocean:
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
 </div>
 
-Waves rolled in from the horizon, each breaking with a muted hiss when it hit the sand.
+Waves rolled in from the horizon, each breaking with a muted hiss as it hit the sand.
 </p>
 
 <p>
 The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. Rhythmic crashing of the waves.
-
-
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-with-buildings-in-distance.jpg" />
+</div>
 </p>
 
 <hr/>
