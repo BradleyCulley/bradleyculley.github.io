@@ -36,7 +36,7 @@ It was less than a 60-second walk to the beach.
 <p>
 The beach near the condo:
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-5.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-1.jpg" />
 </div>
 </p>
 
@@ -45,7 +45,7 @@ Everything about the condo was pleasant: the easygoing landlord, the off-street 
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-1.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-2.jpg" />
 </div>
 </p>
 
