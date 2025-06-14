@@ -20,12 +20,12 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 
 <p>
 Hampton is one of the towns on that coastline.
-The short driveway to one of the places I lived in Hampton was right off a road that ran alongside the ocean.
+The short driveway to one of the places I lived was right off a road that ran alongside the ocean.
 The road was named "Ocean Boulevard".
 </p>
 
 <p>
-The condo was a rear building, at the end of a parking lot, a few hundred feet a sidewalk that ran along the seawall next to the ocean.
+The condo was at the far end of a parking lot a few hundred feet from a sidewalk that ran along the seawall next to the ocean.
 It was less than a 60-second walk to the beach.
 
 <div align="center">
