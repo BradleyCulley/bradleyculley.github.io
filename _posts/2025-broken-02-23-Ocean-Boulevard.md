@@ -89,12 +89,15 @@ I worked from a desk just off of the right-hand side of that photo.
 Sometimes I'd leave the curtains open so I could rotate my desk chair occasionally and look out over the waves.
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/window-and-balcony-in-the-rain.jpg" />
-</div>
-<div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
 </div>
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/window-and-balcony-in-the-rain.jpg" />
+</div>
+</p>
 
+<p>
+The condo 
 </p>
 
 <p>
