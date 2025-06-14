@@ -114,11 +114,27 @@ Maybe remove: We can often be quite hard on ourselves, especially those of us wh
 
 <p>
 I once read a somehow quite moving description of a day in the life of an introvert, written by an introvert.
-I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become immersed in a book, lost in a book.
+I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become immersed in a book, captivated by a book, lost in a book.
 </p>
 
 <p>
+I mention that to say that's how I felt in Hampton: captivated, consumed, lost in the experience of the ocean.
+</p>
+
+
 I mention that to say that's how I felt in Hampton: captivated by the ocean - consumed, transfixed.
+
+I mention that to say that's how I felt in Hampton: captivated by the ocean, consumed by the ocean, lost in the experience of the ocean.
+
+-> This is the one: >>> I mention that to say that's how I felt in Hampton: captivated, consumed, lost in the experience of the ocean.
+
+
+I mention that to say that's how I felt in Hampton: captivated by the ocean, consumed, transfixed.
+
+I mention that to say that's how I felt in Hampton.
+More than enjoying the experience in a sort of incidental passing way, I felt captivated by the ocean: consumed, transfixed.
+
+
 
 I mention that to say that's how I felt in Hampton.
 More than enjoying the experience in a sort of incidental passing way, I felt captivated by the ocean: consumed, immersed, transfixed.
