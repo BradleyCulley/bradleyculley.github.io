@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
 </div>
 
 <hr/>
@@ -44,10 +44,6 @@ It had a sliding glass door with a balcony overlooking the ocean:
 <p>
 I worked from a desk off of the left-hand side of that photo.
 Sometimes I'd leave the curtains open so I could rotate the desk chair and look at the waves.
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
-</div>
 </p>
 
 <p>
