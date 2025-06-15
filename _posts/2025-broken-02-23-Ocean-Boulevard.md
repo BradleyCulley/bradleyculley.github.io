@@ -107,14 +107,7 @@ Sometimes I'd leave the curtains open so I could rotate my desk chair and look a
 </p>
 
 <p>
-The condo was beach-themed, including this painting on the wall:
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/painting-in-Hampton-condo.jpg" />
-</div>
-</p>
-
-<p>
-Something I noticed throughout my time in Hampton was how soothing the sound of waves is.
+Something I noticed during my time in Hampton was how soothing the sound of waves is.
 I understood better why people pay such a premium for oceanfront properties.
 </p>
 
@@ -122,10 +115,6 @@ I understood better why people pay such a premium for oceanfront properties.
 It was like a little jetpack of calm.
 Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy world — done something nice for yourself.
 </p>
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
-</div>
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
@@ -135,8 +124,12 @@ I can't remember the exact words of his description, but he said something like 
 <p>
 That's how I felt in Hampton.
 More than a passing enjoyment of living near the ocean, I felt commanded by the experience.
-Captivated and lost in the experience of the ocean.
+Lost in the experience of the ocean.
 </p>
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
+</div>
 
 
 That's how I felt in Hampton: captivated, transfixed, lost in the experience of the ocean.
