@@ -75,7 +75,7 @@ The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing 
 </p>
 
 <p>
-Sometimes I'd walk right on the sand, rather than on the sidewalk above.
+Sometimes I'd walk right on the sand, rather than on the sidewalk.
 </p>
 
 <p>
