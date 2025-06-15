@@ -41,7 +41,7 @@ The beach near the condo:
 </p>
 
 <p>
-Everything about the condo was pleasant: the landlord, the off-street parking, the condo itself, and the ocean on its doorstep.
+Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
@@ -55,8 +55,8 @@ Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
-I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall above the beach.
-Waves rolled in from the horizon and each broke with a muted hiss.
+I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall.
+Waves rolled in from the horizon, each breaking with a muted sigh.
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
@@ -108,28 +108,31 @@ Sometimes I'd leave the curtains open so I could rotate my desk chair and look a
 
 <p>
 Something I noticed during my time in Hampton was how soothing the sound of waves is.
-I understood better why people pay such a premium for oceanfront properties.
+I understood better why people pay a premium for oceanfront properties.
 </p>
+
+<hr/>
+
+<p>
+I once read a description, written by an introvert, of a day in the life of an introvert.
+I can't remember the exact words of his description, but he said something like that he would not so much read a book as become emotionally engulfed by a book, lost in a book.
+</p>
+
+<p>
+That's how I felt in Hampton.
+More than a passing enjoyment of living near the ocean, became pleasantly lost in the experience of the ocean.
+</p>
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
+</div>
+
 
 <p>
 It was like a little jetpack of calm.
 Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy world — done something nice for yourself.
 </p>
 
-<p>
-I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words of his description, but he said something like that he would not so much read a book as become engulfed by a book, captivated by the world within a book, lost in a book.
-</p>
-
-<p>
-That's how I felt in Hampton.
-More than a passing enjoyment of living near the ocean, I felt commanded by the experience.
-Lost in the experience of the ocean.
-</p>
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
-</div>
 
 
 That's how I felt in Hampton: captivated, transfixed, lost in the experience of the ocean.
