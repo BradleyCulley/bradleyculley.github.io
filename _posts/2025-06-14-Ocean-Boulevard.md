@@ -79,7 +79,7 @@ Sometimes I'd walk right on the sand, rather than on the sidewalk.
 </p>
 
 <p>
-On one such walk, I picked my way across a section of the beach like this, stepping on high spots so my feet didn't get wet:
+On one such walk, I crossed an area like this, stepping on high spots so my feet didn't get wet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
