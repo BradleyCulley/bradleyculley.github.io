@@ -115,10 +115,10 @@ It was like a little jetpack of calm.
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words of his description, but he said something like he would not so much read a book as become emotionally engulfed by a book, lost in a book.
+I can't remember the exact words of his description, but he said something like that he would not so much read a book as become emotionally engulfed by a book, lost in a book.
 </p>
 
 <p>
 That's how I felt in Hampton.
-More than a passing enjoyment, I felt somehow engulfed by the experience of the ocean.
+More than a passing enjoyment, I felt somehow engulfed by the experience of the ocean and of the sound of the waves.
 </p>
