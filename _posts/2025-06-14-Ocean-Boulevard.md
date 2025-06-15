@@ -102,7 +102,7 @@ It was like a jetpack of calm for my mind.
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words of his description, but he said something like that he didn't so much read a book as become emotionally engulfed by a book, lost in a book.
+I can't remember the exact words, but he said something like that he didn't so much read a book as become emotionally engulfed by a book, lost in a book.
 </p>
 
 <p>
