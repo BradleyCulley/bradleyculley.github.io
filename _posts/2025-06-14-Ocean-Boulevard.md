@@ -19,8 +19,8 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 </p>
 
 <p>
-Hampton is one of the towns on that coastline.
-Both places I lived were right off a road that ran alongside the ocean.
+Hampton, New Hampshire is one of the towns on that coastline.
+Both places I lived in Hampton were right off a road that ran alongside the ocean.
 The road is named Ocean Boulevard.
 </p>
 
