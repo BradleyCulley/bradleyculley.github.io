@@ -53,7 +53,7 @@ Sometimes I'd leave the curtains open so I could rotate the desk chair and look 
 <p>
 The beach near the condos:
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-1.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
 </div>
 </p>
 
@@ -69,10 +69,6 @@ Most people don't go to the beach in cold New England winters.
 <p>
 I went for walks — usually at night — to Ocean Boulevard, and then along the sidewalk by the seawall.
 Waves rolled in from the horizon, breaking with a muted sigh.
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
-</div>
 </p>
 
 <p>
