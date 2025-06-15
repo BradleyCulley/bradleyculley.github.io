@@ -58,15 +58,11 @@ The beach near the condos:
 </p>
 
 <p>
-Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-2.jpg" />
-</div>
 </p>
 
 <p>
-The trick was renting them in the winter, when the price was low.
+Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
+It was winter, so the rental price were low.
 Most people don't go to the beach in cold New England winters.
 </p>
 
