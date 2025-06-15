@@ -121,7 +121,7 @@ I can't remember the exact words of his description, but he said something like 
 
 <p>
 That's how I felt in Hampton.
-More than a sort of passing enjoyment of living near the ocean, I felt engulfed by and lost in the experience of the ocean.
+More than a sort of passing enjoyment, I felt engulfed by the experience of the ocean.
 </p>
 
 <div align="center">
