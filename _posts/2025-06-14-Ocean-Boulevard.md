@@ -62,6 +62,9 @@ It was winter, so the cost to rent each condo was low.
 Most people don't go to the beach in cold New England winters.
 </p>
 
+
+<hr/>
+
 <p>
 I went for walks — usually at night — to Ocean Boulevard, and then along the sidewalk by the seawall.
 Waves rolled in from the horizon, breaking with a muted sigh.
@@ -70,8 +73,6 @@ Waves rolled in from the horizon, breaking with a muted sigh.
 <p>
 The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing of the waves.
 </p>
-
-<hr/>
 
 <p>
 Sometimes I'd walk right on the sand: sometimes closer to the water and sometimes further away, toward the seawall.
