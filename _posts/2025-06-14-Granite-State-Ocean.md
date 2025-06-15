@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay.</div>
 </div>
 
 <hr/>
@@ -19,14 +19,14 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 </p>
 
 <p>
-Hampton, New Hampshire is one of the towns on that coastline.
-Both places I lived in Hampton were right off a road that ran alongside the ocean.
-The road is named Ocean Boulevard.
+Hampton is one of the towns on that coastline.
+Both condos I lived in in Hampton were right off a road that ran alongside the ocean.
+The road is Ocean Boulevard.
 </p>
 
 <p>
-One of the condos I stayed in was at the back end of a parking lot a few hundred feet from the sidewalk along the seawall.
-It was less than a 60-second walk to the beach. This shows the sidewalk and the seawall:
+One of the condos was less than a 60-second walk to a sidewalk along the seawall above the beach.
+This shows the sidewalk and the seawall:
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
@@ -34,16 +34,16 @@ It was less than a 60-second walk to the beach. This shows the sidewalk and the 
 </p>
 
 <p>
-I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
-It had a sliding glass door with a balcony overlooking the ocean:
+I also spent time in another condo on Ocean Boulevard, just down the road. That one had an oceanfront view.
+A sliding glass door opened to a balcony overlooking the ocean:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
 </div>
 </p>
 
 <p>
-I worked from a desk off of the left-hand side of that photo.
-Sometimes I'd leave the curtains open so I could rotate the desk chair and look at the waves.
+I worked from a desk off the left-hand side of that photo.
+Sometimes I'd leave the curtains open and rotate the desk chair to look at the waves from time to time.
 </p>
 
 <p>
