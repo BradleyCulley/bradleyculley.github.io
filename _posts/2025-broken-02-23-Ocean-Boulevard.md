@@ -49,8 +49,6 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 </div>
 </p>
 
-<hr/>
-
 <p>
 The trick was renting the condo in the winter, when the price was low.
 Most people don't go to the beach in cold New England winters.
@@ -77,15 +75,18 @@ On the beach itself, there were couples walking together and chatting, parents w
 </p>
 
 <p>
-I'd sometimes walk along closer to the seawall, further away from the water, and sometimes down closer to the waves.
-I remember picking my way across a section like this one, looking for high spots on which to place my feet:
+Sometimes I'd walk closer to the seawall, further away from the water, and sometimes closer to the waves.
+I remember picking my way across a section like this, looking for high spots on which to place my feet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
 </p>
 
 <p>
-And of course, I'd sometime walk right down to the edge of water, right to where the waves washed up.
+Then sometimes I'd walk right down to the edge of water.
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-close-to-water.jpg" />
+</div>
 </p>
 
 <hr/>
