@@ -82,7 +82,7 @@ The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing 
 <hr/>
 
 <p>
-I'd sometimes walk right on the sand itself: sometimes closer to the water, and sometimes further up toward the seawall.
+Sometimes I'd walk right on the sand: sometimes closer to the water and sometimes further away, toward the seawall.
 </p>
 
 <p>
