@@ -12,7 +12,7 @@ A few years ago, I spent some time living near the ocean in Hampton, New Hampshi
 </p>
 
 <p>
-It's perhaps not well known that there is oceanfront in New Hampshire. There isn't much: a little strip of coastline.
+It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Map-of-new-hampshire.png" />
 </div>
