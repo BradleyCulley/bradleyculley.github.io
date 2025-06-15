@@ -119,16 +119,18 @@ Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a caf
 </div>
 
 <p>
-I once read a somehow quite moving description of a day in the life of an introvert, written by an introvert.
-I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become immersed in a book, captivated by a book, lost in a book.
+I once read a description, written by an introvert, of a day in the life of an introvert.
+I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become engulfed by a book, captivated by the world within a book, lost in a book.
 </p>
 
 <p>
-I mention that to say that's how I felt in Hampton: captivated, transfixed, pleasantly lost in the experience of the ocean.
-
-Beyond a sort of passing enjoyment of the experience of living near the ocean, I felt transfixed by it.
-Captivated, immersed, pleasantly lost in the experience of the ocean.
+That's how I felt in Hampton.
+More than a passing enjoyment of living near the ocean, I felt commanded and transfixed by the experience.
+Captivated, engulfed, lost in the experience of the ocean.
 </p>
+
+
+That's how I felt in Hampton: captivated, transfixed, lost in the experience of the ocean.
 
 I mention that to say that's how I felt in Hampton: captivated by the ocean - consumed, transfixed.
 
