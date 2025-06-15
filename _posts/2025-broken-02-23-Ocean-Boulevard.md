@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos in this essay are ones I took during my stay near the beach.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
 </div>
 
 <hr/>
@@ -25,8 +25,8 @@ The road is named Ocean Boulevard.
 </p>
 
 <p>
-One of the condos I stayed in was at the back end of a parking lot a few hundred feet from the sidewalk along the seawall next to the ocean.
-It was less than a 60-second walk to the beach. This shows the sidewalk and the seawall:
+One of the condos I stayed in was at the back end of a parking lot a few hundred feet from the sidewalk along the seawall.
+It was less than a 60-second walk to the beach. The sidewalk and the seawall:
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
@@ -70,20 +70,18 @@ The town was quiet at night. Not many people on the sidewalk. A big sky over the
 <hr/>
 
 <p>
-I'd also sometimes walk right on the sand of the beach itself.
-On the beach itself, there were couples walking together and chatting, parents with children, and people walking their dogs.
+I'd also sometimes walk right on the sand itself: sometimes closer to the water and sometimes further up, toward the seawall
 </p>
 
 <p>
-Sometimes I'd walk closer to the seawall, further away from the water, and sometimes closer to the waves.
-I remember picking my way across a section like this, looking for high spots on which to place my feet:
+I remember once picking my way across a section like this, looking for high spots so my feet didn't get wet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
 </p>
 
 <p>
-Then sometimes I'd walk right down to the edge of water.
+The view from the edge of the waves:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-close-to-water.jpg" />
 </div>
@@ -93,23 +91,18 @@ Then sometimes I'd walk right down to the edge of water.
 
 <p>
 I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
-It had a sliding glass window with a balcony overlooking the sea:
+It had a sliding glass window with a balcony overlooking the ocean:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
 </div>
-
-Beautiful.
 </p>
 
 <p>
-I worked from a desk just off of the left-hand side of that photo.
-Sometimes I'd leave the curtains open so I could rotate my desk chair occasionally and look out over the waves.
+I worked from a desk off of the left-hand side of that photo.
+Sometimes I'd leave the curtains open so I could rotate my desk chair and look at the waves.
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
-</div>
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/window-and-balcony-in-the-rain.jpg" />
 </div>
 </p>
 
@@ -121,32 +114,28 @@ The condo was beach-themed, including this painting on the wall:
 </p>
 
 <p>
-Something I noticed, both from time spent on that balcony, and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
-I finally understood why people pay such a premium for oceanfront properties.
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-with-buildings-in-distance.jpg" />
-</div>
+Something I noticed throughout my time in Hampton was how soothing the sound of waves is.
+I understood better why people pay such a premium for oceanfront properties.
 </p>
 
 <p>
-It was like a little jetpack of calm in my mind.
-Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy crazy world — done something purely to be nice to yourself.
+It was like a little jetpack of calm.
+Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy world — done something nice for yourself.
 </p>
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-and-Hampton-beach-in-blue.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
 </div>
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words of his descriptions, but he said something like that he would not so much read a book as become engulfed by a book, captivated by the world within a book, lost in a book.
+I can't remember the exact words of his description, but he said something like that he would not so much read a book as become engulfed by a book, captivated by the world within a book, lost in a book.
 </p>
 
 <p>
 That's how I felt in Hampton.
-More than a passing enjoyment of living near the ocean, I felt commanded and transfixed by the experience.
-Captivated, engulfed, lost in the experience of the ocean.
+More than a passing enjoyment of living near the ocean, I felt commanded by the experience.
+Captivated and lost in the experience of the ocean.
 </p>
 
 
