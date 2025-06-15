@@ -43,7 +43,7 @@ A sliding glass door opened to a balcony overlooking the ocean:
 
 <p>
 I worked from a desk off the left-hand side of that photo.
-Sometimes I'd leave the curtains open and rotate the desk chair to look at the waves from time to time.
+Sometimes I'd leave the curtains open, so I could rotate the desk chair and look at the waves.
 </p>
 
 <p>
@@ -58,15 +58,13 @@ The beach near the condos:
 
 <p>
 Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
-It was winter, so the cost to rent each condo was low.
-Most people don't go to the beach in cold New England winters.
 </p>
 
 
 <hr/>
 
 <p>
-I went for walks — usually at night — to Ocean Boulevard, and then along the sidewalk by the seawall.
+I went for walks — usually at night — to Ocean Boulevard, then along the sidewalk by the seawall.
 Waves rolled in from the horizon, breaking with a muted sigh.
 </p>
 
@@ -75,39 +73,39 @@ The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing 
 </p>
 
 <p>
-Sometimes I'd walk right on the sand, rather than on the sidewalk.
+Sometimes I'd walk right on the beach - on the sand itself, rather than on the sidewalk.
 </p>
 
 <p>
-On one such walk, I crossed an area like this, stepping on high spots so my feet didn't get wet:
+On one walk, I crossed an area rather like this, stepping on high spots so my feet didn't get wet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
 </p>
 
 <p>
-The view from the edge of the waves:
+The edge of the water:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-close-to-water.jpg" />
 </div>
 </p>
 
-<hr/>
-
 <p>
 Something I noticed was how soothing the sound of the waves is.
 I understood better why people pay a premium for oceanfront properties.
-It was like a jetpack of calm for my mind.
+It was like a jetpack of calm.
 </p>
+
+<hr/>
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words, but he said something like that he didn't so much read a book as become emotionally engulfed by a book, lost in a book.
+I can't remember the exact words, but he said something like that he didn't so much read a book as become emotionally engulfed in a book, lost in a book.
 </p>
 
 <p>
 That's how I felt in Hampton.
-More than a passing enjoyment, I felt somehow engulfed; pleasanly lost in the experience of the ocean.
+More than a passing enjoyment, I felt somehow engulfed; happily lost in the experience of the ocean.
 </p>
 
 <div align="center">
