@@ -95,9 +95,9 @@ The view from the edge of the waves:
 <hr/>
 
 <p>
-Something I noticed in Hampton was how soothing the sound of waves is.
+Something I noticed was how soothing the sound of the waves is.
 I understood better why people pay a premium for oceanfront properties.
-It was like a jetpack of calm added to my mind.
+It was like a jetpack of calm for my mind.
 </p>
 
 <p>
