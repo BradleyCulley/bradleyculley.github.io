@@ -72,6 +72,25 @@ The town was quiet at night. Not many people on the sidewalk. A big sky over the
 <hr/>
 
 <p>
+I'd also sometimes walk right on the sand of the beach itself.
+On the beach itself, there were couples walking together and chatting, parents with children, and people walking their dogs.
+</p>
+
+<p>
+I'd sometimes walk along closer to the seawall, further away from the water, and sometimes down closer to the waves.
+I remember picking my way across a section like this one, looking for high spots on which to place my feet:
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
+</div>
+</p>
+
+<p>
+And of course, I'd sometime walk right down to the edge of water, right to where the waves washed up.
+</p>
+
+<hr/>
+
+<p>
 I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
 It had a sliding glass window with a balcony overlooking the sea:
 <div align="center">
