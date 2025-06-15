@@ -26,7 +26,7 @@ The road is named Ocean Boulevard.
 
 <p>
 One of the condos I stayed in was at the back end of a parking lot a few hundred feet from the sidewalk along the seawall.
-It was less than a 60-second walk to the beach. The sidewalk and the seawall:
+It was less than a 60-second walk to the beach. This shows the sidewalk and the seawall:
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
@@ -34,14 +34,31 @@ It was less than a 60-second walk to the beach. The sidewalk and the seawall:
 </p>
 
 <p>
-The beach near the condo:
+I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
+It had a sliding glass window with a balcony overlooking the ocean:
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
+</div>
+</p>
+
+<p>
+I worked from a desk off of the left-hand side of that photo.
+Sometimes I'd leave the curtains open so I could rotate the desk chair and look at the waves.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
+</div>
+</p>
+
+<p>
+The beach near the condos:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-1.jpg" />
 </div>
 </p>
 
 <p>
-Everything about the condo was pleasant: the landlord, the condo itself, and the ocean.
+Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
@@ -50,13 +67,13 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 </p>
 
 <p>
-The trick was renting the condo in the winter, when the price was low.
+The trick was renting them in the winter, when the price was low.
 Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
-I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall.
-Waves rolled in from the horizon, each breaking with a muted sigh.
+I went for walks — usually at night — to Ocean Boulevard, and then along the sidewalk by the seawall.
+Waves rolled in from the horizon, breaking with a muted sigh.
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
@@ -64,17 +81,17 @@ Waves rolled in from the horizon, each breaking with a muted sigh.
 </p>
 
 <p>
-The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. Rhythmic crashing of the waves.
+The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing of the waves.
 </p>
 
 <hr/>
 
 <p>
-I'd sometimes walk right on the sand itself: sometimes closer to the water and sometimes further up toward the seawall
+I'd sometimes walk right on the sand itself: sometimes closer to the water, and sometimes further up toward the seawall.
 </p>
 
 <p>
-I remember once picking my way across a section like this, looking for high spots so my feet didn't get wet:
+I remember once picking my way across a section of the beach like this, looking for high spots so my feet didn't get wet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
@@ -88,23 +105,6 @@ The view from the edge of the waves:
 </p>
 
 <hr/>
-
-<p>
-I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
-It had a sliding glass window with a balcony overlooking the ocean:
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
-</div>
-</p>
-
-<p>
-I worked from a desk off of the left-hand side of that photo.
-Sometimes I'd leave the curtains open so I could rotate my desk chair and look at the waves.
-
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/view-from-condo.jpg" />
-</div>
-</p>
 
 <p>
 Something I noticed in Hampton was how soothing the sound of waves is.
