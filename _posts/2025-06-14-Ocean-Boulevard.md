@@ -62,7 +62,7 @@ The beach near the condos:
 
 <p>
 Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
-It was winter, so the rental price were low.
+It was winter, so the cost to rent each condo was low.
 Most people don't go to the beach in cold New England winters.
 </p>
 
