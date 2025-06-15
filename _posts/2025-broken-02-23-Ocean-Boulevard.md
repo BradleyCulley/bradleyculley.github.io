@@ -1,4 +1,4 @@
-## <div align="center">Ocean Boulevard<div>
+## <div align="center">Ocean Boulevard</div>
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
@@ -12,7 +12,7 @@ A few years ago, I spent some time living right near the ocean in Hampton, New H
 </p>
 
 <p>
-It's perhaps not well known that there's oceanfront in New Hampshire. There isn't much: a little strip of coastline.
+It's perhaps not well known that there is oceanfront in New Hampshire. There isn't much: a little strip of coastline.
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Map-of-new-hampshire.png" />
 </div>
@@ -35,7 +35,7 @@ It was less than a 60-second walk to the beach. This shows the sidewalk and the 
 
 <p>
 I also spent time in a different condo on Ocean Boulevard, just down the road. That one had a direct oceanfront view.
-It had a sliding glass window with a balcony overlooking the ocean:
+It had a sliding glass door with a balcony overlooking the ocean:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
 </div>
@@ -120,7 +120,7 @@ It was like a little jetpack of calm.
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words of his description, but he said something like that he would not so much read a book as become emotionally engulfed by a book, lost in a book.
+I can't remember the exact words of his description, but he said something like he would not so much read a book as become emotionally engulfed by a book, lost in a book.
 </p>
 
 <p>
