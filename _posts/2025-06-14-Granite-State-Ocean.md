@@ -1,4 +1,4 @@
-## <div align="center">Ocean Boulevard</div>
+## <div align="center">Granite State Ocean</div>
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
