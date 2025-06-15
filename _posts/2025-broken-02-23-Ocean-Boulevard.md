@@ -109,8 +109,12 @@ Sometimes I'd leave the curtains open so I could rotate my desk chair and look a
 <p>
 Something I noticed in Hampton was how soothing the sound of waves is.
 I understood better why people pay a premium for oceanfront properties.
-It was like a jetpack of calm for my mind.
+It was like a little jetpack of calm.
 </p>
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
+</div>
 
 <hr/>
 
@@ -121,12 +125,9 @@ I can't remember the exact words of his description, but he said something like 
 
 <p>
 That's how I felt in Hampton.
-More than a sort of passing enjoyment, I felt engulfed by the experience of the ocean.
+More than a sort of passing enjoyment, I felt somehow wholly engulfed by the experience of the ocean.
 </p>
 
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
-</div>
 
 
 <p>
