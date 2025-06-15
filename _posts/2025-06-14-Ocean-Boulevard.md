@@ -8,7 +8,7 @@
 <hr/>
 
 <p>
-A few years ago, I spent some time living right near the ocean in Hampton, New Hampshire.
+A few years ago, I spent some time living near the ocean in Hampton, New Hampshire.
 </p>
 
 <p>
