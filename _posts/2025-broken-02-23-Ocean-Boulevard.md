@@ -70,7 +70,7 @@ The town was quiet at night. Not many people on the sidewalk. A big sky over the
 <hr/>
 
 <p>
-I'd also sometimes walk right on the sand itself: sometimes closer to the water and sometimes further up, toward the seawall
+I'd sometimes walk right on the sand itself: sometimes closer to the water and sometimes further up toward the seawall
 </p>
 
 <p>
@@ -107,8 +107,9 @@ Sometimes I'd leave the curtains open so I could rotate my desk chair and look a
 </p>
 
 <p>
-Something I noticed during my time in Hampton was how soothing the sound of waves is.
+Something I noticed in Hampton was how soothing the sound of waves is.
 I understood better why people pay a premium for oceanfront properties.
+It was like a jetpack of calm for my mind.
 </p>
 
 <hr/>
