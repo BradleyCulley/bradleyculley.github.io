@@ -125,7 +125,7 @@ I can't remember the exact words of his description, but he said something like 
 
 <p>
 That's how I felt in Hampton.
-More than a sort of passing enjoyment, I felt somehow wholly engulfed by the experience of the ocean.
+More than a sort of passing enjoyment, I felt somehow engulfed by the experience of the ocean.
 </p>
 
 
