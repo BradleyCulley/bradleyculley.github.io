@@ -1,4 +1,4 @@
-## <div align="center">Granite State Ocean<div>
+## <div align="center">Ocean Boulevard<div>
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
@@ -20,13 +20,13 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 
 <p>
 Hampton is one of the towns on that coastline.
-The short driveway to one of the places I lived was right off a road that ran alongside the ocean.
-The road was named "Ocean Boulevard".
+Both places I lived were right off a road that ran alongside the ocean.
+The road is named Ocean Boulevard.
 </p>
 
 <p>
-The condo was at the back end of a parking lot a few hundred feet from a sidewalk that ran along the seawall next to the ocean.
-It was less than a 60-second walk to the beach.
+One of the condos I stayed in was at the back end of a parking lot a few hundred feet from the sidewalk along the seawall next to the ocean.
+It was less than a 60-second walk to the beach. This shows the sidewalk and the seawall:
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
@@ -41,7 +41,7 @@ The beach near the condo:
 </p>
 
 <p>
-Everything about the condo was pleasant: the easygoing landlord, the off-street parking, the condo itself, and the ocean.
+Everything about the condo was pleasant: the landlord, the off-street parking, the condo itself, and the ocean on its doorstep.
 I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
@@ -52,13 +52,13 @@ I worked remotely and cooked a lot of pan-grilled chicken.
 <hr/>
 
 <p>
-The trick was renting the condo in the winter, which brought the price way down.
+The trick was renting the condo in the winter, when the price was low.
 Most people don't go to the beach in cold New England winters.
 </p>
 
 <p>
 I went for walks — usually at night — from the condo building, through the parking lot, to Ocean Boulevard, and then along the sidewalk by seawall above the beach.
-Waves rolled in from the horizon, each breaking with a muted hiss as it hit the sand.
+Waves rolled in from the horizon and each broke with a muted hiss.
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-3.jpg" />
@@ -67,9 +67,6 @@ Waves rolled in from the horizon, each breaking with a muted hiss as it hit the 
 
 <p>
 The town was quiet at night. Not many people on the sidewalk. A big sky over the ocean. Rhythmic crashing of the waves.
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-with-buildings-in-distance.jpg" />
-</div>
 </p>
 
 <hr/>
@@ -85,7 +82,7 @@ Beautiful.
 </p>
 
 <p>
-I worked from a desk just off of the right-hand side of that photo.
+I worked from a desk just off of the left-hand side of that photo.
 Sometimes I'd leave the curtains open so I could rotate my desk chair occasionally and look out over the waves.
 
 <div align="center">
@@ -97,20 +94,29 @@ Sometimes I'd leave the curtains open so I could rotate my desk chair occasional
 </p>
 
 <p>
-The condo 
+The condo was beach-themed, including this painting on the wall:
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/painting-in-Hampton-condo.jpg" />
+</div>
 </p>
 
 <p>
 Something I noticed, both from time spent on that balcony, and from the walks I took alongside the ocean, was how soothing the sound of the waves was.
 I finally understood why people pay such a premium for oceanfront properties.
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-with-buildings-in-distance.jpg" />
+</div>
 </p>
 
 <p>
 It was like a little jetpack of calm in my mind.
 Perhaps like going to a spa, or relaxing for hours with a cup of coffee at a cafe, there's an effect of having — straightforwardly and harmlessly in a crazy crazy world — done something purely to be nice to yourself.
-A sliver of self-love.
-Maybe remove: We can often be quite hard on ourselves, especially those of us who are conscientious and hard-working by nature.
 </p>
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-and-Hampton-beach-in-blue.jpg" />
+</div>
 
 <p>
 I once read a somehow quite moving description of a day in the life of an introvert, written by an introvert.
