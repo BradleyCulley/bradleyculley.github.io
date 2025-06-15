@@ -151,7 +151,7 @@ ___
 </p>
 
 <p>
-    While it can have consequentialist ramifications, such as universal healthcare, it's fundamentally deontological: "This food reminds me of my childhood. It feels like home."
+    While it can have consequentialist ramifications, such as universal healthcare, it's fundamentally deontological: "this food reminds me of my childhood"
 </p>
 
 <p>
