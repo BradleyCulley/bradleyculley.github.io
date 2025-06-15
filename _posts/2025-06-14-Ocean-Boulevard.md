@@ -103,10 +103,6 @@ I understood better why people pay a premium for oceanfront properties.
 It was like a jetpack of calm added to my mind.
 </p>
 
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
-</div>
-
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
 I can't remember the exact words of his description, but he said something like that he didn't so much read a book as become emotionally engulfed by a book, lost in a book.
@@ -114,5 +110,9 @@ I can't remember the exact words of his description, but he said something like 
 
 <p>
 That's how I felt in Hampton.
-More than a passing enjoyment, I felt somehow engulfed by the experience, lost in the experience of the ocean.
+More than a passing enjoyment, I felt somehow engulfed; pleasanly lost in the experience of the ocean.
 </p>
+
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
+</div>
