@@ -86,7 +86,7 @@ Sometimes I'd walk right on the sand: sometimes closer to the water and sometime
 </p>
 
 <p>
-I remember once picking my way across a section of the beach like this, looking for high spots so my feet didn't get wet:
+On one such walk, I picked my way across a section of the beach like this, looking for high spots so my feet didn't get wet:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Buildings-sand-water-and-rocks.jpg" />
 </div>
