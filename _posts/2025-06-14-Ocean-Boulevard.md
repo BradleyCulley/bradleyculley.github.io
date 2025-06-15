@@ -100,14 +100,12 @@ The view from the edge of the waves:
 <p>
 Something I noticed in Hampton was how soothing the sound of waves is.
 I understood better why people pay a premium for oceanfront properties.
-It was like a little jetpack of calm.
+It was like a jetpack of calm added to my mind.
 </p>
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
 </div>
-
-<hr/>
 
 <p>
 I once read a description, written by an introvert, of a day in the life of an introvert.
