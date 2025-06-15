@@ -59,7 +59,6 @@ The beach near the condos:
 
 <p>
 Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
-I worked remotely and cooked a lot of pan-grilled chicken.
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-2.jpg" />
