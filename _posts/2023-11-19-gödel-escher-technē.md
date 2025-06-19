@@ -5,6 +5,8 @@ _Revised version of an essay I wrote earlier this year about some things that ha
 
 I think the continued development of artificial intelligence will lead to an epistemic unraveling of teleological claims. There's been some of that already.
 
+Like the industrial revolution 
+
 A few years ago, I read a news article along these lines:
 
 “Every year, a team wins the Super Bowl. That then begs the question: what's the point of winning the Super Bowl?".
