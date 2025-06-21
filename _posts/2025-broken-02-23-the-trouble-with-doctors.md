@@ -80,6 +80,8 @@ Add to the trouble with doctors a lack of training in emphasis on and holding in
 
 Add to the trouble with doctors essay The idea that, in my experience, doctors are neatly split between being insecure subtly emotionally scoundrelous muppets and being wonderful caring angels with an aura of healing that is, quite simply, palpable in their presence. Personally at least I know more or less immediately which category of health care professional I'm dealing with. The letter category by the way need not be gushy or saccharin - sometimes they're staid or even a bit rough around the edges, but you can tell they actually care. Do not settle.
 
+Add to the trouble with doctors that every once in a while you get a doctor who says hold on let's dig a little deeper here. Does doctors are true healers in the highest tradition of the medical profession
+
 <br/>
 Sources:<br/>
 ¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
