@@ -21,12 +21,12 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 <p>
 Hampton is one of the towns on that coastline.
 Both condos I lived in in Hampton were right off a road that ran alongside the ocean.
-The road is Ocean Boulevard.
+The road is called Ocean Boulevard.
 </p>
 
 <p>
 One of the condos was less than a 60-second walk to a sidewalk along the seawall above the beach.
-This shows the sidewalk and the seawall:
+This shows the sidewalk, the seawall, and Ocean Boulevard:
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
@@ -43,7 +43,7 @@ A sliding glass door opened to a balcony overlooking the ocean:
 
 <p>
 I worked from a desk off the left-hand side of that photo.
-Sometimes I'd leave the curtains open, so I could rotate the desk chair and look at the waves.
+Sometimes I'd leave the curtains open to be able to look out over the waves every now and then.
 </p>
 
 <p>
@@ -64,8 +64,8 @@ Everything about each condo was pleasant: the landlord, the condo itself, and th
 <hr/>
 
 <p>
-I went for walks — usually at night — to Ocean Boulevard, then along the sidewalk by the seawall.
-Waves rolled in from the horizon, breaking with a muted sigh.
+I went for walks, usually at night, along the sidewalk by the seawall.
+Waves rolled in from the horizon, each breaking with a muted sigh.
 </p>
 
 <p>
@@ -73,7 +73,7 @@ The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing 
 </p>
 
 <p>
-Sometimes I'd walk right on the beach - on the sand itself, rather than on the sidewalk.
+Sometimes I'd walk right on the beach - on the sand itself, rather than on the sidewalk up above.
 </p>
 
 <p>
@@ -84,7 +84,7 @@ On one walk, I crossed an area rather like this, stepping on high spots so my fe
 </p>
 
 <p>
-The edge of the water:
+This is the edge of the water:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-close-to-water.jpg" />
 </div>
