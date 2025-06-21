@@ -58,8 +58,8 @@ Waves rolled in from the horizon, each breaking with a muted sigh.
 </p>
 
 <p>
-Sometimes I'd walk right on the beach - on the sand itself, rather than on the sidewalk up above.
-The town was quiet at night. Not many people on the sidewalk. Rhythmic crashing of the waves.
+Sometimes I'd walk right on the beach: on the sand itself, rather than on the sidewalk up above.
+The town was quiet at night. Not many people on the sidewalk. The rhythmic sighing of the waves.
 </p>
 
 <p>
