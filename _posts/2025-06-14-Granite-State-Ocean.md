@@ -91,21 +91,21 @@ This is the edge of the water:
 </p>
 
 <p>
-Something I noticed was how soothing the sound of the waves is.
-I understood better why people pay a premium for oceanfront properties.
-It was like a jetpack of calm.
+I especially noticed how soothing the sound of the waves is.
+I understood better why people pay such a premium for oceanfront real estate.
+It was like a little jetpack of calm for my mind.
 </p>
 
 <hr/>
 
 <p>
-I once read a description, written by an introvert, of a day in the life of an introvert.
-I can't remember the exact words, but he said something like that he didn't so much read a book as become emotionally engulfed in a book, lost in a book.
+I once read a description, written by an introvert, of something like "a day in the life of an introvert".
+He said something like that he didn't so much read a book as become emotionally engulfed in a book, lost in a book.
 </p>
 
 <p>
-That's how I felt in Hampton.
-More than a passing enjoyment, I felt somehow engulfed; happily lost in the experience of the ocean.
+That's exactly how I felt in Hampton.
+More than a passing enjoyment, I felt somehow engulfed; enjoyably lost in the experience of the ocean.
 </p>
 
 <div align="center">
