@@ -1,7 +1,7 @@
 ## <div align="center">Granite State Ocean</div>
 
 <div align="center">
-    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-heading-image.jpg" />
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-at-sunset-ocean-only.jpg" />
     <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay.</div>
 </div>
 
@@ -29,7 +29,7 @@ One of the condos was less than a 60-second walk to a sidewalk along the seawall
 This shows the sidewalk, the seawall, and Ocean Boulevard:
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-sidewalk-and-seawall.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Sidewalk-Seawall-and-Ocean_Boulevard" />
 </div>
 </p>
 
