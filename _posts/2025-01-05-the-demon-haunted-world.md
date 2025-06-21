@@ -78,6 +78,12 @@ as cited on page 179 of the book¹
 > <p>A very different prospect for something like eternal life was once proposed by the versatile British scientist J.B.S. Haldane, who was, among many other things, one of the founders of population genetics. Haldane imagined a far future when the stars have darkened and space is mainly filled with a cold, thin gas. Nevertheless, if we wait long enough statistical fluctuations in the density of this gas will occur. Over immense periods of time the fluctuations will be sufficient to reconstitute a Universe something like our own. If the Universe is infinitely old, there will be an infinite number of such reconstitutions, Haldane pointed out.</p><p>So in an infinitely old universe with an infinite number of appearances of galaxies, stars, planets and life, an identical Earth must reappear on which you and all your loved ones will be reunited. I'll be able to see my parents again and introduce them to the grandchildren they never knew. And all this will happen not once, but an infinite number of times.</p><p>But in this reflection I have underestimated what infinity means. In Haldane's picture, there will be universes, indeed an infinite number of them, in which our brains will have full recollection of many previous rounds. Satisfaction is at hand — tempered, though, by the thought of all those other universes which will also come into existence (again, not once but an infinite number of times) with tragedies and horrors vastly outstripping anything I've experienced this turn.</p><p>The Consolation of Haldane depends, though, on what kind of universe we live in, and maybe on such arcana as whether there's enough matter eventually to reverse the expansion of the universe, and the character of vacuum fluctuations. Those with a deep longing for life after death might, it seems, devote themselves to cosmology, quantum gravity, elementary particle physics, and, especially, transfinite arithmetic.<br/><br/>-pages 192-193¹</p>
 
 <p>
+In the book, Sagan sides with neither theism nor atheism. He takes what one could call a scientific approach, and says we don't have enough information to make a determination either way.
+</p>
+
+<hr/>
+
+<p>
     Something that gave me distinct respect for Sagan is that he was twice arrested for trespassing, for attempting to climb a fence during a protest against nuclear weapons testing in Nevada.
 </p>
 
