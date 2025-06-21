@@ -91,7 +91,7 @@ He said something like that he didn't so much read a book as become emotionally 
 
 <p>
 That's how I felt in Hampton.
-More than a passing enjoyment, I felt somehow engulfed; pleasantly lost in the experience of the ocean.
+More than a passing enjoyment, I felt somehow engulfed; happily lost in the experience of the ocean.
 </p>
 
 <div align="center">
