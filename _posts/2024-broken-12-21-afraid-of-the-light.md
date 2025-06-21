@@ -91,3 +91,14 @@ Ripostes:<br/>
 </p>
 
 Add to the afraid of the light essay the prison stuff. The main prison with the guy being sprayed maybe. The Georgia prisons with a violation of their constitutional rights. The wing correctional essay and mother Jones and or it talks about the sexual slaves there. And tie it back to recidivism. You expect someone to endure these conditions and come out a well-functioning will adjusted member of society. That's a bit much.
+
+https://www.loebclassics.com/view/lucretius-de_rerum_natura/1924/pb_LCL181.195.xml?readMode=recto
+https://www.humanium.org/en/finlands-children-centric-school-system-a-global-model-for-success/
+https://finlandeducationhub.com/play-based-learning-unlocking-the-magic-behind-finlands-early-education/#:~:text=The%20Finnish%20Approach%20to%20Play%2DBased%20Learning&text=They%20provide%20a%20range%20of,play%20while%20respecting%20their%20autonomy
+https://en.wikipedia.org/wiki/Foucauldian_discourse_analysis
+https://en.wikipedia.org/wiki/Disciplinary_institution
+https://en.wikipedia.org/wiki/Biopower
+https://en.wikipedia.org/wiki/Cretan_War_(1645%E2%80%931669)
+https://en.wikipedia.org/wiki/Ibrahim_of_the_Ottoman_Empire
+https://en.wikipedia.org/wiki/Kafes
+
