@@ -5,13 +5,13 @@ _Revised version of an essay I wrote earlier this year about some things that ha
 
 I think the continued development of artificial intelligence will lead to an epistemic unraveling of teleological claims. There's been some of that already.
 
-This will, I think, be similar to the industrial revolution's epistemic impact on the idea of theodicy.
+This will I think be similar to the industrial revolution's epistemic impact on the idea of theodicy.
 
-A few years ago, I read a news article along these lines:
+A while ago, I read a news article along these lines:
 
-“Every year, a team wins the Super Bowl. That then begs the question: what's the point of winning the Super Bowl?".
+“Every year, a team wins the Super Bowl. That then leaves the deeper question: what's the point of winning the Super Bowl?"
 
-If a machine can do everything a human can do, what's the purpose of a human doing something? This is particularly important for domains previously considered the sole purview of humans. Work and relationships are under siege.
+If a machine can do everything a human can do, what's the purpose of a human doing anything? This is particularly important for domains previously considered the sole purview of humans. Work and relationships are under siege.
 
 If not technē, is hedonia teleological? What about eudaimonia?
 
