@@ -1,3 +1,5 @@
 ### The Discoveries
 
 In Heideggerian philosophy, Geworfenheit (often translated as "thrownness") describes the human condition of being arbitrarily or passively "thrown" into existence and into a specific world, culture, and circumstances. It signifies the fact that we are not self-created but are given a pre-existing reality into which we are born, and which we have no control over. 
+
+Add to the deidentification essay The idea that it's at least partial  deidentification with things that are random, but actually increased and more fervent and devoted identification with things like one's purpose and one's artistic aesthetic. Buddha is a case study in this. Buddha completely de-identified with the self but completely identified with his role as a teacher. I've I've seen him referred to as the great teacher in fact. Son of the best people you've ever meet have in essence lost themselves to some degree in there purpose in life. Could be anywhere from a great surgeon to a great pizza restaurant owner. Someone truly passionate about the work or the art or raising their children.
