@@ -54,7 +54,9 @@ Sagan displayed a profound inquisitiveness from an early age.
 <p>
     And thus the title of the chapter, which comes from a poem by the famous German poet Rainer Maria Rilke:<br/>
 
+
 > ". . . how alien, alas, are the streets of the city of grief.<br/> Rainer Maria Rilke,<br/> 'The Tenth Elegy' (1923)"<br/>
+
 
 as cited on page 179 of the book¹
 </p>
