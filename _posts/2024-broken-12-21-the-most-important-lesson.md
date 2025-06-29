@@ -31,3 +31,5 @@ Putting kindness into a position of primacy in your internal hierarchical repres
 Add to the most important lesson essay the point about all these speeches in the 90s and early 2000s about leadership. I'm not sure who decided leadership was the most important thing in the world but somebody did and the emphasis on it was endless. Also mention the speech the guy gave where he said you will only remember one thing from this, and that's the only thing I remember - literally him saying you'll only remember one thing.
 
 Add to the most important lesson essay how do you actually do this the answer is to have *options* and be willing to use them
+
+Add to the most important lesson essay the idea that the average person carries a great deal of suppressed rage. This is something I experienced firsthand when I worked in tech support. Give the example of the guy who said I couldn't outrun a bullet, Even though it was semi joking. Give the example of the woman who was so unbelievably emotionally violent that we had a special note in the system to not send her to one of our people whom she had profoundly abused.
