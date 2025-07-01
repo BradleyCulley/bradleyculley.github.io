@@ -86,7 +86,7 @@ It was like a little jetpack of calm.
 
 <p>
 I once read a description, written by an introvert, of something like "a day in the life of an introvert".
-He said something like that he didn't so much read a book as become emotionally engulfed in a book, lost in a book.
+He said something like that he didn't so much read a book as become emotionally engulfed in a book; lost in a book.
 </p>
 
 <p>
