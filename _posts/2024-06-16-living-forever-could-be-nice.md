@@ -24,7 +24,7 @@ Years ago, I read about a woman who hit her financial freedom goal. The goal was
 </p>
 
 <p>
-She described it as unbelievable joy, freedom, and lightness. She said that, if anything, the experience is underrated.
+She described it as unbelievable joy, freedom, and lightness. She said that, if anything, the experience is <i>under</i>rated.
 </p>
 
 <p>
@@ -35,11 +35,6 @@ As with the old trope that "money isn't important", what we wish were true (that
 Also interesting was what happened <i>after</i> she achieved financial freedom.
 She said her wealth grew <i>faster</i> afterward.
 She worked more in alignment with her personal missions, took more calculated risks, and so on.
-</p>
-
-<p>
-Mark Cuban was once asked, "What's the best thing about being a billionaire? The worst?".
-His answer: "Everything. Nothing."²
 </p>
 
 -----
@@ -124,7 +119,6 @@ So, Hydras prove it's possible. I think it would be nice.
 <br/>
 Sources:<br/>
 ¹: [https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted](https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted) <br/>
-²: [https://news.yahoo.com/news/best-worst-things-being-billionaire-183500017.html](https://news.yahoo.com/news/best-worst-things-being-billionaire-183500017.html) <br/>
 ³: [https://en.wikipedia.org/wiki/Longevity_escape_velocity](https://en.wikipedia.org/wiki/Longevity_escape_velocity) <br/>
 ⁴: [https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf) <br/>
 ⁵: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
