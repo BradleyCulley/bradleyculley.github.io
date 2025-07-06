@@ -1,4 +1,4 @@
-## <div align="center">What Does MLBWYA Stand For?</div>
+## <div align="center">What Does MLBWYA Mean?</div>
 
 <br/>
 <br/>
