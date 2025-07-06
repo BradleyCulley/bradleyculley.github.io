@@ -1,8 +1,5 @@
 ## <div align="center">What Does MLBWYA Mean?</div>
 
-<br/>
-<br/>
-
 <p>
 <b>MLBWYA, the title of this blog, stands for "May Love Be With You Always"</b>
 </p>
