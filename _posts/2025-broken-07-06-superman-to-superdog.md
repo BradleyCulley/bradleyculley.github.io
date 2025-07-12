@@ -1,4 +1,4 @@
-## <div align="center">Superdog to Superman</div>
+## <div align="center">Superman to Superdog</div>
 
 <p>
 <b>MLBWYA, the title of this blog, stands for "May Love Be With You Always"</b>
