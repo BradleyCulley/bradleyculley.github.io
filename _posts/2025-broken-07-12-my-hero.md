@@ -11,5 +11,6 @@
 
 ---
 <p>
-Pick one thing and take it seriously quote from Charlie munger for the Paul Farmer essay
+“Take a simple idea and take it seriously.”
+https://jamesclear.com/quotes/take-a-simple-idea-and-take-it-seriously-charlie-munger
 </p>
