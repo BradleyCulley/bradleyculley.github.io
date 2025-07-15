@@ -20,8 +20,7 @@
 
 <p>
     It was an internal experience, with me wherever I went.
-    It had both a vastness and a stillness to it, as though standing outside of time.
-    It sort of welled up from inside, sometimes less and sometimes more.
+    It had both a vastness and a stillness to it.
 </p>
 
 <p>
@@ -36,7 +35,7 @@
 
 <p>
     I took the photo at the top of this post on the campus that summer, with a flip phone as I recall.
-    These are a few others from the campus that summer:
+    I also took these:
 </p>
 
 <div align="center">
