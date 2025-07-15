@@ -56,6 +56,8 @@
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-7.jpg" />
 </div>
 
+<br/>
+
 <p>
     Below is an updated version of a poem I wrote that summer, I believe.
     I don't remember if I wrote the poem while working at the camp, or during time spent at my childhood home in Maine that summer.
