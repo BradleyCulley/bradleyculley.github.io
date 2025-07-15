@@ -55,9 +55,9 @@
 </div>
 
 <p>
-    I wrote the below poem that summer, I believe.
-    I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine that summer.
-    I think it may have been the latter.
+    Below is an updated version of a poem I wrote that summer, I believe.
+    I don't remember if I wrote the poem while working at the camp, or during time spent at my childhood home in Maine that summer.
+    It may have been the latter.
 </p>
 
 <p>
