@@ -17,7 +17,7 @@
 
 <p>
     One of the characteristics of that decompression was a feeling of expansiveness.
-    It was like standing at the edge of a vast landscape; a prairie or a mountain range, maybe.
+    It was like standing at the edge of a vast landscape; a prairie or a mountain range, perhaps.
 </p>
 
 <p>
