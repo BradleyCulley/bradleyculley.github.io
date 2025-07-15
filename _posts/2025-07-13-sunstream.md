@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-    I had had an extremely stressful senior year of college.
+    I had an extremely stressful senior year of college.
 </p>
 
 <p>
