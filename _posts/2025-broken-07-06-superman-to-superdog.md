@@ -10,8 +10,8 @@ Superdog to Superman
 He sits above me on a pillar
 in The Fortress of Solitude.
 
-“Why build a Fortress of Solitude”, I say,
-“when you’re so alone, right now?”.
+“Why a Fortress of Solitude”, I say,
+"when you’re so alone, right now?”.
 “Solitude is my nature”
 
 I’m stretched out below him,
