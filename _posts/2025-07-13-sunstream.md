@@ -4,6 +4,8 @@
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-3.jpg" />
 </div>
 
+<br/>
+
 <p>
     I had had an extremely stressful senior year of college.
 </p>
