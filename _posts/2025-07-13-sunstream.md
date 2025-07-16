@@ -25,7 +25,7 @@
 </p>
 
 <p>
-    The boarding school is called Kents Hill School, located in Kents Hill, Maine.
+    The boarding school is called Kents Hill School.
     Completely coincidentally, it's where my sister went to high school.
 </p>
 
