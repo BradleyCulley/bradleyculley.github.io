@@ -7,18 +7,17 @@
 <br/>
 
 <p>
-    I had an intense senior year of college.
+    I had a intense senior year of college.
 </p>
 
 <p>
     In June 2011, I graduated.
-    That summer, my mind was decompressing.
+    That summer, I was decompressing.
 </p>
 
 <p>
-    One of the characteristics of that decompression was a feeling of expansiveness and joy.
-    It was a bit like standing at the edge of a vast landscape.
-    A vast open prairie, perhaps.
+    Part of that decompression was a feeling of expansiveness and joy.
+    It was like standing at the edge of a vast landscape.
 </p>
 
 <p>
