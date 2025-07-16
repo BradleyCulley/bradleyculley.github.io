@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-    I had an extremely stressful senior year of college.
+    I had an extremely intense senior year of college.
 </p>
 
 <p>
@@ -16,18 +16,13 @@
 </p>
 
 <p>
-    One of the characteristics of that decompression was a feeling of expansiveness.
-    It was like standing at the edge of a vast landscape; a prairie or a mountain range, perhaps.
-</p>
-
-<p>
-    It was an internal experience, with me wherever I went.
+    One of the characteristics of that decompression was a feeling of expansiveness and joy.
+    It was like standing at the edge of a vast landscape.
     It had both a vastness and a stillness to it.
 </p>
 
 <p>
-    I worked at a summer camp that summer.
-    I taught tennis, looked after the campers, and lived right on the campus of the boarding school at which the camp took place.
+    I worked at a summer camp that summer, teaching tennis, looking after the campers, and living right on the campus of the boarding school at which the camp took place.
 </p>
 
 <p>
@@ -36,7 +31,7 @@
 </p>
 
 <p>
-    I took the photo at the top of this post on the campus that summer, with a flip phone as I recall.
+    I took the photo at the top of this post on the campus that summer.
     I also took these:
 </p>
 
@@ -59,14 +54,13 @@
 <br/>
 
 <p>
-    Below is an updated version of a poem I wrote that summer, I believe.
+    Below is an updated version of a poem I wrote that summer.
     I don't remember if I wrote the poem while working at the camp, or during time spent at my childhood home in Maine that summer.
-    It may have been the latter.
+    Whichever place it was, there was that feeling of expansiveness, and of the sunlight — as the poem describes — streaming into me, so to speak.
 </p>
 
 <p>
-    There's a memory, somehow connected to this poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as described in the poem.
-    Whichever place it was, there was that feeling of expansiveness, and of the sunlight — as the poem describes — streaming into me, so to speak.
+    There's a memory, somehow connected to this poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
 </p>
 
 <hr/>
