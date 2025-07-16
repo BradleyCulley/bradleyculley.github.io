@@ -12,7 +12,7 @@
 
 <p>
     In June 2011, I graduated.
-    That summer, my mind was decompressing from that final year of college.
+    That summer, my mind was decompressing.
 </p>
 
 <p>
