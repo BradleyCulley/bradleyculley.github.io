@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-    I had a intense senior year of college.
+    I had an intense senior year of college.
 </p>
 
 <p>
