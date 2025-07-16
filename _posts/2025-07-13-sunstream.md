@@ -56,11 +56,11 @@
 <p>
     Below is an updated version of a poem I wrote that summer.
     I don't remember if I wrote the poem while working at the camp, or during time spent at my childhood home in Maine that summer.
-    Whichever place it was, there was that feeling of expansiveness, and of the sunlight — as the poem describes — streaming into me, so to speak.
 </p>
 
 <p>
     There's a memory, somehow connected to this poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
+    There was that feeling of expansiveness, and of the sunlight — as the poem describes — streaming into me, so to speak.
 </p>
 
 <hr/>
