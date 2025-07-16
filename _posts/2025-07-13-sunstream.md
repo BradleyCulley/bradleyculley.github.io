@@ -55,7 +55,7 @@
 
 <p>
     Below is an updated version of a poem I wrote that summer.
-    I don't remember if I wrote the poem while working at the camp, or during time spent at my childhood home in Maine that summer.
+    I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine that summer.
 </p>
 
 <p>
