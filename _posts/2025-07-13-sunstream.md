@@ -11,13 +11,13 @@
 </p>
 
 <p>
-    In June 2011, I graduated.
-    That summer, I was decompressing.
+    That summer, my mind was decompressing.
 </p>
 
 <p>
-    Part of that decompression was a feeling of expansiveness and joy.
-    It was like standing at the edge of a vast landscape.
+    Part of the decompression was a feeling of expansiveness and joy.
+    It was like standing at the edge of a vast landscape: an expansive prairie or a mountain range, perhaps.
+    It sort of welled up from inside me, and more strongly so at certain times.
 </p>
 
 <p>
@@ -54,12 +54,13 @@
 
 <p>
     Below is an updated version of a poem I wrote that summer.
-    I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine that summer.
+    It wasn't for a class or a group or anything: just felt like writing it.
+    I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine.
 </p>
 
 <p>
-    There's a memory, somehow connected to this poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
-    There was that feeling of expansiveness, and of the sunlight — as the poem describes — streaming into me, so to speak.
+    There's a memory, somehow connected to the poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
+    There was that feeling of expansiveness and joy, and of the sunlight, as the poem describes, streaming into me, so to speak.
 </p>
 
 <hr/>
@@ -82,7 +83,7 @@ How orange, how soft and cool in its brightness,<br/>
 and how deep the shade of green<br/>
 was of the leaves<br/><br/>
 
-I stood struck, in mute discourse with the setting sun<br/>
+I stood struck, in silent discourse with the setting sun<br/>
 possessed by its luminousness,<br/>
 forever transfixed,<br/>
 yet always restful in its glow<br/><br/>
