@@ -14,8 +14,9 @@
 
 <p>
 In a college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne.
-The series is titled "Mont Sainte-Victoire". Mont Sainte-Victoire is a mountain ridge in the south of France.²
 The name of the college class was "The Writing of Poetry".
+The series of painting by Cézanne is titled "Mont Sainte-Victoire".
+Mont Sainte-Victoire is a mountain ridge in the south of France.²
 </p>
 
 <p>
