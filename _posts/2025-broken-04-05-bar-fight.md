@@ -2,7 +2,7 @@
 
 <p>I'm 36 years old and I've never gotten into a bar fight in which someone smashed a beer bottle over my head</p>
 
-<p>I've also never smashed a beer bottle over someone else's head in a bar fight</p>
+<p>I've also never smashed a beer bottle over someone's head during a bar fight</p>
 
 <p>I've never had someone at a bar disrespect the woman I was there with, thereby more or less obligating me to fight the individual in question</p>
 
