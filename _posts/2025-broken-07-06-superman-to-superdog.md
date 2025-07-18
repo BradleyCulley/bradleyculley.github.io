@@ -1,21 +1,19 @@
 ## <div align="center">Superman to Superdog</div>
 
 <p>
-<b>
 An updated version of a poem I wrote for a poetry class in college, in 2009.
 The name of the class was "The Writing of Poetry".
 The title of the poem is "Superman to Superdog".
 At the risk of sounding like a paper for an 11th-grade English class, I'll say that the poem explores themes of solitude, bravery, alienation, duty, family, love, and time.
-</b>
 </p>
 
 <p>
-Superman to Superdog
+<b>Superman to Superdog</b>
 </p>
 
 <p>
 He sits above me on a pillar<br/>
-in The Fortress of Solitude.<br/><br/>
+in The Fortress of Solitude.
 </p>
 
 <p>
@@ -49,7 +47,7 @@ a frown on that stony jaw.
 
 <p>
 "Lois Lane knows this place, this 'Fortress'", I say.<br/>
-"Truth, Justice...", he says quietly.<br/><br/>
+"Truth, Justice...", he says, quietly but firmly.<br/><br/>
 </p>
 
 <p>
@@ -59,7 +57,7 @@ but the trip would take a thousand years."
 </p>
 
 <p>
-He snaps his eyes straight ahead. He begins, "My father, Jor-El, sent me to this planet. He gave me a mission…".<br/>
+He snaps his eyes ahead. He begins, "My father, Jor-El, sent me to this planet. He gave me a mission…".<br/>
 He trails off, perfectly still up there.
 </p>
 
