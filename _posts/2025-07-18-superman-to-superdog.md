@@ -21,11 +21,11 @@ At the risk of sounding like a paper for an 11th-grade English class, I'll say t
 
 <p>
 He sits above me on a pillar<br/>
-in The Fortress of Solitude.
+in The Fortress of Solitude
 </p>
 
 <p>
-"Why a Fortress of Solitude", I say,<br/>
+"Why a Fortress of Solitude," I say,<br/>
 "when you’re already alone?".<br/>
 "Solitude is my nature", he says
 </p>
@@ -37,8 +37,8 @@ I claw little furrows into the frost.
 </p>
 
 <p>
-"You could fight crime without the Superman costume, you know"<br/>
-"Many things I can do here, Superdog"
+"You could fight crime without the Superman costume, you know".<br/>
+"Many things I can do here, Superdog".
 </p>
 
 <p>
@@ -51,7 +51,7 @@ a frown on that stony jaw.
 
 <p>
 "Lois Lane knows this place", I say.<br/>
-"Truth, Justice, and the American Way", he says, quietly but firmly.
+"Truth, Justice, and the American Way," he says, quietly but firmly.
 </p>
 
 <p>
@@ -61,13 +61,13 @@ but the trip would take a thousand years."
 </p>
 
 <p>
-He snaps his eyes straight ahead, he begins:<br/>
+He snaps his eyes straight ahead. He begins:<br/>
 "My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
 He trails off, perfectly still up there.
 </p>
 
 <p>
-It’s the speech: the only words from his parents.<br/>
+It’s the speech—the only words from his parents.<br/>
 He listens to it every night,<br/>
 from the crystals.
 </p>
