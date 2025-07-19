@@ -8,7 +8,7 @@ At the risk of sounding like a paper for an 11th-grade English class, I'll say t
 </p>
 
 <p>
-<b>Superman to Superdog</b>
+<b style="font-size: 20px;">Superman to Superdog</b>
 </p>
 
 <p>
@@ -18,8 +18,8 @@ in The Fortress of Solitude.
 
 <p>
 "Why a Fortress of Solitude", I say,<br/>
-"when you’re so alone, right now?".<br/>
-"Solitude is my nature", he replies
+"when you’re already alone?".<br/>
+"Solitude is my nature", he says
 </p>
 
 <p>
@@ -30,20 +30,20 @@ I claw little furrows into the frost.
 
 <p>
 "You could fight crime without the Superman costume, you know"<br/>
-"Many things I can do here, Superdog."
+"Many things I can do here, Superdog"
 </p>
 
 <p>
-He smooths a wrinkle near his knee. He gazes into the distance.<br/>
-"The Kent disguise allows me to be with the people."<br/>
+He smooths a wrinkle near his knee.<br/>
+"The Kent disguise allows me to be with the people", he says<br/>
 "The people?" I ask.<br/>
 He looks down at me,<br/>
 a frown on that stony jaw.
 </p>
 
 <p>
-"Lois Lane knows this place".<br/>
-"Truth, Justice, and the American Way", he says, quietly but firmly.<br/><br/>
+"Lois Lane knows this place", I say.<br/>
+"Truth, Justice, and the American Way", he says, quietly but firmly.
 </p>
 
 <p>
@@ -53,7 +53,8 @@ but the trip would take a thousand years."
 </p>
 
 <p>
-He snaps his eyes straight ahead. He begins, "My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
+He snaps his eyes ahead.
+He begins, "My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
 He trails off, perfectly still up there.
 </p>
 
