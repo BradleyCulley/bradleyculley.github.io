@@ -86,7 +86,7 @@ was of the leaves<br/><br/>
 I stood struck, in silent discourse with the setting sun<br/>
 possessed by its luminousness,<br/>
 forever transfixed,<br/>
-yet always restful in its glow<br/><br/>
+yet ever restful in its glow<br/><br/>
 </div>
 
 <br/>
