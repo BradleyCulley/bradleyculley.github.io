@@ -1,11 +1,19 @@
 ## <div align="center">Superman to Superdog</div>
 
 <p>
-An updated version of a poem I wrote for a poetry class in college, in 2009.
+An updated version of a poem I wrote for a poetry class in college in 2009.
 The name of the class was "The Writing of Poetry".
+</p>
+
+<p>
 The title of the poem is "Superman to Superdog".
 At the risk of sounding like a paper for an 11th-grade English class, I'll say that the poem explores themes of solitude, bravery, alienation, duty, family, love, and time.
 </p>
+<br/>
+
+<hr/>
+
+<div style="text-align: center">
 
 <p>
 <b style="font-size: 20px;">Superman to Superdog</b>
@@ -63,3 +71,5 @@ It’s the speech: the only words from his parents.<br/>
 He listens to it every night,<br/>
 from the crystals.
 </p>
+
+</div>
