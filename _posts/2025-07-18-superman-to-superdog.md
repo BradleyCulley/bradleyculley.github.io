@@ -43,7 +43,7 @@ I claw little furrows into the frost.
 
 <p>
 He smooths a wrinkle near his knee.<br/>
-"The Kent disguise allows me to be with the people", he says<br/>
+"The Kent disguise allows me to be with the people", he says.<br/>
 "The people?" I ask.<br/>
 He looks down at me,<br/>
 a frown on that stony jaw.
