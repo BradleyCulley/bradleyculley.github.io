@@ -19,7 +19,7 @@ in The Fortress of Solitude.
 <p>
 "Why a Fortress of Solitude", I say,<br/>
 "when you’re so alone, right now?".<br/>
-"Solitude is my nature"
+"Solitude is my nature", he replies
 </p>
 
 <p>
@@ -29,12 +29,12 @@ I claw little furrows into the frost.
 </p>
 
 <p>
-"You could fight crime without the Superman costume, you know"
+"You could fight crime without the Superman costume, you know"<br/>
 "Many things I can do here, Superdog."
 </p>
 
 <p>
-He smoothes a wrinkle near his knee. He gazes into the distance.<br/>
+He smooths a wrinkle near his knee. He gazes into the distance.<br/>
 "The Kent disguise allows me to be with the people."<br/>
 "The people?" I ask.<br/>
 He looks down at me,<br/>
