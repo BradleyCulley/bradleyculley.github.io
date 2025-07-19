@@ -54,7 +54,7 @@
 
 <p>
     Below is an updated version of a poem I wrote that summer.
-    It wasn't for a class or a group or anything: just felt like writing it.
+    It wasn't for a class or a group or anything. I just felt like writing it.
     I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine.
 </p>
 
@@ -62,7 +62,7 @@
     There's a memory, somehow connected to the poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
     There was that feeling of expansiveness and joy, and of the sunlight, as the poem describes, streaming into me, so to speak.
 </p>
-
+<br/>
 <hr/>
 
 <div style="text-align: center">
