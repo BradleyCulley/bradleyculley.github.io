@@ -35,7 +35,7 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
    The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
    Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
-   As the lyrics of an old Eagles song say, "every refuge has its price".
+   As the lyrics of an old Eagles song say, "every refuge has its price".<br/><br/>
    5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
    There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
    Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
@@ -45,7 +45,7 @@ Marriage, kids, and a mortgage while you're still in medical school? That's wild
    The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load, set-shifting, and decision fatigue.<br/><br/>
    Likewise, sociologically by concepts such as role strain and role conflict. In other words, being two different people in two different areas of your life.<br/><br/>
 
-The brain detests complexity, that's for sure.<br/><br/>
+The brain detests complexity.<br/><br/>
 Another large factor is the society into which one is embedded.<br/><br/>
 The social diathesis of The United States, for example, is very low. Of Sweden, very high.<br/><br/>
 Approximately 60% of Americans live paycheck-to-paycheck. Healthcare is tied to your job - the only industrialized nation on Earth to do so.
@@ -62,5 +62,10 @@ He was also settled into his romantic relationship with his partner. He was in e
 In fact, he gave up one of his two roles: research or clinical medicine (I don't recall which) in order to spend more time with his child.
 Finally, he said, there was a certain _je ne sais quois_ of groundedness that came with age. Knowing himself as a person and knowing how to interact with the world.
 <br/><br/>
-"Simplify, simplify, simplify! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail."<br/><br/>
--Henry David Thoreau
+
+<blockquote>
+"Simplify, simplify, simplify! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail."
+</blockquote>
+
+-Henry David Thoreau [https://xenon.stanford.edu/~rfoon/files/quotes/files/thoreau.html](https://xenon.stanford.edu/~rfoon/files/quotes/files/thoreau.html)
+
