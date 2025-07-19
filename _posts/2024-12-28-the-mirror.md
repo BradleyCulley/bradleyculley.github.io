@@ -3,7 +3,7 @@
 <br/>
 <p>
     <i>
-        A short story I wrote in late 2024/early 2025
+        A short story I wrote in late 2024/early 2025. The core of the idea — the light and the quotation — came to mind one night during a dream I had.
     </i>
 </p>
 <br/>
