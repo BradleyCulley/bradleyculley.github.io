@@ -26,7 +26,7 @@ in The Fortress of Solitude.
 
 <p>
 "Why a Fortress of Solitude", I say,<br/>
-"when you’re already alone?".<br/>
+"when you’re alone already?".<br/>
 "Solitude is my nature", he says
 </p>
 
