@@ -17,7 +17,7 @@ in The Fortress of Solitude.
 </p>
 
 <p>
-“Why a Fortress of Solitude”, I say,<br/>
+"Why a Fortress of Solitude", I say,<br/>
 "when you’re so alone, right now?".<br/>
 "Solitude is my nature"
 </p>
@@ -34,11 +34,7 @@ I claw little furrows into the frost.
 </p>
 
 <p>
-“So then why play Clark?”
-</p>
-
-<p>
-He smoothes a wrinkle near his knee. He sighs.<br/>
+He smoothes a wrinkle near his knee. He gazes into the distance.<br/>
 "The Kent disguise allows me to be with the people."<br/>
 "The people?" I ask.<br/>
 He looks down at me,<br/>
@@ -46,18 +42,18 @@ a frown on that stony jaw.
 </p>
 
 <p>
-"Lois Lane knows this place, this 'Fortress'", I say.<br/>
-"Truth, Justice...", he says, quietly but firmly.<br/><br/>
+"Lois Lane knows this place".<br/>
+"Truth, Justice, and the American Way", he says, quietly but firmly.<br/><br/>
 </p>
 
 <p>
-“She’ll die, you know"<br/>
+"She’ll die, you know."<br/>
 "You could fly her to the Rose Nebula,<br/>
 but the trip would take a thousand years."
 </p>
 
 <p>
-He snaps his eyes ahead. He begins, "My father, Jor-El, sent me to this planet. He gave me a mission…".<br/>
+He snaps his eyes straight ahead. He begins, "My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
 He trails off, perfectly still up there.
 </p>
 
