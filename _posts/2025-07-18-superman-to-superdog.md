@@ -26,7 +26,7 @@ in The Fortress of Solitude.
 
 <p>
 "Why a Fortress of Solitude", I say,<br/>
-"when you’re alone already?".<br/>
+"when you’re already alone?".<br/>
 "Solitude is my nature", he says
 </p>
 
@@ -61,8 +61,8 @@ but the trip would take a thousand years."
 </p>
 
 <p>
-He snaps his eyes ahead.
-He begins, "My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
+He snaps his eyes straight ahead, he begins:<br/>
+"My father, Jor-El, sent me to this planet. He gave me a mission...".<br/>
 He trails off, perfectly still up there.
 </p>
 
