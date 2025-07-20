@@ -7,16 +7,16 @@ The name of the class was "The Writing of Poetry".
 
 <p>
 The title of the poem is "Superman to Superdog".
-The first version of the poem, that I wrote in college, was more snarky.
+The first version of the poem, that I wrote in college, was snarkier.
 It was more critical of Superman: his self-imposed isolation, his imperiousness, his morality.
 Superdog shot subtle digs at Superman throughout the poem, attacking Superman's character, mission, and self-worth.
 </p>
 
 <p>
-In revisiting and revising the poem in 2025, my view has changed after 16 years of intervening life.
+In revisiting and revising the poem in 2025, my view has changed through 16 years of intervening life.
 I've met a few people in real life who are akin to the Superman or Superwoman archetype.
-The sentinels of society, you could say.
-Rather than subtly dig at their mild imperiousness, I welcome it.
+They are the sentinels of society, you could say.
+Rather than subtly dig at their mild imperiousness, I welcome them.
 </p>
 
 <p>
