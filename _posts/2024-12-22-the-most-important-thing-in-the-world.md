@@ -139,7 +139,7 @@
     The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹²
 </p>
 
-___
+<hr/>
 
 <p>
     Culture isn't just a phenomenon of nations.
@@ -159,7 +159,7 @@ ___
     It's really like air, though: so fundamental, when you're born into it, that you don't even notice it.
 </p>
 
-<br/>
+<hr/>
 
 ### "The most important thing in the world"
 <div align="center">
@@ -216,7 +216,7 @@ ___
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-3.jpg" style="height: 66.66%; width: 100%;" />
-    <br>
+    <br><br>
     <img src="https://bradleyculley.github.io/images/Sainte-Chapelle-2.jpg" style="height: 66.66%; width: 100%;" />
     <div style="font-size: 15px; font-style: italic;">The Sainte-Chapelle chapel in Paris¹⁴ ¹⁵<br/>The most beautiful chapel I've ever seen</div>
 </div>
@@ -243,7 +243,7 @@ ___
     It's really about which "forms of heaven" your culture <i>truly</i> prioritizes.
 </p>
 
-<br/>
+<hr/>
 
 ### "We can only change the culture"
 <p>
@@ -260,24 +260,28 @@ ___
 </p>
 
 <p>
-    "This is why Hume so deeply believed in the role and significance of public intellectuals.
-    These were people who, unlike university professors that Hume grew to dislike immensely had to excite a passion-based attachment to ideas, wisdom, and insight.
-    Only if they succeeded would they have the money to eat.
-    It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
-    Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-    He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁸
+
+> "This is why Hume so deeply believed in the role and significance of public intellectuals.
+> These were people who, unlike university professors that Hume grew to dislike immensely had to excite a passion-based attachment to ideas, wisdom, and insight.
+> Only if they succeeded would they have the money to eat.
+> It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
+> Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
+> He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁸
+
 </p>
 
 <p>
     Public intellectuals: from Joan of Arc to Carl Sagan.
 </p>
 
-<br/>
+<hr/>
 
 ### Another Way to Change the Culture
 <p>
-    "You can't fix stupid"<br/>
-    -<i>Ron White</i>¹⁹
+
+> "You can't fix stupid"<br/><br/>
+> -<i>Ron White</i>¹⁹
+
 </p>
 
 <p>
@@ -308,11 +312,13 @@ ___
 </p>
 
 <p>
-    "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.<br/>
-    And his soul cried out to them, and he said:<br/>
-    Sons of my ancient mother, you riders of the tides,<br/>
-    How often have you sailed in my dreams."<br/>
-    <i>-Kahlil Gibran²⁰</i>
+
+> "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.<br/>
+> And his soul cried out to them, and he said:<br/>
+> Sons of my ancient mother, you riders of the tides,<br/>
+> How often have you sailed in my dreams."<br/><br/>
+> <i>-Kahlil Gibran²⁰</i>
+
 </p>
 
 <br/>
