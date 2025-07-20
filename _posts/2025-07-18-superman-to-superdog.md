@@ -20,7 +20,7 @@ Rather than subtly dig at their mild imperiousness, I welcome them.
 </p>
 
 <p>
-Perhaps one reason for the change is that, in the interim, I've met more truly evil people.
+Perhaps one reason for the change is that, in the interim, I've met a good few truly evil people.
 I've seen actual evil, and the moral—through a little overbearing, a little imperious—Superman or Superwoman archetype sure ain't it. 
 </p>
 
