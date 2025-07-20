@@ -86,7 +86,7 @@ He trails off, perfectly still up there.
 </p>
 
 <p>
-It’s the speech—the only words from his parents.<br/>
+It’s the speech: the only words from his parents.<br/>
 He listens to it every night,<br/>
 from the crystals.
 </p>
