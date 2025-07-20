@@ -16,7 +16,7 @@ Superdog shot subtle digs at Superman throughout the poem, attacking Superman's 
 In revisiting and revising the poem in 2025, my view has changed after 16 years of intervening life.
 I've met a few people in real life who are akin to the Superman or Superwoman archetype.
 The sentinels of society, you could say.
-Rather than subtly dig at their mild imperiousness and rigidity, I welcome it and welcome them.
+Rather than subtly dig at their mild imperiousness and rigidity, I welcome it.
 </p>
 
 <p>
