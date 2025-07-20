@@ -7,8 +7,27 @@ The name of the class was "The Writing of Poetry".
 
 <p>
 The title of the poem is "Superman to Superdog".
-At the risk of sounding like a paper for an 11th-grade English class, I'll say that the poem explores themes of solitude, bravery, alienation, duty, family, love, and time.
+The first version of the poem, that I wrote in college, was more snarky.
+It was more critical of Superman: his self-imposed isolation, his imperiousness, his morality.
+Superdog shot subtle digs at Superman throughout the poem, attacking Superman's character, mission, and self-worth.
 </p>
+
+<p>
+In revisiting and revising the poem in 2025, my view has changed after 16 years of intervening life.
+I've met a few people in real life who are akin to the Superman or Superwoman archetype.
+The sentinels of society, you could say.
+Rather than subtly dig at their mild imperiousness and rigidity, I welcome it and welcome them.
+</p>
+
+<p>
+Perhaps one reason for the change is that, in the interim, I've met more truly evil people.
+I've seen actual evil, and the moral, but a little overbearing, a little imperious Superman or Superwoman archetype sure ain't it. 
+</p>
+
+<p>
+At the risk of sounding like a paper for an 11th-grade English class, I'll say that the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
+</p>
+
 <br/>
 
 <hr/>
@@ -42,7 +61,7 @@ I claw little furrows into the frost.
 </p>
 
 <p>
-He smooths a wrinkle near his knee.<br/>
+He smooths a wrinkle near his knee. He sighs.<br/>
 "The Kent disguise allows me to be with the people", he says.<br/>
 "The people?" I ask.<br/>
 He looks down at me,<br/>
