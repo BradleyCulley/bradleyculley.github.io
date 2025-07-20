@@ -28,9 +28,9 @@ I've seen actual evil, and the moral—through a little overbearing, a little im
 At the risk of sounding like an 11th-grade English paper, I'll say that the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
 </p>
 
-<br/>
-
 <hr/>
+
+<br/>
 
 <div style="text-align: center">
 
