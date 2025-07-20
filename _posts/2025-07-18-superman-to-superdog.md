@@ -21,11 +21,11 @@ Rather than subtly dig at their mild imperiousness, I welcome them.
 
 <p>
 Perhaps one reason for the change is that, in the interim, I've met more truly evil people.
-I've seen actual evil, and the moral, but a little overbearing, a little imperious Superman or Superwoman archetype sure ain't it. 
+I've seen actual evil, and the moral—through a little overbearing, a little imperious—Superman or Superwoman archetype sure ain't it. 
 </p>
 
 <p>
-At the risk of sounding like a paper for an 11th-grade English class, I'll say that the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
+At the risk of sounding like an 11th-grade English paper, I'll say that the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
 </p>
 
 <br/>
@@ -45,8 +45,8 @@ in The Fortress of Solitude
 
 <p>
 "Why a Fortress of Solitude," I say,<br/>
-"when you’re already alone?".<br/>
-"Solitude is my nature", he says
+"when you’re already alone?"<br/>
+"Solitude is my nature," he says
 </p>
 
 <p>
@@ -56,8 +56,8 @@ I claw little furrows into the frost.
 </p>
 
 <p>
-"You could fight crime without the Superman costume, you know".<br/>
-"Many things I can do here, Superdog".
+"You could fight crime without the Superman costume, you know."<br/>
+"Many things I can do here, Superdog."
 </p>
 
 <p>
