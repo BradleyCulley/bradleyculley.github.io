@@ -21,7 +21,7 @@
 </p>
 
 <p>
-
+<br/>
 <blockquote>
 <b>Bach:</b><br>
 "The world is full of good things, and we can't experience them all.
@@ -34,7 +34,7 @@ But then again, it's not our fault: we had no other choice."<br><br>
 <b>GPT-3 as Goethe:</b><br>
 "Then let's begin to create a new culture."²
 </blockquote>
-
+<br/>
 </p>
 
 <p>
