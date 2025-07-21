@@ -96,7 +96,7 @@ Nepali has great prosody.
 </p>
 
 <p>
-In 2012, I was speaking Nepali with a gentleman in New Hampshire. I used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" (meaning: "and I'll decide later"). It occurred there's a prosody to a line like that: a-**ni**/pa-**chhi**, ni-**do**/gar-**chhu**. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
+In 2012, I was speaking Nepali with a gentleman in New Hampshire. I used the phrase "अनि पछि निदो गर्नेछु/ani pacchi nido garchhu" (meaning: "and I'll decide later"). It occurred there's a prosody to a line like that: a-<b><i>ni</i></b>/pa-<b><i>chhi</i></b>, ni-<b><i>do</i></b>/gar-<b><i>chhu</i></b>. There's the vowel-terminated second syllable of all 4 words, the rhyming of "ni" and "chhi", and the slant rhyming of "chhi" and "chhu".
 </p>
 
 <p>
