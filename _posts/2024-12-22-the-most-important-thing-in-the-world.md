@@ -117,7 +117,7 @@ But then again, it's not our fault: we had no other choice."<br><br>
 "A people can never choose between different types of government.
 It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
 What gets written into a constitution is never essential.
-The important thing is how the instinct of the people interprets it."<br/>
+The important thing is how the instinct of the people interprets it."<br/><br/>
 <i>―Oswald Spengler, Prussianism and Socialism⁹</i>
 </blockquote>
 
