@@ -59,7 +59,7 @@ I was greatly aided, especially after the study abroad program, by speaking with
 </p>
 
 <p>
-A remark from Dr. Michael James Hutt has stuck with me. It was something like this: "Nepali is a language of great intimacy and wit".
+A remark from Dr. Hutt, one of the coauthors, has stuck with me. It was something like this: "Nepali is a language of great intimacy and wit".
 </p>
 
 <p>
