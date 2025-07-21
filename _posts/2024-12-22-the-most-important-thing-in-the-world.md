@@ -144,7 +144,7 @@ The important thing is how the instinct of the people interprets it."<br/>
 
 <p>
     As you can see, the United States has a score of 91 in the "individualism" dimension.
-    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the world</i> in individualism.¹²
+    The graph only shows 4 countries, but in Hofstede's full analysis, the United States still scores <i>the highest in the entire world</i> in individualism.¹²
 </p>
 
 <hr/>
@@ -320,7 +320,7 @@ He's pointing out that we have to try to adjust sentiments by sympathy, reassura
 </p>
 
 <p>
-    Lastly, this bears repeating: you can't be in it without getting it on you.
+    Lastly, this bears repeating: you can't be "in it" without "getting it on you".
 </p>
 
 <p>
