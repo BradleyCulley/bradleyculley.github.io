@@ -22,16 +22,18 @@
 
 <p>
 
-> <b>Bach:</b><br>
-> "The world is full of good things, and we can't experience them all.
-> We have to choose a few, and the problem is that we chose the wrong ones.
-> But then again, it's not our fault: we had no other choice."<br><br>
-> <b>GPT-3 as Goethe:</b><br>
-> "What can we do about it? We can only change the culture."<br><br>
-> <b>Bach:</b><br>
-> "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us."<br><br>
-> <b>GPT-3 as Goethe:</b><br>
-> "Then let's begin to create a new culture."²
+<blockquote>
+<b>Bach:</b><br>
+"The world is full of good things, and we can't experience them all.
+We have to choose a few, and the problem is that we chose the wrong ones.
+But then again, it's not our fault: we had no other choice."<br><br>
+<b>GPT-3 as Goethe:</b><br>
+"What can we do about it? We can only change the culture."<br><br>
+<b>Bach:</b><br>
+"Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us."<br><br>
+<b>GPT-3 as Goethe:</b><br>
+"Then let's begin to create a new culture."²
+</blockquote>
 
 </p>
 
@@ -111,11 +113,13 @@
 
 <p>
 
-> "A people can never choose between different types of government.
-> It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
-> What gets written into a constitution is never essential.
-> The important thing is how the instinct of the people interprets it."<br/>
-> <i>―Oswald Spengler, Prussianism and Socialism⁹</i>
+<blockquote>
+"A people can never choose between different types of government.
+It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
+What gets written into a constitution is never essential.
+The important thing is how the instinct of the people interprets it."<br/>
+<i>―Oswald Spengler, Prussianism and Socialism⁹</i>
+</blockquote>
 
 </p>
 
@@ -265,12 +269,14 @@
 
 <p>
 
-> "This is why Hume so deeply believed in the role and significance of public intellectuals.
-> These were people who, unlike university professors that Hume grew to dislike immensely had to excite a passion-based attachment to ideas, wisdom, and insight.
-> Only if they succeeded would they have the money to eat.
-> It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
-> Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
-> He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁸
+<blockquote>
+"This is why Hume so deeply believed in the role and significance of public intellectuals.
+These were people who, unlike university professors that Hume grew to dislike immensely had to excite a passion-based attachment to ideas, wisdom, and insight.
+Only if they succeeded would they have the money to eat.
+It was for this reason that they had to write well, use colorful examples, and have recourse, wit, and charm.
+Hume's insight is that if you want to change people's beliefs, reasoning with them like a normal philosophy professor won't be the most effective strategy.
+He's pointing out that we have to try to adjust sentiments by sympathy, reassurance, good example, encouragement, and what he called art."¹⁸
+</blockquote>
 
 </p>
 
@@ -283,8 +289,10 @@
 ### Another Way to Change the Culture
 <p>
 
-> "You can't fix stupid"<br/><br/>
-> -<i>Ron White</i>¹⁹
+<blockquote>
+"You can't fix stupid"<br/><br/>
+-<i>Ron White</i>¹⁹
+</blockquote>
 
 </p>
 
@@ -317,11 +325,13 @@
 
 <p>
 
-> "He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.<br/>
-> And his soul cried out to them, and he said:<br/>
-> Sons of my ancient mother, you riders of the tides,<br/>
-> How often have you sailed in my dreams."<br/><br/>
-> <i>-Kahlil Gibran²⁰</i>
+<blockquote>
+"He saw his ship approaching the harbour, and upon her prow the mariners, the men of his own land.<br/>
+And his soul cried out to them, and he said:<br/>
+Sons of my ancient mother, you riders of the tides,<br/>
+How often have you sailed in my dreams."<br/><br/>
+<i>-Kahlil Gibran²⁰</i>
+</blockquote>
 
 </p>
 
