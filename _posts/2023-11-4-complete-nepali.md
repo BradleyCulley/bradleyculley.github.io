@@ -50,8 +50,8 @@ For example, studying in Spain you might have language class 3 days a week, or s
 </p>
 
 <p>
-Beyond the textbook and dictionary for the Nepali class used in the college course, I've used "A Foundation in Nepali Grammar" by Christopher Jay Manders, Nepali radio shows and music ([Nepathya!](https://www.youtube.com/watch?v=BpeFXed4K6I)), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
-Schmidt's book is particularly excellent. It's available here: [https://dsal.uchicago.edu/dictionaries/schmidt](https://dsal.uchicago.edu/dictionaries/schmidt).
+Beyond the textbook and dictionary for the Nepali class used in the college course, I've used "A Foundation in Nepali Grammar" by Christopher Jay Manders, Nepali radio shows and music (<a href="https://www.youtube.com/watch?v=BpeFXed4K6I" target="_blank">Nepathya!</a>), and "A Practical Dictionary of Modern Nepali" by Ruth Laila Schmidt.
+Schmidt's book is particularly excellent. It's available here: <a href="https://dsal.uchicago.edu/dictionaries/schmidt">link</a>.
 </p>
 
 <p>
