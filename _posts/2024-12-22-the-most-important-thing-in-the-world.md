@@ -21,16 +21,18 @@
 </p>
 
 <p>
-    <b>Bach:</b><br>
-    "The world is full of good things, and we can't experience them all.
-    We have to choose a few, and the problem is that we chose the wrong ones.
-    But then again, it's not our fault: we had no other choice."<br><br>
-    <b>Goethe:</b><br>
-    "What can we do about it? We can only change the culture."<br><br>
-    <b>Bach:</b><br>
-    "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us."<br><br>
-    <b>Goethe:</b><br>
-    "Then let's begin to create a new culture."²
+
+> <b>Bach:</b><br>
+> "The world is full of good things, and we can't experience them all.
+> We have to choose a few, and the problem is that we chose the wrong ones.
+> But then again, it's not our fault: we had no other choice."<br><br>
+> <b>GPT-3 as Goethe:</b><br>
+> "What can we do about it? We can only change the culture."<br><br>
+> <b>Bach:</b><br>
+> "Johann, I agree. The most important thing in the world is culture, because only with a good culture can we enjoy all of the good things that are available to us."<br><br>
+> <b>GPT-3 as Goethe:</b><br>
+> "Then let's begin to create a new culture."²
+
 </p>
 
 <p>
@@ -65,7 +67,7 @@
     Later in life, I decided that technology is necessary, but not sufficient. This essay explains why.
 </p>
 
-<br/>
+<hr/>
 
 ### Green Mountain Care
 <p>
@@ -108,14 +110,16 @@
 </p>
 
 <p>
-    "A people can never choose between different types of government.
-    It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
-    What gets written into a constitution is never essential.
-    The important thing is how the instinct of the people interprets it."<br/>
-    <i>―Oswald Spengler, Prussianism and Socialism⁹</i>
+
+> "A people can never choose between different types of government.
+> It can choose the outer trappings of government, but not the essential thing, the spirit of government—even though public opinion constantly confuses the two.
+> What gets written into a constitution is never essential.
+> The important thing is how the instinct of the people interprets it."<br/>
+> <i>―Oswald Spengler, Prussianism and Socialism⁹</i>
+
 </p>
 
-<br/>
+<hr/>
 
 ### What is culture?
 <p>
