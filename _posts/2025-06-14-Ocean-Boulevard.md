@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-5.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
 </div>
 
 <hr/>
@@ -25,11 +25,11 @@ The road is called Ocean Boulevard.
 </p>
 
 <p>
-One of the condos was less than a 60-second walk to a sidewalk along the seawall above the beach.
-This shows the sidewalk, the seawall, and Ocean Boulevard:
+One of the condos was less than a 60-second walk to the sidewalk above the beach.
+This shows the sidewalk and Ocean Boulevard:
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Sidewalk-Seawall-and-Ocean_Boulevard.jpg" />
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Sidewalk-and-Ocean-Boulevard.jpg" />
 </div>
 </p>
 
@@ -53,7 +53,7 @@ Everything about each condo was pleasant: the landlord, the condo itself, and th
 <hr/>
 
 <p>
-I went for walks, usually at night, along the sidewalk by the seawall.
+I went for walks, usually at night, along the sidewalk of Ocean Boulevard.
 Waves rolled in from the horizon, each breaking with a muted sigh.
 </p>
 
