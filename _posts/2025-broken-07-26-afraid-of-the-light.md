@@ -1,17 +1,13 @@
 ## <div align="center">Afraid of the Light</div>
 
-
-Perhaps quote this entire speech by Carl Sagan at the start of the essay, here: https://www.youtube.com/watch?v=4rmTK6-Ou4A
-The clip you've referenced features Carl Sagan walking along the ocean and reflecting on humanity's dreams—both beautiful and troubling. This segment is from the final episode of his 1980 television series Cosmos: A Personal Voyage, titled "Who Speaks for Earth?"
-
 <p>
 I read a post on X recently, in which the author said he was sick of making children do things against their will every day of their lives
 </p>
 
 <p>
 After a certain point in the 1600s, candidates for rulers of the Ottoman Empire were confined to house arrest until they ascended to the throne and took power.
-The building to which they were confined was called "Kafes", which simply and literally means "cage" in Turkish.
-Shocking no one, Ottoman rulers came out of the (literal) cage unbelievably crazy. 
+The building to which they were confined was called "Kafes", which literally means "cage" in Turkish.
+Shocking no one, Ottoman rulers came out of the literal cage unbelievably insane. 
 </p>
 
 <p>
@@ -22,16 +18,15 @@ Ibrahim the Mad was a sex addict and a wildly dysfunctional ruler.
 
 <p>
 Addiction is, of course, a textbook coping mechanism for traumatic life experiences.
-Among other problems, Ibrahim the Mad's failed leadership led to the Cretan War (1645–1669).
-He was eventually executed (by strangling!) at the direction of his mother (!), at the ripe young age of 32.
+Among other failures, Ibrahim the Mad's poor leadership led to the Cretan War (1645–1669), which, according to records at the time, claimed over 150,000 lives.
+Ibrahim the Mad was eventually executed (by strangling!) at the direction of his mother (!), at the age of 32.
 </p>
 
 <hr/>
 
 <p>
-As the wise X poster notes, I've noticed it's common practice to make children do things against their will more or less every day of their lives
-"Ok yeah but what's the problem with that?, you may say. "After all, kids don't what's good for them".
-Well I'll tell: they don't stay kids forever.
+As the X poster notes, it is indeed common practice to make children do things against their will more or less every day of their lives
+The problem is: they don't stay children forever.
 </p>
 
 <p>
@@ -45,8 +40,8 @@ The French philosopher Michel Foucault called this "biopower":
 </p>
 
 <p>
-In his 1975 book, "Discipline and Punish", Foucault observed that schools, prisons, military barracks, and hospitals all bear an uncanny resemblance to each other.
-He termed the whole lot of them "Disciplinary institutions".
+In his 1975 book, "Discipline and Punish", Foucault observed that schools, prisons, military barracks, and hospitals each bear an uncanny resemblance to one other.
+He termed them all "Disciplinary institutions".
 </p>
 
 <p>
@@ -56,14 +51,14 @@ Therefore, perhaps, the "structural" characteristics — and even the physical d
 </p>
 
 <p>
-Have you noticed how much, even at a physical level, an American prison looks like more-secure version of an American public high school?
-The dull, smooth, slate-grey concrete, the red, green, and blue pastel walls, the utilitarian windows, the red brick exteriors.
+Have you ever noticed how, even at a physical level, an American prison looks a lot like a more-secure version of an American public high school?
+The dull, smooth, slate-grey concrete, the red, green, or blue pastel walls, the utilitarian windows, the red brick exteriors.
 ***TODO: add a picture of a prison, then below it a picture of a school** 
 </p>
 
 <p>
 The standard rejoinder here is that schools must have some level of oppressive disciplinary control, in order to shape students into well-functioning adults.
-Do they though?
+Must they though?
 And who determines the appropriate level of abuse?
 </p>
 
@@ -76,7 +71,7 @@ The center has been condemned for torture by the United Nations special rapporte
 </p>
 
 <p>
-In other words, it's a high school that tortures children by administering painful electric shocks directly to their bodies.
+In other words, it's a school that tortures children by administering painful electric shocks directly to their bodies.
 The students - and I'm not making this up - literally wear special backpacks all day at school that specifically and solely serve the purpose of being able to deliver painful electic shocks via electrical nodes attaches to the students' limbs.
 Each backpack contains a battery pack and an antenna.
 Here's a photo of one:
