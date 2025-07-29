@@ -15,23 +15,16 @@
 </p>
 
 <p>
-    Part of the decompression was a feeling of expansiveness and joy.
-    It was like standing at the edge of a vast landscape: an expansive prairie or a mountain range, perhaps.
-    It sort of welled up from inside me, and more strongly so at certain times.
+    Part of the decompression was a feeling of spaciousness and joy.
+    It was like standing at the edge of a vast landscape.
 </p>
 
 <p>
-    I worked at a summer camp that summer: teaching tennis, looking after the campers, and living on the campus of the boarding school at which the camp took place.
+    I worked at a summer camp: teaching tennis, looking after the campers, and living on the campus of the boarding school at which the camp took place.
 </p>
 
 <p>
-    The boarding school is Kents Hill School, located in Kents Hill, Maine.
-    Completely coincidentally, it's where my sister went to high school.
-</p>
-
-<p>
-    I took the photo at the top of this post on the campus that summer.
-    I also took these:
+    I took the photo at the top of this post at the camp that summer, and these as well:
 </p>
 
 <div align="center">
@@ -54,13 +47,14 @@
 
 <p>
     Below is an updated version of a poem I wrote that summer.
-    It wasn't for a class or a group or anything. I just felt like writing it.
-    I don't remember if I wrote it while working at the camp, or during time spent at my childhood home in Maine.
+    It wasn't for a class or a group or anything...just felt like writing it.
+    Can't recall if I wrote it while working at the camp, or during time spent that summer at my childhood home in Maine.
 </p>
 
 <p>
-    There's a memory, somehow connected to the poem, of being on the porch of my childhood home...perhaps of having just seen the sun through the leaves, as the poem describes.
-    There was that feeling of expansiveness and joy, and of the sunlight, as the poem describes, streaming into me, so to speak.
+    There's a memory, somehow connected to the poem, of being on the porch of my childhood home...perhaps of having, as the poem describes, just seen the sun through the leaves.
+    With the memory, there was the spaciousness and the joy.
+    And there was the feeling of the sunlight, as the poem describes, streaming into me, so to speak.
 </p>
 <br/>
 <hr/>
