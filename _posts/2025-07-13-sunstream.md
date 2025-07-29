@@ -77,7 +77,7 @@ How orange, how soft and cool in its brightness,<br/>
 and how deep the shade of green<br/>
 was of the leaves<br/><br/>
 
-I stood struck, in silent discourse with the setting sun<br/>
+I stood struck, in mute discourse with the setting sun<br/>
 possessed by its luminousness,<br/>
 forever transfixed,<br/>
 yet ever restful in its glow<br/><br/>
