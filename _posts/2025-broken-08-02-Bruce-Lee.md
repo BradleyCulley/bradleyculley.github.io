@@ -54,3 +54,5 @@ There is a photo of Bruce Lee in his casket that has really stayed with me (http
 I once heard an interview where the person, speaking of mind uploading, said that in the future we'll look back at the current era with astonishment. The era in which we carried around something as precious as our entire mind in this biological vessel - subject to innumerable, and sometimes unexpected, risks of complete loss. We do better with our hard drives.
 
 Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. Even more so when they're a great person, like Bruce Lee. Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
+
+Perhaps a takeaway from Bruce Lee's life is that, rather than focus on the tragedy of his early death, one can focus instead on how thoughtful, deep, and self-disciplined he was, to be able to identify, and to profoundly fulfill, such essential aspects of life within such a short time. 
