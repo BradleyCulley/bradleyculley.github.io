@@ -98,10 +98,16 @@ https://www.theguardian.com/education/2018/jul/12/judge-rotenberg-educational-ce
 https://adapt.org/andre-mccollins-a-judge-rotenberg-torture-center-survivors-story/
 </p>
 
+Perhaps the craziest thing about the JRC is that we as a society think that we can have it in our midst and that there will be no serious consequences for doing so
+
 Also add the fact that among the craziest, most abusive, most evil people I've met in life, a commonality I've gleaned is their experience of crazy childhoods.
 One person, who emotionally tortured me for about a year at a job earlier in my career, once told us about his father literally dropping he and his siblings into the literal deep end of a swimming pool as a way of encouraging the development of their swimming skills.
 
 Then add the Martin Shkreli quote about 100% of every person he met in prison having had an insane childhood to the essay
+
+https://captainaxom.medium.com/the-child-who-is-not-embraced-by-the-village-a-powerful-proverb-about-connection-and-community-d0cf0a4931e5
+
+Add to the afraid of the latest say the vessel a quote about lowercase t versus capital t trauma that he's never really had a client that didn't have **unbelievably** crazy things happened to them when he really dug into it
 
 On the flip side, there's the story of  James H. Fallon, an emeritus professor of anatomy and neurobiology in the University of California, Irvine School of Medicine, and author of "The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain".
 In short, while researching clinical psychopathy (formally known as antisocial personality disorder, which is a genetic condition that one is either born with or not), he discovered that he himself had the genetic phenotype of psychopathy.
