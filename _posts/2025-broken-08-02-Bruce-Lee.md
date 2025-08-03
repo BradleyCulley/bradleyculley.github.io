@@ -32,6 +32,8 @@ https://www.researchgate.net/publication/232524817_The_Validity_of_Emotional_Con
 https://worldwithoutrape.net/female-socialisation-and-womens-health/?utm_source=chatgpt.com
 https://www.eurekalert.org/news-releases/1027492?utm_source=chatgpt.com
 
+Add the proust, In Search of Lost Time, piece, about self-expression being the loophole the purpose of life 
+
 I think Bruce Lee very much succeeded in genuineness expressing himself. He had a positive genuineness that I think people could sense. In the above interview, for example, you can king of perceive the interviewer sensing his genuineness, and appreciating it.  
 
 To me, he also represents a fine example of the confluence of philosophy and practice. He took formal coursework in philosophy at the University of Washington. He also studied intellectual topics in a wide-ranging manner outside of school.
@@ -47,7 +49,12 @@ Notably, however, he exited the gang life, and street fighting, and focused on w
 This gets to a core idea of why we tend to admire people: those who have power but don't abuse it.
 Any schmoe can be peaceful, but it's different when someone turns from violence to peace, especially when they're still capable of violence, and a warrior at heart.
 
-A possible commonality between philosophy and combat is essentialism. A street fight gets to some core aspects of human, and even animal, nature. If you continually click the first link on Wikipedia, you'll eventually end up on the page for philosophy, no matter where you start. See this for a fascinating explanation of the Wikipedia link rule: [link](https://www.youtube.com/watch?v=-llumS2rA8I)
+A possible commonality between philosophy and combat is essentialism.
+A street fight gets to some core aspects of human, and even animal, nature.
+If you continually click the first link on Wikipedia, you'll eventually end up on the page for philosophy, no matter where you start.
+See this for a fascinating explanation of the "Wikipedia link rule" about philosophy: [link](https://www.youtube.com/watch?v=-llumS2rA8I)
+
+Add to the Bruce Lee essay that philosophy is the only subject whose name speaks to love. In other words you study or practice all the other subjects because they have some instrumental value for example chemistry has an instrumental value, And well you may find or discover a love of chemistry it's perhaps actually philosophy that you're discovering with in chemistry and what you really love is the knowledge or the wisdom that you see in a way through a lens of love in chemistry. But philosophy is entirely about the love knowledge or wisdom.
 
 There is a photo of Bruce Lee in his casket that has really stayed with me (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...). All of that ambition and discipline and drive and talent and energy and good character were simply gone, without reason.
 
