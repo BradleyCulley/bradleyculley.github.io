@@ -40,6 +40,8 @@ To me, he also represents a fine example of the confluence of philosophy and pra
 
 Jeet Kune Do is his own martial art, and philosophy, that he created out of both his learnings and his practical experimentations. The book has both philosophy and things such as diagrams of actual physical stances and movements to employ in combat.
 
+Add the thumb tip push-ups to the Bruce Lee essay
+
 While best known for martial arts and his films, he was very multifactorially impressive. For example, he wrote poetry as another means of expressing himself. He successfully acted in dozens of films, starting from early in childhood, yet avoided the typical curse of childhood stardom. He was a serious practical combat fighter, and was also a great family man - well-remembered by his wife, for example.
 
 As a serious fighter, he was a boxing champion in Hong Kong as a young man. In his youth, he became involved in gang-related conflicts.
