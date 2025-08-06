@@ -117,6 +117,8 @@ He described himself as a "pro-social psychopath", and attributed that fact to a
 The clinical evidence supports his claim: psychopathy is strictly a genetic <i>predisposition</i>, not a pre-destiny of certain behavior that's typical of psychopaths (e.g. literal murder).
 -https://en.wikipedia.org/wiki/James_H._Fallon
 
+Add the Jessica Su story to afraid of the light
+
 <p>
 I have a few ripostes - to, in homage to Foucault, use a French term.
 </p>
