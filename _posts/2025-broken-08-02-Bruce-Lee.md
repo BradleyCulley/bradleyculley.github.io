@@ -58,6 +58,8 @@ See this for a fascinating explanation of the "Wikipedia link rule" about philos
 
 Add to the Bruce Lee essay that philosophy is the only subject whose name speaks to love. In other words you study or practice all the other subjects because they have some instrumental value for example chemistry has an instrumental value, And well you may find or discover a love of chemistry it's perhaps actually philosophy that you're discovering with in chemistry and what you really love is the knowledge or the wisdom that you see in a way through a lens of love in chemistry. But philosophy is entirely about the love knowledge or wisdom.
 
+Bruce Lee also understood and put into practice the essential importance of family. Accounts he had great relationships with both his wife and her son and both of them remember him fondly and speak well of him.
+
 There is a photo of Bruce Lee in his casket that has really stayed with me (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...). All of that ambition and discipline and drive and talent and energy and good character were simply gone, without reason.
 
 I once heard an interview where the person, speaking of mind uploading, said that in the future we'll look back at the current era with astonishment. The era in which we carried around something as precious as our entire mind in this biological vessel - subject to innumerable, and sometimes unexpected, risks of complete loss. We do better with our hard drives.
