@@ -90,7 +90,7 @@ He said something like that he didn't so much read a book as become emotionally 
 </p>
 
 <p>
-That's how I felt in Hampton.
+That's how I felt living on Ocean Boulevard.
 More than a passing enjoyment, I felt somehow engulfed; enjoyably lost in the experience of the ocean.
 </p>
 
