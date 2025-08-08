@@ -21,5 +21,6 @@ Are human endeavors teleological when a machine can replicate them, down through
 
 It would be interesting if AI drove a renaissance in epistemology, teleology, and logos.
 
-I think solutions will, as with the Super Bowl, be deontological. Consequentialist approaches will be as good as gone.
+I think solutions will, as with the Super Bowl, be deontological. Consequentialism will be as good as gone.
+
 More to the point, I think philosophy will be the final and most important area of human endeavor, whether or not we directly call it philosophy.
