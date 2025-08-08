@@ -13,7 +13,7 @@ If a machine can do everything a human can do, what's the purpose of a human doi
 
 If not technē, is hedonia teleological? What about eudaimonia?
 
-What about qualia in general? Specific qualia, such as raising children?
+What about qualia in general? Specific quale, such as raising children?
 
 What if an AI can raise children - expertly - according to a specification?
 
