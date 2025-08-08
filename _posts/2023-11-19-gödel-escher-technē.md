@@ -11,16 +11,16 @@ A while ago, I read a news article along these lines:
 
 If a machine can do everything a human can do, what's the purpose of a human doing anything? This is particularly important for domains previously considered the sole purview of humans. Work and relationships are under siege.
 
-If not technē, is hedonia teleological? What about eudaimonia?
+If not technē, is hedonia teleologically significant? What about eudaimonia?
 
 What about qualia in general? Specific quale, such as raising children?
 
 What if an AI can raise children - expertly - according to a specification?
 
-Are human endeavors teleological when a machine can replicate them, down through neuromorphic signal transduction?
+Are human endeavors teleologically significant when a machine can replicate them, down through neuromorphic signal transduction?
 
 It would be interesting if AI drove a renaissance in epistemology, teleology, and logos.
 
 I think solutions will, as with the Super Bowl, be deontological. Consequentialism will be as good as gone.
 
-More to the point, I think philosophy will be the final and most important area of human endeavor, whether or not we directly call it philosophy.
+More to the point, I think philosophy — and in particular, epistemic sense-making — will be the final and most important area of human endeavor, whether or not we directly call it philosophy.
