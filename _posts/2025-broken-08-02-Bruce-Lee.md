@@ -33,7 +33,8 @@ Tao of Jeet Kune Do, by Bruce Lee
 </p>
 
 <p>
-Inspired by Lee, I trained for fingertips-only push-ups.
+Inspired by Lee, I trained for fingertips-only push-ups:
+https://github.com/user-attachments/assets/7de05d69-2b69-416b-aafc-6dc9f42d20db
 </p>
 
 Bruce Lee was a great guy who died far too young.
