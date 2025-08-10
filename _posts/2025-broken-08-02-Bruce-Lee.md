@@ -2,21 +2,39 @@
 <div style="font-size: 25px; font-weight: bold;" align="center">by Brian Jacques</div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/redwall.jpeg" />
+  <img src="https://bradleyculley.github.io/images/Bruce_Lee.jpeg" />¹
 </div>
 
 _______________________________________________
 Tao of Jeet Kune Do, by Bruce Lee
 
 ------------------------------
+<p>
+    Got interested in Bruce Lee around 2008 or so.
+    If we're being honest, Bruce Lee is so cool that it's pretty easy to develop a fascination with him and his ideas. 
+</p>
 
-Read this in the academic year of 2008-2009. Kind of skipped around in the book - not sure if I read all of it. Didn't read it for school or anything - was just personally interested.
+<p>
+    In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>. 
+    I have a memory of reading it while waiting to get a haircut on Spring Street, the main street of the town where I went to college.
+</p>
 
-It is apparently the best-selling martial arts book in the world:
-<blockquote>
-Compiled from Bruce Lee's notes and essays and originally published in 1975, Tao of Jeet Kune Do is the best-selling martial arts book in the world
-</blockquote>
--https://www.goodreads.com/book/show/12176821-tao-of-jeet-kune-do
+<p>
+    Kinda skipped around in the book - probably didn't read it all.
+    Wasn't for school or anything - was just interested.
+</p>
+
+<p>
+    It's apparently the best-selling martial arts book in the world:
+    <blockquote>
+    Compiled from Bruce Lee's notes and essays and originally published in 1975, Tao of Jeet Kune Do is the best-selling martial arts book in the world
+    </blockquote>
+    -https://www.goodreads.com/book/show/12176821-tao-of-jeet-kune-do
+</p>
+
+<p>
+Inspired by Lee, I started training for fingertips-only push-ups.
+</p>
 
 Bruce Lee was a great guy who died far too young.
 
@@ -67,3 +85,9 @@ I once heard an interview where the person, speaking of mind uploading, said tha
 Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. Even more so when they're a great person, like Bruce Lee. Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
 
 Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill, such essential aspects of life within his short time on this planet. 
+
+<br/>
+Sources:<br/>
+¹: <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg">https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg</a><br/>
+²: <a target="_blank" href="https://en.wikipedia.org/wiki/Carl_Sagan">en.wikipedia.org/wiki/Carl_Sagan</a><br/>
+³: <a target="_blank" href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>

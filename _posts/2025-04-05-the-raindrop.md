@@ -1,5 +1,9 @@
 ### The Raindrop
 
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Brad-age-11.png" />
+</div>
+
 <div style="text-align: center">
 <br/>
 <i>The first poem I wrote in sixth grade English class, when I was 10 years old</i><br/>
