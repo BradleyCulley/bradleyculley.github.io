@@ -9,7 +9,7 @@
 <i>The first poem I wrote in sixth grade English class, when I was 10 years old</i><br/>
 <br/>
 
-<b style="font-size: 20px;">The raindrop</b><br/>
+<b style="font-size: 20px;">The raindrop</b><br/><br/>
 
 If I were a raindrop<br/>
 I would slowly fall to the ground below<br/>
