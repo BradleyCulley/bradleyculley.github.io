@@ -10,22 +10,22 @@ Tao of Jeet Kune Do, by Bruce Lee
 
 ------------------------------
 <p>
-    Got interested in Bruce Lee around 2008 or so.
-    If we're being honest, Bruce Lee is so cool that it's pretty easy to develop a fascination with him and his ideas. 
+    Got interested in Bruce Lee in around 2008.
+    Honestly Bruce Lee is so cool it was easy to get interested. 
 </p>
 
 <p>
     In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>. 
-    I have a memory of reading it while waiting to get a haircut on Spring Street, the main street of the town where I went to college.
+    I have a memory of reading <i>Tao of Jeet Kune Do</i> while waiting to get a haircut on Spring Street, the main street of the town where I went to college.
 </p>
 
 <p>
-    Kinda skipped around in the book - probably didn't read it all.
-    Wasn't for school or anything - was just interested.
+    Kinda skipped around in the book - probably didn't read every word. It was good.
+    It wasn't for school or anything - was just interested.
 </p>
 
 <p>
-    It's apparently the best-selling martial arts book in the world:
+    <i>Tao of Jeet Kune Do</i> is apparently the best-selling martial arts book in the world:
     <blockquote>
     Compiled from Bruce Lee's notes and essays and originally published in 1975, Tao of Jeet Kune Do is the best-selling martial arts book in the world
     </blockquote>
@@ -33,7 +33,7 @@ Tao of Jeet Kune Do, by Bruce Lee
 </p>
 
 <p>
-Inspired by Lee, I started training for fingertips-only push-ups.
+Inspired by Lee, I trained for fingertips-only push-ups.
 </p>
 
 Bruce Lee was a great guy who died far too young.
