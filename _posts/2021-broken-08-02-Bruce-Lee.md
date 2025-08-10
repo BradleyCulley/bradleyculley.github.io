@@ -61,8 +61,6 @@ to me, ultimately martial art means honestly expressing yourself
     TODO: look up the studies and rework this: Dr. Gabor Maté has popularized the scientific discovery that women who express themselves, and especially, who express their anger when they experience anger, are both less likely to contract breast cancer and more likely to survive breast cancer if they do contract it.
 </p>
 
-<p>
-Marcel Proust, in his monumental 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, bout self-expression being the loophole the purpose of life 
 
 <blockquote>
 Proust’s work is distinctively his own, but at the same time it makes visible the
@@ -79,7 +77,7 @@ that he privileged trust and human kindness in his life, how his aesthetic concl
 same desirous nostalgic force that drove the history of the 20th century. 
 </blockquote>
 
-https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf?utm_source=chatgpt.com
+https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
 
 </p>
 TODO: find the timestamp within this video in which Mate says that: https://www.youtube.com/watch?v=c6IL8WVyMMs
@@ -88,20 +86,60 @@ https://www.researchgate.net/publication/232524817_The_Validity_of_Emotional_Con
 https://worldwithoutrape.net/female-socialisation-and-womens-health
 https://www.eurekalert.org/news-releases/1027492
 
+<p>
+I often ask people, "are you doing any kind of creative self-expression?".
+I think it's kind of like a vitamin deficiency for many people.
+Just like you feel good when you eat a forkful of nicely cooked spinach, once they think about it, people realize they'd really like to be directly expressing themselves.
+</p>
 
-Add thing about asking people if there any doing any kind of creative stuff expression to the Bruce Lee essay
+<p>
+In his monumental 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, the great French writer Marcel Proust concluded that self-expression is the answer for the purpose of life.
+The narrator of <i>In Search of Lost Time</i> searches for the answer to the question in the title: how to reclaim those years of life that seem to have been lost in apparent meaninglessness, a feeling many of us have experienced.
+Proust's answer is art:
+<blockquote>
+"Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
+The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art."
+</blockquote>
+-https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-I can't emphasize that enough, so I will say it again: a lot of things in life are about honestly expressing yourself.
+What a beautiful idea.
+</p>
 
-I think Bruce Lee very much succeeded in genuineness expressing himself. He had a positive genuineness that I think people could sense. In the above interview, for example, you can king of perceive the interviewer sensing his genuineness, and appreciating it.  
+<p>
+    Often we settle for indirectly expressing ourselves, via our work, via our influence on our children, and so on.
+    The problem is that those things, while very important, by their nature do not permit full artistic expressivity, exact control of the artwork, a guarantee that the art will be experienced by others, nor a short feedback cycle with the audience.
+    Painting a painting then sharing it gives all four.
+</p>
 
-To me, he also represents a fine example of the confluence of philosophy and practice. He took formal coursework in philosophy at the University of Washington. He also studied intellectual topics in a wide-ranging manner outside of school.
+<p>
+    Coming back to Bruce Lee, Bruce Lee succeeded wonderfully in genuinely expressing himself.
+    Lee had a positive authenticity that I think people could sense immediately.
+    In the interview with Pierre Berton referenced above, for example, you can sort of feel Berton sensing and appreciating Lee's authenticity, and showing Lee respect in return.
+    --TODO: watch the full interview, and add a link to the full interview, which is here: https://www.youtube.com/watch?v=uk1lzkH-e4U
+</p>
 
-Jeet Kune Do is his own martial art, and philosophy, that he created out of both his learnings and his practical experimentations. The book has both philosophy and things such as diagrams of actual physical stances and movements to employ in combat.
+<p>
 
-Add the thumb tip push-ups to the Bruce Lee essay
+</p>
+    To me, Lee also represents a fine example of the concomitance of philosophical ideation and concrete implementation.
+    Lee took formal coursework in philosophy at the University of Washington, and also studied intellectual topics in a wide-ranging manner outside of school.
+    He then took those ideas and put them into practice, as art: films, poetry, books, martial arts.
+</p>
 
-While best known for martial arts and his films, he was very multifactorially impressive. For example, he wrote poetry as another means of expressing himself. He successfully acted in dozens of films, starting from early in childhood, yet avoided the typical curse of childhood stardom. He was a serious practical combat fighter, and was also a great family man - well-remembered by his wife, for example.
+<p>
+Jeet Kune Do is his own martial art, and philosophy, that he created out of both his learnings and his practical experimentations.
+--TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
+The book has both philosophy and things such as diagrams of actual physical stances and movements to employ in combat.
+</p>
+
+<p>
+While best known for martial arts and his films, Lee was multifactorially extraordinarily impressive.
+As discussed here, he was a true artist.
+His Daughter, Shannon Lee, put it well: "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
+He successfully acted in dozens of films, starting from early in childhood, yet avoided the typical curse of childhood stardom.
+He was a serious practical combat fighter, and was also a great family man - well-remembered by his wife, for example.
+--TODO find sources for him being well-remembered by his wife, daughter, son, and/or any other family members that have spoken about the matter
+</p>
 
 As a serious fighter, he was a boxing champion in Hong Kong as a young man. In his youth, he became involved in gang-related conflicts.
 As part of one such conflict, he beat another young man so badly in a street fight that he knocked one of the guy's teeth out.
