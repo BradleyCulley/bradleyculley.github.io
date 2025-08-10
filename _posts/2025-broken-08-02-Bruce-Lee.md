@@ -34,7 +34,9 @@ Tao of Jeet Kune Do, by Bruce Lee
 
 <p>
 Inspired by Lee, I trained for fingertips-only push-ups:
-https://github.com/user-attachments/assets/7de05d69-2b69-416b-aafc-6dc9f42d20db
+
+<iframe id="video" width="560" height="315" src="https://github.com/user-attachments/assets/7de05d69-2b69-416b-aafc-6dc9f42d20db" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 </p>
 
 Bruce Lee was a great guy who died far too young.
@@ -52,6 +54,8 @@ https://worldwithoutrape.net/female-socialisation-and-womens-health/?utm_source=
 https://www.eurekalert.org/news-releases/1027492?utm_source=chatgpt.com
 
 Add the proust, In Search of Lost Time, piece, about self-expression being the loophole the purpose of life 
+
+Add thing about asking people if there any doing any kind of creative stuff expression to the Bruce Lee essay
 
 I think Bruce Lee very much succeeded in genuineness expressing himself. He had a positive genuineness that I think people could sense. In the above interview, for example, you can king of perceive the interviewer sensing his genuineness, and appreciating it.  
 
