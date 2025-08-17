@@ -54,25 +54,37 @@ to me, ultimately martial art means honestly expressing yourself
 </p>
 
 <p>
-I often ask people, "are you doing any kind of creative self-expression?".
-It tends to catch people off guard, to incur some deep thought; rather like the question "are you happy?".
+I sometimes ask people, "are you doing any kind of creative self-expression?".
+It often catches people off guard and incurs some deep thought, rather like the question "are you happy?".
 </p>
 
 <p>
-I don't ask it with negative intent.
-It's like a vitamin deficiency.
-Like a forkful of well-cooked spinach, once you think about it, you realize you'd really <i>like</i> to be directly and honestly expressing yourself.
+I don't ask it with negative intent, though.
+It's perhaps like a vitamin deficiency.
+Like the taste of well-cooked spinach, you realize you'd really <i>like</i> to be <i>directly and honestly</i> expressing yourself.
 </p>
 
 <p>
-In his 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927 the narrator, a thinly disguised proxy the author, Marcel Proust, searches for the meaning of life, with perhaps an oddly specific definition.
-The definition is, as per the title of the novel, to solve the problem of lost time; to reclaim lost time.
-Lost time is those years lost in apparent meaninglessness, incorrect decisions, failures, and so on.
-It's a feeling many of us have experienced: life could have gone differently; it could have been so different — so much better.
- 
-After much searching, the narrator comes to the perhaps surprising conclusion that the answer is art.
-In particular, that one can transmute the pain, grief, and loss of lost time through using those experiences as the basis upon which to create art.
-A sort of artistic alchemy of sublimation.
+    Often we settle for indirect self-expression.
+    Perhaps it's via our work, our influence on our children, and so on.
+    The problem is those things, while important, don't permit full artistic expressivity, exact artistic control, a guarantee the art will be experienced by others, nor a short feedback cycle with the audience.
+    Painting a painting then sharing it gives you all four.
+</p>
+
+<p>
+In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised proxy of the author, searches for the meaning of life...with perhaps an oddly specific definition.
+The definition is, as the title of the novel describes, to solve the problem of lost time; how to reclaim lost time.
+</p>
+
+<p>
+It's a feeling many of us have experienced: years lost to bad decisions, distractions, failures, and so on.
+We feel life could have gone differently; so different, so much better.
+</p>
+
+<p>
+After much searching, the narrator comes to a perhaps surprising solution: art.
+In particular, that one can transmute the pain of lost time through using those experiences as the basis for works of art.
+An artistic alchemy of sublimation.
 
 <blockquote>
 "Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
@@ -80,8 +92,9 @@ The Narrator comes to discover that time he thought wasted, in frivolous society
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-It is perhaps the single most wonderful idea I have ever encountered.
+That is perhaps the single most beautiful idea I have ever encountered in literature.
 </p>
+
 
 <blockquote>
 Proust’s work is distinctively his own, but at the same time it makes visible the
@@ -98,8 +111,7 @@ that he privileged trust and human kindness in his life, how his aesthetic concl
 same desirous nostalgic force that drove the history of the 20th century. 
 </blockquote>
 
-https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
-
+-https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
 </p>
 TODO: find the timestamp within this video in which Mate says that: https://www.youtube.com/watch?v=c6IL8WVyMMs
 
@@ -108,56 +120,69 @@ https://worldwithoutrape.net/female-socialisation-and-womens-health
 https://www.eurekalert.org/news-releases/1027492
 
 
-
-<p>
-    Often we settle for indirectly expressing ourselves, via our work, via our influence on our children, and so on.
-    The problem is that those things, while very important, by their nature do not permit full artistic expressivity, exact control of the artwork, a guarantee that the art will be experienced by others, nor a short feedback cycle with the audience.
-    Painting a painting then sharing it gives all four.
-</p>
-
 <p>
     Coming back to Bruce Lee, Bruce Lee succeeded wonderfully in genuinely expressing himself.
     Lee had a positive authenticity that I think people could sense immediately.
-    In the interview with Pierre Berton referenced above, for example, you can sort of feel Berton sensing and appreciating Lee's authenticity, and showing Lee respect in return.
+    In the interview with Pierre Berton referenced above, for example, you can sort of feel Berton sensing and appreciating Lee's authenticity, and showing Lee authenticity and respect in return.
     --TODO: watch the full interview, and add a link to the full interview, which is here: https://www.youtube.com/watch?v=uk1lzkH-e4U
 </p>
 
 <p>
 
 </p>
-    To me, Lee also represents a fine example of the concomitance of philosophical ideation and concrete implementation.
-    Lee took formal coursework in philosophy at the University of Washington, and also studied intellectual topics in a wide-ranging manner outside of school.
-    He then took those ideas and put them into practice, as art: films, poetry, books, martial arts.
+    To me, Lee also is a fine example of the concomitance of philosophical ideation and concrete implementation.
+    In ideation, he took formal courses in philosophy at the University of Washington, and studied various intellectual topics in a wide-ranging manner on his own.
+    In implementation, he put those ideas into practice as art: films, poetry, books, and martial arts.
 </p>
 
 <p>
 Jeet Kune Do is his own martial art, and philosophy, that he created out of both his learnings and his practical experimentations.
 --TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
-The book has both philosophy and things such as diagrams of actual physical stances and movements to employ in combat.
+Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of actual physical stances and movements to employ in a fight.
+TODO: add an example of such a diagram, which I had in my book review on Facebook
 </p>
 
 <p>
-While best known for martial arts and his films, Lee was multifactorially extraordinarily impressive.
-As discussed here, he was a true artist.
-His Daughter, Shannon Lee, put it well: "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
-He successfully acted in dozens of films, starting from early in childhood, yet avoided the typical curse of childhood stardom.
-He was a serious practical combat fighter, and was also a great family man - well-remembered by his wife, for example.
+While best known for martial arts and films, Lee was multifactorially extraordinarily impressive.
+He was a true artist.
+His Daughter Shannon Lee said "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
+He acted in dozens of successful films, starting from early in childhood, yet avoided the typical curse of childhood stardom.
+He was a serious practical combat fighter, and also a great family man - well-remembered by his wife, for example.
 --TODO find sources for him being well-remembered by his wife, daughter, son, and/or any other family members that have spoken about the matter
 </p>
 
-As a serious fighter, he was a boxing champion in Hong Kong as a young man. In his youth, he became involved in gang-related conflicts.
-As part of one such conflict, he beat another young man so badly in a street fight that he knocked one of the guy's teeth out.
+<p>
+As a serious fighter, he was a boxing champion in Hong Kong as a young man.
+For a while during his youth, he became involved in gang-related conflicts.
+As part of one such conflict, he beat another man so badly in a street fight that he knocked one of the guy's teeth out.
+</p>
 
+<p>
 Notably, however, he exited the gang life, and street fighting, and focused on what were ultimately peace-building activities, such as philosophy, art, and self-improvement.
 This gets to a core idea of why we tend to admire people: those who have power but don't abuse it.
-Any schmoe can be peaceful, but it's different when someone turns from violence to peace, especially when they're still capable of violence, and a warrior at heart.
+Any schmoe can be peaceful, but it's different when someone turns from violence to peace, especially when they're still quite capable of violence.
+"A poet with a warrior's spirit inside" -TODO find the song that comes from
+</p>
 
+<p>
 A possible commonality between philosophy and combat is essentialism.
 A street fight gets to some core aspects of human, and even animal, nature.
-If you continually click the first link on Wikipedia, you'll eventually end up on the page for philosophy, no matter where you start.
-See this for a fascinating explanation of the "Wikipedia link rule" about philosophy: [link](https://www.youtube.com/watch?v=-llumS2rA8I)
 
-Add to the Bruce Lee essay that philosophy is the only subject whose name speaks to love. In other words you study or practice all the other subjects because they have some instrumental value for example chemistry has an instrumental value, And well you may find or discover a love of chemistry it's perhaps actually philosophy that you're discovering with in chemistry and what you really love is the knowledge or the wisdom that you see in a way through a lens of love in chemistry. But philosophy is entirely about the love knowledge or wisdom.
+
+Likewise, if you continually click the first link on Wikipedia, you almost always eventually end up on the page for philosophy, no matter where you start.
+See this for a fascinating explanation of the "Wikipedia link rule" about philosophy: [link](https://www.youtube.com/watch?v=-llumS2rA8I)
+</p>
+
+<p>
+Philosophy is a Greek word, meaning "love of knowledge", or "love of wisdom". -https://www.etymonline.com/word/philosophy
+It's the only field of study whose name speaks to love.
+In other words, it's something essential, valuable in and of itself, and so you do it because you love it.
+</p>
+
+
+In other words you study or practice all the other subjects because they have some instrumental value, such as chemistry has an instrumental value,
+And well you may find or discover a love of chemistry it's perhaps actually philosophy that you're discovering with in chemistry and what you really love is the knowledge or the wisdom that you see in a way through a lens of love in chemistry.
+But philosophy is entirely about the love knowledge or wisdom.
 
 Bruce Lee also understood and put into practice the essential importance of family. Accounts he had great relationships with both his wife and her son and both of them remember him fondly and speak well of him.
 
