@@ -148,39 +148,43 @@ Any schmoe can be peaceful. It's different when someone turns from violence to p
 </p>
 
 <p>
-    Often we settle for indirect self-expression.
-    Perhaps it's via our work, our influence on our children, and so on.
-    The problem is those things, while important, don't permit full artistic expressivity, exact artistic control, a guarantee the art will be experienced by others, nor a short feedback cycle with the audience.
-    Painting a painting then sharing it gives you all four.
+    We often settle for indirect self-expression.
+    Examples of indirect self-expression are self-expression via success in our careers or via our influence on our children.
+    The problem is that those don't permit full artistic expressivity, exacting artistic control, a guarantee that the art will be experienced by others, nor a short feedback cycle with the audience.
+    Painting a painting then sharing it with other people gives you all four.
 </p>
 
 <p>
-In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised proxy of the author, searches for the meaning of life...with perhaps an oddly specific definition.
-The definition is, as the title of the novel describes, to solve the problem of lost time; how to reclaim lost time.
+    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised proxy of Proust himself, searches for the meaning of life...with perhaps an oddly specific definition of the meaning of life.
+    The definition is, as in the title of the novel, to solve the problem of lost time: how can you reclaim lost time?
 </p>
 
 <p>
-It's a feeling many of us have experienced: years lost to bad decisions, distractions, failures, and so on.
-We feel life could have gone differently; so different, so much better.
+    It's a feeling many of us have experienced in life: years lost to bad decisions, distractions, failures, and so on.
+    We feel things could have gone differently, could have gone so much better.
 </p>
 
 <p>
-After much searching, the narrator comes to a perhaps surprising solution: art.
-In particular, that one can transmute the pain of lost time through using those experiences as the basis for works of art.
-An artistic alchemy of sublimation.
+    After much searching, the narrator comes to a perhaps surprising solution: the answer is <i>art</i>.
+    In particular, the idea is that one can transmute the pain of lost time through using those experiences as the basis for creating works of art.
+    An artistic alchemy of sublimation.
+</p>
 
+<p>
 <blockquote>
 "Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
 The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art."
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-That is perhaps the single best idea I've ever encountered in literature.
+This is perhaps the single most beautiful idea I've ever encountered in literature.
 </p>
 
 <p>
-A possible commonality between philosophy and combat is essentialism.
-A street fight gets to some core aspects of human, and even animal, nature.
+    A commonality between philosophy and combat is essentialism.
+    A street fight gets to some core aspects of human, and even animal, nature.
+    A punch in the face is timeless, and, shall we say, unambiguous.
+</p>
 
 Likewise, if you continually click the first link on Wikipedia, you almost always eventually end up on the page for philosophy, no matter where you start.
 And if you continue the process outward from the article for philosophy, you eventually end up ```````````````````````````````back at the article for philosophy.
