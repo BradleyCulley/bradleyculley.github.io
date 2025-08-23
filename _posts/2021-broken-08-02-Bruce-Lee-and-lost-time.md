@@ -195,27 +195,6 @@ Bruce Lee understood the essential importance of family.
 by all accounts he had great relationships with both his wife son and both of them remember him fondly and speak well of him.
 </p>
 
-<p>
-This photo of Bruce Lee in his casket that has really stayed with me: TODO add photo (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...).
-All of that ambition and discipline and drive and talent and energy and character were permanently and simply gone, without reason.
-</p>
-
-<p>
-I once heard someone say, speaking of mind uploading, that in the future we'll look back at the current era with astonishment.
-In this era which we carried around something as precious as our entire mind in this biological vessel - subject to innumerable risks of complete loss.
-We do better with our hard drives.
-</p>
-
-<p>
-Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. 
-Even more so when they're a great person, like Bruce Lee. 
-Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
-</p>
-
-<p>
-Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill, such essential aspects of life within his short time on this planet.
-</p>
-
 <br/>
 Sources:<br/>
 ¹: <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg">https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg</a><br/>
