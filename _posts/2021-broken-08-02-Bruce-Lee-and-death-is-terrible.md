@@ -1,4 +1,4 @@
-## <div align="center">Bruce Lee<div>
+## <div align="center">Bruce Lee and Death Is Terrible<div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Bruce_Lee.jpg" />¹
