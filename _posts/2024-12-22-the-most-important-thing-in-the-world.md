@@ -188,7 +188,7 @@ The important thing is how the instinct of the people interprets it."<br/><br/>
 
 #### 2. Finding One's People
 <p>
-    Someone once told me about watching two firefighters throwing a baseball back and forth to each other in front of a fire station.
+    My father once told me about watching two firefighters playing catch with a baseball in front of a fire station in Portland, Maine.
     It sounded nice.
 </p>
 
