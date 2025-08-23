@@ -8,17 +8,20 @@
 
 <p>
     I got interested in Bruce Lee in around 2008.
-    Honestly he's so cool it was easy to get interested.
+    Honestly Bruce Lee is so cool it was easy to get interested.
 </p>
 
 <p>
-    In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>. 
-    I have a memory of reading <i>Tao of Jeet Kune Do</i> while waiting to get a haircut on Spring Street, the main street where I went to college.
-</p>
-
-<p>
-    I kind of skipped around in the book and didn't read it all.
+    In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>.
+    Kindof skipped around in the book and didn't read it cover-to-cover.
     It was good though.
+</p>
+
+<p>
+Jeet Kune Do is Lee's own martial art and philosophy, created out of his learnings and practical experiments in martial arts.
+--TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
+Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of physical stances and movements to use in combat.
+TODO: add an example of such a diagram, which I had in my book review on Facebook
 </p>
 
 <p>
@@ -30,7 +33,7 @@
 </p>
 
 <p>
-Around that time, inspired by Bruce Lee, I trained for fingertips-only push-ups:
+Around that time, inspired by Bruce Lee, I trained for fingertips-only push-ups 😎:
 
 <video width="100%" controls>
   <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
@@ -47,8 +50,6 @@ to me, ultimately martial art means honestly expressing yourself
 </blockquote>
 -https://www.youtube.com/watch?v=X2clpHtV1iA
 </p>
-
-
 
 <blockquote>
 Proust’s work is distinctively his own, but at the same time it makes visible the
@@ -73,7 +74,6 @@ https://www.researchgate.net/publication/232524817_The_Validity_of_Emotional_Con
 https://worldwithoutrape.net/female-socialisation-and-womens-health
 https://www.eurekalert.org/news-releases/1027492
 
-
 <p>
     Lee succeeded wonderfully in genuinely expressing himself.
     He had a positive authenticity about him.
@@ -87,18 +87,12 @@ https://www.eurekalert.org/news-releases/1027492
     In implementation, he put those ideas into practice as art: films, poetry, books, and martial arts.
 </p>
 
-<p>
-Jeet Kune Do is his own martial art and philosophy that he created out of his learnings and his practical experimentations.
---TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
-Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of physical stances and movements to use in combat.
-TODO: add an example of such a diagram, which I had in my book review on Facebook
-</p>
 
 <p>
-While best known for martial arts and films, Lee was multifactorially extraordinary.
+While best known for martial arts and films, Lee was expressive in many media.
 
 His Daughter Shannon Lee once said "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
-He acted in dozens of successful films, starting from early in childhood, yet avoided the typical curse of childhood stardom.
+He acted in dozens of successful films, starting from early childhood, yet avoided the typical curse of childhood stardom.
 He was a serious practical combat fighter and a great family man - well-remembered by his wife, for example.
 --TODO find sources for him being well-remembered by his wife, daughter, son, and/or any other family members that have spoken about the matter
 </p>
@@ -119,55 +113,48 @@ That led the young man's parent to complain to the police.
 </p>
 
 <p>
-However, Lee exited the gang life, and street fighting, turning his focus towards peace-building activities such as philosophy, art, and self-improvement.
-This goes back to his idea of honestly expressing oneself.
-If I were to speculate, it was perhaps those early years of gang-affiliated life - at odds with society - that built the fire in Lee which drove the accomplishments of the rest of his life.
-A good person realizes their mistakes and strongly corrects towards pro-social activities.
+    However, Lee exited the gang life, and street fighting, turning his focus instead towards peace-building activities such as philosophy, art, and self-improvement.
+    This goes back to the idea of honestly expressing oneself.
+    If I were to speculate, it was perhaps those early years of gang-affiliated life - at odds with society - that built the fire in Lee that drove the accomplishments of the rest of his life.
+    A good person realizes their mistakes and course-corrects with great force.
 </p>
 
 <p>
-This gets to a core idea of why we tend to admire people: those who have power but don't abuse it.
-Any schmoe can be peaceful. It's different when someone turns from violence to peace, especially when they're still quite capable of violence.
-</p>
-
-
-<p>
-    <b>Coming back to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things in life are about honestly expressing yourself</i>.</b>
+    <b>Coming back to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things in life are about honestly expressing oneself</i>.</b>
     TODO: look up the studies and rework this: Dr. Gabor Maté has popularized the scientific discovery that women who express themselves, and especially, who express their anger when they experience anger, are both less likely to contract breast cancer and more likely to survive breast cancer if they do contract it.
 </p>
 
 <p>
     I sometimes ask people, "are you doing any kind of creative self-expression?".
-    Tends to catch people off-guard, rather like the question "are you happy?".
+    The question often catches people off-guard, rather like "are you happy?".
 </p>
 
 <p>
     I don't ask it with negative intent, though.
-    Creative self-expression is perhaps like a vitamin deficiency.
-    Like a forkful of spinach nicely cooked in olive oil, you realize you'd really <i>like</i> to be directly and honestly expressing yourself.
+    Creative self-expression is like a vitamin deficiency.
+    Like tasting a forkful of nicely-cooked spinach, you just feel better when you have it.
 </p>
 
 <p>
     We often settle for indirect self-expression.
-    Examples of indirect self-expression are self-expression via success in our careers or via our influence on our children.
-    The problem is that those don't permit full artistic expressivity, exacting artistic control, a guarantee that the art will be experienced by others, nor a short feedback cycle with the audience.
-    Painting a painting then sharing it with other people gives you all four.
+    For example, self-expression via success in our careers or via our influence on our children.
+    The problem is those thing don't give you full artistic expressivity, exacting artistic control, a guarantee of the art will be experienced by others, nor a short feedback cycle with your audience.
+    Painting a painting then sharing it gives you all four.
+</p>
+
+<i>
+    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised alias of Proust himself, searches for the meaning of life...with perhaps an oddly specific definition of "the meaning of life".
+    The definition is, as per the title of the novel (<i>In Search of Lost Time</i>), how can you reclaim lost time?
 </p>
 
 <p>
-    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised proxy of Proust himself, searches for the meaning of life...with perhaps an oddly specific definition of the meaning of life.
-    The definition is, as in the title of the novel, to solve the problem of lost time: how can you reclaim lost time?
+    It's a feeling many of us have experienced: years lost to bad decisions, distractions, failures.
+    We feel things could have gone so differently, so much better.
 </p>
 
 <p>
-    It's a feeling many of us have experienced in life: years lost to bad decisions, distractions, failures, and so on.
-    We feel things could have gone differently, could have gone so much better.
-</p>
-
-<p>
-    After much searching, the narrator comes to a perhaps surprising solution: the answer is <i>art</i>.
-    In particular, the idea is that one can transmute the pain of lost time through using those experiences as the basis for creating works of art.
-    An artistic alchemy of sublimation.
+    After much searching, Proust's narrator comes to a perhaps surprising solution to this problem: the answer is <i>art</i>.
+    In particular, the idea that one can transmute the pain of lost time through using those experiences as the basis for creating works of art.
 </p>
 
 <p>
@@ -197,17 +184,31 @@ It's the only field of study whose name itself speaks to love. -- TODO validate 
 An end onto itself, done out of love.
 </p>
 
-</p>
+<p>
 Bruce Lee understood the essential importance of family.
 by all accounts he had great relationships with both his wife son and both of them remember him fondly and speak well of him.
+</p>
 
-This photo of Bruce Lee in his casket that has really stayed with me: TODO add photo (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...). All of that ambition and discipline and drive and talent and energy and good character were simply gone, without reason.
+<p>
+This photo of Bruce Lee in his casket that has really stayed with me: TODO add photo (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...).
+All of that ambition and discipline and drive and talent and energy and character were permanently and simply gone, without reason.
+</p>
 
-I once heard an interview where the person, speaking of mind uploading, said that in the future we'll look back at the current era with astonishment. The era in which we carried around something as precious as our entire mind in this biological vessel - subject to innumerable, and sometimes unexpected, risks of complete loss. We do better with our hard drives.
+<p>
+I once heard someone say, speaking of mind uploading, that in the future we'll look back at the current era with astonishment.
+In this era which we carried around something as precious as our entire mind in this biological vessel - subject to innumerable risks of complete loss.
+We do better with our hard drives.
+</p>
 
-Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. Even more so when they're a great person, like Bruce Lee. Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
+<p>
+Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. 
+Even more so when they're a great person, like Bruce Lee. 
+Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
+</p>
 
-Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill, such essential aspects of life within his short time on this planet. 
+<p>
+Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill, such essential aspects of life within his short time on this planet.
+</p>
 
 <br/>
 Sources:<br/>
@@ -221,3 +222,9 @@ Sources:<br/>
 In other words you study or practice all the other subjects because they have some instrumental value, such as chemistry has an instrumental value,
 And well you may find or discover a love of chemistry it's perhaps actually philosophy that you're discovering with in chemistry and what you really love is the knowledge or the wisdom that you see in a way through a lens of love in chemistry.
 But philosophy is entirely about the love of knowledge or wisdom.
+
+
+<p>
+    This gets to a core idea of why we tend to admire people: those who have power but don't abuse it.
+    Any schmoe can be peaceful. It's different when someone turns from violence to peace, especially when they're still quite capable of violence.
+</p>
