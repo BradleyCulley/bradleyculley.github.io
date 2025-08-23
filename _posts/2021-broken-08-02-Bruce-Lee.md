@@ -17,6 +17,8 @@
     It was good though.
 </p>
 
+TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
+
 <p>
 Jeet Kune Do is Lee's own martial art and philosophy, created out of his learnings and practical experiments in martial arts.
 --TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
@@ -87,7 +89,6 @@ https://www.eurekalert.org/news-releases/1027492
     In implementation, he put those ideas into practice as art: films, poetry, books, and martial arts.
 </p>
 
-
 <p>
 While best known for martial arts and films, Lee was expressive in many media.
 
@@ -142,7 +143,7 @@ That led the young man's parent to complain to the police.
     Painting a painting then sharing it gives you all four.
 </p>
 
-<i>
+<p>
     In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised alias of Proust himself, searches for the meaning of life...with perhaps an oddly specific definition of "the meaning of life".
     The definition is, as per the title of the novel (<i>In Search of Lost Time</i>), how can you reclaim lost time?
 </p>
@@ -164,7 +165,12 @@ The Narrator comes to discover that time he thought wasted, in frivolous society
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-This is perhaps the single most beautiful idea I've ever encountered in literature.
+This is perhaps the single best idea I've ever encountered in literature.
+</p>
+
+<p>
+Proust's idea reminds me of something my father, Denis Culley, who was an English (literature) major in college, used to tell me: <i>"the first word every author puts to the page is "pain"."</i>
+
 </p>
 
 <p>
