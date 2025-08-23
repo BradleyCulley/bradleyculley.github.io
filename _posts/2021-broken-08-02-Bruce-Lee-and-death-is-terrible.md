@@ -26,7 +26,7 @@ Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is T
 </p>
 
 <p>
-Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill, such essential aspects of life within his short time on this planet.
+Rather than focus on the tragedy of his early death, perhaps it's best to focus on how thoughtful, deep, and self-disciplined he was — to be able to identify, and so profoundly fulfill such essential aspects of life in his short time on this planet.
 </p>
 
 <br/>
