@@ -8,7 +8,7 @@
 
 <p>
     I got interested in Bruce Lee in around 2008.
-    Honestly Bruce Lee is so cool it was easy to get interested.
+    Honestly Bruce Lee is so cool it was easy to get interested in him.
 </p>
 
 <p>
@@ -20,7 +20,21 @@
 TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
 
 <p>
-Jeet Kune Do is Lee's own martial art and philosophy, created out of his learnings and practical experiments in martial arts.
+<blockquote>
+Bruce Lee developed an expression of martial arts that was personal to him called Jeet Kune Do (translated: Way of the Intercepting Fist). The art has as its symbolic representation what we call Bruce Lee’s Core Symbol (see below) and uses as its main tenet: “Using no way as way; having no limitation as limitation.”
+
+The term Jeet Kune Do was coined and put into use in 1967 by Bruce Lee in an attempt to put a name to his martial expression. Lee wrestled with putting a name to his art as he constantly veered away from any type of crystallization (and thereby limitation) of its essence, however, the simple need to refer to it in some concrete way won out and Jeet Kune Do was born.
+
+The idea of intercepting is key to JKD, whether it be the interception of your opponent’s technique or his intent. The basic guiding principles are: Simplicity, Directness and Freedom (the form of no form).
+
+The techniques and philosophies of JKD can be applied to real combat as well as challenging life situations. Jeet Kune Do consists of physical techniques and applied philosophies and requires the individual to train him or herself to their most cultivated state of being-ness so that when faced with a combat situation or a challenging personal situation, the tools needed are available in the moment and can be executed without thought. Jeet Kune Do celebrates the cultivation and honest self expression of the individual over any organized style.
+</blockquote>
+
+Bruce Lee's core symbol:
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Bruce_Lee_core_symbol.png" />¹
+</div>
+
 --TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
 Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of physical stances and movements to use in combat.
 TODO: add an example of such a diagram, which I had in my book review on Facebook
