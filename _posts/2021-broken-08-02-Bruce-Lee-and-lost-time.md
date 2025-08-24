@@ -21,19 +21,22 @@ TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items
 
 <p>
 <blockquote>
-Bruce Lee developed an expression of martial arts that was personal to him called Jeet Kune Do (translated: Way of the Intercepting Fist). The art has as its symbolic representation what we call Bruce Lee’s Core Symbol (see below) and uses as its main tenet: “Using no way as way; having no limitation as limitation.”
+As an eclectic martial art, it relies on a fighting style heavily influenced by Wing Chun, Tai Chi, taekwondo, boxing, fencing and jujutsu.
+
+Jeet Kune Do, which Lee intended to have practical applications in life without the traditional routines and metaphysics of conventional martial arts, also incorporates a set of principles to help practitioners make quick decisions and improve their mental and physical health.
+
+Lee, who based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies,[14][17] did not formally codify JKD before his death. As a result, later JKD practitioners had to rely on their own interpretations of Lee's philosophy
+</blockquote> -https://en.wikipedia.org/wiki/Jeet_Kune_Do
+
+<blockquote>
+Bruce Lee developed an expression of martial arts that was personal to him called Jeet Kune Do (translated: Way of the Intercepting Fist). [Jeet June Do] uses as its main tenet: "Using no way as way; having no limitation as limitation."
 
 The term Jeet Kune Do was coined and put into use in 1967 by Bruce Lee in an attempt to put a name to his martial expression. Lee wrestled with putting a name to his art as he constantly veered away from any type of crystallization (and thereby limitation) of its essence, however, the simple need to refer to it in some concrete way won out and Jeet Kune Do was born.
 
 The idea of intercepting is key to JKD, whether it be the interception of your opponent’s technique or his intent. The basic guiding principles are: Simplicity, Directness and Freedom (the form of no form).
 
 The techniques and philosophies of JKD can be applied to real combat as well as challenging life situations. Jeet Kune Do consists of physical techniques and applied philosophies and requires the individual to train him or herself to their most cultivated state of being-ness so that when faced with a combat situation or a challenging personal situation, the tools needed are available in the moment and can be executed without thought. Jeet Kune Do celebrates the cultivation and honest self expression of the individual over any organized style.
-</blockquote>
-
-Bruce Lee's core symbol:
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/Bruce_Lee_core_symbol.png" />¹
-</div>
+</blockquote> -https://bruceleefoundation.org/jeetkunedo/
 
 --TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
 Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of physical stances and movements to use in combat.
@@ -41,7 +44,7 @@ TODO: add an example of such a diagram, which I had in my book review on Faceboo
 </p>
 
 <p>
-    It's apparently the best-selling martial arts book in the world:
+    <i>Tao of Jeet Kune Do</i> is apparently the best-selling martial arts book in the world:
     <blockquote>
     Compiled from Bruce Lee's notes and essays and originally published in 1975, Tao of Jeet Kune Do is the best-selling martial arts book in the world
     </blockquote>
@@ -49,7 +52,12 @@ TODO: add an example of such a diagram, which I had in my book review on Faceboo
 </p>
 
 <p>
-Around that time, inspired by Bruce Lee, I trained for fingertips-only push-ups 😎:
+Lee was famous for incredible feats of strength, including his iconic two-finger push-ups.
+Click the image to see the push-ups in action (video is 30 seconds, opens in new tab):
+https://www.youtube.com/watch?v=g70Z4egrnuk
+https://www.youtube.com/watch?v=gC8W-7r0UFY
+
+Around the time I read the book, and inspired by Lee, I trained for thumbs-only push-ups 🙂:
 
 <video width="100%" controls>
   <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
@@ -59,28 +67,13 @@ Around that time, inspired by Bruce Lee, I trained for fingertips-only push-ups 
 </p>
 
 <p>
-The idea of Lee's that's stayed with me the most is martial arts as a means of honestly expressing oneself.
+The idea of Lee's that's stayed with me the most is, as mentioned above, martial arts as a means of honestly expressing oneself.
 To quote Lee:
 <blockquote>
 to me, ultimately martial art means honestly expressing yourself
 </blockquote>
 -https://www.youtube.com/watch?v=X2clpHtV1iA
 </p>
-
-<blockquote>
-Proust’s work is distinctively his own, but at the same time it makes visible the
-conflicting mentalities that bridged the mechanization of slaughter in WWI. His work
-encapsulates a range of reactions to nostalgia for a better historical moment, as well as nostalgia
-for a different experience of time itself – as fulfilled and meaningful, rather than the site of
-incomprehensible losses. Proust’s lesson is that art must replace god as the force that answers our
-fundamental human problems. Our wanting must take the form of desire, because only desire
-allows the artist to fully subsume his object in the pursuit of a mode of representation that can
-respond to the terror of dying. Proust’s work experiments with the precariousness of love, but
-finds it intolerable – the border that enables love’s joy yawns too darkly with the inevitable
-death. Although Proust’s friendships and his reactions to contemporary political events indicate
-that he privileged trust and human kindness in his life, how his aesthetic conclusions belie the
-same desirous nostalgic force that drove the history of the 20th century. 
-</blockquote>
 
 -https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
 </p>
