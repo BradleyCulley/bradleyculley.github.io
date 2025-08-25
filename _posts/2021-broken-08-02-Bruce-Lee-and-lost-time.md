@@ -133,13 +133,7 @@ That led the young man's parent to complain to the police.
 </p>
 
 <p>
-    I sometimes ask people, "are you doing any kind of creative self-expression?".
-    The question often catches people off-guard, rather like "are you happy?".
-</p>
-
-<p>
-    I don't ask it with negative intent, though.
-    Creative self-expression is like a vitamin deficiency.
+    Creative self-expression is a bit like a vitamin deficiency.
     Like tasting a forkful of nicely-cooked spinach, you just feel better when you have it.
 </p>
 
@@ -151,18 +145,18 @@ That led the young man's parent to complain to the police.
 </p>
 
 <p>
-    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised alias of Proust himself, searches for the meaning of life...with perhaps an oddly specific definition of "the meaning of life".
-    The definition is, as per the title of the novel (<i>In Search of Lost Time</i>), how can you reclaim lost time?
+    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised alias for Proust himself, searches for "lost time".
+    In other words, how can you reclaim lost time?
 </p>
 
 <p>
     It's a feeling many of us have experienced: years lost to bad decisions, distractions, failures.
-    We feel things could have gone so differently, so much better.
+    Things could have gone so differently, so much better.
 </p>
 
 <p>
-    After much searching, Proust's narrator comes to a perhaps surprising solution to this problem: the answer is <i>art</i>.
-    In particular, the idea that one can transmute the pain of lost time through using those experiences as the basis for creating works of art.
+    After much searching, Proust's narrator comes to a perhaps surprising conclusion: the answer is <i>art</i>.
+    In particular, transmuting the pain of lost time through using those experiences as the basis for creating works of art.
 </p>
 
 <p>
@@ -176,8 +170,8 @@ This is perhaps the single best idea I've ever encountered in literature.
 </p>
 
 <p>
-Proust's idea reminds me of something my father, Denis Culley, who was an English (literature) major in college, used to tell me: <i>"the first word every author puts to the page is "pain"."</i>
-
+As a child, my father, who was an English (literature) major in college, used to tell me "the first word every author puts to the page is "pain"."
+Bruce Lee reclaimed his lost time, wonderfully.
 </p>
 
 <p>
