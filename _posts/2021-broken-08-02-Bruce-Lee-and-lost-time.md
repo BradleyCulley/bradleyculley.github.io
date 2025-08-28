@@ -45,12 +45,11 @@ TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items
 
 <p>
 As a child, my father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'."
-In this case, the pain of a very physical man becoming bedridden.
-</p>
-
+In this case, the pain of a very physical man becoming bedridden:<br/>
 <blockquote>
 In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered him to discontinue the practice of martial arts and to remain in bed to allow his back to heal. This was probably the most trying and dispiriting time in Bruce’s life. He stayed in bed, virtually flat on his back for six months, but he couldn’t keep his mind from working — the result of which is this book.
 </blockquote>
+</p>
 
 <p>
 Speaking of physicality, Lee was famous for incredible feats of strength, including his iconic two-finger push-ups.
@@ -64,7 +63,27 @@ Around the time I read the book, and inspired by Lee, I trained for thumbs-only 
   <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</p>
 
+<p>
+For a while during his youth, Lee became involved in gang-related conflicts.
+As part of one such conflict, he beat another young man so badly in a street fight that he knocked one of the guy's teeth out.
+That led the young man's parent to complain to the police.
+</p>
+
+<p>
+    Lee's mother had to pick Lee up from the police station.
+    Later, Lee's father was warned by the police:<br/>
+    <blockquote>
+        The police detective came and said, "Excuse me, Mr. Lee, your son is really fighting bad in school. If he gets into just one more fight I might have to put him in jail".
+    </blockquote>
+</p>
+
+<p>
+    However, Lee exited the gang life, and street fighting, turning his focus instead towards peace-building activities such as philosophy, art, and self-improvement.
+    This goes back to the idea of honestly expressing oneself.
+    If I were to speculate, it was perhaps those early years of gang-affiliated life - at odds with society - that built the fire in Lee that drove the accomplishments of the rest of his life.
+    A good person realizes their mistakes and course-corrects with great force.
 </p>
 
 <p>
@@ -84,18 +103,6 @@ https://www.eurekalert.org/news-releases/1027492
 
 <p>
     Lee succeeded wonderfully in genuinely expressing himself.
-    He had a positive authenticity about him.
-    In the interview with Pierre Berton referenced above, you can sort of feel Berton appreciating Lee's authenticity, and showing Lee authenticity and respect in return.
-    --TODO: watch the full interview, and add a link to the full interview, which is here: https://www.youtube.com/watch?v=uk1lzkH-e4U
-</p>
-
-<p>
-    Lee is a fine example of the confluence of philosophical ideation and concrete implementation.
-    In ideation, he took formal coursework in philosophy at the University of Washington, and studied various intellectual topics in a wide-ranging manner on his own.
-    In implementation, he put those ideas into practice as art: films, poetry, books, and martial arts.
-</p>
-
-<p>
 While best known for martial arts and films, Lee was expressive in many media.
 
 His Daughter Shannon Lee once said "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
@@ -105,51 +112,23 @@ He was a serious practical combat fighter and a great family man - well-remember
 </p>
 
 <p>
-As a fighter, he was a boxing champion in Hong Kong as a young man.
-For a while during his youth, he became involved in gang-related conflicts.
-As part of one such conflict, he beat another young man so badly in a street fight that he knocked one of the guy's teeth out.
-That led the young man's parent to complain to the police.
-</p>
-
-<p>
-    Lee's mother had to pick him up from the police station.
-    Later, Lee's father was warned by the police:
-    <blockquote>
-        The police detective came and said, "Excuse me, Mr. Lee, your son is really fighting bad in school. If he gets into just one more fight I might have to put him in jail".
-    </blockquote>
-</p>
-
-<p>
-    However, Lee exited the gang life, and street fighting, turning his focus instead towards peace-building activities such as philosophy, art, and self-improvement.
-    This goes back to the idea of honestly expressing oneself.
-    If I were to speculate, it was perhaps those early years of gang-affiliated life - at odds with society - that built the fire in Lee that drove the accomplishments of the rest of his life.
-    A good person realizes their mistakes and course-corrects with great force.
-</p>
-
-<p>
     <b>Coming back to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things in life are about honestly expressing oneself</i>.</b>
-    TODO: look up the studies and rework this: Dr. Gabor Maté has popularized the scientific discovery that women who express themselves, and especially, who express their anger when they experience anger, are both less likely to contract breast cancer and more likely to survive breast cancer if they do contract it.
-</p>
-
-<p>
-    Creative self-expression is a bit like a vitamin deficiency.
-    Like tasting a forkful of nicely-cooked spinach, you just feel better when you have it.
 </p>
 
 <p>
     We often settle for indirect self-expression.
-    For example, self-expression via success in our careers or via our influence on our children.
-    The problem is those thing don't give you full artistic expressivity, exacting artistic control, a guarantee of the art will be experienced by others, nor a short feedback cycle with your audience.
+    For example, self-expression via success in our careers or our influence on our children.
+    The problem is those thing don't give you full artistic expressivity, exact artistic control, a guarantee that the art will be experienced by others, nor a short feedback cycle with your audience.
     Painting a painting then sharing it gives you all four.
 </p>
 
 <p>
-    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised alias for Proust himself, searches for "lost time".
+    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised version of Proust himself, searches for "lost time".
     In other words, how can you reclaim lost time?
 </p>
 
 <p>
-    It's a feeling many of us have experienced: years lost to bad decisions, distractions, failures.
+    It's a feeling many of us have experienced: years lost to bad decisions, distractions, and failures.
     Things could have gone so differently, so much better.
 </p>
 
@@ -169,14 +148,25 @@ This is perhaps the single most beautiful idea I've ever encountered in literatu
 </p>
 
 <p>
-I would say Bruce Lee reclaimed every second of his lost time, in the process bestowing onto the world a legacy that will last forever.
-
-
+One can speculate that, just like the sublimation of the pain of being bedridden resulted in <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of crime and dysfunction result in the effulgence of creative beauty in Lee's subsequent life. 
+I'd say Bruce Lee reclaimed every second of his lost time, in the process bestowing onto the world a legacy that will last forever.
 </p>
 
 -----
 
 "The book is dedicated to: The Free, Creative Martial Artist."
+
+
+    He had a positive authenticity about him.
+    In the interview with Pierre Berton referenced above, you can sort of feel Berton appreciating Lee's authenticity, and showing Lee authenticity and respect in return.
+    --TODO: watch the full interview, and add a link to the full interview, which is here: https://www.youtube.com/watch?v=uk1lzkH-e4U
+</p>
+
+<p>
+    Lee is a fine example of the confluence of philosophical ideation and concrete implementation.
+    In ideation, he took formal coursework in philosophy at the University of Washington, and studied various intellectual topics in a wide-ranging manner on his own.
+    In implementation, he put those ideas into practice as art: films, poetry, books, and martial arts.
+</p>
 
 <p>
     A commonality between philosophy and combat is essentialism.
