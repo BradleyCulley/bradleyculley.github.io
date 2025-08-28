@@ -8,52 +8,53 @@
 
 <p>
     I got interested in Bruce Lee in around 2008.
-    Honestly Bruce Lee is so cool it was easy to get interested in him.
+    Honestly Bruce Lee is so cool it was pretty easy to get interested.
 </p>
 
 <p>
     In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>.
-    Kindof skipped around in the book and didn't read it cover-to-cover.
-    It was good though.
+    Jeet Kune Do is the name of the martial art that Lee invented.
+    "Lee...based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies". -https://en.wikipedia.org/wiki/Jeet_Kune_Do
+    I skipped around in the book and didn't read it cover-to-cover. It was good though.
 </p>
 
-TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
-
 <p>
+More about Jeet Kune Do:<br/>
 <blockquote>
 As an eclectic martial art, it relies on a fighting style heavily influenced by Wing Chun, Tai Chi, taekwondo, boxing, fencing and jujutsu.
 
 Jeet Kune Do, which Lee intended to have practical applications in life without the traditional routines and metaphysics of conventional martial arts, also incorporates a set of principles to help practitioners make quick decisions and improve their mental and physical health.
-
-Lee, who based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies,[14][17] did not formally codify JKD before his death. As a result, later JKD practitioners had to rely on their own interpretations of Lee's philosophy
 </blockquote> -https://en.wikipedia.org/wiki/Jeet_Kune_Do
 
 <blockquote>
-Bruce Lee developed an expression of martial arts that was personal to him called Jeet Kune Do (translated: Way of the Intercepting Fist). [Jeet June Do] uses as its main tenet: "Using no way as way; having no limitation as limitation."
+My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life’s work.
 
-The term Jeet Kune Do was coined and put into use in 1967 by Bruce Lee in an attempt to put a name to his martial expression. Lee wrestled with putting a name to his art as he constantly veered away from any type of crystallization (and thereby limitation) of its essence, however, the simple need to refer to it in some concrete way won out and Jeet Kune Do was born.
+In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.
+</blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf (TODO: check this citation)
 
-The idea of intercepting is key to JKD, whether it be the interception of your opponent’s technique or his intent. The basic guiding principles are: Simplicity, Directness and Freedom (the form of no form).
+<p>
+The book, Tao of Jeet Kune Do, has both philosophical abstractions and combat concretions, the latter including diagrams of physical stances and movements to use in combat.
+For example:<br/>
+<img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
+</p>
 
-The techniques and philosophies of JKD can be applied to real combat as well as challenging life situations. Jeet Kune Do consists of physical techniques and applied philosophies and requires the individual to train him or herself to their most cultivated state of being-ness so that when faced with a combat situation or a challenging personal situation, the tools needed are available in the moment and can be executed without thought. Jeet Kune Do celebrates the cultivation and honest self expression of the individual over any organized style.
-</blockquote> -https://bruceleefoundation.org/jeetkunedo/
+TODO: quote from the introduction here: https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
 
 --TODO: add the note here about the other martial arts and/or ideas that influenced Jeet Kune Do
-Tao of Jeet Kune Do has both philosophical abstractions and combat concretions, such as diagrams of physical stances and movements to use in combat.
-TODO: add an example of such a diagram, which I had in my book review on Facebook
 </p>
 
 <p>
-    <i>Tao of Jeet Kune Do</i> is apparently the best-selling martial arts book in the world:
-    <blockquote>
-    Compiled from Bruce Lee's notes and essays and originally published in 1975, Tao of Jeet Kune Do is the best-selling martial arts book in the world
-    </blockquote>
-    -https://www.goodreads.com/book/show/12176821-tao-of-jeet-kune-do
+As a child, my father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'."
+In this case, the pain of a very physical man becoming bedridden.
 </p>
 
+<blockquote>
+In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered him to discontinue the practice of martial arts and to remain in bed to allow his back to heal. This was probably the most trying and dispiriting time in Bruce’s life. He stayed in bed, virtually flat on his back for six months, but he couldn’t keep his mind from working — the result of which is this book.
+</blockquote>
+
 <p>
-Lee was famous for incredible feats of strength, including his iconic two-finger push-ups.
-Click the image to see the push-ups in action (video is 30 seconds, opens in new tab):
+Speaking of physicality, Lee was famous for incredible feats of strength, including his iconic two-finger push-ups.
+Click the image to see the push-ups in action (video is 30 seconds long and opens in new a tab):
 https://www.youtube.com/watch?v=g70Z4egrnuk
 https://www.youtube.com/watch?v=gC8W-7r0UFY
 
@@ -67,7 +68,7 @@ Around the time I read the book, and inspired by Lee, I trained for thumbs-only 
 </p>
 
 <p>
-The idea of Lee's that's stayed with me the most is, as mentioned above, martial arts as a means of honestly expressing oneself.
+The idea from Lee that's stayed with me the most is martial arts as a means of honestly expressing oneself.
 To quote Lee:
 <blockquote>
 to me, ultimately martial art means honestly expressing yourself
@@ -77,8 +78,6 @@ to me, ultimately martial art means honestly expressing yourself
 
 -https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
 </p>
-TODO: find the timestamp within this video in which Mate says that: https://www.youtube.com/watch?v=c6IL8WVyMMs
-
 https://www.researchgate.net/publication/232524817_The_Validity_of_Emotional_Control_as_a_Trait_in_Breast_Cancer_Patients
 https://worldwithoutrape.net/female-socialisation-and-womens-health
 https://www.eurekalert.org/news-releases/1027492
@@ -166,13 +165,18 @@ The Narrator comes to discover that time he thought wasted, in frivolous society
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-This is perhaps the single best idea I've ever encountered in literature.
+This is perhaps the single most beautiful idea I've ever encountered in literature.
 </p>
 
 <p>
-As a child, my father, who was an English (literature) major in college, used to tell me "the first word every author puts to the page is "pain"."
-Bruce Lee reclaimed his lost time, wonderfully.
+I would say Bruce Lee reclaimed every second of his lost time, in the process bestowing onto the world a legacy that will last forever.
+
+
 </p>
+
+-----
+
+"The book is dedicated to: The Free, Creative Martial Artist."
 
 <p>
     A commonality between philosophy and combat is essentialism.
