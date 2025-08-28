@@ -144,12 +144,12 @@ The Narrator comes to discover that time he thought wasted, in frivolous society
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-This is perhaps the single most beautiful idea I've ever encountered in literature.
+That's perhaps the single most beautiful idea I've ever encountered in literature.
 </p>
 
 <p>
-One can speculate that, just like the sublimation of the pain of being bedridden resulted in <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of crime and dysfunction result in the effulgence of creative beauty in Lee's subsequent life. 
-I'd say Bruce Lee reclaimed every second of his lost time, in the process bestowing onto the world a legacy that will last forever.
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of crime and dysfunction result in the blossoming of creative beauty in Lee's subsequent life. 
+I'd say Bruce Lee reclaimed every second of his lost time, in the process bestowing onto the world a legacy that will last an eternity.
 </p>
 
 -----
