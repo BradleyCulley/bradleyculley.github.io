@@ -13,8 +13,18 @@
 
 <p>
     In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>.
-    Jeet Kune Do is a martial art Lee invented.
-    "Lee...based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies". -https://en.wikipedia.org/wiki/Jeet_Kune_Do
+    Jeet Kune Do is a martial art he invented.
+</p>
+
+<blockquote>
+    Lee...based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies. 
+</blockquote>
+
+<p>
+    -https://en.wikipedia.org/wiki/Jeet_Kune_Do
+</p>
+
+<p>
     I skipped around in the book and didn't read it cover-to-cover. It was good.
 </p>
 
@@ -25,15 +35,11 @@ As an eclectic martial art, it relies on a fighting style heavily influenced by 
 
 </blockquote> -https://en.wikipedia.org/wiki/Jeet_Kune_Do
 
-<blockquote>
-The techniques and philosophies of JKD can be applied to real combat as well as challenging life situations.
-</blockquote>
-
 From Lee's wife, Linda Lee:<br/>
 <blockquote>
-My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life’s work.
+<p>My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life’s work.</p>
 
-In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.
+<p>In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.</p>
 </blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf (TODO: check this citation)
 
 <p>
@@ -43,11 +49,11 @@ For example:<br/>
 </p>
 
 <p>
-My father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'."
-In this case, it was the pain of Lee, a very physical man, becoming bedridden:<br/>
 <blockquote>
 In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered him to discontinue the practice of martial arts and to remain in bed to allow his back to heal. This was probably the most trying and dispiriting time in Bruce’s life. He stayed in bed, virtually flat on his back for six months, but he couldn't keep his mind from working — the result of which is this book.
-</blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf 
+</blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
+I imagine it was particularly difficult for such a man of such physicality to be bedridden for so long.
+It's much to his credit that he transformed that pain into a great work of literature.
 </p>
 
 <p>
@@ -65,7 +71,7 @@ Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups
 </p>
 
 <p>
-    For a while during his youth, Lee got involved with street gangs.
+    For a while during his youth, Lee was involved with street gangs.
     One time, during a gang-related conflict, he beat another young man so badly he knocked one of the guy's teeth out.
     The young man's parent complained to the police.
 </p>
