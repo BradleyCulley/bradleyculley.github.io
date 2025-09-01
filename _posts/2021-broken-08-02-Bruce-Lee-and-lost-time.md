@@ -73,7 +73,7 @@ Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups
 <p>
     For a while during his youth, Lee was involved with street gangs.
     One time, during a gang-related conflict, he beat another young man so badly he knocked one of the guy's teeth out.
-    The young man's parent complained to the police.
+    The young man's parents complained to the police.
 </p>
 
 <p>
@@ -106,7 +106,7 @@ Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups
 <p>
     Lee's Daughter Shannon Lee once said "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
     Lee acted in dozens of successful films, starting from early childhood.
-    In family life as well, he built peace and positivity as well.
+    In family life as well, he built peace and positivity.
     He was a great family man, well-remembered by his wife and children, for example.
 --TODO find sources for him being well-remembered by his wife, daughter, son, and/or any other family members that have spoken about the matter
 </p>
@@ -116,7 +116,7 @@ Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups
 </p>
 
 <p>
-    In Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised version of Proust himself, searches for "lost time".
+    In French author Marcel Proust's 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i>, published between 1913 and 1927, the narrator, a thinly disguised version of Proust himself, searches for "lost time".
     In other words, he tries to answer the question: can you reclaim the time you feel you've lost in life?
 </p>
 
@@ -132,8 +132,8 @@ Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups
 
 <p>
 <blockquote>
-"Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
-The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art."
+Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
+The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
@@ -141,7 +141,7 @@ That's perhaps the best idea I've ever encountered in literature.
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of gang activity result in the profusion of creative beauty in Lee's subsequent life. 
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of gang activity result in the profusion of creative beauty of Lee's subsequent life. 
 </p>
 
 <br/>
