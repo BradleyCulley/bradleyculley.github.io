@@ -8,14 +8,14 @@
 
 <p>
     I got interested in Bruce Lee in around 2008.
-    Bruce Lee is so cool it was pretty easy to get interested.
+    Bruce Lee is so cool it was easy to get interested.
 </p>
 
 <p>
     In the summer of 2008, I bought one of his books, <i>Tao of Jeet Kune Do</i>.
     Jeet Kune Do is a martial art Lee invented.
     "Lee...based Jeet Kune Do upon his experiences in unarmed fighting and self defense, as well as upon his eclectic, Zen Buddhist, Confucianist and Taoist philosophies". -https://en.wikipedia.org/wiki/Jeet_Kune_Do
-    I skipped around in the book and didn't read it cover-to-cover. It was good though.
+    I skipped around in the book and didn't read it cover-to-cover. It was good.
 </p>
 
 <p>
@@ -37,7 +37,7 @@ In his lifelong quest for self-knowledge and personal expression, Bruce was cons
 </blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf (TODO: check this citation)
 
 <p>
-The book, Tao of Jeet Kune Do, has both philosophical abstractions and combat concretions, the latter including diagrams of physical stances and movements to use in combat.
+<i>Tao of Jeet Kune Do</i> has both philosophical abstractions and combat concretions, the latter including diagrams of physical stances and movements to use in combat.
 For example:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
 </p>
@@ -57,7 +57,7 @@ Click the image to see them in action (video is 30 seconds and opens in a new ta
     <img src="https://bradleyculley.github.io/images/Bruce-Lee-Two-Finger-Push-Ups.png"/>
 </a>
 
-Around when I read the book, and inspired by Lee, I trained for thumbs-only push-ups:<br/>
+Around when I read the book, inspired by Lee, I trained for thumbs-only push-ups:<br/>
 <video width="100%" controls>
   <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -65,9 +65,9 @@ Around when I read the book, and inspired by Lee, I trained for thumbs-only push
 </p>
 
 <p>
-For a while during his youth, Lee got involved with street gangs.
-One time, during a gang-related conflict, he beat another young man so badly he knocked one of the guy's teeth out.
-The young man's parent complained to the police.
+    For a while during his youth, Lee got involved with street gangs.
+    One time, during a gang-related conflict, he beat another young man so badly he knocked one of the guy's teeth out.
+    The young man's parent complained to the police.
 </p>
 
 <p>
@@ -79,48 +79,34 @@ The young man's parent complained to the police.
 </p>
 
 <p>
-    From then on, Lee exited the gang life and street fighting, turning his focus towards peaceful activities such as philosophy, art, and self-improvement.
-    If I were to speculate, it was perhaps those early years of gang-affiliated life - at odds with society - that built the fire behind his later accomplishments.
-    A good person realizes their mistakes and course-corrects with great force.
+    After that episode, Lee exited gang life, turning his focus towards peaceful activities such as philosophy, art, and self-improvement.
+    If I were to speculate, it was perhaps those early years of gang-affiliated life that built the fire behind his later accomplishments.
 </p>
 
 <p>
-The idea from Lee that's stayed with me the most is martial arts as a means of honestly expressing oneself.
-To quote Lee:
-<blockquote>
-to me, ultimately martial art means honestly expressing yourself
+    The idea from Lee that's stayed with me the most is martial arts as a means of honestly expressing oneself.
+    To quote Lee:
+    <blockquote>
+    to me, ultimately martial art means honestly expressing yourself
 </blockquote>
 -https://www.youtube.com/watch?v=X2clpHtV1iA
 </p>
 
--https://d-scholarship.pitt.edu/25687/1/bagleysc3_ETD2015.pdf.pdf
-</p>
-https://www.researchgate.net/publication/232524817_The_Validity_of_Emotional_Control_as_a_Trait_in_Breast_Cancer_Patients
-https://worldwithoutrape.net/female-socialisation-and-womens-health
-https://www.eurekalert.org/news-releases/1027492
-
 <p>
-    Lee succeeded wonderfully in genuinely expressing himself.
-    While best known for martial arts and films, Lee was expressive across many artistic media.
+    Lee succeeded in genuinely expressing himself.
+    While best known for martial arts and films, he was expressive across many artistic media.
 </p>
 
 <p>
     Lee's Daughter Shannon Lee once said "He did write poetry; he was really the consummate artist." -https://en.wikipedia.org/wiki/Bruce_Lee
-    He acted in dozens of successful films, starting from early childhood, yet avoided the typical disasters of childhood stardom.
-    In interpersonal matters, he also built peace.
-    He was a great family man, purely well-remembered by his wife and children, for example.
+    Lee acted in dozens of successful films, starting from early childhood.
+    In family life as well, he built peace and positivity as well.
+    He was a great family man, well-remembered by his wife and children, for example.
 --TODO find sources for him being well-remembered by his wife, daughter, son, and/or any other family members that have spoken about the matter
 </p>
 
 <p>
-    Coming back to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things in life are about honestly expressing oneself</i>.
-</p>
-
-<p>
-    We often settle for indirect self-expression.
-    For example, we strive to express ourselves through success in our careers or through our influence on our children.
-    The problem is those thing don't give you full artistic expressivity, exacting artistic control, a guarantee that the art will be experienced by others, nor a short feedback cycle with your audience.
-    Painting a painting then sharing it gives you all four.
+    Returning to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things are about honestly expressing oneself</i>.
 </p>
 
 <p>
@@ -145,11 +131,11 @@ The Narrator comes to discover that time he thought wasted, in frivolous society
 </blockquote>
 -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-That's perhaps the single best idea I've ever encountered in literature.
+That's perhaps the best idea I've ever encountered in literature.
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of crime and dysfunction result in the blossoming of creative beauty in Lee's subsequent life. 
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of gang activity result in the profusion of creative beauty in Lee's subsequent life. 
 </p>
 
 <br/>
@@ -159,6 +145,15 @@ Sources:<br/>
 ³: <a target="_blank" href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
 
 -----
+
+
+<p>
+    We often settle for indirect self-expression.
+    For example, we try to express ourselves through success in our careers or through our influence on our children.
+    The problem is those thing don't give you full artistic expressivity, exacting artistic control, a guarantee that the art will be experienced by others, nor a short feedback cycle with your audience.
+    Painting a painting then sharing it gives you all four.
+</p>
+
 
 "The book is dedicated to: The Free, Creative Martial Artist."
 
