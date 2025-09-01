@@ -141,7 +141,10 @@ That's perhaps the best idea I've ever encountered in literature.
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of gang activity result in the profusion of creative beauty of Lee's subsequent life. 
+Worth noting, however, is that that's what <i>a person of high integrity</i> does.
+It's just as common to spend the rest of one's life being an angry resentful jerk on account of one's bad experiences in life.
+More common, perhaps.
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from an early life of gang activity result in the blossoming of creative beauty of Lee's subsequent life. 
 </p>
 
 <br/>
