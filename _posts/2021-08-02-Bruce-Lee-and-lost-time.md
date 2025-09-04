@@ -147,9 +147,9 @@ That's perhaps the single most beautiful idea I've ever encountered in literatur
 
 <p>
 That's what <i>a person of high integrity</i> does, I should say.
-It's just as common to spend the rest of one's life being an angry impossible resentful jerk on account of (legitimately) bad experiences in life.
+It's just as common to spend the rest of one's life being an angry impossible resentful abusive jerk on account of one's (legitimately) bad experiences in life.
 More common, perhaps.
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did regret from the "lost time" of an early life of crime and dysfunction result in the blossoming of creative beauty of his subsequent life. 
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did regret from the "lost time" of an early life of crime and dysfunction result in the blossoming of creative beauty in Lee's subsequent life. 
 </p>
 
 <br/>
