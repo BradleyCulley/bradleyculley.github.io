@@ -8,7 +8,7 @@
 
 <p>
 My father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'".
-In the case of Bruce Lee writing <i>Tao of Jeet Kune Do</i>, it was the pain of a very physical man becoming bedridden:<br/>
+In the case of Bruce Lee writing the book <i>Tao of Jeet Kune Do</i>, it was the pain of a very physical man becoming bedridden:<br/>
 <blockquote>
 In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered him to discontinue the practice of martial arts and to remain in bed to allow his back to heal. This was probably the most trying and dispiriting time in Bruce’s life. He stayed in bed, virtually flat on his back for six months, but he couldn't keep his mind from working — the result of which is this book.
 </blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf
@@ -38,7 +38,7 @@ As an eclectic martial art, it relies on a fighting style heavily influenced by 
 
 From Bruce Lee's wife, Linda Lee:<br/>
 <blockquote>
-<p>My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life’s work.</p>
+<p>My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life's work.</p>
 
 <p>In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.</p>
 </blockquote> -https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf (TODO: check this citation)
@@ -142,11 +142,11 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
     The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.
     </blockquote> -https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023
 
-That's perhaps the single most beautiful idea I've ever encountered in literature.
+That's perhaps the single best idea I've ever encountered in literature.
 </p>
 
 <p>
-That's what <i>a person of high integrity</i> does, I should say.
+That's what a person of high integrity does, I should say.
 It's just as common to spend the rest of one's life being an angry impossible resentful abusive jerk on account of one's (legitimately) bad experiences in life.
 More common, perhaps.
 </p>
