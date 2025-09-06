@@ -23,6 +23,8 @@ In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered
     In the summer of 2008, I purchased a copy of <i>Tao of Jeet Kune Do</i>.
 </p>
 
+<hr/>
+
 <p>
 Jeet Kune Do is a martial art Bruce Lee invented.
 <blockquote>
@@ -47,28 +49,30 @@ From Bruce Lee's wife, Linda Lee:<br/>
 <p>In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.</p>³(page 5)
 </blockquote>
 
+<hr/>
+
 <p>
 <i>Tao of Jeet Kune Do</i> has both philosophical ideas and specific techniques for combat situations.
-Some examples of the former: <br/>
-
-<blockquote>
-The aim of art is to project an inner vision into the world, to state in aesthetic creation the deepest psychic and personal experiences of a human being. It is to enable those experiences to be intelligible and generally recognized within the total framework of an ideal world.
-</blockquote>³(page 10)
-
-<blockquote>
-Art is never decoration, embellishment; instead, it is work of enlightenment. Art, in other words, is a technique for acquiring liberty.
-</blockquote>³(page 11)
-
-Beautifully-stated.
-</p>
 
 <p>
-This is example from the combat-oriented parts of the book:.<br/>
+An example of a combat-oriented diagram:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
 ³(page 49)
 </p>
 
------
+Some examples of the philosophical parts of the book:<br/>
+<blockquote>
+The aim of art is to project an inner vision into the world, to state in aesthetic creation the deepest psychic and personal experiences of a human being. It is to enable those experiences to be intelligible and generally recognized within the total framework of an ideal world.³(page 10)
+</blockquote>
+
+<blockquote>
+Art is never decoration, embellishment; instead, it is work of enlightenment. Art, in other words, is a technique for acquiring liberty.³(page 11)
+</blockquote>
+
+Beautifully-stated.
+</p>
+
+<hr/>
 
 <p>
 Speaking of physicality, Lee was famous for great feats of strength, including his iconic two-finger push-ups.
@@ -105,7 +109,7 @@ Around when I read the book, mimetically inspired by Lee, I trained for thumbs-o
     After that episode, Lee exited gang life, turning his focus towards peaceful activities such as philosophy, art, and self-improvement.⁴
 </p>
 
------
+<hr/>
 
 <p>
     The idea from Lee that's stayed with me the most is martial arts as a means of honestly expressing oneself.
@@ -132,7 +136,7 @@ Around when I read the book, mimetically inspired by Lee, I trained for thumbs-o
     Returning to Lee's idea of martial arts as a means of honestly expressing oneself, I think <i>a lot of things are about honestly expressing oneself</i>.
 </p>
 
------
+<hr/>
 
 <p>
     The French author Marcel Proust published his monumental 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁷
