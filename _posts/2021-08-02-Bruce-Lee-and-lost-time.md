@@ -106,7 +106,7 @@ Around when I read the book, mimetically inspired by Lee, I trained for thumbs-o
 </p>
 
 <p>
-    After that episode, Lee exited gang life, turning his focus towards peaceful activities such as philosophy, art, and self-improvement.⁴
+    From that moment onward, Lee exited gang life, turning his focus towards peaceful activities such as philosophy, art, and self-improvement.⁴
 </p>
 
 <hr/>
