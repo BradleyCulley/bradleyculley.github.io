@@ -7,7 +7,7 @@
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me <i>"the first word every author puts to the page is 'pain'"</i>.
+My father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'".
 </p>
 
 <p>
@@ -59,7 +59,7 @@ An example of a combat-oriented diagram³:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
 </p>
 
-Some examples of the philosophical parts of the book:<br/>
+Some examples of the philosophical parts of the book:<br/><br/>
 <blockquote>
 The aim of art is to project an inner vision into the world, to state in aesthetic creation the deepest psychic and personal experiences of a human being. It is to enable those experiences to be intelligible and generally recognized within the total framework of an ideal world.³
 </blockquote>
@@ -75,14 +75,14 @@ Beautifully-stated.
 
 <p>
 Speaking of physicality, Lee was famous for great feats of strength, including his iconic two-finger push-ups.
-Click the image to see them in action (video is 30 seconds and opens in a new tab):<br/>
+Click the image to see them in action (video is 30 seconds long and opens in a new tab):<br/>
 <a href="https://www.youtube.com/watch?v=gC8W-7r0UFY" target="_blank">
     <img src="https://bradleyculley.github.io/images/Bruce-Lee-Two-Finger-Push-Ups.png"/>
 </a>
 </p>
 
 <p>
-Around when I read the book, mimetically inspired by Lee, I trained for thumbs-only push-ups:<br/>
+Around when I read the book, and mimetically inspired by Lee, I trained for thumbs-only push-ups:<br/>
 <video width="100%" controls>
   <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -124,9 +124,9 @@ Around when I read the book, mimetically inspired by Lee, I trained for thumbs-o
 </p>
 
 <p>
-    Lee's Daughter Shannon Lee once said "He did write poetry; he was really the consummate artist."⁴
-    During this lifetime, he published <i>Chinese Gung-Fu: The Philosophical Art of Self Defense</i>.⁴    
-    <i>Tao of Jeet Kune Do</i> and <i>Bruce Lee's Fighting Method</i> were both published posthumously.⁴
+    Lee's daughter Shannon Lee once said "He did write poetry; he was really the consummate artist."⁴
+    During this lifetime, he published the book <i>Chinese Gung-Fu: The Philosophical Art of Self Defense</i>.⁴    
+    In addition, <i>Tao of Jeet Kune Do</i> and <i>Bruce Lee's Fighting Method</i> were both published posthumously.⁴
     He acted in dozens of wildly successful films, starting from early childhood.¹⁰
     And of course he created his own martial art and philosophy.
 </p>
@@ -138,9 +138,9 @@ Around when I read the book, mimetically inspired by Lee, I trained for thumbs-o
 <hr/>
 
 <p>
-    The French author Marcel Proust published his monumental 1,267,06-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁷
+    The French author Marcel Proust published his monumental 1,267,069-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁷
     In the novel, the narrator, a thinly disguised version of Proust himself, searches for "lost time".⁸
-    In other words, he tries to answer the question: can you reclaim the time you feel you've "lost" in life?⁸
+    In other words, he tries to answer the question: how can you reclaim the time you feel you've "lost" in life?⁸
 </p>
 
 <p>
@@ -168,7 +168,7 @@ It's just as common to become a resentful abusive jerk on account of one's bad e
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did regret from the lost time of a youth of crime and dysfunction motivate the blossoming of creative beauty in Lee's subsequent life. 
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from the lost time of a youth of crime and dysfunction motivate the profusion of creative beauty in Lee's subsequent life. 
 </p>
 
 <br/>
