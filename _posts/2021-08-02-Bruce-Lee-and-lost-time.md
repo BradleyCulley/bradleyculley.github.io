@@ -18,7 +18,7 @@ In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered
 </p>
 
 <p>
-    I got interested in Bruce Lee in around 2008.
+    I got interested in Bruce Lee around 2008.
     Bruce Lee is so cool it was easy to get interested in him.
     In the summer of 2008, I purchased a copy of <i>Tao of Jeet Kune Do</i>.
 </p>
@@ -125,7 +125,7 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 
 <p>
     Lee's daughter Shannon Lee once said "He did write poetry; he was really the consummate artist."⁴
-    During this lifetime, he published the book <i>Chinese Gung-Fu: The Philosophical Art of Self Defense</i>.⁴    
+    During his lifetime, he published the book <i>Chinese Gung-Fu: The Philosophical Art of Self Defense</i>.⁴    
     In addition, <i>Tao of Jeet Kune Do</i> and <i>Bruce Lee's Fighting Method</i> were both published posthumously.⁴
     He acted in dozens of wildly successful films, starting from early childhood.¹⁰
     And of course he created his own martial art and philosophy.
@@ -159,12 +159,12 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
     The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.⁹
     </blockquote>
 
-That's perhaps the single best idea I've ever encountered in literature.
+    That's perhaps the single best idea I've ever encountered in literature.
 </p>
 
 <p>
 I should say, that's what a person of high integrity does.
-It's just as common to become a resentful abusive jerk on account of one's bad experiences in life.
+It's just as common to become a resentful, abusive jerk on account of one's bad experiences in life.
 </p>
 
 <p>
