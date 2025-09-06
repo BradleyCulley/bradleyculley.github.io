@@ -172,6 +172,8 @@ One can speculate that, just like the pain of being bedridden drove Lee to write
 </p>
 
 <br/>
+<hr/>
+
 Sources:<br/>
 ¹: <a target="_blank" href="https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf">https://ia601308.us.archive.org/16/items/pdfy-SP1dBDr6xLGrVfF9/Tao%20Of%20Jeet%20Kune%20Do.pdf</a><br/>
 ²: <a target="_blank" href="https://en.wikipedia.org/wiki/Jeet_Kune_Do">https://en.wikipedia.org/wiki/Jeet_Kune_Do</a><br/>
