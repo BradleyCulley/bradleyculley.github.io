@@ -169,7 +169,7 @@ It's just as common to become a resentful abusive jerk on account of one's bad e
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did regret from the lost time of a youth of crime and dysfunction motivate the blossoming of creative beauty in Lee's subsequent life. 
+One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did regret from the lost time of a youth of crime and dysfunction motivate the profusion of creative beauty in Lee's subsequent life. 
 </p>
 
 <br/>
