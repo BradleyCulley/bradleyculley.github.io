@@ -165,7 +165,7 @@ That's perhaps the single best idea I've ever encountered in literature.
 
 <p>
 I should say, that's what a person of high integrity does.
-It's just as common to become a resentful abusive jerk on account of one's bad experiences.
+It's just as common to become a resentful abusive jerk on account of one's bad experiences in life.
 </p>
 
 <p>
