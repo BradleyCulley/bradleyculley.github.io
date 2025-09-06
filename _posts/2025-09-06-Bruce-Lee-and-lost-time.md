@@ -127,7 +127,7 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
     Lee's daughter Shannon Lee once said "He did write poetry; he was really the consummate artist."⁴
     During his lifetime, he published the book <i>Chinese Gung-Fu: The Philosophical Art of Self Defense</i>.⁴    
     In addition, <i>Tao of Jeet Kune Do</i> and <i>Bruce Lee's Fighting Method</i> were both published posthumously.⁴
-    He acted in dozens of wildly successful films, starting from early childhood.¹⁰
+    He acted in dozens of wildly successful films, starting from early childhood.⁷
     And of course he created his own martial art and philosophy.
 </p>
 
@@ -138,9 +138,9 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 <hr/>
 
 <p>
-    The French author Marcel Proust published his monumental 1,267,069-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁷
-    In the novel, the narrator, a thinly disguised version of Proust himself, searches for "lost time".⁸
-    In other words, he tries to answer the question: how can you reclaim the time you feel you've "lost" in life?⁸
+    The French author Marcel Proust published his monumental 1,267,069-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁸
+    In the novel, the narrator, a thinly disguised version of Proust himself, searches for "lost time".⁹
+    In other words, he tries to answer the question: how can you reclaim the time you feel you've "lost" in life?⁹
 </p>
 
 <p>
@@ -150,13 +150,13 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 
 <p>
     After much searching, Proust's narrator comes to an oddly specific conclusion: the answer is <i>art</i>.
-    In particular, the solution is to transmute the pain of lost time by using the bad experiences as the basis for creating works of art.⁸
+    In particular, the solution is to transmute the pain of lost time by using the bad experiences as the basis for creating works of art.⁹
 </p>
 
 <p>
     <blockquote>
     Returning to the prior circumstances of his life in order to translate them into a work of art is the means by which the Narrator reclaims the time lost in years gone by.
-    The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.⁹
+    The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.¹⁰
     </blockquote>
 
     That's perhaps the single best idea I've ever encountered in literature.
@@ -181,7 +181,7 @@ Sources:<br/>
 ⁴: <a target="_blank" href="https://en.wikipedia.org/wiki/Bruce_Lee">https://en.wikipedia.org/wiki/Bruce_Lee</a><br/>
 ⁵: <a target="_blank" href="https://en.wikipedia.org/wiki/Robert_Lee_Jun-fai">https://en.wikipedia.org/wiki/Robert_Lee_Jun-fai</a><br/> 
 ⁶: <a target="_blank" href="https://www.youtube.com/watch?v=X2clpHtV1iA">https://www.youtube.com/watch?v=X2clpHtV1iA</a><br/>
-⁷: <a target="_blank" href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</a><br/>
-⁸: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
-⁹: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
-¹⁰: <a target="_blank" href="https://en.wikipedia.org/wiki/Bruce_Lee_filmography">https://en.wikipedia.org/wiki/Bruce_Lee_filmography</a><br/>
+⁷: <a target="_blank" href="https://en.wikipedia.org/wiki/Bruce_Lee_filmography">https://en.wikipedia.org/wiki/Bruce_Lee_filmography</a><br/>
+⁸: <a target="_blank" href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</a><br/>
+⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
+¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
