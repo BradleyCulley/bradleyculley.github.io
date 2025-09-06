@@ -7,7 +7,10 @@
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'".
+My father, an English literature major in college, used to tell me <i>"the first word every author puts to the page is 'pain'"</i>.
+</p>
+
+<p>
 In the case of Bruce Lee writing the book <i>Tao of Jeet Kune Do</i>, it was the pain of a very physical man becoming bedridden:<br/>
 <blockquote>
 In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered him to discontinue the practice of martial arts and to remain in bed to allow his back to heal. This was probably the most trying and dispiriting time in Bruce’s life. He stayed in bed, virtually flat on his back for six months, but he couldn't keep his mind from working — the result of which is this book.¹
