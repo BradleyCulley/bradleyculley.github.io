@@ -64,6 +64,8 @@ This is example from the combat-oriented parts of the book:.<br/>
 ³(page 49)
 </p>
 
+-----
+
 <p>
 Speaking of physicality, Lee was famous for great feats of strength, including his iconic two-finger push-ups.
 Click the image to see them in action (video is 30 seconds and opens in a new tab):<br/>
