@@ -46,7 +46,7 @@ From Bruce Lee's wife, Linda Lee:<br/>
 <blockquote>
 <p>My husband Bruce always considered himself a martial artist first and an actor second. At the age of 13, Bruce started lessons in the wing chun style of gung-fu for the purpose of self-defense. Over the next 19 years, he transformed his knowledge into a science, an art, a philosophy and a way of life. He trained his body through exercise and practice; he trained his mind through reading and reflecting and he recorded his thoughts and ideas constantly over the 19 years. The pages of this book represent the pride of a life's work.</p>
 
-<p>In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.</p>³
+<p>In his lifelong quest for self-knowledge and personal expression, Bruce was constantly studying, analyzing and modifying all available relative information; his principle source was his personal library which consisted of over 2,000 books dealing with all forms of physical conditioning, martial arts, fighting techniques, defenses and related subjects.³</p>
 </blockquote>
 
 <hr/>
@@ -55,9 +55,8 @@ From Bruce Lee's wife, Linda Lee:<br/>
 <i>Tao of Jeet Kune Do</i> has both philosophical ideas and specific techniques for combat situations.
 
 <p>
-An example of a combat-oriented diagram:<br/>
+An example of a combat-oriented diagram³:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
-³
 </p>
 
 Some examples of the philosophical parts of the book:<br/>
