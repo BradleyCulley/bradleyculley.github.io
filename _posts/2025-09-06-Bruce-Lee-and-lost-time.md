@@ -168,7 +168,9 @@ It's just as common to become a resentful, abusive jerk on account of one's bad 
 </p>
 
 <p>
-One can speculate that, just like the pain of being bedridden drove Lee to write <i>Tao of Jeet Kune Do</i>, so did the regret from the lost time of a youth of crime and dysfunction motivate the profusion of creative beauty in Lee's subsequent life. 
+Bruce Lee seems to have taken the high-integrity approach, though.
+The lost time of months bedridden became the best-selling martial arts book of all time.
+Similarly, one can speculate that the regret from the "lost time" of a youth of crime motivated the profusion of creative beauty in Bruce Lee's subsequent life. 
 </p>
 
 <br/>
