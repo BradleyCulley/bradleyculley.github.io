@@ -7,7 +7,7 @@
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me "the first word every author puts to the page is 'pain'".
+My father, an English literature major in college, used to tell me, paraphrasing the author Henry Miller, "the first word every author puts to the page is pain".¹¹
 </p>
 
 <p>
@@ -89,6 +89,8 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 </video>
 </p>
 
+<hr/>
+
 <p>
     For a while during his youth, Lee was involved with street gangs.
     One time, during a gang-related fight, he beat another young man so badly he knocked one of the guy's teeth out.
@@ -138,7 +140,7 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 <hr/>
 
 <p>
-    The French author Marcel Proust published his monumental 1,267,069-word novel, <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁸
+    The French author Marcel Proust published his monumental 1,267,069-word novel <i>In Search of Lost Time (À la recherche du temps perdu)</i> in installments between 1913 and 1927.⁸
     In the novel, the narrator, a thinly disguised version of Proust himself, searches for "lost time".⁹
     In other words, he tries to answer the question: how can you reclaim the time you feel you've "lost" in life?⁹
 </p>
@@ -168,9 +170,12 @@ It's just as common to become a resentful, abusive jerk on account of one's bad 
 </p>
 
 <p>
-Bruce Lee seems to have taken the high-integrity approach, though.
-The lost time of months bedridden became the best-selling martial arts book of all time.
-Similarly, one can speculate that the regret from the "lost time" of a youth of crime motivated the profusion of creative beauty in Bruce Lee's subsequent life. 
+Bruce Lee took the high-integrity approach.
+The lost time of six months bedridden was transmuted into the best-selling martial arts book of all time. 
+</p>
+
+<p>
+Similarly, one can speculate that the regret from the "lost time" of a youth of crime motivated the profusion of artistic beauty in Bruce Lee's subsequent life.
 </p>
 
 <br/>
@@ -187,3 +192,4 @@ Sources:<br/>
 ⁸: <a target="_blank" href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</a><br/>
 ⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
+¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
