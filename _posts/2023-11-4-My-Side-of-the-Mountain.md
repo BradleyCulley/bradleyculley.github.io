@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Treehouse.jpg" />
+  <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
 Me in my treehouse when I was a kid
