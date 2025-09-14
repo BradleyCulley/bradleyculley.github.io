@@ -1,5 +1,5 @@
-## <div align="center">Complete Nepali</div>
-<div style="font-size: 25px; font-weight: bold;" align="center">A Teach Yourself Guide,<br/>by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
+## <div align="center">My Side of the Mountain</div>
+<div style="font-size: 25px; font-weight: bold;" align="center"><br/>by Jean Craighead George</div>
 
 <hr/>
 
@@ -7,13 +7,17 @@
   <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />
 </div>
 <br>
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Treehouse.jpg" />
+</div>
+<div align="center">
+Me in my treehouse when I was a kid
+</div>
 <br>
 
 <hr/>
 
 <p>
-My Side of the Mountain, by Jean Craighead George<br/><br/>
-
 First published in 1959
 </p>
 <hr/>
