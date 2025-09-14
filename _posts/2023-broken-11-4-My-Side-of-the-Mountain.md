@@ -23,7 +23,7 @@ First published in 1959
 <hr/>
 
 <p>
-I read this when I was around eight or ten years old, in around 1998-2000. It is a literary masterpiece.
+I read this when I was around 8 years old, in around 1998. It is a literary masterpiece.
 </p>
 
 <p>
@@ -53,10 +53,11 @@ George graduated in 1940 from Pennsylvania State University with degrees in both
 </blockquote>
 -https://en.wikipedia.org/wiki/Jean_Craighead_George
 
-
 <p>
 Mrs. George is both superbly accomplished and truly prolific. She wrote over 100 books. A staggering body of work.
 </p>
+
+<hr/>
 
 <p>
 My Side of the Mountain is wholly saturated with a sense of wonder and magic. Perhaps more riveting (to me anyway), more saturated with wonder, more compelling, and more magical, than even the likes of Harry Potter.
@@ -79,6 +80,8 @@ Tracy Kidder writes nonfiction books - biographies and such - but it's a similar
 
 In particular, it makes real how it was perhaps possible that you or I could have been that person. Flesh and blood.
 </p>
+
+<hr/>
 
 <p>
 My Side of the Mountain feels like this as well.
@@ -103,6 +106,8 @@ The deficit may have been iron and vitamin B12, the lack of which increases the 
 That primeval "pull" is something I’ve experienced at times as well; for example, a pull toward dark red foods such as raspberries when I was stressed.
 Dark red foods have a number of compounds that counteract oxidative stress, including anthocyanins, betalains, carotenoids, polyphenols, and tannins. --TODO add citation
 </p>
+
+<hr/>
 
 <p>
 Sam meets people along the way during his adventures.
@@ -131,6 +136,8 @@ One of the Finnish folks commented that it would be rare for someone to do that 
 I think they meant, in particular, to do so alone (individualism).
 </p>
 
+<hr/>
+
 <p>
 According to Professor Geert Hofstede, the United States is the most culturally individualistic country in the world: https://clearlycultural.com/geert-hofstede.../individualism/.
 The loneliness of ruralist individualism creates a key narrative tension in the book.
@@ -144,8 +151,11 @@ There's an independent truth illuminated there too: that non-human animals can o
 </p>
 
 <p>
-Many a dog or cat lover has left their inheritance to their pet. A love for their non-human friend perhaps more fierce than anything to be mustered toward the often duplicitous humans in their lives.
+Many a dog or cat lover has left their inheritance to their pet.
+At a certain point a love for their non-human friend being more fierce than anything to be mustered toward the often duplicitous humans in their lives.
 </p>
+
+<hr/>
 
 <p>
 Mrs. George also beautifully conveys her love of nature.
@@ -160,6 +170,8 @@ The Thoreauvian pleasure of meeting a stranger in the woods.
 The sparkling wonder of a pristine forest stream, serendipitously discovered.
 As I recall, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
 </p>
+
+<hr/>
 
 <p>
 The book is a mesmerizing work of art and I cannot recommend it highly enough.
