@@ -1,7 +1,7 @@
 ## <div align="center">Complete Nepali</div>
 <div style="font-size: 25px; font-weight: bold;" align="center">A Teach Yourself Guide,<br/>by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
 
----
+<hr/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />
@@ -136,15 +136,32 @@ The love of solitude and love of nature on one side; the love of people and comp
 <p>
 Mrs. George handles that tension with a masterful touch.
 In part, it’s handled through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
+There's an independent truth illuminated there too: that non-human animals can often be better friends than can humans.
+</p>
 
-There's an independent truth illuminated there too: that non-human animals can often be better and more loyal friends than can humans.
-
+<p>
 Many a dog or cat lover has left their inheritance to their pet. A love for their non-human friend perhaps more fierce than anything to be mustered toward the often duplicitous humans in their lives.
+</p>
 
-Mrs. George also beautifully conveys her love of nature. She employs descriptive detail that is of a profundity that can only well up from an equal depth of personal experience in nature. As I remember it: leaves, weather and seasons, the textures of various parts of particular kinds of trees. The protean majesty of starting a fire with tinder and flint.
+<p>
+Mrs. George also beautifully conveys her love of nature.
+She employs descriptive detail of a profundity that can only well up from an equal depth of personal rapture.
+As I remember her descriptions: leaves, weather and seasons, the textures of various parts of particular kinds of trees (bark, trunk, etc.).
+The protean majesty of starting a fire with tinder and flint.
+</p>
 
-Trapping, hunting, fishing with a wooden hook. The Thoreauvian pleasure of meeting a stranger in the woods. The sparkling wonder of a pristine body of water. As I recall, Sam discovers a stream, fed by a natural spring, near the tree that is his home.
+<p>
+Trapping, hunting, fishing with a wooden hook.
+The Thoreauvian pleasure of meeting a stranger in the woods.
+The sparkling wonder of a pristine forest stream, serendipitously discovered.
+As I recall, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
+</p>
 
-The book is a mesmerizing work of art. The best way to experience it is firsthand, in reading it for oneself.
+<p>
+The book is a mesmerizing work of art and I cannot recommend it highly enough.
+</p>
 
-As I recall, as a kid I also read the sequel: “On the Far Side of the Mountain”. For both books, the saying about people one meets in life applies: I can’t remember exactly what was said, but I remember how they made me feel.
+<p>
+As I recall, as a kid I also read the sequel to "My Side of the Mountain": "On the Far Side of the Mountain".
+For both books, the saying about people one meets in life comes to mind: I can’t remember every detail of what was said, but I'll always remember how they made me feel.
+</p>
