@@ -20,9 +20,8 @@ Me in a treehouse when I was a kid
 <p>
 First published in 1959. 
 "In 1960, it was one of three Newbery Medal Honor Books (runners-up)". -https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
-"The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States". -https://en.wikipedia.org/wiki/Newbery_Medal
 
-Note that this is duplicated below, however
+TODO: Note that this is duplicated below, however
 </p>
 <hr/>
 
@@ -31,7 +30,7 @@ I read this when I was around 8 years old, in around 1998. It is a literary mast
 </p>
 
 <blockquote>
-"Should appeal to all rugged individualists who dream of escape to the forest."
+Should appeal to all rugged individualists who dream of escape to the forest.<br/>
 -The New York Times Book Review
 </blockquote>
 
@@ -42,6 +41,15 @@ A summary of the book:
 My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.
 </blockquote>
 -https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
+</p>
+
+<blockquote>
+[The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.
+</blockquote>
+-https://en.wikipedia.org/wiki/Newbery_Medal
+
+<p>
+Another book that Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won the The Newbery Medal, in 1973. -https://en.wikipedia.org/wiki/Julie_of_the_Wolves  
 </p>
 
 <p>
@@ -67,6 +75,11 @@ A later editor encouraged her to use other illustrators for her books.
 <p>
 Mrs. George is both superbly accomplished and truly prolific. She wrote over 100 books. -https://en.wikipedia.org/wiki/Jean_Craighead_George
 </p> 
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />
+</div>
+A photo of Ms. George. What a wonderful woman. -https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg
 
 <hr/>
 
