@@ -89,7 +89,7 @@ My Side of the Mountain is wholly saturated with a sense of wonder and magic. Pe
 
 <p>
 Unlike Harry Potter, it’s set in the real world, with a plot that’s realistically completely possible, though unlikely.
-This is something the Pulitzer Prize-winning author Tracy Kidder often talks about.
+This is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
 
 For example:
 <blockquote>
