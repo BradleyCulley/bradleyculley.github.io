@@ -66,9 +66,9 @@ From Bruce Lee's wife, Linda Lee:<br/>
 <p>
 An example of a combat-oriented diagram³:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
-</p>
+</p><br/>
 
-Some examples of the philosophical parts of the book:<br/><br/>
+Some examples of the philosophical parts of the book:
 <blockquote>
 The aim of art is to project an inner vision into the world, to state in aesthetic creation the deepest psychic and personal experiences of a human being. It is to enable those experiences to be intelligible and generally recognized within the total framework of an ideal world.³
 </blockquote>
