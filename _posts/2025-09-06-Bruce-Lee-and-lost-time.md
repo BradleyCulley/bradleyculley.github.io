@@ -77,14 +77,14 @@ The aim of art is to project an inner vision into the world, to state in aesthet
 Art is never decoration, embellishment; instead, it is work of enlightenment. Art, in other words, is a technique for acquiring liberty.³
 </blockquote>
 
-Beautifully-stated.
+Beautifully-stated by Lee.
 </p>
 
 <hr/>
 
 <p>
-Speaking of physicality, Lee was famous for great feats of strength, including his iconic two-finger push-ups.
-Click the image to see them in action (video is 30 seconds long and opens in a new tab):<br/>
+Speaking of physicality, Lee was famous for his feats of strength, including his iconic two-finger push-ups.
+Click the image below to see them in action (video is 30 seconds long and opens in a new tab):<br/>
 <a href="https://www.youtube.com/watch?v=gC8W-7r0UFY" target="_blank">
     <img src="https://bradleyculley.github.io/images/Bruce-Lee-Two-Finger-Push-Ups.png"/>
 </a>
@@ -122,7 +122,7 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
 <hr/>
 
 <p>
-    The idea from Lee that's stayed with me the most is martial arts as a means of honestly expressing oneself.
+    The idea from Lee that's stayed with me most is martial arts as a means of honestly expressing oneself.
     To quote Lee:
     <blockquote>
         to me, ultimately martial art means honestly expressing yourself⁶
@@ -180,7 +180,7 @@ It's just as common to become a resentful, abusive jerk on account of one's bad 
 
 <p>
 Bruce Lee took the high-integrity approach.
-The lost time of six months bedridden was transmuted into the best-selling martial arts book of all time. 
+For example, he transmuted the lost time of six months bedridden into the best-selling martial arts book of all time. 
 </p>
 
 <p>
