@@ -28,7 +28,7 @@ In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered
   <img src="https://bradleyculley.github.io/images/Tao_of_Jeet_Kune_Do.jpg" />
 </div>
 <div align="center">
-The cover for the first edition of the book
+The cover for the first edition of the book¹²
 </div>
 </p>
 

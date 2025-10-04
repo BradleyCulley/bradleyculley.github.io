@@ -78,37 +78,19 @@ A photo of Ms. George. What a wonderful woman. -https://en.wikipedia.org/wiki/Fi
 <hr/>
 
 <p>
-My Side of the Mountain is wholly saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of Harry Potter.
+My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of Harry Potter.
 </p>
 
 <p>
 Unlike Harry Potter, it’s set in the real world, with a plot that’s realistically completely possible (though unlikely).
-The "realism of reality" is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
-
-For example:
-<blockquote>
-A lot of the job of a person trying to write stories that are true is to make
-what’s true believable. It isn’t enough to say, well, it actually happened. You
-have to make it believable on the page; you have to bring people to life and
-scenes to life.<br/>
-
--Tracy Kidder
-</blockquote> -https://web.uri.edu/wp-content/uploads/sites/935/Tracy_Kidder_Fact_Sheet.pdf
-</p>
-
-<p>
-Tracy Kidder writes nonfiction books - biographies and such - but it's a similar principle. Embedding the life of a famous person in the grittiness of the real world somehow enhances their greatness and makes for a captivating read.
-
-It makes real how it was perhaps possible that you or I could have been that person. Flesh and blood.
 </p>
 
 <hr/>
 
 <p>
-My Side of the Mountain feels just like this.
-It's easy to slip into identifying with Sam Gribley, the protagonist. 
-His practical struggles against nature, yet thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
-Enmeshed in a very comforting way — engulfed, embraced.
+Perhaps party because of the book's "plausible realism", it's easy to slip into identifying with Sam Gribley, the protagonist. 
+His practical struggles against nature yet thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
+In particular, enmeshed in a comforting way — engulfed, embraced.
 </p>
 
 <p>
@@ -215,6 +197,10 @@ Weasel returned to his den, and the deer to their copse. We all had our little
 </p>
 
 <p>
+I once read a post online in which the poster opined something like that "cozy is the best human feeling".
+</p>
+
+<p>
 Her description of the protean majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. Out of dead
@@ -266,17 +252,16 @@ sniffle, not a moment of fatigue. I enjoyed the feeling that I could eat, sleep
 and be warm, and outwit the storms that blasted the mountains and the
 subzero temperatures that numbed them.
 
-or this:
-
-
-
 <hr/>
 
 <p>
-The book is a mesmerizing work of art and I cannot recommend it highly enough.
+The book is a mesmerizing work of art and I frankly cannot recommend it highly enough.
 </p>
 
+
 <p>
+This is the author's preface for the book: Ms. George's description of the process of writing and publishing "My Side of the Mountain":
+<blockquote>
 When I was in elementary school, I packed my suitcase and told my mother
 I was going to run away from home. As I envisioned it, I would live by a
 waterfall in the woods and catch fish on hooks made from the forks of tree
@@ -347,6 +332,7 @@ adventures are the fulfillment of that day long ago when I told my mother I
 was going to run away, got as far as the edge of the woods, and came back.
 Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very
 pleasant to run away in a book.
+</blockquote>
 </p>
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
@@ -354,3 +340,24 @@ pleasant to run away in a book.
 As a kid I believe I also read "On the Far Side of the Mountain", which is the sequel to "My Side of the Mountain".
 For both books, the saying about people one meets in life comes to mind: I can't remember everything that was said, but I'll always remember how they made me feel.
 </p>
+
+
+----
+
+The "realism of reality" idea is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
+
+For example:
+<blockquote>
+A lot of the job of a person trying to write stories that are true is to make
+what’s true believable. It isn’t enough to say, well, it actually happened. You
+have to make it believable on the page; you have to bring people to life and
+scenes to life.<br/>
+
+-Tracy Kidder
+</blockquote> -https://web.uri.edu/wp-content/uploads/sites/935/Tracy_Kidder_Fact_Sheet.pdf
+</p>
+
+<p>
+Tracy Kidder writes nonfiction books - biographies and such - but it's a similar principle. Embedding the life of a famous person in the grittiness of the real world somehow enhances their greatness and makes for a captivating read.
+
+It makes real how it was perhaps possible that you or I could have been that person. Flesh and blood.
