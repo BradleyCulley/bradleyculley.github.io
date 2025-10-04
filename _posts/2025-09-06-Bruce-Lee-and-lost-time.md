@@ -179,7 +179,7 @@ It's just as common to become a resentful, abusive jerk on account of one's bad 
 </p>
 
 <p>
-Bruce Lee took the high-integrity approach.
+Bruce Lee took the high-integrity approach, though.
 For example, he transmuted the lost time of six months bedridden into the best-selling martial arts book of all time. 
 </p>
 
