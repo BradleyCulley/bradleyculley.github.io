@@ -11,26 +11,23 @@
   <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in a treehouse when I was a kid
+Me in a treehouse when I was a kid, not long after I read My Side of the Mountain
 </div>
 <br>
 
 <hr/>
 
 <p>
-First published in 1959. 
-"In 1960, it was one of three Newbery Medal Honor Books (runners-up)". -https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
-
-TODO: Note that this is duplicated below, however
+First published in 1959. TODO: check source for the 1959 publishing date -https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
 </p>
 <hr/>
 
 <p>
-I read this when I was around 8 years old, in around 1998. It is a literary masterpiece.
+I read this when I was around 8 years old, in around 1998. It is an absolutely literary masterpiece.
 </p>
 
 <blockquote>
-Should appeal to all rugged individualists who dream of escape to the forest.<br/>
+Should appeal to all rugged individualists who dream of escape to the forest.<br/><br/>
 -The New York Times Book Review
 </blockquote>
 
@@ -49,7 +46,7 @@ My Side of the Mountain is a middle-grade adventure novel written and illustrate
 -https://en.wikipedia.org/wiki/Newbery_Medal
 
 <p>
-Another book that Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won the The Newbery Medal, in 1973. -https://en.wikipedia.org/wiki/Julie_of_the_Wolves  
+Another book Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won the The Newbery Medal, in 1973. -https://en.wikipedia.org/wiki/Julie_of_the_Wolves  
 </p>
 
 <p>
@@ -64,10 +61,7 @@ Her first pet was a turkey vulture. George centered her life around writing and 
 <p>
 George graduated in 1940 from Pennsylvania State University with degrees in both English and science. 
 In the 1940s she was a member of the White House Press Corps and a reporter for The Washington Post. 
-From 1969 to 1982 she was a writer and editor at Reader's Digest. 
-She married John Lothar George in 1944, and they divorced in 1963. 
-Her first novels were written in collaboration with him, and she provided the illustrations for them, done in black and white watercolors or inks. 
-A later editor encouraged her to use other illustrators for her books.
+From 1969 to 1982 she was a writer and editor at Reader's Digest.
 </p>
 </blockquote>
 -https://en.wikipedia.org/wiki/Jean_Craighead_George
@@ -77,26 +71,26 @@ Mrs. George is both superbly accomplished and truly prolific. She wrote over 100
 </p> 
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />
+  <img src="https://bradleyculley.github.io/images/Jean_Craighead_George.jpg" />
 </div>
 A photo of Ms. George. What a wonderful woman. -https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg
 
 <hr/>
 
 <p>
-My Side of the Mountain is wholly saturated with a sense of wonder and magic. Perhaps more riveting (to me anyway), more saturated with wonder, more compelling, and more magical, than even the likes of Harry Potter.
+My Side of the Mountain is wholly saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of Harry Potter.
 </p>
 
 <p>
-Unlike Harry Potter, it’s set in the real world, with a plot that’s realistically completely possible, though unlikely.
-This is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
+Unlike Harry Potter, it’s set in the real world, with a plot that’s realistically completely possible (though unlikely).
+The "realism of reality" is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
 
 For example:
 <blockquote>
 A lot of the job of a person trying to write stories that are true is to make
 what’s true believable. It isn’t enough to say, well, it actually happened. You
 have to make it believable on the page; you have to bring people to life and
-scenes to life. 
+scenes to life.<br/>
 
 -Tracy Kidder
 </blockquote> -https://web.uri.edu/wp-content/uploads/sites/935/Tracy_Kidder_Fact_Sheet.pdf
