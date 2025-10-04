@@ -184,7 +184,7 @@ For example, he transmuted the lost time of six months bedridden into the best-s
 </p>
 
 <p>
-Similarly, one can speculate that the regret from the "lost time" of a youth of crime motivated the profusion of artistic beauty in Bruce Lee's subsequent life.
+Similarly, one can speculate that the regret from the "lost time" of a youth of crime motivated the profusion of artistic beauty we see in Bruce Lee's subsequent life.
 </p>
 
 <br/>
