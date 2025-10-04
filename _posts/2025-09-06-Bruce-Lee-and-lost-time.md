@@ -7,7 +7,7 @@
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me, paraphrasing the author Henry Miller, "the first word every author puts to the page is pain".¹¹
+My father, an English literature major in college, used to tell me, paraphrasing the author Henry Miller, "the first word every author puts to the page is 'pain'".¹¹
 </p>
 
 <p>
@@ -19,8 +19,17 @@ In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered
 
 <p>
     I got interested in Bruce Lee around 2008.
-    Bruce Lee is so cool it was easy to get interested in him.
-    In the summer of 2008, I purchased a copy of <i>Tao of Jeet Kune Do</i>.
+    Of course Bruce Lee is so cool it was pretty easy to get interested.
+    In the summer of 2008, I bought a copy of <i>Tao of Jeet Kune Do</i>.
+</p>
+
+<p>
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Tao_of_Jeet_Kune_Do.jpg" />
+</div>
+<div align="center">
+The cover for the first edition of the book
+</div>
 </p>
 
 <hr/>
@@ -193,3 +202,4 @@ Sources:<br/>
 ⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
 ¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
+¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
