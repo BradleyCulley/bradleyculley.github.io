@@ -254,7 +254,7 @@ And by the woods, what's meant it "uncharted" woods: generally off trails and fa
 
 Having grown up in a very rural wooded area (rural Maine), I can confirm this.
 One can generally walk all day in the woods without meeting anyone, even in beautifully-kept public forests.
-As Thoreau observed in his essay "Walking", most people travel virtually solely upon beaten paths.
+As Thoreau observed in his essay "Walking", most people travel virtually solely upon beaten paths. --TODO: add citation
 </p>
 
 <p>
