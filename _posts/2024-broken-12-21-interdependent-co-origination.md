@@ -38,6 +38,8 @@ Ripostes:<br/>
 -Lucretius, from the poem "De Rerum Natura"
 </p>
 
+"It's going to hit you. It doesn't have to hit you directly. It can hit you indirectly." Darrell Redmond - https://www.youtube.com/watch?v=aq7mAVQvKQo
+
 Add to the afraid of the light essay the prison stuff. The main prison with the guy being sprayed maybe. The Georgia prisons with a violation of their constitutional rights. The wing correctional essay and mother Jones and or it talks about the sexual slaves there. And tie it back to recidivism. You expect someone to endure these conditions and come out a well-functioning will adjusted member of society. That's a bit much.
 
 ¹:https://www.loebclassics.com/view/lucretius-de_rerum_natura/1924/pb_LCL181.195.xml?readMode=recto

@@ -4,7 +4,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />
+  <img src="https://bradleyculley.github.io/images/My-Side-of-the-Mountain.jpg" />¹
 </div>
 <br>
 <div align="center">
@@ -18,16 +18,17 @@ Me in a treehouse when I was a kid, not long after I read My Side of the Mountai
 <hr/>
 
 <p>
-First published in 1959. TODO: check source for the 1959 publishing date -https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
+My Side of the Mountain was first published in 1959².
 </p>
 <hr/>
 
 <p>
-I read this when I was around 8 years old, in around 1998. It is an absolutely literary masterpiece.
+I read this when I was around 8 years old, in around 1998. It is a literary masterpiece.
 </p>
 
 <blockquote>
-Should appeal to all rugged individualists who dream of escape to the forest.<br/><br/>
+Should appeal to all rugged individualists who dream of escape to the forest.<br/>
+
 -The New York Times Book Review
 </blockquote>
 
@@ -35,18 +36,36 @@ Should appeal to all rugged individualists who dream of escape to the forest.<br
 A summary of the book:
 
 <blockquote>
-My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.
+My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.¹
 </blockquote>
--https://en.wikipedia.org/wiki/My_Side_of_the_Mountain
+
+About the Newbery Medal:
+<blockquote>
+[The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
+</blockquote>
 </p>
 
+More about the plot of the book:
 <blockquote>
-[The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.
-</blockquote>
--https://en.wikipedia.org/wiki/Newbery_Medal
+<p>Sam Gribley is a 12-year-old boy who intensely dislikes living in his parents' cramped New York City apartment with his eight brothers and sisters. He decides to run away to his great-grandfather's abandoned farm in the Catskill Mountains to live in the wilderness. The novel begins in the middle of Sam's story, with Sam huddled in his treehouse home in the forest during a severe blizzard. Frightful, Sam's pet peregrine falcon, and The Baron, a weasel, share the home with him. In a flashback, Sam reminisces about how he came to be there.</p>
+
+TODO remove:
+<p>Sam forages for edible plants and traps animals for food. He uses fire to make the interior of a hollow tree bigger. Seeing a peregrine falcon hunting for prey, Sam decides he wants a falcon as a hunting bird. Sam goes to town and reads up on falconry at the local public library. He steals a chick from a falcon's nest and names the bird Frightful.</p>
+
+TODO remove:
+<p>
+Frightful proves to be very good at hunting. Sam prepares for winter by hunting, preserving wild grains and tubers, smoking fish and meat, and preparing storage spaces in hollowed-out trunks of trees. Finding another poached deer, Sam makes himself deerskin clothing to replace his worn-out clothes. Sam notices a raccoon digging for mussels in the creek and learns how to hunt for shellfish.
+</p>
 
 <p>
-Another book Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won the The Newbery Medal, in 1973. -https://en.wikipedia.org/wiki/Julie_of_the_Wolves  
+In June, Sam is surprised to find his family has come to the Gribley land. His father announces that the family is moving there. Sam is happy at first, then also upset because it means the end of his self-sufficiency. As the novel ends, Sam concludes that life is about balancing his desire to live off the land with his desire to be with the people he loves.²
+</p>
+</blockquote>
+
+<hr/>
+
+<p>
+Another book Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won The Newbery Medal, in 1973.⁴
 </p>
 
 <p>
@@ -61,19 +80,18 @@ Her first pet was a turkey vulture. George centered her life around writing and 
 <p>
 George graduated in 1940 from Pennsylvania State University with degrees in both English and science. 
 In the 1940s she was a member of the White House Press Corps and a reporter for The Washington Post. 
-From 1969 to 1982 she was a writer and editor at Reader's Digest.
+From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </p>
 </blockquote>
--https://en.wikipedia.org/wiki/Jean_Craighead_George
 
 <p>
-Mrs. George is both superbly accomplished and truly prolific. She wrote over 100 books. -https://en.wikipedia.org/wiki/Jean_Craighead_George
+Mrs. George is both superbly accomplished and truly prolific. She wrote over 100 books⁵.
 </p> 
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Jean_Craighead_George.jpg" />
+  <img src="https://bradleyculley.github.io/images/Jean_Craighead_George.jpg" />⁶
 </div>
-A photo of Ms. George. What a wonderful woman. -https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg
+A photo of Ms. George. What a wonderful woman.
 
 <hr/>
 
@@ -94,7 +112,7 @@ In particular, enmeshed in a comforting way — engulfed, embraced.
 </p>
 
 <p>
-He hollows out a tree and makes that his home in the forest.
+He hollows out a tree and makes it his home in the forest.
 He tames a peregrine falcon, whom he names "Frightful".
 He learns how to hunt, trap, fish, prepare meat, forage for wild foods, build a clay fireplace, tan hides, and create a full set of clothes out of deer hide.
 </p>
@@ -145,12 +163,12 @@ Apparently they meant, in particular, to do so alone (individualism).
 <p>
 According to Professor Geert Hofstede, the United States is the most culturally individualistic country in the world: https://clearlycultural.com/geert-hofstede.../individualism/.
 The loneliness of ruralist individualism creates a key narrative tension in the book.
-The love of nature and solitude on one side; the love of companionship on the other.
+As mentioned in the plot summary quoted above, with respect to Sam's family moving to him, there's the love of nature and solitude on one side and the love of humanity and companionship on the other.
 </p>
 
 <p>
 Mrs. George handles that tension with masterful touch.
-In part, it's handled through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
+In part, she handles it through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
 There's an independent truth illuminated there too: that non-human animals can often be better friends than can humans.
 </p>
 
@@ -341,6 +359,22 @@ As a kid I believe I also read "On the Far Side of the Mountain", which is the s
 For both books, the saying about people one meets in life comes to mind: I can't remember everything that was said, but I'll always remember how they made me feel.
 </p>
 
+<hr/>
+
+Sources:<br/>
+¹: <a target="_blank" href="https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg">https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg</a><br/>
+²: <a target="_blank" href="https://en.wikipedia.org/wiki/My_Side_of_the_Mountain">https://en.wikipedia.org/wiki/My_Side_of_the_Mountain</a><br/>
+³: <a target="_blank" href="https://en.wikipedia.org/wiki/Newbery_Medal">https://en.wikipedia.org/wiki/Newbery_Medal</a><br/>
+⁴: <a target="_blank" href="https://en.wikipedia.org/wiki/Julie_of_the_Wolves">https://en.wikipedia.org/wiki/Julie_of_the_Wolves</a><br/>
+⁵: <a target="_blank" href="https://en.wikipedia.org/wiki/Jean_Craighead_George">https://en.wikipedia.org/wiki/Jean_Craighead_George</a><br/>
+⁶: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg">https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg</a><br/>
+
+⁷: <a target="_blank" href="https://en.wikipedia.org/wiki/Bruce_Lee_filmography">https://en.wikipedia.org/wiki/Bruce_Lee_filmography</a><br/>
+⁸: <a target="_blank" href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</a><br/>
+⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
+¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
+¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
+¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
 
 ----
 
