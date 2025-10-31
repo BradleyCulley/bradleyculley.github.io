@@ -18,12 +18,13 @@ Me in a treehouse when I was a kid, not long after I read My Side of the Mountai
 <hr/>
 
 <p>
-My Side of the Mountain was first published in 1959².
+First published in 1959².
 </p>
+
 <hr/>
 
 <p>
-I read this when I was around 8 years old, in around 1998. It is a literary masterpiece.
+I read My Side of the Mountain when I was around 8 years old, in around 1998. It's a literary masterpiece.
 </p>
 
 <blockquote>
@@ -45,14 +46,18 @@ About the Newbery Medal:
 </blockquote>
 </p>
 
+<hr/>
+
 More about the plot of the book:
 <blockquote>
 <p>Sam Gribley is a 12-year-old boy who intensely dislikes living in his parents' cramped New York City apartment with his eight brothers and sisters. He decides to run away to his great-grandfather's abandoned farm in the Catskill Mountains to live in the wilderness. The novel begins in the middle of Sam's story, with Sam huddled in his treehouse home in the forest during a severe blizzard. Frightful, Sam's pet peregrine falcon, and The Baron, a weasel, share the home with him. In a flashback, Sam reminisces about how he came to be there.</p>
 
-TODO remove:
+<p>...</p>
+
 <p>Sam forages for edible plants and traps animals for food. He uses fire to make the interior of a hollow tree bigger. Seeing a peregrine falcon hunting for prey, Sam decides he wants a falcon as a hunting bird. Sam goes to town and reads up on falconry at the local public library. He steals a chick from a falcon's nest and names the bird Frightful.</p>
 
-TODO remove:
+<p>...</p>
+
 <p>
 Frightful proves to be very good at hunting. Sam prepares for winter by hunting, preserving wild grains and tubers, smoking fish and meat, and preparing storage spaces in hollowed-out trunks of trees. Finding another poached deer, Sam makes himself deerskin clothing to replace his worn-out clothes. Sam notices a raccoon digging for mussels in the creek and learns how to hunt for shellfish.
 </p>
@@ -96,29 +101,29 @@ A photo of Ms. George. What a wonderful woman.
 <hr/>
 
 <p>
-My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of Harry Potter.
+My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of The Lord of the Rings.
 </p>
 
 <p>
-Unlike Harry Potter, it’s set in the real world, with a plot that’s realistically completely possible (though unlikely).
+Unlike The Lord of the Rings, it’s set in the real world, with a plot that’s realistically completely possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-Perhaps party because of the book's "plausible realism", it's easy to slip into identifying with Sam Gribley, the protagonist. 
-His practical struggles against nature yet thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
+Perhaps party because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+His practical struggles against nature, yet thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
 In particular, enmeshed in a comforting way — engulfed, embraced.
 </p>
 
 <p>
-He hollows out a tree and makes it his home in the forest.
+As mentioned in the plot summary above, he hollows out a tree and makes it his home in the forest.
 He tames a peregrine falcon, whom he names "Frightful".
 He learns how to hunt, trap, fish, prepare meat, forage for wild foods, build a clay fireplace, tan hides, and create a full set of clothes out of deer hide.
 </p>
 
 <p>
-One detail of salience, that I found particularly resonant, is in a scene in which Sam is looking at a deceased deer.
+One detail that I found particularly resonant, is in a scene in which Sam is looking at a deceased deer.
 Sam feels an intrinsic "pull" toward eating the liver of the deer.
 This is explained as a primal hunger borne from a particular nutritional deficit. -TODO: check this citation
 </p>
@@ -133,27 +138,27 @@ Dark red foods have a number of compounds that counteract oxidative stress, incl
 
 <p>
 Sam meets people during his adventures.
-Characteristically though, none join his space permanently.
+Characteristically, none join his space permanently.
 For example, he meets a lost English professor, they become friends, and Sam visits the professor at Christmas.
 However, neither moves to live near the other permanently.
 </p>
 
 <p>
 It is only as an adult, reflecting back on the contents of this book, that it occurs to me how quintessentially culturally American the book is.
-Culture is the air one breathes, so to speak, so I didn't even notice the US-aligned cultural motifs.
+Culture is the air one breathes, so to speak, so as a child I didn't notice the US-aligned motifs.
 One such "subsurface" motif, is what could be called a "ruralist mentality".
 </p>
 
 <p>
-I’d say most Americans, regardless of their more subcultural niche, would respond positively to a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst deeply enmeshed in nature.
-Also, especially doing so alone.
+Most Americans, regardless of their more subcultural niche, would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst deeply enmeshed in nature.
+And especially, doing so alone or with just one or two others.
 Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild") come to mind.
-Ruralism is highly culturally American, as is individualism.
+Ruralism and individualism are highly culturally American.
 </p>
 
 <p>
 A family friend of ours married into a family from Finland.
-My father told me that one time it came up in conversation that one of the young men on the American side had gone out into the forest and built a small cabin/treehouse for himself.
+My father told me it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small cabin/treehouse for himself.
 One of the Finnish folks commented that it would be rare for someone to do that in Finland.
 Apparently they meant, in particular, to do so alone (individualism).
 </p>
@@ -162,19 +167,19 @@ Apparently they meant, in particular, to do so alone (individualism).
 
 <p>
 According to Professor Geert Hofstede, the United States is the most culturally individualistic country in the world: https://clearlycultural.com/geert-hofstede.../individualism/.
-The loneliness of ruralist individualism creates a key narrative tension in the book.
-As mentioned in the plot summary quoted above, with respect to Sam's family moving to him, there's the love of nature and solitude on one side and the love of humanity and companionship on the other.
+The loneliness of ruralistic individualism creates a key narrative tension in the book.
+As mentioned in the plot summary quoted above, with respect to Sam's family moving to him, there's the love of nature and solitude on one side, and the love of humanity and companionship on the other.
 </p>
 
 <p>
-Mrs. George handles that tension with masterful touch.
+Mrs. George handles that tension with great sophistication and nuance.
 In part, she handles it through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
-There's an independent truth illuminated there too: that non-human animals can often be better friends than can humans.
+There's an independent truth illuminated there, too: that non-human animals can often be better friends than can humans.
 </p>
 
 <p>
 Many a dog or cat lover has left their inheritance to their pet.
-At a certain point the love for their non-human friend becomes more fierce than anything to be mustered toward the often duplicitous humans in their lives.
+At a certain point the love for their non-human friend becomes more fierce than anything to be mustered toward the oft-duplicitous humans in their lives.
 </p>
 
 <hr/>
@@ -186,13 +191,14 @@ As I remember her descriptions: leaves, weather and seasons, and the textures of
 </p>
 
 <p>
+To quote a narrative passage from Sam in the book:
 <blockquote>
 <p>
 I lived close to the weather. It is surprising how you watch it when
 you live in it. Not a cloud passed unnoticed, not a wind blew untested. I
 knew the moods of the storms, where they came from, their shapes and
 colors. When the sun shone, I took Frightful to the meadow and we slid
-down the mountain on my snapping-turtle-shell sled. She really didn’t care
+down the mountain on my snapping-turtle-shell sled. She really didn't care
 much for this.
 </p>
 
@@ -203,7 +209,7 @@ to hole up in a rock ledge until I could see where I was going. That day the
 winds were so strong I could not push against them, so I crawled under the
 ledge; for hours I wondered if I would be able to dig out when the storm
 blew on. Fortunately I only had to push through about a foot of snow.
-However, that taught me to stay home when the air said ‘snow.’ Not that I
+However, that taught me to stay home when the air said 'snow.' Not that I
 was afraid of being caught far from home in a storm, for I could find food
 and shelter and make a fire anywhere, but I had become as attached to my
 hemlock house as a brooding bird to her nest. Caught out in the storms and
@@ -215,11 +221,11 @@ Weasel returned to his den, and the deer to their copse. We all had our little
 </p>
 
 <p>
-I once read a post online in which the poster opined something like that "cozy is the best human feeling".
+I once read a post online in which the poster opined something like that "cozy is the best human feeling". --TODO: find citation
 </p>
 
 <p>
-Her description of the protean majesty of starting a fire with tinder and flint:
+Sam recounting the protean majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. Out of dead
 tinder and grass and sticks came a live warm light. It cracked and snapped
@@ -233,9 +239,26 @@ again.
 </p>
 
 <p>
-Trapping, hunting, fishing with a wooden hook.
-The Thoreauvian pleasure of meeting a stranger in the woods.
-The sparkling wonder of a pristine forest stream, serendipitously discovered.
+    Masterfully evocative of the emotion of coziness.
+</p>
+
+<p>
+Coziness is but one emotion so deeply and masterfully evoked in My Side of the Mountain.
+An example of another is the Thoreauvian pleasure of meeting a stranger in the woods.
+</p>
+
+<p>
+My father used to quote Thoreau's statement that it's always good to meet someone in the woods.
+My father also often observed the fact subtly implied therein, which is that it's rare to meet someone in the woods.
+And by the woods, what's meant it "uncharted" woods: generally off trails and far from homes.
+
+Having grown up in a very rural wooded area (rural Maine), I can confirm this.
+One can generally walk all day in the woods without meeting anyone, even in beautifully-kept public forests.
+As Thoreau observed in his essay "Walking", most people travel virtually solely upon beaten paths.
+</p>
+
+<p>
+Another such emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
 As I recall, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
 </p>
 
@@ -273,9 +296,8 @@ subzero temperatures that numbed them.
 <hr/>
 
 <p>
-The book is a mesmerizing work of art and I frankly cannot recommend it highly enough.
+The book is a mesmerizing work of art and I cannot recommend it highly enough.
 </p>
-
 
 <p>
 This is the author's preface for the book: Ms. George's description of the process of writing and publishing "My Side of the Mountain":
