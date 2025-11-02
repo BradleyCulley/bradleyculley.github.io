@@ -33,6 +33,18 @@ Should appeal to all rugged individualists who dream of escape to the forest.<br
 -The New York Times Book Review
 </blockquote>
 
+<hr/>
+
+<p>
+I once read a post online in which the poster said something like that "cozy is the best human feeling". --TODO: find citation
+They're perhaps onto something.
+My Side of The Mountain is like a particular kind of coziness, in book form; a coziness of being close to nature yet still safe.
+Tucked away, yet close to the elements; warm, protected, engulfed, ensconced.
+A primordial joy.
+</p>
+
+<hr/>
+
 <p>
 A summary of the book:
 
@@ -183,14 +195,6 @@ At a certain point the love for their non-human friend becomes more fierce than 
 </p>
 
 <hr/>
-
-<p>
-I once read a post online in which the poster said something like that "cozy is the best human feeling". --TODO: find citation
-They're perhaps onto something. My Side of The Mountain is like a particular kind of coziness.
-A coziness of being close to nature but still safe.
-Tucked away, warm, partially hidden, protected.
-Surely a primordial human joy.
-</p>
 
 <p>
 Mrs. George also beautifully conveys her love of nature.
