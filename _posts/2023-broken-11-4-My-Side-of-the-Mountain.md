@@ -174,7 +174,7 @@ As mentioned in the plot summary quoted above, with respect to Sam's family movi
 <p>
 Mrs. George handles that tension with great sophistication and nuance.
 In part, she handles it through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
-There's an independent truth illuminated there, too: that non-human animals can often be better friends than can humans.
+There's an independent truth there: non-human animals can be better friends than can humans.
 </p>
 
 <p>
@@ -185,9 +185,17 @@ At a certain point the love for their non-human friend becomes more fierce than 
 <hr/>
 
 <p>
+I once read a post online in which the poster said something like that "cozy is the best human feeling". --TODO: find citation
+They're perhaps onto something. My Side of The Mountain is like a particular kind of coziness.
+A coziness of being close to nature but still safe.
+Tucked away, warm, partially hidden, protected.
+Surely a primordial human joy.
+</p>
+
+<p>
 Mrs. George also beautifully conveys her love of nature.
-She employs descriptive detail of a profundity that can only well up from an equal depth of personal rapture.
-As I remember her descriptions: leaves, weather and seasons, and the textures of various parts of particular kinds of trees (bark, trunk, etc.).
+She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
+As I remember her descriptions: leaves, weather and seasons, and the textures of various parts of trees (bark, trunk, etc.).
 </p>
 
 <p>
@@ -218,10 +226,6 @@ Weasel returned to his den, and the deer to their copse. We all had our little
 'patch' in the wilderness. We all fought to return there.
 </p>
 </blockquote>
-</p>
-
-<p>
-I once read a post online in which the poster opined something like that "cozy is the best human feeling". --TODO: find citation
 </p>
 
 <p>
