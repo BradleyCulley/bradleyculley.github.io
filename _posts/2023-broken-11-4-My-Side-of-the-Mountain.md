@@ -11,7 +11,7 @@
   <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in a treehouse when I was a kid, not long after I read My Side of the Mountain
+Me in a treehouse in the early 2000s, not long after I read My Side of the Mountain
 </div>
 <br>
 
@@ -38,9 +38,9 @@ Should appeal to all rugged individualists who dream of escape to the forest.<br
 <p>
 I once read a post online in which the poster said something like that "cozy is the best human feeling". --TODO: find citation
 They're perhaps onto something.
-My Side of The Mountain is like a particular kind of coziness, in book form; a coziness of being close to nature yet still safe.
-Tucked away, yet close to the elements; warm, protected, engulfed, ensconced.
-A primordial joy.
+My Side of The Mountain is coziness in book form.
+It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up with a blanket in a window seat.
+At the junction of wild nature and one's protected space away from the elements.
 </p>
 
 <hr/>
@@ -82,10 +82,6 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 <hr/>
 
 <p>
-Another book Ms. George wrote, titled <i>Julie of the Wolves</i>, fully won The Newbery Medal, in 1973.⁴
-</p>
-
-<p>
 Biographical information about the author:
 <blockquote>
 <p>
@@ -117,33 +113,47 @@ My Side of the Mountain is saturated with wonder and magic. Perhaps more rivetin
 </p>
 
 <p>
-Unlike The Lord of the Rings, it’s set in the real world, with a plot that’s realistically completely possible (though unlikely).
+Unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-Perhaps party because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
-His practical struggles against nature, yet thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
-In particular, enmeshed in a comforting way — engulfed, embraced.
+Perhaps partly because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+His practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, his exaltation at being so enmeshed in nature.
 </p>
 
 <p>
-As mentioned in the plot summary above, he hollows out a tree and makes it his home in the forest.
-He tames a peregrine falcon, whom he names "Frightful".
-He learns how to hunt, trap, fish, prepare meat, forage for wild foods, build a clay fireplace, tan hides, and create a full set of clothes out of deer hide.
+In one scene, Sam is preparing to eat a rabbit caught by his falcon Frightful.
+He feels an intrinsic "pull" toward eating the liver.
+This is explained as a primal pull toward a source of vitamin C during the winter when sources of it are scarce.
 </p>
 
+<blockquote>
 <p>
-One detail that I found particularly resonant, is in a scene in which Sam is looking at a deceased deer.
-Sam feels an intrinsic "pull" toward eating the liver of the deer.
-This is explained as a primal hunger borne from a particular nutritional deficit. -TODO: check this citation
+One morning my nose bled. It frightened me a bit, and I wondered if I shouldn’t hike to the library and reread the material on vitamins.
+It didn't last long, however, so I figured it wasn't too serious.
+I decided I would live until the greens came to the land, for I was of the opinion that since I had had nothing green for months, that was probably the trouble.
 </p>
 
+<p>On that same day Frightful caught a rabbit in the meadow.
+As I cleaned it, the liver suddenly looked so tempting that I could hardly wait to prepare it.
+For the next week, I craved liver and ate all I could get.
+The tiredness ended, the bones stopped aching and I had no more nosebleeds.
+Hunger is a funny thing. It has a kind of intelligence all its own. 
+I ate liver almost every day until the first plants emerged, and I never had any more trouble. 
+I have looked up vitamins since. 
+I am not surprised to find that liver is rich in vitamin C. So are citrus fruits and green vegetables, the foods I lacked. 
+Wild plants like sorrel and dock are rich in this vitamin.
+Even if I had known this at that time, it would have done me no good, for they were but roots in the earth.
+As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.
+</p>
+</blockquote>
+
 <p>
-The deficit may have been iron and vitamin B12, the lack of which increases the risk of anemia.
-That primeval "pull" is something I’ve experienced at times as well; for example, a pull toward dark red foods such as raspberries when I was stressed.
-Dark red foods have a number of compounds that counteract oxidative stress, including anthocyanins, betalains, carotenoids, polyphenols, and tannins. --TODO add citation
+That primeval "pull" is something I’ve experienced too.
+For example, I remember once, when I was stressed, feeling a pull toward dark red foods such as raspberries.
+It turns out dark red foods have a number of compounds that counteract stress. --TODO add citation
 </p>
 
 <hr/>
@@ -156,21 +166,21 @@ However, neither moves to live near the other permanently.
 </p>
 
 <p>
-It is only as an adult, reflecting back on the contents of this book, that it occurs to me how quintessentially culturally American the book is.
-Culture is the air one breathes, so to speak, so as a child I didn't notice the US-aligned motifs.
-One such "subsurface" motif, is what could be called a "ruralist mentality".
+It is only as an adult, reflecting back on the contents of this book, that it occurs to me how culturally American it is.
+Culture is the air one breathes, so as a child I didn't notice.
+One such cultural motif, is what could be called a "ruralist mentality".
 </p>
 
 <p>
-Most Americans, regardless of their more subcultural niche, would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst deeply enmeshed in nature.
-And especially, doing so alone or with just one or two others.
+Most Americans, regardless of their more subcultural niche, would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst deeply and happily enmeshed in nature.
+Also and especially, doing so alone, or with just one or two others, as the US is also quite culturally individualistic.
 Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild") come to mind.
-Ruralism and individualism are highly culturally American.
+Ruralism and individualism.
 </p>
 
 <p>
-A family friend of ours married into a family from Finland.
-My father told me it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small cabin/treehouse for himself.
+A family friend of ours once married into a family from Finland.
+My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small treehouse for himself.
 One of the Finnish folks commented that it would be rare for someone to do that in Finland.
 Apparently they meant, in particular, to do so alone (individualism).
 </p>
@@ -178,92 +188,83 @@ Apparently they meant, in particular, to do so alone (individualism).
 <hr/>
 
 <p>
-According to Professor Geert Hofstede, the United States is the most culturally individualistic country in the world: https://clearlycultural.com/geert-hofstede.../individualism/.
 The loneliness of ruralistic individualism creates a key narrative tension in the book.
-As mentioned in the plot summary quoted above, with respect to Sam's family moving to him, there's the love of nature and solitude on one side, and the love of humanity and companionship on the other.
+As mentioned in the plot summary above, with respect to Sam's family moving to him, there's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
 </p>
 
 <p>
-Mrs. George handles that tension with great sophistication and nuance.
+Mrs. George handles that tension with beautiful sophistication and nuance.
 In part, she handles it through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
-There's an independent truth there: non-human animals can be better friends than can humans.
-</p>
-
-<p>
-Many a dog or cat lover has left their inheritance to their pet.
-At a certain point the love for their non-human friend becomes more fierce than anything to be mustered toward the oft-duplicitous humans in their lives.
+There's an independent truth there: non-human animals can sometimes be better friends than can humans.
 </p>
 
 <hr/>
 
 <p>
 Mrs. George also beautifully conveys her love of nature.
-She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
-As I remember her descriptions: leaves, weather and seasons, and the textures of various parts of trees (bark, trunk, etc.).
+She employs descriptive detail of a profundity that can only well up from an equal depth of personal rapture.
+As I remember her descriptions: leaves, weather and seasons, the textures of various parts of trees (bark, trunk, etc.), and so much more.
 </p>
 
 <p>
-To quote a narrative passage from Sam in the book:
+To quote a narrative passage from Sam:
 <blockquote>
 <p>
-I lived close to the weather. It is surprising how you watch it when
-you live in it. Not a cloud passed unnoticed, not a wind blew untested. I
-knew the moods of the storms, where they came from, their shapes and
-colors. When the sun shone, I took Frightful to the meadow and we slid
-down the mountain on my snapping-turtle-shell sled. She really didn't care
-much for this.
+I lived close to the weather. It is surprising how you watch it when you live in it.
+Not a cloud passed unnoticed, not a wind blew untested.
+I knew the moods of the storms, where they came from, their shapes and colors.
+When the sun shone, I took Frightful to the meadow and we slid down the mountain on my snapping-turtle-shell sled.
+She really didn't care much for this.
 </p>
 
 <p>
-When the winds changed and the air smelled like snow, I would stay
-in my tree, because I had gotten lost in a blizzard one afternoon and had had
-to hole up in a rock ledge until I could see where I was going. That day the
-winds were so strong I could not push against them, so I crawled under the
-ledge; for hours I wondered if I would be able to dig out when the storm
-blew on. Fortunately I only had to push through about a foot of snow.
-However, that taught me to stay home when the air said 'snow.' Not that I
-was afraid of being caught far from home in a storm, for I could find food
-and shelter and make a fire anywhere, but I had become as attached to my
-hemlock house as a brooding bird to her nest. Caught out in the storms and
-weather, I had an urgent desire to return to my tree, even as The Baron
-Weasel returned to his den, and the deer to their copse. We all had our little
-'patch' in the wilderness. We all fought to return there.
+When the winds changed and the air smelled like snow, I would stay in my tree, because I had gotten lost in a blizzard one afternoon and had had to hole up in a rock ledge until I could see where I was going. 
+That day the winds were so strong I could not push against them, so I crawled under the ledge; for hours I wondered if I would be able to dig out when the storm blew on.
+Fortunately I only had to push through about a foot of snow.
+However, that taught me to stay home when the air said 'snow.' 
+Not that I was afraid of being caught far from home in a storm, for I could find food and shelter and make a fire anywhere, but I had become as attached to my hemlock house as a brooding bird to her nest.
+Caught out in the storms and weather, I had an urgent desire to return to my tree, even as The Baron Weasel returned to his den, and the deer to their copse.
+We all had our little 'patch' in the wilderness. We all fought to return there.
 </p>
 </blockquote>
 </p>
 
 <p>
-Sam recounting the protean majesty of starting a fire with tinder and flint:
+A passage of Sam describing the protean majesty of starting a fire with tinder and flint:
 <blockquote>
-I must say this now about that first fire. It was magic. Out of dead
-tinder and grass and sticks came a live warm light. It cracked and snapped
-and smoked and filled the woods with brightness. It lighted the trees and
-made them warm and friendly. It stood tall and bright and held back the
-night. Oh, this was a different night than the first dark frightful one. Also I
-was stuffed on catfish. I have since learned to cook it more, but never have I
-enjoyed a meal as much as that one, and never have I felt so independent
-again.
+I must say this now about that first fire. It was magic. 
+Out of dead tinder and grass and sticks came a live warm light.
+It cracked and snapped and smoked and filled the woods with brightness.
+It lighted the trees and made them warm and friendly.
+It stood tall and bright and held back the night. Oh, this was a different night than the first dark frightful one. 
+Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.
 </blockquote> -TODO: add citation
 </p>
 
 <p>
-    Masterfully evocative of the emotion of coziness.
+    As always in the book, masterfully evocative of that certain kind of coziness.
 </p>
 
+<hr/>
+
 <p>
-Coziness is but one emotion so deeply and masterfully evoked in My Side of the Mountain.
-An example of another is the Thoreauvian pleasure of meeting a stranger in the woods.
+But Coziness is just one of many emotions so deeply and masterfully evoked in the book.
+Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
 My father used to quote Thoreau's statement that it's always good to meet someone in the woods.
-My father also often observed the fact subtly implied therein, which is that it's rare to meet someone in the woods.
-And by the woods, what's meant it "uncharted" woods: generally off trails and far from homes.
-
-Having grown up in a very rural wooded area (rural Maine), I can confirm this.
-One can generally walk all day in the woods without meeting anyone, even in beautifully-kept public forests.
-As Thoreau observed in his essay "Walking", most people travel virtually solely upon beaten paths. --TODO: add citation
+My father used to observe the fact therein subtly implied: it's <i>rare</i> to truly meet someone in the woods.
+And by the woods, what's mean is "uncharted" woods: off trails and not around any particular monuments or attractions in nature
 </p>
+
+<p>
+Having grown up in a very rural area of Maine, surrounded by forests, I can confirm this.
+One can generally walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
+As Thoreau observed in his essay "Walking", most people travel nearly solely upon the beaten paths. --TODO: add citation
+</p>
+
+<hr/>
 
 <p>
 Another such emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
@@ -304,32 +305,28 @@ subzero temperatures that numbed them.
 <hr/>
 
 <p>
-The book is a mesmerizing work of art and I cannot recommend it highly enough.
+The book is a mesmerizing work of art. I cannot recommend it highly enough.
 </p>
 
 <p>
 This is the author's preface for the book: Ms. George's description of the process of writing and publishing "My Side of the Mountain":
 <blockquote>
-When I was in elementary school, I packed my suitcase and told my mother
-I was going to run away from home. As I envisioned it, I would live by a
-waterfall in the woods and catch fish on hooks made from the forks of tree
-limbs, as I had been taught by my father. I would walk among the
-wildflowers and trees, listen to the birds, read the weather report in the
-clouds and the wind, and stride down mountainsides independent and free.
-Wisely, my mother did not try to dissuade me. She had been through this
-herself. She checked my bag to see if I had my toothbrush and a postcard to
-let her know how I was getting along, and kissed me good-by. Forty
-minutes later I was home.
-When my daughter, Twig, was in elementary school, she told me she
-was going to run away to the woods. I checked her backpack for her
-toothbrush and watched her go down the front steps, her shoulders squared
-confidently. I blew her a kiss and sat down to wait. Presently, she was back.
-Although wishing to run to the woods and live on our own seems to
-be an inherited characteristic in our family, we are not unique. Almost
-everyone I know has dreamed at some time of running away to a distant
-mountain or island, castle or sailing ship, to live there in beauty and peace.
+<p>
+When I was in elementary school, I packed my suitcase and told my mother I was going to run away from home.
+As I envisioned it, I would live by a waterfall in the woods and catch fish on hooks made from the forks of tree limbs, as I had been taught by my father.
+I would walk among the wildflowers and trees, listen to the birds, read the weather report in the clouds and the wind, and stride down mountainsides independent and free.
+Wisely, my mother did not try to dissuade me. She had been through this herself.
+She checked my bag to see if I had my toothbrush and a postcard to let her know how I was getting along, and kissed me good-by.
+Forty minutes later I was home.
+When my daughter, Twig, was in elementary school, she told me she was going to run away to the woods.
+I checked her backpack for her toothbrush and watched her go down the front steps, her shoulders squared confidently.
+I blew her a kiss and sat down to wait. Presently, she was back.
+Although wishing to run to the woods and live on our own seems to be an inherited characteristic in our family, we are not unique.
+Almost everyone I know has dreamed at some time of running away to a distant mountain or island, castle or sailing ship, to live there in beauty and peace.
 Few of us make it, however.
+</p>
 
+<p>
 It is one thing to wish to go, and another matter to do it. I might have
 been able to do what Sam Gribley does in this book—live off the land,
 make a home, survive by wits and library research, for I had the knowledge.
@@ -341,9 +338,10 @@ rabbit traps. Together we made tables and chairs out of saplings bound with
 the braided inner bark of the basswood tree. My brothers, two of the first
 falconers in the United States, helped me in the training of a falcon. I had
 the know-how for surviving in the woods; and yet I came home.
-‘But not Sam,’ I said to myself when I sat down at my typewriter and
+'But not Sam,' I said to myself when I sat down at my typewriter and
 began putting on paper this story, one that I had been writing in my head for
 many, many years.
+</p>
 
 The writing came easily—Sam needed a home. I remembered a huge
 tree my brothers had camped in on an island in the Potomac River. A tree
@@ -375,7 +373,7 @@ From that date to this, I have been answering children’s letters about
 Sam. Most want to know if he is a real person. Some, convinced that he is,
 have biked to Delhi, New York, from as far away as Long Island, New
 York, to find his tree, his falcon, weasel, and raccoon. To these and all
-others who ask, I say, ‘There is no real Sam, except inside me.’ His
+others who ask, I say, 'There is no real Sam, except inside me.' His
 adventures are the fulfillment of that day long ago when I told my mother I
 was going to run away, got as far as the edge of the woods, and came back.
 Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very
