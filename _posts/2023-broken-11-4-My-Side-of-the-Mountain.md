@@ -383,8 +383,8 @@ pleasant to run away in a book.
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-As a kid I believe I also read "On the Far Side of the Mountain", which is the sequel to "My Side of the Mountain".
-For both books, the saying about people one meets in life comes to mind: I can't remember everything that was said, but I'll always remember how they made me feel.
+It's said that people won't always remember your name or exactly what you talked about, but they'll always remember how you made them feel. 
+In the same way, I can't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
