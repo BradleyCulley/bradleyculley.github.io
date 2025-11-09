@@ -11,14 +11,14 @@
   <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in a treehouse in the early 2000s, not long after I read My Side of the Mountain
+Me in my treehouse not long after I read My Side of the Mountain
 </div>
 <br>
 
 <hr/>
 
 <p>
-First published in 1959².
+First published in 1959². A Newbery Honor book with over 4 million copies sold. -https://www.dubraybooks.ie/product/my-side-of-the-mountain-puffin-modern-classics-9780142401118?srsltid=AfmBOorJb544Df9mK5RQwZkagVBK1d0wkKb7b2vK_O733sbHDLSBSF1d
 </p>
 
 <hr/>
@@ -42,6 +42,23 @@ My Side of The Mountain is coziness in book form.
 It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up with a blanket in a window seat.
 At the junction of wild nature and one's protected space away from the elements.
 </p>
+
+<blockquote>
+<p>
+With Christmas over, the winter became serious.
+The snows deepened, the wind blew, the temperatures dropped until the air snapped and talked. 
+Never had humanity seemed so far away as it did in those cold still months of January, February, and March. 
+I wandered the snowy crags, listening to the language of the birds by day and to the noises of the weather by night. 
+The wind howled, the snow avalanched, and the air creaked.
+</p>
+
+<p>
+I slept, ate, played my reed whistle, and talked to Frightful.
+To be relaxed, warm, and part of the winter wilderness is an unforgettable experience.
+I was in excellent condition. Not a cold, not a sniffle, not a moment of fatigue.
+I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.
+</p>
+</blockquote>
 
 <hr/>
 
@@ -254,21 +271,26 @@ Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 
 <p>
 My father used to quote Thoreau's statement that it's always good to meet someone in the woods.
-My father used to observe the fact therein subtly implied: it's <i>rare</i> to truly meet someone in the woods.
+My father also used to observe the related fact: it's <i>rare</i> to truly meet someone in the woods.
 And by the woods, what's mean is "uncharted" woods: off trails and not around any particular monuments or attractions in nature
 </p>
 
 <p>
-Having grown up in a very rural area of Maine, surrounded by forests, I can confirm this.
+Having grown up in rural Maine, surrounded by forests, I can confirm this.
 One can generally walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
-As Thoreau observed in his essay "Walking", most people travel nearly solely upon the beaten paths. --TODO: add citation
 </p>
 
 <hr/>
 
 <p>
 Another such emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
-As I recall, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
+Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
+
+<blockquote>
+I must have walked a mile into the woods until I found a stream. 
+It was a clear athletic stream that rushed and ran and jumped and splashed.
+Ferns grew along its bank, and its rocks were upholstered with moss.
+</blockquote> --TODO: get citation
 </p>
 
 or this:
@@ -276,31 +298,12 @@ Five notches into June, my house was done. I could stand in it, lie down in
 it, and there was room left over for a stump to sit on. On warm evenings I
 would lie on my stomach and look out the door, listen to the frogs and
 nighthawks, and hope it would storm so that I could crawl into my tree and
-be dry. I had gotten soaked during a couple of May downpours, and now
-that my house was done, I wanted the chance to sit in my hemlock and
-watch a cloudburst wet everything but me. This opportunity didn’t come for
-a long time. It was dry.
+be dry. 
+I had gotten soaked during a couple of May downpours, and now  that my house was done, I wanted the chance to sit in my hemlock and watch a cloudburst wet everything but me. 
+This opportunity didn't come for a long time. It was dry.
+
 
 or this:
-‘Today I rafted out into the deep pools of the creek to fish. It was a
-lazy sort of autumn day, the sky clear, the leaves beginning to brighten, the
-air warm. I stretched out on my back because the fish weren’t biting, and
-hummed.
-
-or this:
-With Christmas over, the winter became serious. The snows deepened, the
-wind blew, the temperatures dropped until the air snapped and talked. Never
-had humanity seemed so far away as it did in those cold still months of
-January, February, and March. I wandered the snowy crags, listening to the
-language of the birds by day and to the noises of the weather by night. The
-wind howled, the snow avalanched, and the air creaked.
-
-I slept, ate, played my reed whistle, and talked to Frightful.
-To be relaxed, warm, and part of the winter wilderness is an
-unforgettable experience. I was in excellent condition. Not a cold, not a
-sniffle, not a moment of fatigue. I enjoyed the feeling that I could eat, sleep
-and be warm, and outwit the storms that blasted the mountains and the
-subzero temperatures that numbed them.
 
 <hr/>
 
@@ -309,7 +312,7 @@ The book is a mesmerizing work of art. I cannot recommend it highly enough.
 </p>
 
 <p>
-This is the author's preface for the book: Ms. George's description of the process of writing and publishing "My Side of the Mountain":
+This is the author's preface: Ms. George's description of the process of writing and publishing the book:
 <blockquote>
 <p>
 When I was in elementary school, I packed my suitcase and told my mother I was going to run away from home.
@@ -318,66 +321,85 @@ I would walk among the wildflowers and trees, listen to the birds, read the weat
 Wisely, my mother did not try to dissuade me. She had been through this herself.
 She checked my bag to see if I had my toothbrush and a postcard to let her know how I was getting along, and kissed me good-by.
 Forty minutes later I was home.
+</p>
+
+<p>
 When my daughter, Twig, was in elementary school, she told me she was going to run away to the woods.
 I checked her backpack for her toothbrush and watched her go down the front steps, her shoulders squared confidently.
-I blew her a kiss and sat down to wait. Presently, she was back.
+I blew her a kiss and sat down to wait. 
+Presently, she was back.
+</p>
+
+<p>
 Although wishing to run to the woods and live on our own seems to be an inherited characteristic in our family, we are not unique.
 Almost everyone I know has dreamed at some time of running away to a distant mountain or island, castle or sailing ship, to live there in beauty and peace.
 Few of us make it, however.
 </p>
 
 <p>
-It is one thing to wish to go, and another matter to do it. I might have
-been able to do what Sam Gribley does in this book—live off the land,
-make a home, survive by wits and library research, for I had the knowledge.
-My father, who was a naturalist and scientist, taught me the plants and
-animals of eastern forests and showed me where the wild edible fruits and
-tubers grew. On weekends along the Potomac River near Washington, D.C.,
-where I was born and grew up, he and I boiled water in leaves and made
-rabbit traps. Together we made tables and chairs out of saplings bound with
-the braided inner bark of the basswood tree. My brothers, two of the first
-falconers in the United States, helped me in the training of a falcon. I had
-the know-how for surviving in the woods; and yet I came home.
-'But not Sam,' I said to myself when I sat down at my typewriter and
-began putting on paper this story, one that I had been writing in my head for
-many, many years.
+It is one thing to wish to go, and another matter to do it.
+I might have been able to do what Sam Gribley does in this book—live off the land, make a home, survive by wits and library research, for I had the knowledge.
+My father, who was a naturalist and scientist, taught me the plants and animals of eastern forests and showed me where the wild edible fruits and tubers grew. 
+On weekends along the Potomac River near Washington, D.C., where I was born and grew up, he and I boiled water in leaves and made rabbit traps.
+Together we made tables and chairs out of saplings bound with the braided inner bark of the basswood tree.
+My brothers, two of the first falconers in the United States, helped me in the training of a falcon. 
+I had the know-how for surviving in the woods; and yet I came home.
 </p>
 
-The writing came easily—Sam needed a home. I remembered a huge
-tree my brothers had camped in on an island in the Potomac River. A tree
-would be Sam’s home. And I knew how he would survive when foraging
-became tough. ‘A falcon will be his provider,’ I said to myself.
-With ideas coming fast, the first draft was done in two weeks. Five
-revisions later, it was finished and off to the publisher. Back came a phone
-call from Sharon Bannigan, the editor of E. P. Dutton’s children’s book
-department at that time.
-‘Elliott Macrae, the publisher,’ she said, ‘won’t print the book. He
-says parents should not encourage their kids to leave home.’
+<p>
+'But not Sam,' I said to myself when I sat down at my typewriter and began putting on paper this story, one that I had been writing in my head for many, many years.
+</p>
+
+<p>
+The writing came easily—Sam needed a home. 
+I remembered a huge tree my brothers had camped in on an island in the Potomac River. 
+A tree would be Sam’s home. And I knew how he would survive when foraging became tough.
+'A falcon will be his provider,' I said to myself.
+</p>
+
+<p>
+With ideas coming fast, the first draft was done in two weeks. 
+Five revisions later, it was finished and off to the publisher. 
+Back came a phone call from Sharon Bannigan, the editor of E. P. Dutton’s children’s book department at that time.
+</p>
+
+<p>
+'Elliott Macrae, the publisher,' she said, 'won’t print the book. He
+says parents should not encourage their kids to leave home.'
+</p>
+
+<p>
 Discouraged, I hung up the phone and walked out into the woods
-behind the house. As always when I am in the wildwood, I very quickly
-forgot what was troubling me. A sentinel crow was protecting its flock by
-watching the sky for hawks; a squirrel was building a nest of leaves for the
-winter; a spider was tapping out a message to his mate on a line of her web.
+behind the house. As always when I am in the wildwood, I very quickly forgot what was troubling me. 
+A sentinel crow was protecting its flock by watching the sky for hawks; a squirrel was building a nest of leaves for the winter; a spider was tapping out a message to his mate on a line of her web.
+</p>
+
+<p>
 Better to run to the woods than the city, I thought. Here, there is the
 world to occupy the mind.
+</p>
 
-The telephone rang. Sharon Bannigan was back on the wire, and she
-was almost singing. Elliott Macrae had changed his mind. And what, I
-asked her, had worked the miracle?
-‘I simply told him it is better to have children run to the woods than
-the city,’ she said. ‘He thought about that. Since he has a home in the wilds
+<p>
+The telephone rang. Sharon Bannigan was back on the wire, and she was almost singing.
+Elliott Macrae had changed his mind. And what, I asked her, had worked the miracle?
+</p>
+
+<p>
+'I simply told him it is better to have children run to the woods than
+the city,' she said. 'He thought about that. Since he has a home in the wilds
 of the Adirondack Mountains and goes off there alone himself, he suddenly
 understood your book. My Side of the Mountain will be published in the
-spring of ’59.’
-From that date to this, I have been answering children’s letters about
-Sam. Most want to know if he is a real person. Some, convinced that he is,
-have biked to Delhi, New York, from as far away as Long Island, New
-York, to find his tree, his falcon, weasel, and raccoon. To these and all
-others who ask, I say, 'There is no real Sam, except inside me.' His
-adventures are the fulfillment of that day long ago when I told my mother I
-was going to run away, got as far as the edge of the woods, and came back.
-Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very
-pleasant to run away in a book.
+spring of '59.'
+</p>
+
+<p>
+From that date to this, I have been answering children’s letters about Sam. 
+Most want to know if he is a real person. 
+Some, convinced that he is, have biked to Delhi, New York, from as far away as Long Island, New York, to find his tree, his falcon, weasel, and raccoon. 
+To these and all others who ask, I say, 'There is no real Sam, except inside me.' 
+His adventures are the fulfillment of that day long ago when I told my mother I was going to run away, got as far as the edge of the woods, and came back.
+Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very pleasant to run away in a book.
+</p>
 </blockquote>
 </p>
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
