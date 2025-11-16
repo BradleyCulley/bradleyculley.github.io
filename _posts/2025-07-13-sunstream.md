@@ -20,11 +20,11 @@
 </p>
 
 <p>
-    I worked at a summer camp: teaching tennis, looking after the campers, and living on the campus of the boarding school at which the camp took place.
+    I worked at a summer camp teaching tennis, looking after the campers, and living on the campus of the boarding school at which the camp took place.
 </p>
 
 <p>
-    I took the photo at the top of this post at the camp that summer, and these as well:
+    The photo at the top of this post is from the camp that summer, and I took these ones as well:
 </p>
 
 <div align="center">
