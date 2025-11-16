@@ -24,22 +24,16 @@ First published in 1959². A Newbery Honor book with over 4 million copies sold.
 <hr/>
 
 <p>
-I read it when I was around 8 years old, in around 1998. It's a literary masterpiece.
+I read it in around 1998, when I was around 8 years old. A literary masterpiece.
 </p>
-
-<blockquote>
-Should appeal to all rugged individualists who dream of escape to the forest.<br/>
-
--The New York Times Book Review
-</blockquote>
 
 <hr/>
 
 <p>
-I once read a post online in which the poster said something like that "cozy is the best human feeling".
+I once read a post online in which the poster said something like "cozy is the best human feeling".
 My Side of The Mountain is like coziness in book form.
 It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up in a blanket on a window seat.
-It's the coziness at the junction between wild nature and one's own comforting space away from the elements.
+It's that coziness which happens at the junction between wild nature and one's own comforting space away from the elements.
 </p>
 
 <blockquote>
@@ -136,14 +130,14 @@ Unlike The Lord of the Rings, it's set in the real world, with a plot that's rea
 <hr/>
 
 <p>
-Perhaps partly because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
-His practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, his exaltation at being so enmeshed in nature.
+Perhaps because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+His practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, his exaltation to be so enmeshed in nature.
 </p>
 
 <p>
-In one scene, Sam is preparing to eat a rabbit caught by his falcon Frightful.
+In one scene, Sam is preparing to eat a rabbit caught by his pet falcon Frightful.
 He feels an intrinsic "pull" toward eating the liver.
-This is explained as a primal pull toward a source of vitamin C during the winter when sources of it are scarce.
+This is explained as a primal pull toward a source of vitamin C during the winter, when sources of it are scarce.
 </p>
 
 <blockquote>
@@ -169,8 +163,8 @@ As it turned out, liver was the only available source of vitamin C—and on live
 
 <p>
 That primeval "pull" is something I’ve experienced too.
-For example, I remember once, when I was stressed, feeling a pull toward dark red foods such as raspberries.
-It turns out dark red foods have a number of compounds that counteract stress. --TODO add citation
+For example, I remember once, when I was stressed, feeling a pull toward dark red foods such as certain berries.
+It turns out dark red foods have a number of compounds that counteract stress. --TODO add citation: https://www.medicalnewstoday.com/articles/health-benefits-of-berries
 </p>
 
 <hr/>
@@ -178,53 +172,51 @@ It turns out dark red foods have a number of compounds that counteract stress. -
 <p>
 Sam meets people during his adventures.
 Characteristically, none join his space permanently.
-For example, he meets a lost English professor, they become friends, and Sam visits the professor at Christmas.
+For example, he meets an English professor who got lost in the woods, they become friends, and Sam visits the professor at Christmas. --TODO: add citation
 However, neither moves to live near the other permanently.
 </p>
 
 <p>
-It is only as an adult, reflecting back on the contents of this book, that it occurs to me how culturally American it is.
-Culture is the air one breathes, so as a child I didn't notice.
-One such cultural motif, is what could be called a "ruralist mentality".
+It's only as an adult that it occurs to me how culturally American the book is.
+One such cultural motif is what could be called a "ruralist mentality".
 </p>
 
 <p>
-Most Americans, regardless of their more subcultural niche, would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst deeply and happily enmeshed in nature.
-Also and especially, doing so alone, or with just one or two others, as the US is also quite culturally individualistic.
+I'd say most Americans would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst happily enmeshed in nature.
+Also and especially, it would be that they'd do so alone or with just one or two other people; the US is also culturally individualistic.
 Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild") come to mind.
-Ruralism and individualism.
 </p>
 
 <p>
-A family friend of ours once married into a family from Finland.
-My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small treehouse for himself.
-One of the Finnish folks commented that it would be rare for someone to do that in Finland.
-Apparently they meant, in particular, to do so alone (individualism).
+A family friend of ours married into a family from Finland.
+My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small treehouse.
+Someone from the Finnish side commented that that would be rare in Finland.
+Apparently they meant, in particular, doing a project like that alone (individualism).
+Ruralism and individualism.
 </p>
 
 <hr/>
 
 <p>
 The loneliness of ruralistic individualism creates a key narrative tension in the book.
-As mentioned in the plot summary above, with respect to Sam's family moving to him, there's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
+There's Sam's love of nature and solitude on the one hand, and his love of people and companionship on the other.
 </p>
 
 <p>
-Mrs. George handles that tension with beautiful sophistication and nuance.
-In part, she handles it through Sam's bond with the Peregrine Falcon he tames, whom he names Frightful.
-There's an independent truth there: non-human animals can sometimes be better friends than can humans.
+Mrs. George handles that tension with great sophistication and nuance.
+In part, she handles it through Sam's bond with his pet falcon.
+That's an independent truth: pets can be great "friends".
 </p>
 
 <hr/>
 
 <p>
-Mrs. George also beautifully conveys her love of nature.
+Mrs. George beautifully conveys her love of nature.
 She employs descriptive detail of a profundity that can only well up from an equal depth of personal rapture.
 As I remember her descriptions: leaves, weather and seasons, the textures of various parts of trees (bark, trunk, etc.), and so much more.
 </p>
 
 <p>
-To quote a narrative passage from Sam:
 <blockquote>
 <p>
 I lived close to the weather. It is surprising how you watch it when you live in it.
@@ -258,33 +250,29 @@ Also I was stuffed on catfish. I have since learned to cook it more, but never h
 </blockquote> -TODO: add citation
 </p>
 
-<p>
-    As always in the book, masterfully evocative of a certain kind of coziness.
-</p>
-
 <hr/>
 
 <p>
-Coziness is just one of many emotions so deeply evoked in the book.
+Coziness is just one of many emotions so wonderfully evoked in the book.
 Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
-My father used to quote Thoreau's statement that it's always good to meet someone in the woods.
-My father also used to note the related fact: it's rare to truly meet someone in the woods.
-By the woods, what's meant is "uncharted" woods: off trails and not at any particular monument or attraction in nature
+My father used to quote Thoreau's statement that it's always good to meet someone in the woods: that the kind of person who goes for a walk in the woods just for the experience of it is a good kind of person to encounter. 
+My father also used to also point out the related fact: it's rare to truly meet someone in the woods.
+In particular, meeting someone off blazed trails and not at any particular monument or attraction in nature
 </p>
 
 <p>
-Having grown up in rural Maine, surrounded by forests, I noticed this as well.
-One can generally walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
+Growing up in rural Maine, surrounded by forests, I noticed this too.
+One can nearly always walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
 </p>
 
 <hr/>
 
 <p>
-Another such emotion is the effulgent wonder of a pristine forest stream, serendipitously discovered.
-Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
+Another wonderfully-evoked emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
+Early in his time in the woods, Sam discovers a stream fed by a natural spring, near the tree that becomes his home.
 
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
@@ -296,11 +284,11 @@ Ferns grew along its bank, and its rocks were upholstered with moss.
 <hr/>
 
 <p>
-The book is a mesmerizing work of art. I cannot recommend it highly enough.
+My Side of the Mountain is a mesmerizing work of art. I cannot recommend it highly enough.
 </p>
 
 <p>
-This is the author's preface: Ms. George's description of the process of writing and publishing the book:
+This is the author's preface: Ms. George's description of the process of writing and publishing it:
 <blockquote>
 <p>
 When I was in elementary school, I packed my suitcase and told my mother I was going to run away from home.
@@ -393,8 +381,8 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said that people won't always remember your name or exactly what you talked about, but they'll always remember how you made them feel. 
-In the same way, I can't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+It's said that the people you meet in life won't always remember your name, nor exactly what you and they talked about, but they'll always remember how you made them feel. 
+In the same way, I don't remember, from when I read it in my childhood, every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
