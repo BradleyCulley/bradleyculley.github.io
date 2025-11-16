@@ -20,7 +20,7 @@
 <p>
 There are peace pagodas all over the world, including in London, New Delhi, and Vienna.¹
 They're intended to promote world peace.³
-The one in Leverett was the first built in the United States, in 1985.¹
+The one in Leverett was the first one built in the United States and was built in 1985.¹
 </p>
 
 <hr/>
