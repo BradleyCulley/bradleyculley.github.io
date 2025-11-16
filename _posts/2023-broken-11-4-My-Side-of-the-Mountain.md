@@ -11,7 +11,7 @@
   <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in my treehouse
+Me in my treehouse as a kid
 </div>
 <br>
 
