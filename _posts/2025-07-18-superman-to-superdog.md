@@ -21,11 +21,11 @@ Rather than subtly dig at their mild imperiousness, I welcome them.
 
 <p>
 Perhaps one reason for the change is that, in the interim, I've met a good few truly evil people.
-I've seen actual evil, and the moral—through a little overbearing, a little imperious—Superman or Superwoman archetype sure ain't it. 
+I've seen actual evil, and the moral—through a little overbearing, a little imperious—Superman or Superwoman archetype isn't it. 
 </p>
 
 <p>
-At the risk of sounding like an 11th-grade English paper, I'll say that the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
+At the risk of sounding like an 11th-grade English paper, I'll say the poem explores themes of solitude, bravery, morality, alienation, family, duty, love, and time.
 </p>
 
 <hr/>
