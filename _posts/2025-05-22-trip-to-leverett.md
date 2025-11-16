@@ -26,7 +26,7 @@ The one in Leverett was the first one built in the United States and was built i
 <hr/>
 
 <p>
-I drove to Leverett, spent maybe 30 minutes at the pagoda and the grounds around it, then drove home. The round trip was about 11 hours.
+I drove around 5 hours to Leverett, spent maybe 30 minutes at the pagoda and the grounds around it, then drove home. The round trip was about 11 hours.
 </p>
 
 <p>
