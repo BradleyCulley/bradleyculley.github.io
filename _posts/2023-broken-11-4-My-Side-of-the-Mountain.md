@@ -381,8 +381,8 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said that the people you meet in life won't always remember your name, nor exactly what you and they talked about, but they'll always remember how you made them feel. 
-In the same way, I don't remember, from when I read it in my childhood, every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+It's said that the people you meet in life won't always remember your name, nor exactly what you talked about, but they'll always remember how you made them feel. 
+In the same way, I don't remember, from when reading it in my childhood, every detail of My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
