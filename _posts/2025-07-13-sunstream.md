@@ -24,7 +24,7 @@
 </p>
 
 <p>
-    The photo at the top of this post is from the camp that summer, and I took these ones as well:
+    The photo at the top of this post is from the camp that summer, and I took these ones that summer as well:
 </p>
 
 <div align="center">
