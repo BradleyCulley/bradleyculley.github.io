@@ -11,7 +11,7 @@
   <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in my treehouse not long after I read My Side of the Mountain
+Me in my treehouse
 </div>
 <br>
 
@@ -24,7 +24,7 @@ First published in 1959². A Newbery Honor book with over 4 million copies sold.
 <hr/>
 
 <p>
-I read My Side of the Mountain when I was around 8 years old, in around 1998. It's a literary masterpiece.
+I read it when I was around 8 years old, in around 1998. It's a literary masterpiece.
 </p>
 
 <blockquote>
@@ -36,11 +36,10 @@ Should appeal to all rugged individualists who dream of escape to the forest.<br
 <hr/>
 
 <p>
-I once read a post online in which the poster said something like that "cozy is the best human feeling". --TODO: find citation
-They're perhaps onto something.
-My Side of The Mountain is coziness in book form.
-It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up with a blanket in a window seat.
-At the junction of wild nature and one's protected space away from the elements.
+I once read a post online in which the poster said something like that "cozy is the best human feeling".
+My Side of The Mountain is like coziness in book form.
+It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up in a blanket on a window seat.
+It's the coziness at the junction between wild nature and one's own comforting space away from the elements.
 </p>
 
 <blockquote>
@@ -58,7 +57,7 @@ To be relaxed, warm, and part of the winter wilderness is an unforgettable exper
 I was in excellent condition. Not a cold, not a sniffle, not a moment of fatigue.
 I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.
 </p>
-</blockquote>
+</blockquote> --TODO: add page number citation
 
 <hr/>
 
@@ -73,6 +72,7 @@ About the Newbery Medal:
 <blockquote>
 [The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
+
 </p>
 
 <hr/>
@@ -247,7 +247,7 @@ We all had our little 'patch' in the wilderness. We all fought to return there.
 </p>
 
 <p>
-A passage of Sam describing the protean majesty of starting a fire with tinder and flint:
+Sam describing the protean majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. 
 Out of dead tinder and grass and sticks came a live warm light.
@@ -259,31 +259,31 @@ Also I was stuffed on catfish. I have since learned to cook it more, but never h
 </p>
 
 <p>
-    As always in the book, masterfully evocative of that certain kind of coziness.
+    As always in the book, masterfully evocative of a certain kind of coziness.
 </p>
 
 <hr/>
 
 <p>
-But Coziness is just one of many emotions so deeply and masterfully evoked in the book.
+Coziness is just one of many emotions so deeply evoked in the book.
 Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
 My father used to quote Thoreau's statement that it's always good to meet someone in the woods.
-My father also used to observe the related fact: it's <i>rare</i> to truly meet someone in the woods.
-And by the woods, what's mean is "uncharted" woods: off trails and not around any particular monuments or attractions in nature
+My father also used to note the related fact: it's rare to truly meet someone in the woods.
+By the woods, what's meant is "uncharted" woods: off trails and not at any particular monument or attraction in nature
 </p>
 
 <p>
-Having grown up in rural Maine, surrounded by forests, I can confirm this.
+Having grown up in rural Maine, surrounded by forests, I noticed this as well.
 One can generally walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
 </p>
 
 <hr/>
 
 <p>
-Another such emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
+Another such emotion is the effulgent wonder of a pristine forest stream, serendipitously discovered.
 Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
 
 <blockquote>
@@ -292,18 +292,6 @@ It was a clear athletic stream that rushed and ran and jumped and splashed.
 Ferns grew along its bank, and its rocks were upholstered with moss.
 </blockquote> --TODO: get citation
 </p>
-
-or this:
-Five notches into June, my house was done. I could stand in it, lie down in
-it, and there was room left over for a stump to sit on. On warm evenings I
-would lie on my stomach and look out the door, listen to the frogs and
-nighthawks, and hope it would storm so that I could crawl into my tree and
-be dry. 
-I had gotten soaked during a couple of May downpours, and now  that my house was done, I wanted the chance to sit in my hemlock and watch a cloudburst wet everything but me. 
-This opportunity didn't come for a long time. It was dry.
-
-
-or this:
 
 <hr/>
 

@@ -48,13 +48,13 @@
 <p>
     Below is an updated version of a poem I wrote that summer.
     It wasn't for a class or a group or anything...just felt like writing it.
-    Can't recall if I wrote it while working at the camp, or during time spent that summer at my childhood home in Maine.
+    Can't recall if I wrote it while working at the camp, or during time spent at my childhood home in Maine that summer.
 </p>
 
 <p>
-    There's a memory, somehow connected to the poem, of being on the porch of my childhood home...perhaps of having, as the poem describes, just seen the sun through the leaves.
-    With the memory, there was the spaciousness and the joy.
-    And there was the feeling of the sunlight, as the poem describes, streaming into me, so to speak.
+    There's a memory, somehow connected to the poem, of being on the porch of my childhood home that summer...and I think of having, as the poem describes, just seen the sun through the leaves.
+    With the memory, there was that spaciousness and joy.
+    And there was the feeling of the sunlight, as the poem describes, streaming into me.
 </p>
 <br/>
 <hr/>
