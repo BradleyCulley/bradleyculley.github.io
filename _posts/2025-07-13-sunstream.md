@@ -52,7 +52,7 @@
 </p>
 
 <p>
-    There's a memory, somehow connected to the poem, of being on the porch of my childhood home that summer...and I think of having, as the poem describes, just seen the sun through the leaves.
+    There's a memory, somehow connected to the poem, of being on the porch of my childhood home that summer...and I think of having, as the poem describes, just seen the sun shining through the leaves.
     With the memory, there was that spaciousness and joy.
     And there was the feeling of the sunlight, as the poem describes, streaming into me.
 </p>
