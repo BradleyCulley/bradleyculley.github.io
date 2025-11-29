@@ -218,6 +218,17 @@ In part, she handles it through Sam's bond with his pet falcon.
 That's an independent truth: pets can be great "friends".
 </p>
 
+<blockquote>
+One day when I was thinking very hard about being alone, Frightful
+gave her gentle call of love and contentment. I looked up.
+'Bird,' I said. 'I had almost forgotten how we used to talk.' She made
+tiny movements with her beak and fluffed her feathers. This was a language
+I had forgotten since Bando came. It meant she was glad to see me and hear
+me, that she was well fed, and content. I picked her up and squeaked into
+her neck feathers. She moved her beak, turned her bright head, and bit my
+nose very gently. --TODO: add citation page number
+</blockquote>
+
 <hr/>
 
 <p>
