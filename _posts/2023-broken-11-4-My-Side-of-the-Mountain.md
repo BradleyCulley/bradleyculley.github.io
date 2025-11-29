@@ -221,7 +221,7 @@ That's an independent truth: pets can be great "friends".
 <blockquote>
 One day when I was thinking very hard about being alone, Frightful
 gave her gentle call of love and contentment. I looked up.
-'Bird,' I said. 'I had almost forgotten how we used to talk.' She made
+'Bird,' I said. 'I had almost forgotten how we used to talk.' She made3
 tiny movements with her beak and fluffed her feathers. This was a language
 I had forgotten since Bando came. It meant she was glad to see me and hear
 me, that she was well fed, and content. I picked her up and squeaked into
