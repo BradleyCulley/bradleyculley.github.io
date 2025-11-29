@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
+  <img style="width: 75%;" src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
 Me in my treehouse as a kid
@@ -24,13 +24,13 @@ First published in 1959². A Newbery Honor book with over 4 million copies sold.
 <hr/>
 
 <p>
-I read it in around 1998, when I was around 8 years old. A literary masterpiece.
+I read it when I was about 8 years old, in around 1998. It's a literary masterpiece.
 </p>
 
 <hr/>
 
 <p>
-I once read a post online in which the poster said something like "cozy is the best human feeling".
+I once read a post online that said something like "cozy is the best feeling a person can have".
 My Side of The Mountain is like coziness in book form.
 It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up in a blanket on a window seat.
 It's that coziness which happens at the junction between wild nature and one's own comforting space away from the elements.
@@ -47,11 +47,14 @@ The wind howled, the snow avalanched, and the air creaked.
 
 <p>
 I slept, ate, played my reed whistle, and talked to Frightful.
+</p>
+
+<p>
 To be relaxed, warm, and part of the winter wilderness is an unforgettable experience.
 I was in excellent condition. Not a cold, not a sniffle, not a moment of fatigue.
-I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.
+I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.⁷(page 130)
 </p>
-</blockquote> --TODO: add page number citation
+</blockquote>
 
 <hr/>
 
@@ -109,7 +112,7 @@ From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </blockquote>
 
 <p>
-Mrs. George is both superbly accomplished and truly prolific. She wrote over 100 books⁵.
+Mrs. George is superbly accomplished and truly prolific. She wrote over 100 books⁵.
 </p> 
 
 <div align="center">
@@ -142,6 +145,13 @@ This is explained as a primal pull toward a source of vitamin C during the winte
 
 <blockquote>
 <p>
+Toward the end of January I began to feel tired, and my elbows and
+knees were a little stiff. This worried me. I figured it was due to some
+vitamin I wasn’t getting, but I couldn’t remember which vitamin it was or
+even where I would find it if I could remember it.
+</p>
+
+<p>
 One morning my nose bled. It frightened me a bit, and I wondered if I shouldn’t hike to the library and reread the material on vitamins.
 It didn't last long, however, so I figured it wasn't too serious.
 I decided I would live until the greens came to the land, for I was of the opinion that since I had had nothing green for months, that was probably the trouble.
@@ -157,14 +167,14 @@ I have looked up vitamins since.
 I am not surprised to find that liver is rich in vitamin C. So are citrus fruits and green vegetables, the foods I lacked. 
 Wild plants like sorrel and dock are rich in this vitamin.
 Even if I had known this at that time, it would have done me no good, for they were but roots in the earth.
-As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.
+As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.⁷(pages 139-140)
 </p>
 </blockquote>
 
 <p>
 That primeval "pull" is something I’ve experienced too.
 For example, I remember once, when I was stressed, feeling a pull toward dark red foods such as certain berries.
-It turns out dark red foods have a number of compounds that counteract stress. --TODO add citation: https://www.medicalnewstoday.com/articles/health-benefits-of-berries
+It turns out dark red foods have a number of compounds that counteract stress.⁸
 </p>
 
 <hr/>
@@ -233,7 +243,7 @@ Fortunately I only had to push through about a foot of snow.
 However, that taught me to stay home when the air said 'snow.' 
 Not that I was afraid of being caught far from home in a storm, for I could find food and shelter and make a fire anywhere, but I had become as attached to my hemlock house as a brooding bird to her nest.
 Caught out in the storms and weather, I had an urgent desire to return to my tree, even as The Baron Weasel returned to his den, and the deer to their copse.
-We all had our little 'patch' in the wilderness. We all fought to return there.
+We all had our little 'patch' in the wilderness. We all fought to return there.⁷(pages 131-132)
 </p>
 </blockquote>
 </p>
@@ -246,8 +256,8 @@ Out of dead tinder and grass and sticks came a live warm light.
 It cracked and snapped and smoked and filled the woods with brightness.
 It lighted the trees and made them warm and friendly.
 It stood tall and bright and held back the night. Oh, this was a different night than the first dark frightful one. 
-Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.
-</blockquote> -TODO: add citation
+Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.⁷(page 28)
+</blockquote>
 </p>
 
 <hr/>
@@ -277,14 +287,14 @@ Early in his time in the woods, Sam discovers a stream fed by a natural spring, 
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
 It was a clear athletic stream that rushed and ran and jumped and splashed.
-Ferns grew along its bank, and its rocks were upholstered with moss.
-</blockquote> --TODO: get citation
+Ferns grew along its bank, and its rocks were upholstered with moss.⁷(page 16)
+</blockquote>
 </p>
 
 <hr/>
 
 <p>
-My Side of the Mountain is a mesmerizing work of art. I cannot recommend it highly enough.
+My Side of the Mountain is mesmerizing art of the highest degree. I wholeheartedly recommend it.
 </p>
 
 <p>
@@ -387,6 +397,8 @@ In the same way, I don't remember, from when reading it in my childhood, every d
 
 <hr/>
 
+https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
+
 Sources:<br/>
 ¹: <a target="_blank" href="https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg">https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg</a><br/>
 ²: <a target="_blank" href="https://en.wikipedia.org/wiki/My_Side_of_the_Mountain">https://en.wikipedia.org/wiki/My_Side_of_the_Mountain</a><br/>
@@ -394,30 +406,10 @@ Sources:<br/>
 ⁴: <a target="_blank" href="https://en.wikipedia.org/wiki/Julie_of_the_Wolves">https://en.wikipedia.org/wiki/Julie_of_the_Wolves</a><br/>
 ⁵: <a target="_blank" href="https://en.wikipedia.org/wiki/Jean_Craighead_George">https://en.wikipedia.org/wiki/Jean_Craighead_George</a><br/>
 ⁶: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg">https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg</a><br/>
+⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4
+⁸: <a target="_blank" href="https://www.medicalnewstoday.com/articles/health-benefits-of-berries">https://www.medicalnewstoday.com/articles/health-benefits-of-berries</a><br/>
 
-⁷: <a target="_blank" href="https://en.wikipedia.org/wiki/Bruce_Lee_filmography">https://en.wikipedia.org/wiki/Bruce_Lee_filmography</a><br/>
-⁸: <a target="_blank" href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">https://en.wikipedia.org/wiki/In_Search_of_Lost_Time</a><br/>
 ⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
 ¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
 ¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
-
-----
-
-The "realism of reality" idea is something the Pulitzer Prize-winning author Tracy Kidder often talks about.<br/><br/>
-
-For example:
-<blockquote>
-A lot of the job of a person trying to write stories that are true is to make
-what’s true believable. It isn’t enough to say, well, it actually happened. You
-have to make it believable on the page; you have to bring people to life and
-scenes to life.<br/>
-
--Tracy Kidder
-</blockquote> -https://web.uri.edu/wp-content/uploads/sites/935/Tracy_Kidder_Fact_Sheet.pdf
-</p>
-
-<p>
-Tracy Kidder writes nonfiction books - biographies and such - but it's a similar principle. Embedding the life of a famous person in the grittiness of the real world somehow enhances their greatness and makes for a captivating read.
-
-It makes real how it was perhaps possible that you or I could have been that person. Flesh and blood.
