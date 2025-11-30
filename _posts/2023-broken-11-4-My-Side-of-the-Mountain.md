@@ -390,12 +390,11 @@ His adventures are the fulfillment of that day long ago when I told my mother I 
 Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very pleasant to run away in a book.
 </p>
 </blockquote>
-</p>
--the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
+</p> -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said the people you meet in life may not remember exactly what you said, but they'll always remember how you made them feel. 
-In the same way, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+It's said the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
+Likewise, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
