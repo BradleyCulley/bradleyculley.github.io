@@ -182,7 +182,7 @@ It turns out dark red foods have a number of compounds that counteract stress.�
 <p>
 Sam meets people during his adventures.
 Characteristically, none join his space permanently.
-For example, he meets an English professor who got lost in the woods, they become friends, and Sam visits the professor at Christmas. --TODO: add citation
+For example, he meets an English professor who got lost in the woods, they become friends, and the professor visits Sam at Christmas.⁷(pages 82, 119)
 However, neither moves to live near the other permanently.
 </p>
 
@@ -226,7 +226,7 @@ tiny movements with her beak and fluffed her feathers. This was a language
 I had forgotten since Bando came. It meant she was glad to see me and hear
 me, that she was well fed, and content. I picked her up and squeaked into
 her neck feathers. She moved her beak, turned her bright head, and bit my
-nose very gently. --TODO: add citation page number
+nose very gently.⁷(page 86)
 </blockquote>
 
 <hr/>
