@@ -11,14 +11,14 @@
   <img style="width: 75%;" src="https://bradleyculley.github.io/images/Brad_in_treehouse.jpg" />
 </div>
 <div align="center">
-Me in my treehouse as a kid
+Me in a treehouse as a kid
 </div>
 <br>
 
 <hr/>
 
 <p>
-First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read it when I was around 8 years old. It's a literary masterpiece.
+First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read My Side of the Mountain when I was around 8 years old.
 </p>
 
 <hr/>
@@ -69,7 +69,7 @@ Another of Ms. George's books, "Julie of the Wolves", fully won The Newbery Meda
 
 <hr/>
 
-More about the plot of the book:
+More about the plot:
 <blockquote>
 <p>Sam Gribley is a 12-year-old boy who intensely dislikes living in his parents' cramped New York City apartment with his eight brothers and sisters. He decides to run away to his great-grandfather's abandoned farm in the Catskill Mountains to live in the wilderness. The novel begins in the middle of Sam's story, with Sam huddled in his treehouse home in the forest during a severe blizzard. Frightful, Sam's pet peregrine falcon, and The Baron, a weasel, share the home with him. In a flashback, Sam reminisces about how he came to be there.</p>
 
@@ -118,18 +118,18 @@ A photo of Ms. George. What a wonderful woman.
 <hr/>
 
 <p>
-My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical than even the likes of The Lord of the Rings.
+My Side of the Mountain is saturated with wonder and magic. To me, it's more riveting, more compelling, and more magical than even the likes of The Lord of the Rings.
 </p>
 
 <p>
-Perhaps part of the magic of the book is that, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
+Part of the magic is that, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-And perhaps because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
-His practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, his exaltation to be so enmeshed in nature.
+Because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+One can identify with his practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
 </p>
 
 <p>
@@ -208,7 +208,7 @@ There's Sam's love of nature and solitude on the one hand, and his love of peopl
 </p>
 
 <p>
-Ms. George handles that tension with great sophistication and nuance.
+Ms. George handles that tension with great care.
 In part, she handles it through Sam's bond with his pet falcon.
 That's an independent truth: pets can be great "friends".
 </p>
@@ -286,8 +286,7 @@ One can nearly always walk all day in the woods without meeting a soul, even in 
 <hr/>
 
 <p>
-Another such emotion is the sparkling wonder of serendipitously discovering a pristine forest stream on a warm summer day.
-Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
+Another such emotion is the sparkling wonder a pristine forest stream, serendipitously discovered on a warm summer day.
 
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
@@ -355,8 +354,7 @@ Back came a phone call from Sharon Bannigan, the editor of E. P. Dutton’s chil
 </p>
 
 <p>
-'Elliott Macrae, the publisher,' she said, 'won’t print the book. He
-says parents should not encourage their kids to leave home.'
+'Elliott Macrae, the publisher,' she said, 'won’t print the book. He says parents should not encourage their kids to leave home.'
 </p>
 
 <p>
@@ -396,8 +394,8 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said that the people you meet in life won't always remember your name, nor exactly what you and they talked about, but they'll always remember how you made them feel. 
-In the same way, I don't remember, from reading it as a child, every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+It's said the people you meet in life may not remember exactly what you said, but they'll always remember how you made them feel. 
+In the same way, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
