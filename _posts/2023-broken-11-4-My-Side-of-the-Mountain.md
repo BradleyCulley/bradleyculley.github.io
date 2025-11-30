@@ -116,17 +116,17 @@ A photo of Ms. George. What a wonderful woman.
 <hr/>
 
 <p>
-My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical, than even the likes of The Lord of the Rings.
+My Side of the Mountain is saturated with wonder and magic. Perhaps more riveting (to me anyway), more compelling, and more magical than even the likes of The Lord of the Rings.
 </p>
 
 <p>
-Unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
+Perhaps part of the magic of the book is that, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-Perhaps because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+And perhaps because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
 His practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, his exaltation to be so enmeshed in nature.
 </p>
 
@@ -166,7 +166,7 @@ As it turned out, liver was the only available source of vitamin C—and on live
 
 <p>
 That primeval "pull" is something I’ve experienced too.
-For example, I remember once, when I was stressed, feeling a pull toward dark red foods such as certain berries.
+For example, I remember once, when I was stressed in college, feeling a pull toward dark red foods such as certain berries.
 It turns out dark red foods have a number of compounds that counteract stress.⁸
 </p>
 
