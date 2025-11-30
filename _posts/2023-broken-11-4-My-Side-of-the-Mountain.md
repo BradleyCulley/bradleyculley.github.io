@@ -90,7 +90,7 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 <hr/>
 
 <p>
-Biographical information about the author:
+About the author:
 <blockquote>
 <p>
 Jean Carolyn Craighead was born on July 2, 1919, in Washington DC. She was raised in a family of naturalists. Her mother, father (Frank Craighead Sr.), brothers (Frank and John), aunts, and uncles were students of nature.
