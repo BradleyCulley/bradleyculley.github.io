@@ -63,6 +63,7 @@ About the Newbery Medal:
 [The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
 
+Another of Ms. George's books, "Julie of the Wolves", fully won The Newbery Medal in 1973.⁴
 </p>
 
 <hr/>
@@ -214,7 +215,7 @@ That's an independent truth: pets can be great "friends".
 <blockquote>
 One day when I was thinking very hard about being alone, Frightful
 gave her gentle call of love and contentment. I looked up.
-'Bird,' I said. 'I had almost forgotten how we used to talk.' She made3
+'Bird,' I said. 'I had almost forgotten how we used to talk.' She made
 tiny movements with her beak and fluffed her feathers. This was a language
 I had forgotten since Bando came. It meant she was glad to see me and hear
 me, that she was well fed, and content. I picked her up and squeaked into
@@ -227,7 +228,6 @@ nose very gently.⁷(page 86)
 <p>
 Mrs. George beautifully conveys her love of nature.
 She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
-TODO: remove this line? As I remember her descriptions: leaves, weather and seasons, the textures of various parts of trees (bark, interior, etc.), and much more.
 </p>
 
 <p>
@@ -298,7 +298,7 @@ Ferns grew along its bank, and its rocks were upholstered with moss.⁷(page 16)
 <hr/>
 
 <p>
-My Side of the Mountain is mesmerizing art of the highest order.
+My Side of the Mountain is mesmerizing art of the highest degree.
 </p>
 
 <p>
