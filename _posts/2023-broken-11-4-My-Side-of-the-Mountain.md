@@ -410,11 +410,8 @@ Sources:<br/>
 ⁴: <a target="_blank" href="https://en.wikipedia.org/wiki/Julie_of_the_Wolves">https://en.wikipedia.org/wiki/Julie_of_the_Wolves</a><br/>
 ⁵: <a target="_blank" href="https://en.wikipedia.org/wiki/Jean_Craighead_George">https://en.wikipedia.org/wiki/Jean_Craighead_George</a><br/>
 ⁶: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg">https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg</a><br/>
-⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4
+⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4 <br/>
 ⁸: <a target="_blank" href="https://www.medicalnewstoday.com/articles/health-benefits-of-berries">https://www.medicalnewstoday.com/articles/health-benefits-of-berries</a><br/>
 ⁹: <a target="_blank" href="https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118">https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118</a><br/>
 
-
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
-¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
-¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
