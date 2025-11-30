@@ -106,7 +106,7 @@ From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </blockquote>
 
 <p>
-Mrs. George is superbly accomplished and truly prolific. She wrote over 100 books⁵.
+Ms. George is superbly accomplished and truly prolific. She wrote over 100 books⁵.
 </p> 
 
 <div align="center">
@@ -207,7 +207,7 @@ There's Sam's love of nature and solitude on the one hand, and his love of peopl
 </p>
 
 <p>
-Mrs. George handles that tension with great sophistication and nuance.
+Ms. George handles that tension with great sophistication and nuance.
 In part, she handles it through Sam's bond with his pet falcon.
 That's an independent truth: pets can be great "friends".
 </p>
@@ -226,7 +226,7 @@ nose very gently.⁷(page 86)
 <hr/>
 
 <p>
-Mrs. George beautifully conveys her love of nature.
+Ms. George beautifully conveys her love of nature.
 She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
 </p>
 
