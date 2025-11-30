@@ -18,22 +18,15 @@ Me in my treehouse as a kid
 <hr/>
 
 <p>
-First published in 1959². A Newbery Honor book with over 4 million copies sold. -https://www.dubraybooks.ie/product/my-side-of-the-mountain-puffin-modern-classics-9780142401118?srsltid=AfmBOorJb544Df9mK5RQwZkagVBK1d0wkKb7b2vK_O733sbHDLSBSF1d
+First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read My Side of the Mountain when I was around 8 years old, in around 1998. It's a literary masterpiece.
 </p>
 
 <hr/>
 
 <p>
-I read it when I was about 8 years old, in around 1998. It's a literary masterpiece.
-</p>
-
-<hr/>
-
-<p>
-I once read a post online that said something like "cozy is the best feeling a person can have".
-My Side of The Mountain is like coziness in book form.
+I once read a post online that said something like "cozy is the best feeling a person can experience".
+My Side of The Mountain is coziness in book form.
 It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up in a blanket on a window seat.
-It's that coziness which happens at the junction between wild nature and one's own comforting space away from the elements.
 </p>
 
 <blockquote>
@@ -419,8 +412,9 @@ Sources:<br/>
 ⁶: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg">https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg</a><br/>
 ⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4
 ⁸: <a target="_blank" href="https://www.medicalnewstoday.com/articles/health-benefits-of-berries">https://www.medicalnewstoday.com/articles/health-benefits-of-berries</a><br/>
+⁹: <a target="_blank" href="https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118">https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118</a><br/>
 
-⁹: <a target="_blank" href="https://www.youtube.com/watch?v=9mLdo4uMJUU">https://www.youtube.com/watch?v=9mLdo4uMJUU</a><br/>
+
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
 ¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
 ¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
