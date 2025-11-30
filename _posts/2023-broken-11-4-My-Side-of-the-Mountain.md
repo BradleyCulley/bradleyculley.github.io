@@ -26,9 +26,10 @@ First published in 1959². A Newbery Honor book with over 4 million copies sold.
 <p>
 I once read something like that "cozy is the best feeling a person can experience".
 My Side of The Mountain is like coziness in book form.
-It's coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket sitting in a window seat.
+It's coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket.
 </p>
 
+From the book:
 <blockquote>
 <p>
 With Christmas over, the winter became serious.
@@ -106,7 +107,7 @@ From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </blockquote>
 
 <p>
-Ms. George is superbly accomplished and truly prolific. She wrote over 100 books⁵.
+Ms. George is superbly accomplished and prolific. She wrote over 100 books⁵.
 </p> 
 
 <div align="center">
