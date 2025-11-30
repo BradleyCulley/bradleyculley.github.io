@@ -18,15 +18,15 @@ Me in my treehouse as a kid
 <hr/>
 
 <p>
-First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read My Side of the Mountain when I was around 8 years old, in around 1998. It's a literary masterpiece.
+First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read it when I was around 8 years old. It's a literary masterpiece.
 </p>
 
 <hr/>
 
 <p>
-I once read a post online that said something like "cozy is the best feeling a person can experience".
-My Side of The Mountain is coziness in book form.
-It's coziness is the coziness of watching a rainstorm through a half-closed window, curled up in a blanket on a window seat.
+I once read something like that "cozy is the best feeling a person can experience".
+My Side of The Mountain is like coziness in book form.
+It's coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket sitting in a window seat.
 </p>
 
 <blockquote>
