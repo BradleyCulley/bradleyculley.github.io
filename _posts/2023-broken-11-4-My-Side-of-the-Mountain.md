@@ -226,8 +226,8 @@ nose very gently.⁷(page 86)
 
 <p>
 Mrs. George beautifully conveys her love of nature.
-She employs descriptive detail of a profundity that can only well up from an equal depth of personal rapture.
-As I remember her descriptions: leaves, weather and seasons, the textures of various parts of trees (bark, trunk, etc.), and so much more.
+She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
+TODO: remove this line? As I remember her descriptions: leaves, weather and seasons, the textures of various parts of trees (bark, interior, etc.), and much more.
 </p>
 
 <p>
@@ -285,8 +285,8 @@ One can nearly always walk all day in the woods without meeting a soul, even in 
 <hr/>
 
 <p>
-Another wonderfully-evoked emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered.
-Early in his time in the woods, Sam discovers a stream fed by a natural spring, near the tree that becomes his home.
+Another wonderfully-evoked emotion is the sparkling wonder of serendipitously discovering a pristine forest stream on a warm summer day.
+Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
 
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
@@ -298,11 +298,11 @@ Ferns grew along its bank, and its rocks were upholstered with moss.⁷(page 16)
 <hr/>
 
 <p>
-My Side of the Mountain is mesmerizing art of the highest degree. I wholeheartedly recommend it.
+My Side of the Mountain is mesmerizing art of the highest order.
 </p>
 
 <p>
-This is the author's preface: Ms. George's description of the process of writing and publishing it:
+This is the author's preface: Ms. George's description of the process of writing and publishing the book:
 <blockquote>
 <p>
 When I was in elementary school, I packed my suitcase and told my mother I was going to run away from home.
@@ -395,8 +395,8 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 -the author’s preface -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said that the people you meet in life won't always remember your name, nor exactly what you talked about, but they'll always remember how you made them feel. 
-In the same way, I don't remember, from when reading it in my childhood, every detail of My Side of The Mountain, but I'll always remember how it made me feel.
+It's said that the people you meet in life won't always remember your name, nor exactly what you and they talked about, but they'll always remember how you made them feel. 
+In the same way, I don't remember, from reading it as a child, every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
