@@ -285,7 +285,7 @@ One can nearly always walk all day in the woods without meeting a soul, even in 
 <hr/>
 
 <p>
-Another wonderfully-evoked emotion is the sparkling wonder of serendipitously discovering a pristine forest stream on a warm summer day.
+Another such emotion is the sparkling wonder of serendipitously discovering a pristine forest stream on a warm summer day.
 Early in his time in the woods, Sam discovers a stream, fed by a natural spring, near the tree that becomes his home.
 
 <blockquote>
