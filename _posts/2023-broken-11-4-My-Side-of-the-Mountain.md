@@ -46,7 +46,7 @@ I slept, ate, played my reed whistle, and talked to Frightful.
 <p>
 To be relaxed, warm, and part of the winter wilderness is an unforgettable experience.
 I was in excellent condition. Not a cold, not a sniffle, not a moment of fatigue.
-I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.⁷(page 130)
+I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms that blasted the mountains and the subzero temperatures that numbed them.<sup>7(page 130)</sup>
 </p>
 </blockquote>
 
@@ -162,7 +162,7 @@ I have looked up vitamins since.
 I am not surprised to find that liver is rich in vitamin C. So are citrus fruits and green vegetables, the foods I lacked. 
 Wild plants like sorrel and dock are rich in this vitamin.
 Even if I had known this at that time, it would have done me no good, for they were but roots in the earth.
-As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.⁷(pages 139-140)
+As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.<sup>7(pages 139-140)</sup>
 </p>
 </blockquote>
 
