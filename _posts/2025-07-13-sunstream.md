@@ -7,11 +7,7 @@
 <br/>
 
 <p>
-    I had an intense senior year of college.
-</p>
-
-<p>
-    That summer, my mind was decompressing.
+    I had an intense senior year of college. The summer after, my mind was decompressing.
 </p>
 
 <p>
