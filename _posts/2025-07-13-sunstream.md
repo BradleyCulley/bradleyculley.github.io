@@ -32,11 +32,11 @@
 </div>
 <br/>
 <div align="center">
-    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-2.jpg" />
+    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-7.jpg" />
 </div>
 <br/>
 <div align="center">
-    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-7.jpg" />
+    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-2.jpg" />
 </div>
 
 <br/>
