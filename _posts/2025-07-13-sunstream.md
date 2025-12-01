@@ -16,7 +16,7 @@
 </p>
 
 <p>
-    That summer, I worked at a summer camp teaching tennis, looking after the campers, and living on the campus of the boarding school at which the camp took place.
+    That summer, I worked at a summer camp teaching tennis and lived on the campus of the boarding school at which the camp took place.
 </p>
 
 <p>
