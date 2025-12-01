@@ -18,14 +18,14 @@ Me in a treehouse as a kid
 <hr/>
 
 <p>
-First published in 1959². A Newbery Honor book with over 4 million copies sold.⁹ I read My Side of the Mountain when I was around 8 years old.
+My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold.⁹ I read it when I was around 8 years old.
 </p>
 
 <hr/>
 
 <p>
-I once read something like that "cozy is the best feeling a person can experience".
-My Side of The Mountain is like coziness in book form.
+I once read an opinion that went something like "cozy is the best feeling".
+My Side of The Mountain is coziness in book form.
 It's coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket.
 </p>
 
@@ -64,12 +64,12 @@ About the Newbery Medal:
 [The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
 
-Another of Ms. George's books, "Julie of the Wolves", fully won The Newbery Medal in 1973.⁴
+Another of Ms. George's books, titled "Julie of the Wolves", fully won The Newbery Medal in 1973.⁴
 </p>
 
 <hr/>
 
-More about the plot:
+More about the plot of My Side of the Mountain:
 <blockquote>
 <p>Sam Gribley is a 12-year-old boy who intensely dislikes living in his parents' cramped New York City apartment with his eight brothers and sisters. He decides to run away to his great-grandfather's abandoned farm in the Catskill Mountains to live in the wilderness. The novel begins in the middle of Sam's story, with Sam huddled in his treehouse home in the forest during a severe blizzard. Frightful, Sam's pet peregrine falcon, and The Baron, a weasel, share the home with him. In a flashback, Sam reminisces about how he came to be there.</p>
 
@@ -122,20 +122,20 @@ My Side of the Mountain is saturated with wonder and magic. To me, it's more riv
 </p>
 
 <p>
-Part of the magic is that, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
+Part of the magic is, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-Because of the book's plausible realism, it's easy to slip into identifying with Sam Gribley. 
+Because of the plausible realism, it's easy to slip into identifying with Sam Gribley. 
 One can identify with his practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
 </p>
 
 <p>
 In one scene, Sam is preparing to eat a rabbit caught by his pet falcon Frightful.
 He feels an intrinsic "pull" toward eating the liver.
-This is explained as a primal pull toward a source of vitamin C during the winter, when sources of it are scarce.
+This is explained as a pull toward vitamin C during the winter, when sources of it are scarce.
 </p>
 
 <blockquote>
@@ -167,9 +167,8 @@ As it turned out, liver was the only available source of vitamin C—and on live
 </blockquote>
 
 <p>
-That primeval "pull" is something I’ve experienced too.
-For example, I remember once, when I was stressed in college, feeling a pull toward dark red foods such as certain berries.
-It turns out dark red foods have a number of compounds that counteract stress.⁸
+One time when I was stressed in college, I felt a pull toward dark red foods such as certain berries.
+It turns out dark red foods can counteract stress.⁸
 </p>
 
 <hr/>
@@ -187,28 +186,28 @@ One such cultural motif is what could be called a "ruralist mentality".
 </p>
 
 <p>
-I'd say most Americans would enjoy a story about a person striking out into the wilderness, building a home with their own hands, and creating a mostly self-sufficient life for themselves (gardening, etc.) whilst happily enmeshed in nature.
-Also and especially, it would be that they'd do so alone or with just one or two other people; the US is also culturally individualistic.
+I'd say most Americans would enjoy a story about a person striking out into the wilderness, building their own home, and creating a mostly self-sufficient life (gardening and so on).
+Also and especially, it would be that they'd do so alone or with just one or two other people: the US is quite culturally individualistic.
 Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild") come to mind.
 </p>
 
 <p>
 A family friend of ours married into a family from Finland.
-My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a small treehouse.
-Someone from the Finnish side commented that that would be rare in Finland.
-Apparently they meant, in particular, doing a project like that alone (individualism).
+My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a cabin or treehouse.
+Someone from the Finnish side commented that that would be unusual in Finland.
+Apparently they meant, in particular, doing a project like that alone (individualism) would be rare unusual in Finland.
 Ruralism and individualism.
 </p>
 
 <hr/>
 
 <p>
-The loneliness of ruralistic individualism creates a key narrative tension in the book.
-There's Sam's love of nature and solitude on the one hand, and his love of people and companionship on the other.
+The loneliness of ruralistic individualism creates a key narrative tension.
+There's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
 </p>
 
 <p>
-Ms. George handles that tension with great care.
+Ms. George handles that tension with great nuance.
 In part, she handles it through Sam's bond with his pet falcon.
 That's an independent truth: pets can be great "friends".
 </p>
@@ -254,7 +253,7 @@ We all had our little 'patch' in the wilderness. We all fought to return there.�
 </p>
 
 <p>
-Sam describing the protean majesty of starting a fire with tinder and flint:
+Sam on the protean majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. 
 Out of dead tinder and grass and sticks came a live warm light.
@@ -273,20 +272,21 @@ Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
-My father used to quote Thoreau's statement that it's always good to meet someone in the woods: that the kind of person who goes for a walk in the woods just for the experience of it is a good kind of person to encounter. 
-My father also used to also point out the related fact: it's rare to truly meet someone in the woods.
-In particular, meeting someone off blazed trails and not at any particular monument or attraction in nature
+My father used to quote Henry David Thoreau's statement that it's always good to meet someone in the woods. --TODO: add citation for Thoreau quote
+In particular, that the kind of person who goes for a walk in the woods just for the experience of it is the right kind of person to come across. 
+My father also used to note the related fact: it's rare to truly meet someone in the woods.
+In particular, it's rare to meet someone off blazed trails and not at any particular monument or attraction in nature.
 </p>
 
 <p>
 Growing up in rural Maine, surrounded by forests, I noticed this too.
-One can nearly always walk all day in the woods without meeting a soul, even in beautifully-kept public forests.
+One can generally walk all day in the woods without meeting a soul.
 </p>
 
 <hr/>
 
 <p>
-Another such emotion is the sparkling wonder a pristine forest stream, serendipitously discovered on a warm summer day.
+Another well-evoked emotion is the sparkling wonder of a pristine forest stream, serendipitously discovered on a warm summer's day.
 
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
@@ -298,7 +298,7 @@ Ferns grew along its bank, and its rocks were upholstered with moss.⁷(page 16)
 <hr/>
 
 <p>
-My Side of the Mountain is mesmerizing art of the highest degree.
+My Side of the Mountain is mesmerizing art of the highest order.
 </p>
 
 <p>
@@ -394,7 +394,7 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 
 <p>
 It's said the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
-Likewise, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+In the same way, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
