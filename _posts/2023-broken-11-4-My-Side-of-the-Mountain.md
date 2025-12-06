@@ -25,8 +25,8 @@ My Side of the Mountain was first published in 1959². It's a Newbery Honor book
 
 <p>
 I once read an opinion that went something like "cozy is the best feeling".
-My Side of The Mountain is coziness in book form.
-It's coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket.
+My Side of the Mountain is coziness in book form.
+Its coziness is the coziness of watching a rainstorm through a half-closed window, wrapped in a blanket.
 </p>
 
 From the book:
@@ -91,7 +91,7 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 About the author:
 <blockquote>
 <p>
-Jean Carolyn Craighead George (July 2, 1919 – May 15, 2012) was an American write...born on July 2, 1919, in Washington DC. 
+Jean Carolyn Craighead George (July 2, 1919 – May 15, 2012)...was born on July 2, 1919, in Washington DC. 
 She was raised in a family of naturalists. Her mother, father (Frank Craighead Sr.), brothers (Frank and John), aunts, and uncles were students of nature.
 On weekends they camped in the woods near Washington, climbed trees to study owls, gathered edible plants, and made fish hooks from twigs.
 Her first pet was a turkey vulture. George centered her life around writing and nature.
@@ -208,7 +208,7 @@ We all had our little 'patch' in the wilderness. We all fought to return there.�
 </p>
 
 <p>
-Sam on the protean majesty of starting a fire with tinder and flint:
+Sam on the elemental majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. 
 Out of dead tinder and grass and sticks came a live warm light.
@@ -348,7 +348,7 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 
 <p>
 It's said the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
-In the same way, I don't remember every detail from My Side of The Mountain, but I'll always remember how it made me feel.
+In the same way, I don't remember every detail from My Side of the Mountain, but I'll always remember how it made me feel.
 </p>
 
 <hr/>
