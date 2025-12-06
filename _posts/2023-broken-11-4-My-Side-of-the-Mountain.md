@@ -91,7 +91,7 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 About the author:
 <blockquote>
 <p>
-Jean Carolyn Craighead George (July 2, 1919 – May 15, 2012)...was born on July 2, 1919, in Washington DC. 
+Jean Carolyn Craighead George...was born on July 2, 1919, in Washington DC. 
 She was raised in a family of naturalists. Her mother, father (Frank Craighead Sr.), brothers (Frank and John), aunts, and uncles were students of nature.
 On weekends they camped in the woods near Washington, climbed trees to study owls, gathered edible plants, and made fish hooks from twigs.
 Her first pet was a turkey vulture. George centered her life around writing and nature.
@@ -105,7 +105,7 @@ From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </blockquote>
 
 <p>
-Ms. George is superbly accomplished and prolific. She wrote over 100 books⁵.
+Ms. George is superbly accomplished and prolific. She lived to the age of 92, passing away in 2012, and wrote over 100 books⁵.
 </p> 
 
 <div align="center">
