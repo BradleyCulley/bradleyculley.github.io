@@ -18,7 +18,7 @@ Me in a treehouse as a kid
 <hr/>
 
 <p>
-My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold.⁹ I read it when I was around 8 years old.
+My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹ and I read it when I was around 8 years old.
 </p>
 
 <hr/>
@@ -53,13 +53,10 @@ I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms
 <hr/>
 
 <p>
-A summary of the book:
-
 <blockquote>
 My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.¹
 </blockquote>
 
-About the Newbery Medal:
 <blockquote>
 [The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
@@ -69,7 +66,7 @@ Another of Ms. George's books, titled "Julie of the Wolves", fully won The Newbe
 
 <hr/>
 
-More about the plot of My Side of the Mountain:
+More on the plot of My Side of the Mountain:
 <blockquote>
 <p>Sam Gribley is a 12-year-old boy who intensely dislikes living in his parents' cramped New York City apartment with his eight brothers and sisters. He decides to run away to his great-grandfather's abandoned farm in the Catskill Mountains to live in the wilderness. The novel begins in the middle of Sam's story, with Sam huddled in his treehouse home in the forest during a severe blizzard. Frightful, Sam's pet peregrine falcon, and The Baron, a weasel, share the home with him. In a flashback, Sam reminisces about how he came to be there.</p>
 
@@ -94,7 +91,8 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 About the author:
 <blockquote>
 <p>
-Jean Carolyn Craighead was born on July 2, 1919, in Washington DC. She was raised in a family of naturalists. Her mother, father (Frank Craighead Sr.), brothers (Frank and John), aunts, and uncles were students of nature.
+Jean Carolyn Craighead George (July 2, 1919 – May 15, 2012) was an American write...born on July 2, 1919, in Washington DC. 
+She was raised in a family of naturalists. Her mother, father (Frank Craighead Sr.), brothers (Frank and John), aunts, and uncles were students of nature.
 On weekends they camped in the woods near Washington, climbed trees to study owls, gathered edible plants, and made fish hooks from twigs.
 Her first pet was a turkey vulture. George centered her life around writing and nature.
 </p>
@@ -122,94 +120,51 @@ My Side of the Mountain is saturated with wonder and magic. To me, it's more riv
 </p>
 
 <p>
-Part of the magic is, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
+Part of the magic is that unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
 
 <p>
-Because of the plausible realism, it's easy to slip into identifying with Sam Gribley. 
-One can identify with his practical struggles against nature, his thoughtful alignment with nature, his cunning use of tools, and his exaltation to be so enmeshed in nature.
+Because of that plausible realism, it's easy to slip into identifying with Sam Gribley. 
+One can identify with his practical struggles against nature, his alignment with nature, his use of tools, and his exaltation to be so enmeshed in nature.
 </p>
-
-<p>
-In one scene, Sam is preparing to eat a rabbit caught by his pet falcon Frightful.
-He feels an intrinsic "pull" toward eating the liver.
-This is explained as a pull toward vitamin C during the winter, when sources of it are scarce.
-</p>
-
-<blockquote>
-<p>
-Toward the end of January I began to feel tired, and my elbows and
-knees were a little stiff. This worried me. I figured it was due to some
-vitamin I wasn’t getting, but I couldn’t remember which vitamin it was or
-even where I would find it if I could remember it.
-</p>
-
-<p>
-One morning my nose bled. It frightened me a bit, and I wondered if I shouldn’t hike to the library and reread the material on vitamins.
-It didn't last long, however, so I figured it wasn't too serious.
-I decided I would live until the greens came to the land, for I was of the opinion that since I had had nothing green for months, that was probably the trouble.
-</p>
-
-<p>On that same day Frightful caught a rabbit in the meadow.
-As I cleaned it, the liver suddenly looked so tempting that I could hardly wait to prepare it.
-For the next week, I craved liver and ate all I could get.
-The tiredness ended, the bones stopped aching and I had no more nosebleeds.
-Hunger is a funny thing. It has a kind of intelligence all its own. 
-I ate liver almost every day until the first plants emerged, and I never had any more trouble. 
-I have looked up vitamins since. 
-I am not surprised to find that liver is rich in vitamin C. So are citrus fruits and green vegetables, the foods I lacked. 
-Wild plants like sorrel and dock are rich in this vitamin.
-Even if I had known this at that time, it would have done me no good, for they were but roots in the earth.
-As it turned out, liver was the only available source of vitamin C—and on liver I stuffed, without knowing why.<sup>7(pages 139-140)</sup>
-</p>
-</blockquote>
-
-<p>
-One time when I was stressed in college, I felt a pull toward dark red foods such as certain berries.
-It turns out dark red foods can counteract stress.⁸
-</p>
-
-<hr/>
 
 <p>
 Sam meets people during his adventures.
 Characteristically, none join his space permanently.
-For example, he meets an English professor who got lost in the woods, they become friends, and the professor visits Sam at Christmas.⁷(pages 82, 119)
-However, neither moves to live near the other permanently.
+For example, he meets an English professor who got lost in the woods, the two become friends, and the professor visits Sam at Christmas.<sup>7(pages 82, 119)</sup>
+However, neither moves to live near the other.
 </p>
 
 <p>
 It's only as an adult that it occurs to me how culturally American the book is.
-One such cultural motif is what could be called a "ruralist mentality".
+For example, the "ruralist" mentality of the book.
 </p>
 
 <p>
-I'd say most Americans would enjoy a story about a person striking out into the wilderness, building their own home, and creating a mostly self-sufficient life (gardening and so on).
-Also and especially, it would be that they'd do so alone or with just one or two other people: the US is quite culturally individualistic.
-Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild") come to mind.
+Ruralism would be, for example, a person striking out into the wilderness, building their own home, and creating a mostly self-sufficient life (gardening and so on).
+Also and especially, it would be that they'd do so alone or with just one or two other people: the US is also quite culturally individualistic.
+Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild"), both of whom are Americans, come to mind.
 </p>
 
 <p>
 A family friend of ours married into a family from Finland.
-My father said it once came up in conversation that one of the young men on the American side had gone out into the forest and built a cabin or treehouse.
-Someone from the Finnish side commented that that would be unusual in Finland.
-Apparently they meant, in particular, doing a project like that alone (individualism) would be rare unusual in Finland.
+My father said it once came up in conversation that one of the young men on the American side had gone into the forest and built a cabin or treehouse.
+Someone from the Finnish side said that would be unusual in Finland: doing so alone, that is.
 Ruralism and individualism.
 </p>
 
 <hr/>
 
 <p>
-The loneliness of ruralistic individualism creates a key narrative tension.
-There's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
+The loneliness of ruralistic individualism creates a narrative tension in the book.
+There's Sam's love of nature and solitude on one side, and his love of companionship on the other.
 </p>
 
 <p>
 Ms. George handles that tension with great nuance.
 In part, she handles it through Sam's bond with his pet falcon.
-That's an independent truth: pets can be great "friends".
 </p>
 
 <blockquote>
@@ -217,17 +172,17 @@ One day when I was thinking very hard about being alone, Frightful
 gave her gentle call of love and contentment. I looked up.
 'Bird,' I said. 'I had almost forgotten how we used to talk.' She made
 tiny movements with her beak and fluffed her feathers. This was a language
-I had forgotten since Bando came. It meant she was glad to see me and hear
-me, that she was well fed, and content. I picked her up and squeaked into
-her neck feathers. She moved her beak, turned her bright head, and bit my
-nose very gently.⁷(page 86)
+I had forgotten since Bando [the English professor] came.
+It meant she was glad to see me and hear me, that she was well fed, and content. 
+I picked her up and squeaked into her neck feathers.
+She moved her beak, turned her bright head, and bit my nose very gently.<sup>7(page 86)</sup>
 </blockquote>
 
 <hr/>
 
 <p>
 Ms. George beautifully conveys her love of nature.
-She employs descriptive detail of a profundity that must well up from an equal depth of personal rapture.
+She uses descriptive detail of a profundity that must well up from an equal depth of personal rapture.
 </p>
 
 <p>
@@ -260,7 +215,7 @@ Out of dead tinder and grass and sticks came a live warm light.
 It cracked and snapped and smoked and filled the woods with brightness.
 It lighted the trees and made them warm and friendly.
 It stood tall and bright and held back the night. Oh, this was a different night than the first dark frightful one. 
-Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.⁷(page 28)
+Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.<sup>7(page 28)</sup>
 </blockquote>
 </p>
 
@@ -272,15 +227,14 @@ Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
-My father used to quote Henry David Thoreau's statement that it's always good to meet someone in the woods. --TODO: add citation for Thoreau quote
-In particular, that the kind of person who goes for a walk in the woods just for the experience of it is the right kind of person to come across. 
-My father also used to note the related fact: it's rare to truly meet someone in the woods.
-In particular, it's rare to meet someone off blazed trails and not at any particular monument or attraction in nature.
+My father used to paraphrase Henry David Thoreau, possibly from Thoreau's essay "Walking"¹⁰, as having said it's always good to meet someone in the woods.
+My father also used to note that it's rare to truly meet someone in the woods.
+In particular, to meet someone off blazed trails and far from any particular monument or attraction.
 </p>
 
 <p>
 Growing up in rural Maine, surrounded by forests, I noticed this too.
-One can generally walk all day in the woods without meeting a soul.
+One can usually walk all day in the woods without meeting a soul.
 </p>
 
 <hr/>
@@ -291,7 +245,7 @@ Another well-evoked emotion is the sparkling wonder of a pristine forest stream,
 <blockquote>
 I must have walked a mile into the woods until I found a stream. 
 It was a clear athletic stream that rushed and ran and jumped and splashed.
-Ferns grew along its bank, and its rocks were upholstered with moss.⁷(page 16)
+Ferns grew along its bank, and its rocks were upholstered with moss.<sup>7(page 16)</sup>
 </blockquote>
 </p>
 
@@ -302,7 +256,7 @@ My Side of the Mountain is mesmerizing art of the highest order.
 </p>
 
 <p>
-This is the author's preface: Ms. George's description of the process of writing and publishing the book:
+This is the author's preface — Ms. George's description of the process of writing and publishing the book:
 <blockquote>
 <p>
 When I was in elementary school, I packed my suitcase and told my mother I was going to run away from home.
@@ -399,8 +353,6 @@ In the same way, I don't remember every detail from My Side of The Mountain, but
 
 <hr/>
 
-https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
-
 Sources:<br/>
 ¹: <a target="_blank" href="https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg">https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg</a><br/>
 ²: <a target="_blank" href="https://en.wikipedia.org/wiki/My_Side_of_the_Mountain">https://en.wikipedia.org/wiki/My_Side_of_the_Mountain</a><br/>
@@ -411,5 +363,4 @@ Sources:<br/>
 ⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4 <br/>
 ⁸: <a target="_blank" href="https://www.medicalnewstoday.com/articles/health-benefits-of-berries">https://www.medicalnewstoday.com/articles/health-benefits-of-berries</a><br/>
 ⁹: <a target="_blank" href="https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118">https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118</a><br/>
-
-¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
+¹⁰: <a target="_blank" href="https://www.gutenberg.org/cache/epub/1022/pg1022-images.html">https://www.gutenberg.org/cache/epub/1022/pg1022-images.html ("I have met with but one or two persons in the course of my life who understood the art of Walking")</a><br/>
