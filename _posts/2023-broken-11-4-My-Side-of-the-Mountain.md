@@ -143,7 +143,7 @@ For example, the "ruralist" mentality of the book.
 
 <p>
 Ruralism would be, for example, a person striking out into the wilderness, building their own home, and creating a mostly self-sufficient life (gardening and so on).
-Also and especially, it would be that they'd do so alone or with just one or two other people: the US is also quite culturally individualistic.
+Also, and especially, it would be that they'd do so alone or with just one or two other people: the US is also quite culturally individualistic.
 Richard Proenneke - a famous homesteader in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild"), both of whom are Americans, come to mind.
 </p>
 
