@@ -87,7 +87,6 @@ In June, Sam is surprised to find his family has come to the Gribley land. His f
 
 <hr/>
 
-<p>
 About the author:
 <blockquote>
 <p>
@@ -185,7 +184,6 @@ Ms. George beautifully conveys her love of nature.
 She uses descriptive detail of a profundity that must well up from an equal depth of personal rapture.
 </p>
 
-<p>
 <blockquote>
 <p>
 I lived close to the weather. It is surprising how you watch it when you live in it.
@@ -205,9 +203,7 @@ Caught out in the storms and weather, I had an urgent desire to return to my tre
 We all had our little 'patch' in the wilderness. We all fought to return there.⁷(pages 131-132)
 </p>
 </blockquote>
-</p>
 
-<p>
 Sam on the elemental majesty of starting a fire with tinder and flint:
 <blockquote>
 I must say this now about that first fire. It was magic. 
@@ -217,7 +213,6 @@ It lighted the trees and made them warm and friendly.
 It stood tall and bright and held back the night. Oh, this was a different night than the first dark frightful one. 
 Also I was stuffed on catfish. I have since learned to cook it more, but never have I enjoyed a meal as much as that one, and never have I felt so independent again.<sup>7(page 28)</sup>
 </blockquote>
-</p>
 
 <hr/>
 
@@ -229,7 +224,7 @@ Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 <p>
 My father used to paraphrase Henry David Thoreau, possibly from Thoreau's essay "Walking"¹⁰, as having said it's always good to meet someone in the woods.
 My father also used to note that it's rare to truly meet someone in the woods.
-In particular, to meet someone off blazed trails and far from any particular monument or attraction.
+In particular, it's rare to meet someone off blazed trails and far from any particular attraction in nature.
 </p>
 
 <p>
@@ -347,7 +342,7 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 </p> -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <p>
-It's said the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
+It's said that the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
 In the same way, I don't remember every detail from My Side of the Mountain, but I'll always remember how it made me feel.
 </p>
 
