@@ -154,8 +154,8 @@ Someone from the Finnish side said that would be unusual in Finland: doing so al
 <hr/>
 
 <p>
-The loneliness of ruralistic individualism creates a narrative tension in the book.
-There's Sam's love of nature and solitude on one side, and his love of companionship on the other.
+The loneliness of ruralistic individualism creates a key narrative tension in the book.
+There's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
 </p>
 
 <p>
