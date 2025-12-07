@@ -11,7 +11,7 @@ My favorite artist of any kind is Oumou Sangaré. She's a singer from Mali.
 One of her songs is titled "Saa Magni", which means "Death is Terrible".
 You can listen to it here: [link](https://www.youtube.com/watch?v=4_YyroDeZrY).
 
-Include saa magni and Denis quote about when old people die it's like burning a library and include the mind uploading piece quote and include the dream I had about Wil Smith, a man I never met and hadn't thought about in probably 25 years or so
+Include Saa Magni and Denis quote about when old people die it's like burning a library and include the mind uploading piece quote and include the dream I had about Wil Smith, a man I never met and hadn't thought about in probably 25 years or so
 
 <p>
 This photo of Bruce Lee in his casket that has really stayed with me: TODO add photo (https://i0.wp.com/.../2015/11/Brucelee11-Khurki.net_.jpg...).
