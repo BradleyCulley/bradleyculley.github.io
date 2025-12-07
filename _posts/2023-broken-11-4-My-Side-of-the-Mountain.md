@@ -18,7 +18,7 @@ Me in a treehouse as a kid
 <hr/>
 
 <p>
-My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹ and I read it when I was around 8 years old.
+My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹. I read it when I was around 8 years old.
 </p>
 
 <hr/>
@@ -52,7 +52,7 @@ I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms
 
 <hr/>
 
-<p>
+About the book:
 <blockquote>
 My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.¹
 </blockquote>
@@ -62,8 +62,6 @@ My Side of the Mountain is a middle-grade adventure novel written and illustrate
 </blockquote>
 
 Another of Ms. George's books, titled "Julie of the Wolves", fully won The Newbery Medal in 1973.⁴
-</p>
-
 <hr/>
 
 More on the plot of My Side of the Mountain:
@@ -119,7 +117,7 @@ My Side of the Mountain is saturated with wonder and magic. To me, it's more riv
 </p>
 
 <p>
-Part of the magic is that unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
+Part of the magic is that, unlike The Lord of the Rings, it's set in the real world, with a plot that's realistically possible (though unlikely).
 </p>
 
 <hr/>
@@ -131,7 +129,7 @@ One can identify with his practical struggles against nature, his alignment with
 
 <p>
 Sam meets people during his adventures.
-Characteristically, none join his space permanently.
+None join his space permanently, though.
 For example, he meets an English professor who got lost in the woods, the two become friends, and the professor visits Sam at Christmas.<sup>7(pages 82, 119)</sup>
 However, neither moves to live near the other.
 </p>
