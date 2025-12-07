@@ -148,7 +148,7 @@ Richard Proenneke, a famous ruralist in the Alaskan wilderness, and Chris McCand
 </p>
 
 <p>
-A family friend of ours married into a family from Finland.
+Many years ago, a family friend of ours married into a family from Finland.
 My father said it once came up in conversation that one of the young men on the American side had gone into the forest and built a cabin or treehouse.
 Someone from the Finnish side said that would be unusual in Finland: doing so alone, that is.
 </p>
