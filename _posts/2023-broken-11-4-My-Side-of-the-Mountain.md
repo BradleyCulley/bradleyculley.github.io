@@ -141,14 +141,14 @@ For example, the "ruralist" mentality of the book.
 
 <p>
 Ruralism is, for example, a person striking out into the wilderness, building their own home, and creating a mostly self-sufficient life (gardening and so on).
-Also, and especially, it would be that they'd do so alone or with just one or two other people: the US is also quite culturally individualistic.
+Also, and especially, it would be that they'd do so alone or with just one or two companions: the US is also quite culturally individualistic.
 Richard Proenneke, a famous ruralist in the Alaskan wilderness, and Chris McCandless (the subject of the book "Into the Wild"), both of whom are American, come to mind.
 </p>
 
 <p>
 Many years ago, a family friend of ours married into a family from Finland.
 My father said it once came up in conversation that one of the young men on the American side had gone into the forest and built a cabin or treehouse.
-Someone from the Finnish side said that would be unusual in Finland: doing so alone, that is.
+Someone from the Finnish side said that that would be unusual in Finland: doing so alone, that is.
 </p>
 
 <hr/>
@@ -160,7 +160,7 @@ There's Sam's love of nature and solitude on one side, and his love of people an
 
 <p>
 Ms. George handles that tension with great nuance.
-In part, she handles it through Sam's bond with his pet falcon.
+In part, she handles it through Sam's bond with his pet falcon, Frightful.
 </p>
 
 <blockquote>
@@ -337,6 +337,8 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 </p>
 </blockquote>
 </p> -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
+
+<hr/>
 
 <p>
 It's said that the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
