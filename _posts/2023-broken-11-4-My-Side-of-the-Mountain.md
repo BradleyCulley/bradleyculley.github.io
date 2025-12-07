@@ -18,7 +18,7 @@ Me in a treehouse as a kid
 <hr/>
 
 <p>
-My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹. I read it when I was around 8 years old.
+My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹. I read it when I was around 8 years old, in around 1998.
 </p>
 
 <hr/>
