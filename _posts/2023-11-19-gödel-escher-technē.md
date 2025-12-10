@@ -1,7 +1,11 @@
 ### Gödel Escher Technē
 
 <br/><br/>
-_Revised version of an essay I wrote earlier this year about some things that had been on the mind for a while, and that, in particular, I was thinking about while grocery shopping one day in Gilford, New Hampshire_
+This is a revised version of an essay about artificial intelligence that I wrote in 2023. It's about some things that had been on the mind for a while, and that, in particular, I was thinking about while grocery shopping one day in Gilford, New Hampshire
+
+The essay is titled "Gödel Escher Technē", a reference to the book "Gödel, Escher, Bach: an Eternal Golden Braid" by Douglas Hofstadter
+
+<hr/>
 
 I think the continued development of artificial intelligence will lead to an epistemic unraveling of teleological claims. There's been some of that already.
 
