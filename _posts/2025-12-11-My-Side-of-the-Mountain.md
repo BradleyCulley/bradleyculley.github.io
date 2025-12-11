@@ -58,7 +58,7 @@ I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms
 
 Over 4 million copies of My Side of the Mountain have been sold⁸. About the Newbery Medal, for which My Side of the Mountain was a runner-up:
 <blockquote>
-[The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
+[The Newbery Medal] ... is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
 
 Another of Ms. George's books, titled "Julie of the Wolves", fully won The Newbery Medal in 1973.⁴
@@ -102,7 +102,7 @@ From 1969 to 1982 she was a writer and editor at Reader's Digest.⁵
 </blockquote>
 
 <p>
-Ms. George is superbly accomplished and prolific. She lived to the age of 92, passing away in 2012, and wrote over 100 books⁵.
+Ms. George is superbly accomplished and prolific. She lived to the age of 92, passing away in 2012, and wrote more than 100 books⁵.
 </p> 
 
 <div align="center">
@@ -131,7 +131,7 @@ One can identify with his practical struggles against nature, his alignment with
 Sam meets people during his adventures.
 None join his space permanently, though.
 For example, he meets an English professor who got lost in the woods, the two become friends, and the professor visits Sam at Christmas.<sup>7(pages 82, 119)</sup>
-However, neither moves to live near the other.
+However, neither ends up living near the other.
 </p>
 
 <p>
@@ -154,7 +154,7 @@ Someone from the Finnish side said that that would be unusual in Finland: doing 
 <hr/>
 
 <p>
-The loneliness of ruralistic individualism creates a key narrative tension in the book.
+The loneliness of ruralist individualism creates a key narrative tension in the book.
 There's Sam's love of nature and solitude on one side, and his love of people and companionship on the other.
 </p>
 
@@ -197,7 +197,7 @@ Fortunately I only had to push through about a foot of snow.
 However, that taught me to stay home when the air said 'snow.' 
 Not that I was afraid of being caught far from home in a storm, for I could find food and shelter and make a fire anywhere, but I had become as attached to my hemlock house as a brooding bird to her nest.
 Caught out in the storms and weather, I had an urgent desire to return to my tree, even as The Baron Weasel returned to his den, and the deer to their copse.
-We all had our little 'patch' in the wilderness. We all fought to return there.⁷(pages 131-132)
+We all had our little 'patch' in the wilderness. We all fought to return there.<sup>7(pages 131-132)</sup>
 </p>
 </blockquote>
 
@@ -332,8 +332,8 @@ Most want to know if he is a real person.
 Some, convinced that he is, have biked to Delhi, New York, from as far away as Long Island, New York, to find his tree, his falcon, weasel, and raccoon. 
 To these and all others who ask, I say, 'There is no real Sam, except inside me.' 
 His adventures are the fulfillment of that day long ago when I told my mother I was going to run away, got as far as the edge of the woods, and came back.
-Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very pleasant to run away in a book.
-</p><sup>10 (pages xi-xiv)</sup>
+Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very pleasant to run away in a book.<sup>10 (pages xi-xiv)</sup>
+</p>
 </blockquote>
 
 <hr/>
