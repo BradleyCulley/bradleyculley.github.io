@@ -18,7 +18,7 @@ Me in a treehouse as a kid
 <hr/>
 
 <p>
-My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁹. I read it when I was around 8 years old, in around 1998.
+My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁸. I read it when I was around 8 years old, in around 1998.
 </p>
 
 <hr/>
@@ -219,7 +219,7 @@ Another is the Thoreauvian pleasure of meeting a stranger in the woods.
 </p>
 
 <p>
-My father used to paraphrase Henry David Thoreau, possibly from Thoreau's essay "Walking"¹⁰, as having said it's always good to meet someone in the woods.
+My father used to paraphrase Henry David Thoreau, possibly from Thoreau's essay "Walking"⁹, as having said it's always good to meet someone in the woods.
 My father also used to note that it's rare to truly meet someone in the woods.
 In particular, it's rare to meet someone off blazed trails and far from any particular attraction in nature.
 </p>
@@ -247,7 +247,6 @@ Ferns grew along its bank, and its rocks were upholstered with moss.<sup>7(page 
 My Side of the Mountain is mesmerizing art of the highest order.
 </p>
 
-<p>
 This is the author's preface — Ms. George's description of the process of writing and publishing the book:
 <blockquote>
 <p>
@@ -334,9 +333,8 @@ Some, convinced that he is, have biked to Delhi, New York, from as far away as L
 To these and all others who ask, I say, 'There is no real Sam, except inside me.' 
 His adventures are the fulfillment of that day long ago when I told my mother I was going to run away, got as far as the edge of the woods, and came back.
 Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very pleasant to run away in a book.
-</p>
+</p><sup>10 (pages xi-xiv)</sup>
 </blockquote>
-</p> -pages 7-8 here but get from real book: https://yourbookshelf.net/wp-content/uploads/2024/01/Yourbookshelf-600-MY-SIDE-OF-THE-MOUNTAIN.pdf
 
 <hr/>
 
@@ -355,6 +353,6 @@ Sources:<br/>
 ⁵: <a target="_blank" href="https://en.wikipedia.org/wiki/Jean_Craighead_George">https://en.wikipedia.org/wiki/Jean_Craighead_George</a><br/>
 ⁶: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg">https://en.wikipedia.org/wiki/File:Jean_Craighead_George,_Barrow,_AK,_1994.jpg</a><br/>
 ⁷: George, J. C. (1972). My side of the mountain. Puffin Books. ISBN 0-14-030363-4 <br/>
-⁸: <a target="_blank" href="https://www.medicalnewstoday.com/articles/health-benefits-of-berries">https://www.medicalnewstoday.com/articles/health-benefits-of-berries</a><br/>
-⁹: <a target="_blank" href="https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118">https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118</a><br/>
-¹⁰: <a target="_blank" href="https://www.gutenberg.org/cache/epub/1022/pg1022-images.html">https://www.gutenberg.org/cache/epub/1022/pg1022-images.html ("I have met with but one or two persons in the course of my life who understood the art of Walking")</a><br/>
+⁸: <a target="_blank" href="https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118">https://blackwells.co.uk/bookshop/product/My-Side-of-the-Mountain-Puffin-Modern-Classics-by-Jean-Craighead-George/9780142401118</a><br/>
+⁹: <a target="_blank" href="https://www.gutenberg.org/cache/epub/1022/pg1022-images.html">https://www.gutenberg.org/cache/epub/1022/pg1022-images.html ("I have met with but one or two persons in the course of my life who understood the art of Walking")</a><br/>
+¹⁰: George, J. C. (2004). My side of the mountain. Puffin Books.
