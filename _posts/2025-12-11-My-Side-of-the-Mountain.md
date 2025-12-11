@@ -130,7 +130,7 @@ One can identify with his practical struggles against nature, his alignment with
 <p>
 Sam meets people during his adventures.
 None join his space permanently, though.
-For example, he meets an English professor who got lost in the woods, the two become friends, and the professor visits Sam at Christmas.<sup>7(pages 82, 119)</sup>
+For example, he meets an English professor who got lost in the woods, the two become friends, and the professor visits Sam at Christmas<sup>7(pages 82, 119)</sup>.
 However, neither ends up living near the other.
 </p>
 
