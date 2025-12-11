@@ -17,8 +17,12 @@ Me in a treehouse as a kid
 
 <hr/>
 
+<blockquote>
+My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.¹
+</blockquote>
+
 <p>
-My Side of the Mountain was first published in 1959². It's a Newbery Honor book with over 4 million copies sold⁸. I read it when I was around 8 years old, in around 1998.
+I read My Side of the Mountain when I was around 8 years old, in around 1998.
 </p>
 
 <hr/>
@@ -52,11 +56,7 @@ I enjoyed the feeling that I could eat, sleep and be warm, and outwit the storms
 
 <hr/>
 
-About the book:
-<blockquote>
-My Side of the Mountain is a middle-grade adventure novel written and illustrated by American writer Jean Craighead George published by E. P. Dutton in 1959. It features a boy who learns courage, independence, and the need for companionship while attempting to live in the Catskill Mountains of New York State. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name.¹
-</blockquote>
-
+Over 4 million copies of My Side of the Mountain have been sold⁸. About the Newbery Medal, for which My Side of the Mountain was a runner-up:
 <blockquote>
 [The Newbery Medal]...is a literary award given by the Association for Library Service to Children (ALSC), a division of the American Library Association (ALA), to the author of "the most distinguished contributions to American literature for children". The Newbery and the Caldecott Medal are considered the two most prestigious awards for children's literature in the United States.³
 </blockquote>
