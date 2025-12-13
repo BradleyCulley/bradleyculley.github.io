@@ -16,8 +16,17 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 <br>
 
 ---
+
+In college, I trained for most of a year with a Buddhist priest. 
+He'd grown up in a Buddhist temple family in Japan, become ordained as a priest, and held multiple degrees in Buddhist studied, including one degree from Harvard.
+One of the things he would repeatedly say to me is "Jikishin kore dojo", which means (roughly) "the pure heart is your dojo".
+
+
 <p>
 "The essence of greatness is the perception that virtue is enough."
 https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-perception-that-virtue-is
 </p>
 
+http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
+http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
+https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=35845&dataid=53662&FileName=The%20Hero%20with%20a%20Thousand%20Faces.pdf
