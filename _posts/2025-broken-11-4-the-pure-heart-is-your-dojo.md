@@ -17,8 +17,9 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 
 ---
 <p>
-<b>In college, I trained with a Japanese Buddhist priest. He used to tell me, "The pure heart is your dojo".  
-Life tends, on occasion, to take from you everything other than the fact of being a decent person.</b>
+<b>In college, I trained in Buddhist practice with a Japanese Buddhist priest.
+He used to tell me the saying in Japanese, "Jikishin kore dojo", which means "the pure heart is your dojo".
+Life tends on occasion to take from you everything besides than the fact of being a decent person.</b>
 </p>
 
 A story, from the book The Hero with a Thousand Faces by Joseph Campbell:
@@ -98,18 +99,49 @@ transformed him into a spirit entitled to receive offerings in the
 forest. Having admonished the ogre to be heedful, the youth departed from the forest, and at the mouth of the forest told his
 story to human beings; then went his way.32
 </blockquote> -https://ia601406.us.archive.org/30/items/Birdsfrogsandmirrors/JosephCampbell%20-%20The%20Hero%20With%20a%20Thousand%20Faces%20Commemorative%20Edition.pdf
+maybe change to get quote from here? https://themythologyproject.com/prince-five-weapons/?utm_source=chatgpt.com
 
-In the story 
+<hr/>
+
+This sounds like a platitude — "be good" — but there's more to it.
+
+1. A decent person, not a caricature. Talk about the  TODO: fill in
+2. The subtle shift: my experience.
+3. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
+4. Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
+As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
+The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
+The ultimate "get everything taken from you" experience is of course death.
+
+Henry David Thoreau had a nice turn of phrase in this regard:
+<blockquote>
+ Thoreau died of tuberculosis in the town of his birth, Concord, Massachusetts aged 44. When his aunt Louisa asked him in his last weeks if he had made his peace with God, Thoreau responded: “I did not know we had ever quarreled.”
+</blockquote> -https://www.holyhill.ie/saints-and-heros/henry-thoreau/
+
+or maybe this quote:
+<blockquote>
+On his deathbed, Henry David Thoreau was asked by his aunt Louisa if he had made peace with God. “I did not know we had ever quarreled”, he replied.
+
+His last words were, “Now comes good sailing.”
+</blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
+
+Offense: not to be dramatic, but this is pretty much the "end goal" of a human life.
+People often have quite different definitions of virtue, but virtue is indeed the goal.
+Virtue is an awkward academic term, so you'll usually hear things couched in another way in everyday life.
+You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
+And you'll hear of folks with those virtues passing away peacefully, whether from sickness of in old age, surrounded by friends and family.
 
 <p>
-In college, I trained for most of a year with a Buddhist priest. 
-The priest had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard.
-He would sometime say to me, the Japanese language saying "Jikishin kore dojo", which means (roughly) "the pure heart is your dojo".
+I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
+He had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard University.
 </p>
 
 <p>
-In other words, the pure heart is your ultimate source of refuge and strength.
-He told me this, with careful seriousness, many times.
+He conveyed that saying, "Jikishin kore dojo" - "the pure heart is your dojo" with careful seriousness, many times.
+He would, as I recall, say it in Japanese first and then in English, ensuring that I understood.
+At the time, it didn't sink deeply into my psyche.
+I saw it as sort of another in a long line of vague aphorisms wielded by the adults in my life.
+Said aphorisms often involved "leadership", which was in vogue in my social milieu in the early 2000s: think school principal speeches and baseball coach pep talks.
 </p>
 
 <p>
