@@ -114,7 +114,8 @@ We've all met people like this: understated, doesn't take themselves too serious
 That's another piece of the reality versus caricature: people like this are happy to join a round of drinks or go out dancing. 
 They're mostly the personality opposites, in fact, of those who can't stop talking about their "spirituality".
 3. The subtle shift that is everything: my experience.
-4. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
+4. The picture of the Ponzi guy. You can just tell he's scum. https://en.wikipedia.org/wiki/Charles_Ponzi
+5. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
 5Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
 The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
