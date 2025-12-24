@@ -13,7 +13,7 @@ _all references via [https://en.wikipedia.org/wiki/Alan_Lightman](https://en.wik
 
 ------------------------------------------
 
-I received this book as a gift from my grandfather when I was around college age. He had excellent taste in books, and in many other things.
+I received this book as a gift from my grandfather when I was around college age. He had excellent taste in books, among other things.
 He was a medical doctor with well-developed intellectual passions outside of medicine. They included mathematics, computing, and philosophy.
 
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.

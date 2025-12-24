@@ -16,9 +16,13 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 <br>
 
 ---
+<p>
+<b>Life can sometime take everything from you other than the fact of being a good person.
+If you don't have that, you might be in trouble.</b>
+</p>
 
+A story about this, from the book The Hero with a Thousand Faces by Joseph Campbell:
 <blockquote>
-hundred carts stood as full as ever.15'
 The second story is of a different style. Tt is told of a young
 prince who had just completed his military studies under a
 world-renowned teacher. Having received, as a symbol of his
@@ -97,6 +101,8 @@ transformed him into a spirit entitled to receive offerings in the
 forest. Having admonished the ogre to be heedful, the youth departed from the forest, and at the mouth of the forest told his
 story to human beings; then went his way.32
 </blockquote> -https://ia601406.us.archive.org/30/items/Birdsfrogsandmirrors/JosephCampbell%20-%20The%20Hero%20With%20a%20Thousand%20Faces%20Commemorative%20Edition.pdf
+
+In that parable
 
 In college, I trained for most of a year with a Buddhist priest. 
 He'd grown up in a Buddhist temple family in Japan, become ordained as a priest, and held multiple degrees in Buddhist studied, including one degree from Harvard.
