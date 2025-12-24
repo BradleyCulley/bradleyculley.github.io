@@ -105,10 +105,17 @@ maybe change to get quote from here? https://themythologyproject.com/prince-five
 
 This sounds like a platitude — "be good" — but there's more to it.
 
-1. A decent person, not a caricature. Talk about the  TODO: fill in
-2. The subtle shift: my experience.
-3. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
-4. Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
+1. A decent person, not a caricature.
+Talk about how both Mike Merrit the astronomy professor, and the ex-con interviewee said essentially the same thing when summarizing their life: I didn't do anything evil.
+Note the tenor of that statement: it's not that they fasted and abstained from anything enjoyable, nor wandered the wilderness, nor studied or followed a particular religion.
+Rather, it's just "I didn't do anything evil".
+2. An interesting take on this that I once read is that the *external* mark of virtue is oddly specific and perhaps unexpected: being <i>unassuming</i>.
+We've all met people like this: understated, doesn't take themselves too seriously, with a core and unshakeable aura of solidity and decency: the pure heart.
+That's another piece of the reality versus caricature: people like this are happy to join a round of drinks or go out dancing. 
+They're mostly the personality opposites, in fact, of those who can't stop talking about their "spirituality".
+3. The subtle shift that is everything: my experience.
+4. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
+5Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
 The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
 The ultimate "get everything taken from you" experience is of course death.
