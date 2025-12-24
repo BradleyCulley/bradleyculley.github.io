@@ -17,22 +17,19 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 
 ---
 <p>
-<b>Life can sometime take everything from you other than the fact of being a good person.
-If you don't have that, you might be in trouble.</b>
+<b>In college, I trained with a Japanese Buddhist priest. He used to tell me, "The pure heart is your dojo".  
+Life tends, on occasion, to take from you everything other than the fact of being a decent person.</b>
 </p>
 
-A story about this, from the book The Hero with a Thousand Faces by Joseph Campbell:
+A story, from the book The Hero with a Thousand Faces by Joseph Campbell:
 <blockquote>
 The second story is of a different style. Tt is told of a young
 prince who had just completed his military studies under a
-world-renowned teacher. Having received, as a symbol of his
-
-distinction, the title Prince Five-weapons, he accepted the five
-weapons that his teacher gave him, bowed, and, armed with the
-new weapons, struck out onto the road leading to the city of his
-father, the king. On the way he came to a certain forest. People
-at the mouth of the forest warned him. "Sir prince, do not enter
-this forest,1
+world-renowned teacher.
+Having received, as a symbol of his distinction, the title Prince Five-weapons, he accepted the five
+weapons that his teacher gave him, bowed, and, armed with the new weapons, struck out onto the road leading to the city of his
+father, the king. On the way he came to a certain forest.
+People at the mouth of the forest warned him. "Sir prince, do not enter this forest,1
 ' they said; "an ogre lives here, named Sticky-hair; he
 kills every man he sees."
 But the prince was confident and fearless as a maned lion. He
@@ -102,15 +99,18 @@ forest. Having admonished the ogre to be heedful, the youth departed from the fo
 story to human beings; then went his way.32
 </blockquote> -https://ia601406.us.archive.org/30/items/Birdsfrogsandmirrors/JosephCampbell%20-%20The%20Hero%20With%20a%20Thousand%20Faces%20Commemorative%20Edition.pdf
 
-In that parable
+In the story 
 
+<p>
 In college, I trained for most of a year with a Buddhist priest. 
-He'd grown up in a Buddhist temple family in Japan, become ordained as a priest, and held multiple degrees in Buddhist studied, including one degree from Harvard.
-One of the things he would say to me is "Jikishin kore dojo", which means (roughly) "the pure heart is your dojo".
+The priest had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard.
+He would sometime say to me, the Japanese language saying "Jikishin kore dojo", which means (roughly) "the pure heart is your dojo".
+</p>
 
-That is to say, the pure heart is your ultimate source of refuge and strength.
-He repeated this saying to me many times.
-
+<p>
+In other words, the pure heart is your ultimate source of refuge and strength.
+He told me this, with careful seriousness, many times.
+</p>
 
 <p>
 "The essence of greatness is the perception that virtue is enough."
