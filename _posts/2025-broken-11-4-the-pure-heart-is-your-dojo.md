@@ -17,9 +17,10 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 
 ---
 <p>
-<b>In college, I trained in Buddhist practice with a Japanese Buddhist priest.
+In college, I trained in Buddhist practice with a Japanese Buddhist priest.
 He used to tell me the saying in Japanese, "Jikishin kore dojo", which means "the pure heart is your dojo".
-Life tends on occasion to take from you everything besides than the fact of being a decent person.</b>
+TODO: Add to the essay a quick explanation of what a dojo is and how it makes sense in the analogy. And a picture of a dojo with someone in it training ideally.
+Life tends on occasion to take from you everything besides than the fact of being a decent person.
 </p>
 
 A story, from the book The Hero with a Thousand Faces by Joseph Campbell:
@@ -109,12 +110,13 @@ This sounds like a platitude — "be good" — but there's more to it.
 Talk about how both Mike Merrit the astronomy professor, and the ex-con interviewee said essentially the same thing when summarizing their life: I didn't do anything evil.
 Note the tenor of that statement: it's not that they fasted and abstained from anything enjoyable, nor wandered the wilderness, nor studied or followed a particular religion.
 Rather, it's just "I didn't do anything evil".
+It's a disservice to virtue to conceptualize it in a caricaturized way.
 2. An interesting take on this that I once read is that the *external* mark of virtue is oddly specific and perhaps unexpected: being <i>unassuming</i>.
 We've all met people like this: understated, doesn't take themselves too seriously, with a core and unshakeable aura of solidity and decency: the pure heart.
 That's another piece of the reality versus caricature: people like this are happy to join a round of drinks or go out dancing. 
 They're mostly the personality opposites, in fact, of those who can't stop talking about their "spirituality".
 3. The subtle shift that is everything: my experience.
-4. The picture of the Ponzi guy. You can just tell he's scum. https://en.wikipedia.org/wiki/Charles_Ponzi
+4. The picture of the Ponzi guy. You can just tell he's scummy. Side note: Ponzi is introduced as a charlatan and con artist in the first paragraph of his Wikipedia article, which is kind of funny. https://en.wikipedia.org/wiki/Charles_Ponzi
 5. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
 5Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
