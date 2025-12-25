@@ -163,6 +163,9 @@ People have wildly different definitions of virtue, but virtue is still their go
 Virtue is an awkward academic term, so you'll usually hear things phrased another way in everyday life.
 You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
 
+Add this somewhere in the essay: Buddhist ethics are intentionalist, meaning it's about what you've intended to do, even if you fail to achieve the intended outcome.
+That fits with "jikishin kore dojo", because it's about controlling the inputs (your own intentions), which is all you really have control over.
+
 <p>
 I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
 He had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard University.
