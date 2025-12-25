@@ -17,13 +17,13 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 
 ---
 <p>
-In college, I trained in Buddhist practice with a Japanese Buddhist priest.
-He used to tell me the saying in Japanese, "Jikishin kore dojo", which means "the pure heart is your dojo".
-TODO: Add to the essay a quick explanation of what a dojo is and how it makes sense in the analogy. And a picture of a dojo with someone in it training ideally.
-Life tends on occasion to take from you everything besides than the fact of being a decent person.
+In college, I trained with a Japanese Buddhist priest.
+He used to tell me the Japanese saying "jikishin kore dojo", which means "the pure heart is your dojo".
+A dojo is a traditional Japanese place of mental and physical training, a sort of refuge of strength.
+Life can sometimes take from you everything other than being a decent person.
 </p>
 
-A story, from the book The Hero with a Thousand Faces by Joseph Campbell:
+A story, from the book The Hero with a Thousand Faces by Joseph Campbell, which I read on my own during the following year of college:
 <blockquote>
 The second story is of a different style. Tt is told of a young
 prince who had just completed his military studies under a
@@ -104,24 +104,47 @@ maybe change to get quote from here? https://themythologyproject.com/prince-five
 
 <hr/>
 
-This sounds like a platitude — "be good" — but there's more to it.
+It sounds like a platitude — "be good" — but there's more to it.
 
-1. A decent person, not a caricature.
-Talk about how both Mike Merrit the astronomy professor, and the ex-con interviewee said essentially the same thing when summarizing their life: I didn't do anything evil.
+1. A decent person, not a caricature of virtue.
+Talk about how both Mike Merritt the astronomy professor, and the ex-con interviewee said essentially the same thing when summarizing their life: I didn't do anything evil.
 Note the tenor of that statement: it's not that they fasted and abstained from anything enjoyable, nor wandered the wilderness, nor studied or followed a particular religion.
-Rather, it's just "I didn't do anything evil".
+
 It's a disservice to virtue to conceptualize it in a caricaturized way.
-2. An interesting take on this that I once read is that the *external* mark of virtue is oddly specific and perhaps unexpected: being <i>unassuming</i>.
-We've all met people like this: understated, doesn't take themselves too seriously, with a core and unshakeable aura of solidity and decency: the pure heart.
-That's another piece of the reality versus caricature: people like this are happy to join a round of drinks or go out dancing. 
-They're mostly the personality opposites, in fact, of those who can't stop talking about their "spirituality".
+This is particularly true as it applies to young people.
+I think well-intentioned aspects of organized religion can inadvertently push people away from virtue.
+Thinking about the lives of famous saints in various religions, pretty much all of them sound, to be blunt, not super fun, especially if you're like 14 years old.
+And yet the earlier you start being a decent person, the stronger the effect, in a disproportionate way.
+2. An interesting take I once read is that the *external* mark of virtue is oddly specific: being <i>unassuming</i>. --TODO cite Chris Ebbert post about that
+We've all met people like this: understated, doesn't take themselves super seriously, and an unshakeable aura of solidity and decency. The pure heart.
+Pretty much every plumber I've ever was like this.
+Another translation of "jikishin kore dojo" is "straightforward mind is the Dojo". -https://www.mountaincloud.org/straightforward-mind-is-the-dojo/
+People like this are happy to join a round of drinks or go out dancing.
+In fact they're quite the opposite of those who won't stop talking about their "spirituality" (😂).
 3. The subtle shift that is everything: my experience.
-4. The picture of the Ponzi guy. You can just tell he's scummy. Side note: Ponzi is introduced as a charlatan and con artist in the first paragraph of his Wikipedia article, which is kind of funny. https://en.wikipedia.org/wiki/Charles_Ponzi
+Many years ago, and also in college, I experienced this firsthand.
+In particular, I went from more of a "hmmm, am I the good guy here?" to a certainty that I was entirely decent.
+
+4. This is Charles Ponzi, the person the "Ponzi scheme" is named after.
+<blockquote>
+While this type of fraudulent investment scheme was not invented by Ponzi, it became so identified with him that it now is referred to as a "Ponzi scheme". His scheme ran for over a year before it collapsed, costing his "investors" $20 million (equivalent to $237 million in 2024).
+</blockquote> -https://en.wikipedia.org/wiki/Charles_Ponzi
+I remember talking with someone about him, then looking him up and seeing that photo.
+I remember thinking something like "wow, he just <i>looks</i> scummy".
+Side note: Ponzi is introduced as a "charlatan and con artist" in the first paragraph of his Wikipedia article, which is kind of funny. https://en.wikipedia.org/wiki/Charles_Ponzi
 5. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
 5Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
 The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
 The ultimate "get everything taken from you" experience is of course death.
+6. Self-sabotage is a real thing. I'm not a psychologist, but I think a real factor is one's sense of oneself.
+While it doesn't always win in immediate decision-making, I think most people have a moral compass of some sort.
+The key mistake is to think the compass isn't being applied <i>to you</i>, <i>by you</i>.
+And the thing is, generally nobody has more control over you, than you.
+Former CIA intelligence officer Andrew Bustamante recounted his experience - TODO fill in the detail of the story and add a citation.
+Former Navy SEAL and famous ultramarathon runner David Goggins said "your mind has the ultimate tactical advantage over you" --TODO add citation.
+If you don't, fundamentally, see yourself as someone decent, your mind will, in my opinion, tend to use that fact against you.
+But the contrary is also true: thus the story of Prince Five-Weapons.
 
 Henry David Thoreau had a nice turn of phrase in this regard:
 <blockquote>
@@ -135,11 +158,10 @@ On his deathbed, Henry David Thoreau was asked by his aunt Louisa if he had made
 His last words were, “Now comes good sailing.”
 </blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
 
-Offense: not to be dramatic, but this is pretty much the "end goal" of a human life.
-People often have quite different definitions of virtue, but virtue is indeed the goal.
-Virtue is an awkward academic term, so you'll usually hear things couched in another way in everyday life.
+Offense: not to be dramatic, but this is kind of the "end goal" of a human life.
+People have wildly different definitions of virtue, but virtue is still their goal.
+Virtue is an awkward academic term, so you'll usually hear things phrased another way in everyday life.
 You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
-And you'll hear of folks with those virtues passing away peacefully, whether from sickness of in old age, surrounded by friends and family.
 
 <p>
 I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
@@ -147,11 +169,11 @@ He had grown up in a Buddhist temple family in Japan, become ordained, and held 
 </p>
 
 <p>
-He conveyed that saying, "Jikishin kore dojo" - "the pure heart is your dojo" with careful seriousness, many times.
-He would, as I recall, say it in Japanese first and then in English, ensuring that I understood.
-At the time, it didn't sink deeply into my psyche.
-I saw it as sort of another in a long line of vague aphorisms wielded by the adults in my life.
-Said aphorisms often involved "leadership", which was in vogue in my social milieu in the early 2000s: think school principal speeches and baseball coach pep talks.
+He conveyed that saying, "jikishin kore dojo" - "the pure heart is your dojo" with careful seriousness, many times.
+He would, as I recall, generally say it in Japanese first and then in English, ensuring that I understood.
+At the time, it didn't stick much in my psyche.
+I saw it as another of the vague aphorisms sometimes wielded by the adults in my life.
+These aphorisms often involved "leadership", which was in particularly vogue in my social milieu in the early 2000s. Think school principal speeches and baseball coach pep talks.
 </p>
 
 <p>
