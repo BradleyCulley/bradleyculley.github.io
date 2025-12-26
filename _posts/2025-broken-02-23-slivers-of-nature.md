@@ -22,6 +22,8 @@ And mention what Dennis said about how places like the edges of parking lots are
 Mention the David Foster Wallace essay about the actuary, who uses the little park area outside the office something like "rather like a ship's captain uses the stars to navigate" (look up the exact quote).
 Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods" and Central Park?), and how he created an area that mimics that biome, as I recall.
 
+Talk about the swimming pool and [was it a country club] at night?
+
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
 Heterotopia is a concept elaborated by philosopher Michel Foucault to describe certain cultural, institutional and discursive spaces that are somehow "other": disturbing, intense, incompatible, contradictory or transforming.
