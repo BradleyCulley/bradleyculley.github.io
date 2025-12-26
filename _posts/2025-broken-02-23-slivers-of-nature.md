@@ -25,7 +25,7 @@ Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods"
 
 Talk about the swimming pool and [was it a country club] at night?
 
-Talk about Sanka Park in Kathmandu
+Talk about Shankha Park in Kathmandu
 
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
