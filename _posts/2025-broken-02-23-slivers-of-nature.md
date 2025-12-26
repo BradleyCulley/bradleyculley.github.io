@@ -8,6 +8,7 @@
 
 I used to live in Binghamton, New York, and work nearby.
 I found this a park nearby, https://www.bringfido.com/attraction/10830
+Get the images for the park from Flickr
 
 I used to live and work in Northeastern Virginia.
 One of the unique aspects of Northeastern Virginia is there are miniature parks sprinkled through the expanse of suburbs that comprise the greater Fairfax area.
