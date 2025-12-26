@@ -25,6 +25,8 @@ Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods"
 
 Talk about the swimming pool and [was it a country club] at night?
 
+Talk about Sanka Park in Kathmandu
+
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
 Heterotopia is a concept elaborated by philosopher Michel Foucault to describe certain cultural, institutional and discursive spaces that are somehow "other": disturbing, intense, incompatible, contradictory or transforming.
