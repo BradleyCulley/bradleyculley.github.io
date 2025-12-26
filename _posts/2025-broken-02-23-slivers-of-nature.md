@@ -27,6 +27,8 @@ Talk about the swimming pool and [was it a country club] at night?
 
 Talk about Shankha Park in Kathmandu
 
+I think a lot of people have places like this, and find great value in their time there
+
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
 Heterotopia is a concept elaborated by philosopher Michel Foucault to describe certain cultural, institutional and discursive spaces that are somehow "other": disturbing, intense, incompatible, contradictory or transforming.
