@@ -16,6 +16,8 @@ I used to regularly spend time in these parks.
 
 Talk about the slivers of nature. For example, the mini parks in Northern Virginia and how neat they are.
 Talk in particular about the one mini park I saw in a video and it turned out to be like 10 minutes from where I lived, so I went there and walked it as was seen in the video.
+This is that mini park: https://www.youtube.com/watch?v=ynLpZGegiJE.
+<img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
 
 Link the video of walking in the rain in the one that I posted on Facebook years ago. 
 And mention what Dennis said about how places like the edges of parking lots are is some ways more wild than even deep in pure nature, such as the middle of a large forest.` 
