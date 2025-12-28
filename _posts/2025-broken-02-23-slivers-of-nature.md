@@ -6,6 +6,8 @@
 
 <hr/>
 
+My father used to say that places like the edges of parking lots are somehow more wild than places deep in true wilderness.
+
 I used to live in Binghamton, New York, and work nearby.
 I found this a park nearby, https://www.bringfido.com/attraction/10830
 Get the images for the park from Flickr
@@ -17,10 +19,10 @@ I used to regularly spend time in these parks.
 Talk about the slivers of nature. For example, the mini parks in Northern Virginia and how neat they are.
 Talk in particular about the one mini park I saw in a video and it turned out to be like 10 minutes from where I lived, so I went there and walked it as was seen in the video.
 This is that mini park: https://www.youtube.com/watch?v=ynLpZGegiJE.
+Recommend skipping through the video to see the different parts of the park, or if you're looking to relax for a bit, watching the whole thing. 
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
-
-Link the video of walking in the rain in the one that I posted on Facebook years ago. 
-And mention what Dennis said about how places like the edges of parking lots are is some ways more wild than even deep in pure nature, such as the middle of a large forest.` 
+Much of the magic of the park was that, as one can see in the video, there were residential homes all around it.
+It was like being in a backyard tree fort: both near to people and somehow away from it all.
 
 Mention the David Foster Wallace essay about the actuary, who uses the little park area outside the office something like "rather like a ship's captain uses the stars to navigate" (look up the exact quote).
 Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods" and Central Park?), and how he created an area that mimics that biome, as I recall.
@@ -29,7 +31,7 @@ Talk about the swimming pool and [was it a country club] at night?
 
 Talk about Shankha Park in Kathmandu
 
-I think a lot of people have places like this, and find great value in their time there
+I think many people have places like this. Santuaries from the world.
 
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
