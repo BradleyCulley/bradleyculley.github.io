@@ -26,6 +26,7 @@ When you're sitting by a river bank you see a world of fractals: stones, leaves,
 The mathematician Benoit Mandelbrot discovered this fact about nature: its patterns are fractals.
 <add a photo of the mandelbrot set>
 
+Probably remove this part: the writing advice to be positive, not negative!
 Sitting in that utter beauty, in a town (Binghamton) that my coworker at a nearby restaurant — a local to the area — once called "a cesspool of drugs and debauchery", one has to wonder.
 One has to wonder, in the largest sense possible, what's going on here on this planet?
 I once heard it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense." --TODO: try to find citation
