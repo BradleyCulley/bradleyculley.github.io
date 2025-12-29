@@ -1,76 +1,83 @@
 ## <div align="center">Slivers of Nature<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+  <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
 </div>
 
 <hr/>
 
-My father used to say hat places like the sliver of forest at the edge of parking lots are somehow more wild than even places deep in the wilderness.
-
-Around 2012-2014, I lived and worked in the Binghamton, New York area.
-At a certain point, I found this park:
-<add image of the park here>
-
-It's called "Canine Commons Dog Park". It's a dog park and I've never had a dog, but I checked it out anyway.
-
-This is the entrance to the park. As unremarkable as can be, which somehow supported the feelings of divinity to in the park.
-<add photo of the entrace of the park>
-
 <p>
-I found a small path leading from the park's main road to a stream just below. 
-The stream was pretty much hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
-Once down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree by the riverside.
-I took this photo from near that tree:<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
+My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep wilderness.
 </p>
 
 <p>
-I was mesmerized by the streambed — the elegance of the rocks and the water.
-Some photos I took:<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
-
-That last photo was I think from right at or right near the tree with the roots that formed a seat. 
+From late 2018 to early 2020, I lived and worked in Northeastern Virginia.
+A nice aspect of Northeastern Virginia is the miniature parks sprinkled through the expanse of suburbs that comprise it.
 </p>
 
 <p>
-When you sit in such a place, you see a world of fractals: stones, leaves, patterns in the water.
-I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense." --TODO: try to find citation
-</p>
-
-About 5 years later, I lived and worked in Northeastern Virginia.
-One of the unique aspects of Northeastern Virginia is the miniature parks sprinkled through the expanse of suburbs around the greater Fairfax area.
-I used to really enjoy spending time in these parks.
-
-I happened to see this video of walking through a park that randomly turned out to be right nearby in Virginia.
-This is the park (click the image to open the video — opens in a new tab:
+During that time, I chanced across this video of a person walking in the rain through a park, and that park randomly turned out to be right nearby.
+It's Pimmit View Park in Falls Church, Virginia.
+This is the video (click the image to open the video in a new tab):
 TODO: create a screenshot that's clickable and opens in a new tab
 https://www.youtube.com/watch?v=ynLpZGegiJE
+</p>
 
 More photos of the park:
 <add a few photos of the park>
 <add the screenshot of the person giving the location of the park>
 
-I went there and walked the circuit in the park seen in the video.
+I walked the circuit just as you can see in the video.
+Much of the magic was that, as one can see in the video, there were residential homes all around.
+It was like being in a backyard tree fort: both near to people and somehow in another world.
 
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
 
-Much of the magic was that, as one can see in the video, there were residential homes all around the park.
-It was like being in a backyard tree fort: both near to people and somehow away from it all.
-
-I once walked through once of those Northeastern Virginia parks with my father. We enjoyed this sign in the park:
+<p>
+Later, I walked through on of those Northeastern Virginia parks with my father.
+Looking back, it's perhaps no accident, but rather shared inclination, that that was the activity we did together, rather than, say, going to a museum.
+A sign we came across in the park:
 <add the photo from the park, and work to figure out which park it was, if I can>
+</p>
 
+<p>
+About 5 years earlier, I lived and worked in the Binghamton, New York area.
+At a certain point, I found this park:
+<add image of the park here>
+</p>
 
+It's called "Canine Commons Dog Park". It's a dog park and I've never had a dog, but I went there anyway.
+
+This is the entrance to the park.
+The surroundings are as unremarkable as can be, which somehow supported the feelings of divinity I experienced there.
+<add photo of the entrace of the park>
+
+<p>
+I found a small path leading from the park's main road to a stream just below. 
+The stream was pretty much hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
+Down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree by the riverside.
+I took this photo from near that tree:<br/>
+<img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+</p>
+
+<p>
+I was mesmerized by the streambed — the elegance of the rocks and the water.
+This one is I think from right at or near the tree with the roots that formed a seat:<br/>
+<img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+</p>
+
+<p>
+When you sit in such a place, you see a world of fractals: stones, leaves, patterns in the water.
+The paradox is being in that utter beauty in a town (Binghamton) that a former coworker — who was from to the area originally — once called "a cesspool of drugs and debauchery" (he wasn't wrong).
+One has to wonder, in the largest sense possible, what exactly is going on here in this universe?
+</p>
 
 <add a photo of the mandelbrot set>
 
 The mathematician Benoit Mandelbrot discovered this fact about nature: its patterns tend to be fractals.
 
-
 Probably remove this part: the writing advice to be positive, not negative!
-Sitting in that utter beauty, in a town (Binghamton) that my coworker at a nearby restaurant — a local to the area — once called "a cesspool of drugs and debauchery", one has to wonder.
-One has to wonder, in the largest sense possible, what's going on here on this planet?
+
 
 https://www.bringfido.com/attraction/10830
 Get the photos I took of the park from Flickr
