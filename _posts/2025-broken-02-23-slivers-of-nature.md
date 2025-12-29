@@ -1,7 +1,7 @@
 ## <div align="center">Slivers of Nature<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
+  <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </div>
 
 <hr/>
@@ -21,14 +21,13 @@ This is the entrance to the park. As unremarkable as can be, which somehow suppo
 I found a small path leading from the park's main road to a stream just below. 
 The stream was pretty much hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
 Once down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree by the riverside.
-I took this photo from near that tree:
+I took this photo from near that tree:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
 </p>
 
 <p>
-I remember being mesmerized by the streambed - the rocks and the water.
-Some photos I took that show more of the streambed:
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+I was mesmerized by the streambed — the elegance of the rocks and the water.
+Some photos I took:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 
 That last photo was I think from right at or right near the tree with the roots that formed a seat. 
