@@ -100,7 +100,7 @@ Maybe mention the David Foster Wallace essay about the actuary, who uses the lit
 
 Talk about Shankha Park in Kathmandu
 
-I think many people have places like this. Sanctuaries from the world.
+I think many people find and get great satisfactions from places like this
 
 Good even mention Foucault's idea of "heterotopias":
 <blockquote>
