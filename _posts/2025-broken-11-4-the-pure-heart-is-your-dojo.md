@@ -121,6 +121,10 @@ Pretty much every plumber I've ever was like this.
 Another translation of "jikishin kore dojo" is "straightforward mind is the Dojo". -https://www.mountaincloud.org/straightforward-mind-is-the-dojo/
 People like this are happy to join a round of drinks or go out dancing.
 In fact they're quite the opposite of those who won't stop talking about their "spirituality" (😂).
+
+Add the Devkota poem quote about the ascetic being a deserter
+
+"https://fixquotes.com/quotes/receiving-far-less-attention-are-the-working-117529.htm?utm_source=chatgpt.com" -John Lennon, TODO: add citation, and see if there's 
 3. The subtle shift that is everything: my experience.
 Many years ago, and also in college, I experienced this firsthand.
 In particular, I went from more of a "hmmm, am I the good guy here?" to a certainty that I was entirely decent.

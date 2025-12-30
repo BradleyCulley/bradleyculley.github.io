@@ -68,16 +68,18 @@ This one is I think from right at or near the tree with the roots that formed a 
 
 <p>
 When you sit in such a place, you see a world of fractals: stones, leaves, patterns in the water.
-The paradox is being in that utter beauty in a town (Binghamton) that a former coworker — who was from to the area originally — once called "a cesspool of drugs and debauchery" (he wasn't wrong).
-One has to wonder, in the largest sense possible, what exactly is going on here in this universe?
-</p>
+A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (he wasn't wrong).
+The paradox of spending time along the stream at Canine Commons Dog Park, in such a crazy surrounding town, is parallel to the idea of a sliver of nature.
 
-<add a photo of the mandelbrot set>
+<p>
+A sliver of nature involves the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the tranquil cluster of trees just beyond it.
+Similarly, I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
+Contemplating the streambed in Binghamton, then, one has to wonder, in the largest sense possible, what exactly is going on here in this universe?
+</p>
 
 The mathematician Benoit Mandelbrot discovered this fact about nature: its patterns tend to be fractals.
 
 Probably remove this part: the writing advice to be positive, not negative!
-
 
 https://www.bringfido.com/attraction/10830
 Get the photos I took of the park from Flickr
