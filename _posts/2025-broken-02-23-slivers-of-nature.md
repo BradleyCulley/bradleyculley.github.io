@@ -46,44 +46,51 @@ At a certain point, I found this park:
 <add image of the park here>
 </p>
 
-It's called "Canine Commons Dog Park". It's a dog park and I've never had a dog, but I went there anyway.
+<p>
+It's called "Canine Commons Dog Park". It's a dog park and I've never had a dog, but I went anyway.
+</p>
 
+<p>
 This is the entrance to the park.
 The surroundings are as unremarkable as can be, which somehow supported the feelings of divinity I experienced there.
-<add photo of the entrace of the park>
+TODO: add photo of the entrance of the park
+</>
 
 <p>
 I found a small path leading from the park's main road to a stream just below. 
-The stream was pretty much hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
-Down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree by the riverside.
+The stream was fairly hidden from the roads that ran parallel to it, and just a few yards away, on both sides: the highway on the one side and the road inside the park on the other.
+You can see the layout here:
+TODO: add a screenshot with annotations from Google maps
+</p>
+
+<p>
+Down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree on the bank of the stream.
 I took this photo from near that tree:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </p>
 
 <p>
 I was mesmerized by the streambed — the elegance of the rocks and the water.
-This one is I think from right at or near the tree with the roots that formed a seat:<br/>
+This one is I think from right about the seat with the roots itself - the branches running across the photo might be :<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 </p>
 
 <p>
 When you sit in such a place, you see a world of fractals: stones, leaves, patterns in the water.
-A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (he wasn't wrong).
-The paradox of spending time along the stream at Canine Commons Dog Park, in such a crazy surrounding town, is parallel to the idea of a sliver of nature.
 
-<p>
-A sliver of nature involves the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the tranquil cluster of trees just beyond it.
-Similarly, I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
-Contemplating the streambed in Binghamton, then, one has to wonder, in the largest sense possible, what exactly is going on here in this universe?
+Perhaps remove:
+A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (he wasn't wrong).
+There's a funny paradox of such a beautiful stream in such a troubled surrounding town.
+Similarly, a sliver of nature contrasts between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil cluster of pine trees just beyond it.
+I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
+Contemplating the streambed in Binghamton brings up the question, in the largest sense possible, of what exactly is going on here in this universe?
 </p>
 
-The mathematician Benoit Mandelbrot discovered this fact about nature: its patterns tend to be fractals.
-
-Probably remove this part: the writing advice to be positive, not negative!
+<p>
+</p>
 
 https://www.bringfido.com/attraction/10830
 Get the photos I took of the park from Flickr
-
 
 Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods" and Central Park?), and how he created at his home in Maine an area that mimics that biome, as I recall.
 
