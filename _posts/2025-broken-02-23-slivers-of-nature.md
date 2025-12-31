@@ -12,12 +12,12 @@ My father used to say that places like the sliver of forest at the edge of a par
 
 <p>
 From late 2018 to early 2020, I lived and worked in Northeastern Virginia.
-A nice aspect of Northeastern Virginia is the miniature parks sprinkled through the expanse of suburbs that comprise it.
+A nice aspect of that area is the miniature parks sprinkled through the suburban neighborhoods.
 </p>
 
 <p>
-During that time, I chanced across this video of a person walking in the rain through a park, and that park randomly turned out to be right nearby.
-It's Pimmit View Park in Falls Church, Virginia.
+While living there, I chanced across a video of a person walking in the rain through a park, and that park randomly turned out to be right nearby.
+The park is Pimmit View Park in Falls Church, Virginia.
 This is the video (click the image to open the video in a new tab):
 TODO: create a screenshot that's clickable and opens in a new tab
 https://www.youtube.com/watch?v=ynLpZGegiJE
@@ -34,11 +34,13 @@ It was like being in a backyard tree fort: both near to people and somehow in an
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
 
 <p>
-Later, I walked through on of those Northeastern Virginia parks with my father.
-Looking back, it's perhaps no accident, but rather shared inclination, that that was the activity we did together, rather than, say, going to a museum.
+Later, I walked through one of those Northeastern Virginia parks with my father.
+Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did together, rather than, say, going to a museum.
 A sign we came across in the park:
 <add the photo from the park, and work to figure out which park it was, if I can>
 </p>
+
+<hr/>
 
 <p>
 About 5 years earlier, I lived and worked in the Binghamton, New York area.
@@ -52,42 +54,60 @@ It's called "Canine Commons Dog Park". It's a dog park and I've never had a dog,
 
 <p>
 This is the entrance to the park.
-The surroundings are as unremarkable as can be, which somehow supported the feelings of divinity I experienced there.
+The surroundings are as unremarkable as can be, which somehow supported the feeling of divinity to the place.
 TODO: add photo of the entrance of the park
-</>
+</p>
 
 <p>
 I found a small path leading from the park's main road to a stream just below. 
-The stream was fairly hidden from the roads that ran parallel to it, and just a few yards away, on both sides: the highway on the one side and the road inside the park on the other.
+The stream was fairly hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
+There's a highway on the one side and the main road inside the park on the other.
 You can see the layout here:
 TODO: add a screenshot with annotations from Google maps
 </p>
 
 <p>
-Down at the steam, I would often sit in a sort of natural seat formed by the roots of a tree on the bank of the stream.
-I took this photo from near that tree:<br/>
+Down at the steam, I'd often sit in a natural seat formed by the roots of a tree on the streambank.
+I took this photo from near the tree:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </p>
 
 <p>
-I was mesmerized by the streambed — the elegance of the rocks and the water.
-This one is I think from right about the seat with the roots itself - the branches running across the photo might be :<br/>
+The streambed mesmerized me — the elegance of the rocks and the water.
+This is a photo from I think the seat with the roots itself, or very close by:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+
+I think the branches running across the photo are the branches of the tree with the branches seat.
 </p>
 
 <p>
-When you sit in such a place, you see a world of fractals: stones, leaves, patterns in the water.
+I think a lot of people have a sort of refuge like this.
+Perhaps courtyard where they take their lunch break, or their garden at home where they relax after a long day.
+</p>
+
+<p>
+When you sit in such a place as that streambed, you see a world of fractals: stones, leaves, patterns in the water.
 
 Perhaps remove:
-A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (he wasn't wrong).
-There's a funny paradox of such a beautiful stream in such a troubled surrounding town.
-Similarly, a sliver of nature contrasts between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil cluster of pine trees just beyond it.
+A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (which is kind of funny, but he wasn't wrong).
+Around the apartment in which I lived, there was constant criminal activity, police activity, and all-around bad behavior.
+</p>
+
+<p>
+There's a certain contrast of such a beautiful place with such a troubled town.
+Similarly, the idea of a sliver of nature embodies a contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil group of pine trees just beyond the edge of the asphalt.
+</p>
+
+<p>
+Years later, I was recollecting the streambed and decided to navigate with Google Maps's street view until I found the park.
+When I finally navigated to it and realized I'd found it - Canine Commons Dog Park - I felt an emotion akin to transcendence in the midst of the uglier side of everyday life.
+</p>
+
+<p>
 I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
 Contemplating the streambed in Binghamton brings up the question, in the largest sense possible, of what exactly is going on here in this universe?
 </p>
 
-<p>
-</p>
 
 https://www.bringfido.com/attraction/10830
 Get the photos I took of the park from Flickr
