@@ -149,6 +149,14 @@ Former CIA intelligence officer Andrew Bustamante recounted his experience - TOD
 Former Navy SEAL and famous ultramarathon runner David Goggins said "your mind has the ultimate tactical advantage over you" --TODO add citation.
 If you don't, fundamentally, see yourself as someone decent, your mind will, in my opinion, tend to use that fact against you.
 But the contrary is also true: thus the story of Prince Five-Weapons.
+7. One of my father's longtime friends used to work at a frozen yogurt shop.
+It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
+My father's friend said the other guy was cool - fine to work with and so on.
+Then one day, the other guy - the coworkers - was made the manager of the frozen yogurt shop.
+He instantly became an enormous jerk.
+That's another piece of the pure heart, which you could call the "Star Wars" piece: not letting power, or abuse from others, or just the storms of life, turn you into the kind of person you used to hate.
+There's a satisfaction to living long enough to not see yourself become the villian.
+Attaining the position of power, and refusing to abuse it.
 
 Henry David Thoreau had a nice turn of phrase in this regard:
 <blockquote>
@@ -161,6 +169,8 @@ On his deathbed, Henry David Thoreau was asked by his aunt Louisa if he had made
 
 His last words were, “Now comes good sailing.”
 </blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
+
+
 
 Offense: not to be dramatic, but this is kind of the "end goal" of a human life.
 People have wildly different definitions of virtue, but virtue is still their goal.

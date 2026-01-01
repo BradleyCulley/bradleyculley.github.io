@@ -12,26 +12,32 @@ My father used to say that places like the sliver of forest at the edge of a par
 
 <p>
 From late 2018 to early 2020, I lived and worked in Northeastern Virginia.
-A nice aspect of that area is the miniature parks sprinkled through the suburban neighborhoods.
+A nice aspect of Northeastern Virginia is the miniature parks that are sprinkled through the suburban neighborhoods.
 </p>
 
 <p>
-While living there, I chanced across a video of a person walking in the rain through a park, and that park randomly turned out to be right nearby.
+While living there, I chanced across a video of a person walking in the rain through a park, and the park randomly turned out to be right nearby.
 The park is Pimmit View Park in Falls Church, Virginia.
 This is the video (click the image to open the video in a new tab):
 TODO: create a screenshot that's clickable and opens in a new tab
 https://www.youtube.com/watch?v=ynLpZGegiJE
+
+It's really quite a pleasant short film.
 </p>
 
+<p>
 More photos of the park:
 <add a few photos of the park>
 <add the screenshot of the person giving the location of the park>
+</p>
 
-I walked the circuit just as you can see in the video.
-Much of the magic was that, as one can see in the video, there were residential homes all around.
-It was like being in a backyard tree fort: both near to people and somehow in another world.
+<p>
+I walked the circuit just as in the video.
+Much of the magic was that, as one can see in the video, there were homes all around.
+It was like being in a backyard tree fort: both near to people and in another world.
 
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
+</p>
 
 <p>
 Later, I walked through one of those Northeastern Virginia parks with my father.
@@ -91,46 +97,23 @@ Perhaps it's the courtyard where they take their lunch break, or their garden at
 
 <p>
 When you sit in such a place as that streambed, you see a world of fractals: stones, leaves, patterns in the water.
+</p>
+
+<p>
 A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (which is kind of funny, but he wasn't wrong).
-Around where I lived, there was constant criminal activity, constant police activity, and constant all-around shammy behavior.
+Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior.
 </p>
 
 <p>
-There's a certain contrast of such a beautiful place being in such a troubled town.
-Similarly, the idea of a sliver of nature embodies the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil cluster of pine trees just beyond the edge of the asphalt.
+There's a certain contrast to such a beautiful place being in such a troubled town.
+Similarly, the idea of a sliver of nature involves the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil cluster of pine trees just beyond the asphalt.
 </p>
 
 <p>
-Years later, I was recollecting the streambed and decided to navigate with Google Maps's street view until I found the park.
-When I finally navigated to the park and realized I'd found it - Canine Commons Dog Park - I felt an emotion akin to transcendence in the midst of the uglier side of everyday life.
+Years later, I was thinking back to that streambed and decided to navigate with Google Maps's street view until I found the park.
+When I finally navigated to the park and realized I'd found it - Canine Commons Dog Park - I felt a surprisingly strong emotion, akin to transcendence amidst the uglier side of everyday life.
 </p>
 
-
-
-<p>
-I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
-Contemplating the streambed in Binghamton brings up the question, in the largest sense possible, of what exactly is going on here in this universe?
-</p>
-
-
-https://www.bringfido.com/attraction/10830
-Get the photos I took of the park from Flickr
-
-Talk about my father's fascination with Van Cortland Park (and the "Bronx Woods" and Central Park?), and how he created at his home in Maine an area that mimics that biome, as I recall.
-
-Talk about the Denis swimming pool and [was it a country club] at night?
-
-Maybe mention the David Foster Wallace essay about the actuary, who uses the little park area outside the office something like "rather like a ship's captain uses the stars to navigate" (look up the exact quote).
-
-Talk about Shankha Park in Kathmandu
-
-I think many people find and get great satisfactions from places like this
-
-Good even mention Foucault's idea of "heterotopias":
-<blockquote>
-Heterotopia is a concept elaborated by philosopher Michel Foucault to describe certain cultural, institutional and discursive spaces that are somehow "other": disturbing, intense, incompatible, contradictory or transforming.
-Heterotopias are "worlds within worlds": both similar to their surroundings, and contrasting with or upsetting them.
-</blockquote>
 
 <br/>
 Sources:<br/>
@@ -139,4 +122,3 @@ Sources:<br/>
 ³: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
 ⁴: <a href="https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/">https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/</a><br/>
 
-https://en.wikipedia.org/wiki/Heterotopia_(space)
