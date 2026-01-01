@@ -58,10 +58,12 @@ The surroundings are as unremarkable as can be, which somehow supported the feel
 TODO: add photo of the entrance of the park
 </p>
 
+<hr/>
+
 <p>
 I found a small path leading from the park's main road to a stream just below. 
 The stream was fairly hidden from the roads that ran parallel to it, and just a few yards away, on both sides.
-There's a highway on the one side and the main road inside the park on the other.
+There's a highway on one side and the main road inside the park on the other.
 You can see the layout here:
 TODO: add a screenshot with annotations from Google maps
 </p>
@@ -73,35 +75,37 @@ I took this photo from near the tree:<br/>
 </p>
 
 <p>
-The streambed mesmerized me — the elegance of the rocks and the water.
-This is a photo from I think the seat with the roots itself, or very close by:<br/>
+The streambed mesmerized me; the elegance of the rocks and the water.
+This is a photo from I think right at the seat with the roots, or very close by:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 
-I think the branches running across the photo are the branches of the tree with the branches seat.
+I think the branches running across the photo are the branches of that tree.
 </p>
 
+<hr/>
+
 <p>
-I think a lot of people have a sort of refuge like this.
-Perhaps courtyard where they take their lunch break, or their garden at home where they relax after a long day.
+I think a lot of people have a haven like this.
+Perhaps it's the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
 When you sit in such a place as that streambed, you see a world of fractals: stones, leaves, patterns in the water.
-
-Perhaps remove:
 A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (which is kind of funny, but he wasn't wrong).
-Around the apartment in which I lived, there was constant criminal activity, police activity, and all-around bad behavior.
+Around where I lived, there was constant criminal activity, constant police activity, and constant all-around shammy behavior.
 </p>
 
 <p>
-There's a certain contrast of such a beautiful place with such a troubled town.
-Similarly, the idea of a sliver of nature embodies a contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil group of pine trees just beyond the edge of the asphalt.
+There's a certain contrast of such a beautiful place being in such a troubled town.
+Similarly, the idea of a sliver of nature embodies the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the small tranquil cluster of pine trees just beyond the edge of the asphalt.
 </p>
 
 <p>
 Years later, I was recollecting the streambed and decided to navigate with Google Maps's street view until I found the park.
-When I finally navigated to it and realized I'd found it - Canine Commons Dog Park - I felt an emotion akin to transcendence in the midst of the uglier side of everyday life.
+When I finally navigated to the park and realized I'd found it - Canine Commons Dog Park - I felt an emotion akin to transcendence in the midst of the uglier side of everyday life.
 </p>
+
+
 
 <p>
 I once saw it put that if life were a video game, the review would be "the graphics are amazing but the plot makes no sense".
