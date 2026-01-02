@@ -69,7 +69,7 @@ It's "Canine Commons Dog Park" — a dog park, and I've never had a dog, but I w
 
 <p>
 This is the entrance to the park:
-<todo add photo of the entrace to the park>
+---todo add photo of the entrance to the park--
 The surroundings are as unremarkable as can be, which somehow supported the feeling of divinity to the place.
 TODO: add photo of the entrance of the park.
 </p>
@@ -85,16 +85,17 @@ TODO: add a screenshot showing the layout, with annotations from Google maps
 
 <p>
 At the stream, I'd often sit in a natural seat formed by the roots of a tree on the streambank.
-I took this photo from near the tree:<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+I took this photo from the seat, or right nearby:<br/>
+<img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+<br/>
+I think the branches running across the photo are the branches of that tree.
 </p>
 
-<p>
-The streambed mesmerized me; the elegance of the rocks and the water.
-I took this one from right at the seat with the roots, or very close by:<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+<hr/>
 
-I think the branches running across the photo are the branches of that tree.
+<p>
+The streambed mesmerized me; the elegance of the rocks and the water.<br/>
+<img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </p>
 
 <hr/>
@@ -109,18 +110,20 @@ At the streambed, you see a world of fractals: stones, leaves, patterns in the w
 </p>
 
 <p>
-A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery", which is kind of funny, but he wasn't wrong.
+A former coworker — who was from the area originally — once called Binghamton "a cesspool of drugs and debauchery", which is kind of funny, but he wasn't wrong.
 Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior, although still some good people.
 </p>
 
+<hr/>
+
 <p>
-There's a certain aesthetic contrast of such a beautiful place in such a troubled town.
+There's an aesthetic contrast of such a beautiful place in such a troubled town.
 Similarly, a sliver of nature involves a physical contrast.
 That's to say, the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the tranquil cluster of pines just beyond the asphalt.
 </p>
 
 <p>
-Years later, I was recollecting the park and decided to find it with Google Maps's street view.
+Years later, I was recollecting the park and decided to find it using Google Maps's street view.
 When I finally found it, I experienced a surprisingly strong emotion: something like transcendence amidst the grit of everyday life.
 </p>
 
