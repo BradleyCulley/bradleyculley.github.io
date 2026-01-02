@@ -7,11 +7,11 @@
 <hr/>
 
 <p>
-My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep wilderness.
+My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep wilderness.
 </p>
 
 <p>
-From late 2018 to early 2020, I lived and worked in Northeastern Virginia.
+From mid-2018 to early 2020, I lived and worked in Northeastern Virginia.
 A nice aspect of Northeastern Virginia is the miniature parks that are sprinkled through the suburban neighborhoods.
 </p>
 
@@ -33,8 +33,8 @@ More photos of the park:
 
 <p>
 I walked the circuit just as in the video.
-Much of the magic was that, as one can see in the video, there were homes all around.
-It was like being in a backyard tree fort: both near to people and in another world.
+Part the magic was that, as seen in the video, there were homes all around.
+It was like a backyard tree fort: both near to people and in another world.
 
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
 </p>
