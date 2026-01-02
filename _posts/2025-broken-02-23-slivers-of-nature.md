@@ -103,17 +103,18 @@ When you sit in such a place as that streambed, you see a world of fractals: sto
 A former coworker — who was from to the area originally — once called Binghamton "a cesspool of drugs and debauchery" (which is kind of funny, but he wasn't wrong).
 Binghamton is a classic collapsed former industrial town.
 They used to manufacture shoes.
-Where I lived, there was constant criminal activity, constant police activity, and constant all-around sketchy behavior.
+Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior.
 </p>
 
 <p>
-There's a certain contrast to such a beautiful place being in such a troubled town.
-Similarly, the idea of a sliver of nature involves the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the small cluster of pines just beyond the asphalt.
+There's a certain emotional aesthetic contrast to such a beautiful place being in such a troubled town.
+Similarly, the idea of a sliver of nature involves a certain physical aesthetic contrast.
+That is to say, the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the small cluster of pines just beyond the asphalt.
 </p>
 
 <p>
 Years later, I was thinking back to that streambed and decided to navigate with Google Maps's street view until I found the park.
-When Iw found it, I felt a surprisingly strong emotion: something like transcendence amidst the uglier side of everyday life.
+When I finally found it, I felt a surprisingly strong emotion: something like transcendence amidst the grit of everyday life.
 </p>
 
 <br/>
