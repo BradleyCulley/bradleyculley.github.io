@@ -107,9 +107,9 @@ Where I lived, there was constant criminal activity, constant police activity, a
 </p>
 
 <p>
-There's a certain emotional aesthetic contrast to such a beautiful place being in such a troubled town.
-Similarly, the idea of a sliver of nature involves a certain physical aesthetic contrast.
-That is to say, the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the small cluster of pines just beyond the asphalt.
+There's a certain emotional contrast to such a beautiful place being in such a troubled town.
+Similarly, a sliver of nature involves a physical contrast.
+That is to say, the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the tranquil cluster of pines just beyond the asphalt.
 </p>
 
 <p>
