@@ -29,8 +29,8 @@ It's really quite a pleasant film.
 
 <p>
 More photos of the park:
-<add a few photos of the park>
-<add the screenshot of the person giving the location of the park>
+---add a few photos of the park---
+---add the screenshot of the person giving the location of the park---
 </p>
 
 <p>
@@ -44,8 +44,6 @@ It was like a backyard tree fort: both near to people and in another world.
 <p>
 Later, I walked through one of those Northeastern Virginia mini-parks with my father.
 Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did together, rather than, say, going to a museum.
-A sign we came across in the park:
-<add the photo from the park, and work to figure out which park it was, if I can>
 </p>
 
 <hr/>
@@ -66,7 +64,7 @@ At a certain point, I found this park:
 </p>
 
 <p>
-It's "Canine Commons Dog Park". It's a dog park and I've never had a dog, but I went nonetheless.
+It's "Canine Commons Dog Park" — a dog park, and I've never had a dog, but I went nonetheless.
 </p>
 
 <p>
