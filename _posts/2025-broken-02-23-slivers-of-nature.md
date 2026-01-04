@@ -7,20 +7,19 @@
 <hr/>
 
 <p>
-<b>My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep wilderness.</b>
+<b>My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep in nature.</b>
 </p>
 
 <hr/>
 
 <p>
-From mid-2018 to early 2020, I lived and worked in Northeastern Virginia.
-A nice aspect of Northeastern Virginia is the miniature parks sprinkled through the suburban neighborhoods.
+From mid-2018 to early 2020, I lived in Northeastern Virginia.
+A nice things about Northeastern Virginia is the miniature parks sprinkled through the suburban neighborhoods.
 </p>
 
 <p>
-While living there, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
-The park is Pimmit View Park in Falls Church, Virginia.
-This is the video (click to watch the video in a new tab):<br/>
+One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
+The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
 TODO: create a screenshot that's clickable and opens in a new tab
 https://www.youtube.com/watch?v=ynLpZGegiJE
 
@@ -36,7 +35,7 @@ More photos of the park:
 <p>
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
 I walked the circuit just as in the video.
-Part the magic was that, as seen in the video, there were homes all around.
+Part the magic was that, as you can see in the video, there are homes all around park.
 It was like a backyard tree fort: both near to people and in another world.
 </p>
 
@@ -53,7 +52,7 @@ Looking back, it's perhaps no accident, but rather shared inclination, that that
 <hr/>
 
 <p>
-About 5 years earlier, I lived and worked in the Binghamton, New York area.
+About 5 years before living in Virginia, I lived and worked in the Binghamton, New York area.
 At a certain point, I found this park:
 <iframe
   width="600"
@@ -73,8 +72,8 @@ It's "Canine Commons Dog Park" — a dog park, and I've never had a dog, but I w
 
 <p>
 This is the entrance to the park:
----todo add photo of the entrance to the park--
-The surroundings are as unremarkable as can be, which somehow supported the feeling of divinity to the place.
+---todo add a photo of the entrance to the park--
+The surroundings are wholly unremarkable, which somehow supported the feeling of divinity to the place.
 TODO: add photo of the entrance of the park.
 </p>
 
@@ -83,7 +82,7 @@ TODO: add photo of the entrance of the park.
 <p>
 I found a small path from the park's main road to a stream just below. 
 The stream was fairly hidden from the two roads that ran parallel to it on either side.
-There's a highway on one side and the main road inside the park on the other:
+There's the highway on one side and the main road inside the park on the other:
 TODO: add a screenshot showing the layout, with annotations from Google maps
 </p>
 
@@ -110,7 +109,7 @@ At the streambed, you see a world of fractals: stones, leaves, patterns in the w
 
 <p>
 A former coworker — who was from the area originally — once called Binghamton "a cesspool of drugs and debauchery", which is kind of funny, but he wasn't wrong.
-Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior, although still some good people.
+Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior.
 </p>
 
 <hr/>
@@ -123,7 +122,7 @@ That's to say, the contrast between, say, the rear parking lot of a restaurant �
 
 <p>
 Years later, I was recollecting the park and decided to find it using Google Maps's street view.
-When I finally found it, I experienced a surprisingly strong emotion: something like transcendence amidst the grit of everyday life.
+When I finally found it, I experienced a surprisingly strong emotion: something like transcendence amid the grit of everyday life.
 </p>
 
 <br/>

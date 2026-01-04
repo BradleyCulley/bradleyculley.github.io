@@ -1,9 +1,10 @@
 email thread with Ben Brooks in which I discuss these things:  https://mail.google.com/mail/u/0/#search/physics+job+ben+brooks/FMfcgxmQJRTMbgRDxbqClXLXHJKFSsfk
 
 Part of the academia problem is a perspective of a certain kind of stasis. 
-The stone buildings, the titles, the years-long slow walk to tenure with it's shibbolethic rituals and political power games.  
-The hierarchies, the academic calendar - each year structured the same as the last, the majors, the courses (basic calculus has been the same material for hundreds of years), 
-the grade levels (e.g kindergarten through 12th grade) then the year levels (freshman, sophomore..."L1" for first-year law student). 
+
+The stone buildings, the titles, the slow walk to tenure with it's shibbolethic rituals and political power games.
+
+The hierarchies, the academic calendar - each year structured the same as the last, the majors, the courses (basic calculus has been the same material for hundreds of years), the grade levels (e.g kindergarten through 12th grade) then the year levels (freshman, sophomore; "L1" for first-year law student). 
 
 This was particularly true pre-computers, and even moreso pre-AI.
 
@@ -14,13 +15,14 @@ For example, it's not uncommon for a company to increase 10x in head count in fi
 I think begets a certain way of looking at resource planning, politics, and really a lot of things. In particular is the idea of the production and resources versus the distribution of resources. I think part of the reason academics are so focused on the distribution of resources is that they live in a world in which the quantity of resources seems fixed.
 
 I think it's also part of why such batshit crazy leftist utopian Marxist economic and political ideas come out of academia; especially out of humanities departments.
+
 The Frankfurt school is a prime example. 
 
 I don't think ignoring the distribution of resources is the right move either, though.
 
 The sweet spot is probably something like 65%/35%, and a place like Denmark gets it more or less right.
 
-Go back a thousand years and the question is whether the *focus* should be on be taking a flagon of beer, or a gold dabloon, away from this person and giving it to this person, or maybe give a little love to things like factories and discovering electricity.
+Go back a thousand years and the question is whether the *focus* should be on be taking a flagon of beer, or a gold dabloon, away from this person and giving it to this person, or whether some love should be given to things like factories and scientific discovery.
 
 When I talk to Americans liberals about Europe, they sometimes say, "Europe is nice because it's socialist".
 Fun fact: Europe is not socialist, it's capitalist.

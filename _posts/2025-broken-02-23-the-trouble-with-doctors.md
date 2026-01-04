@@ -78,9 +78,12 @@ Talk about the phenomenon of "jumping to surgery"
 
 Add to the trouble with doctors a lack of training in emphasis on and holding in appropriately high regard The role of nutrition in health. This is also a special case of the acute versus chronic divide I believe. And give the example for example of Denis.m And high blood pressure, or of me losing 50 lb. Let food be thy medicine.
 
-Add to the trouble with doctors essay The idea that, in my experience, doctors are neatly split between being insecure subtly emotionally scoundrelous muppets and being wonderful caring angels with an aura of healing that is, quite simply, palpable in their presence. Personally at least I know more or less immediately which category of health care professional I'm dealing with. The letter category by the way need not be gushy or saccharin - sometimes they're staid or even a bit rough around the edges, but you can tell they actually care. Do not settle.
+Add to the trouble with doctors essay the idea that, in my experience, doctors are neatly split between being insecure subtly emotionally scoundrelous muppets and being wonderful caring angels with an aura of healing that's quite palpable. Personally at least I know more or less immediately with which category I'm dealing. The latter category by the way need not be gushy or saccharin - sometimes they're staid or even a bit rough around the edges, but you can tell they actually care. Do not settle.
 
 Add to the trouble with doctors that every once in a while you get a doctor who says hold on let's dig a little deeper here. Does doctors are true healers in the highest tradition of the medical profession
+
+The doctor who gave me advice about earphones when I said earplugs.
+The medical practice that shouted "self-pay" when I visited with an ear infection just after resigning from my job and starting my own business, so I was in limbo before starting COBRA-based health insurance. 
 
 <br/>
 Sources:<br/>
