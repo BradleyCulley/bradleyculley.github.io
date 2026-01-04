@@ -38,7 +38,11 @@ More photos of the park:
 I walked the circuit just as in the video.
 Part the magic was that, as seen in the video, there were homes all around.
 It was like a backyard tree fort: both near to people and in another world.
+</p>
 
+<p>
+I think a lot of people have a haven like this.
+It might be the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
@@ -99,11 +103,6 @@ The streambed mesmerized me; the elegance of the rocks and the water.<br/>
 </p>
 
 <hr/>
-
-<p>
-I think a lot of people have a haven like this.
-It might be the courtyard where they take their lunch break, or their garden at home.
-</p>
 
 <p>
 At the streambed, you see a world of fractals: stones, leaves, patterns in the water.

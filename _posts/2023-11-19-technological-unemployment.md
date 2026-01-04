@@ -73,7 +73,9 @@ Two economic theories explain this paradox:<br/>
         "distributional shift" is the phenomenon of the data the model is trained on being different from what it sees at inference time.<br/><br/>
         This isn't a John Henry thing...of course you can multiply numbers with a calculator.
         Or you can write custom code that recognizes a given prompt as a multiplication problem and sends it to a "calculator" submodule.
-        A calculator isn't AGI though.<br/><br/>
+        In fact, that's a feature that OpenAI has built into ChatGPT, for example.
+        See here for OpenAI cofounder Andrej Karpathy talking about that, in the context of a "use code" instruction to the model: https://youtu.be/7xTGNNLPyMI?t=6949.
+        But a calculator isn't AGI.<br/><br/>
         The point is LLMs don't actually understand multiplication, much less have real models of the world. Not yet anyway.
         <br/><br/>
         This is similar to/a variant of Moravec's Paradox. What's easy for a human is hard for an AI. "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility" (https://lnkd.in/eetDKci6).<br/><br/>

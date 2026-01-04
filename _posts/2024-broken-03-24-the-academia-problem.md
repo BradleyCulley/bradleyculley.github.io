@@ -2,24 +2,25 @@ email thread with Ben Brooks in which I discuss these things:  https://mail.goog
 
 Part of the academia problem is a perspective of a certain kind of stasis. 
 The stone buildings, the titles, the years-long slow walk to tenure with it's shibbolethic rituals and political power games.  
-The hierarchies, the academic calendar - each year structured the same as the last, the majors, the courses (calculus I has been the same material for hundreds of years), the grade levels (e.g kindergarten through 12th grade) then the year levels (freshman, sophomore..."L1" for first-year law student). 
+The hierarchies, the academic calendar - each year structured the same as the last, the majors, the courses (basic calculus has been the same material for hundreds of years), 
+the grade levels (e.g kindergarten through 12th grade) then the year levels (freshman, sophomore..."L1" for first-year law student). 
 
-This was particularly true ore-computers, and even moreso pre-AI.
+This was particularly true pre-computers, and even moreso pre-AI.
 
 Paradoxically, it's the sector of society that generates a lot of the new ideas, but it itself has a certain timelessness.
 
-To give just one example, it's not at all uncommon that a company increases 10x in head count in, let's say, five years, but it is extremely uncommon, or perhaps has never even happened, that an academic department in mathematics goes 10x, even over something like 100 years. 
+For example, it's not uncommon for a company to increase 10x in head count in five years, but it is extremely uncommon, or perhaps has never even happened, that an academic department in mathematics increased 10x in headcount, even over like 100 years. 
 
-I think begets a certain way of looking at resource planning, and politics, and really a lot of things, in which you look at the production and resources or the distribution of resources and I think part of the reason academics are so focused on the distribution of resources is that they live in a world in which the quantity of resources seems fixed. 
+I think begets a certain way of looking at resource planning, politics, and really a lot of things. In particular is the idea of the production and resources versus the distribution of resources. I think part of the reason academics are so focused on the distribution of resources is that they live in a world in which the quantity of resources seems fixed.
 
-This is I think part of why such flawed social and economic ideas come out of academic humanities departments and their ilk, the most notable of which being communism and its more recent variants.
+I think it's also part of why such batshit crazy leftist utopian Marxist economic and political ideas come out of academia; especially out of humanities departments.
+The Frankfurt school is a prime example. 
 
 I don't think ignoring the distribution of resources is the right move either, though.
-I personally think the sweet spot is something like 65%/35%, and a place like Denmark gets it pretty much right.
 
-Go back a thousand years and the question is whether the *focus* should be on be taking a flagon of beer, or a gold dabloon, away from this person and giving it to this person, maybe we focus more on things like factories, electricity, and antibiotics.
-50% of early deaths in human history are from one thing: malaria.
+The sweet spot is probably something like 65%/35%, and a place like Denmark gets it more or less right.
 
+Go back a thousand years and the question is whether the *focus* should be on be taking a flagon of beer, or a gold dabloon, away from this person and giving it to this person, or maybe give a little love to things like factories and discovering electricity.
 
 When I talk to Americans liberals about Europe, they sometimes say, "Europe is nice because it's socialist".
 Fun fact: Europe is not socialist, it's capitalist.
