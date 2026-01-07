@@ -14,7 +14,7 @@
 
 <p>
 From mid-2018 to early 2020, I lived in Northeastern Virginia.
-A nice things about Northeastern Virginia is the miniature parks sprinkled through the suburban neighborhoods.
+A nice thing about Northeastern Virginia is the miniature parks one finds sprinkled through its suburban neighborhoods.
 </p>
 
 <p>
@@ -23,7 +23,7 @@ The park is Pimmit View Park in Falls Church, Virginia, and this is the video (c
 TODO: create a screenshot that's clickable and opens in a new tab
 https://www.youtube.com/watch?v=ynLpZGegiJE
 
-It's really quite a pleasant film.
+It's quite a pleasant film.
 </p>
 
 <p>
@@ -34,19 +34,18 @@ More photos of the park:
 
 <p>
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
-I walked the circuit just as in the video.
-Part the magic was that, as you can see in the video, there are homes all around park.
+I walked the circuit just like in the video.
+Part the magic was that, as you can see in the video, there are homes all around the park.
 It was like a backyard tree fort: both near to people and in another world.
 </p>
 
 <p>
-I think a lot of people have a haven like this.
-It might be the courtyard where they take their lunch break, or their garden at home.
+I think a lot of people have a haven like this: the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
 Later, I walked through one of those Northeastern Virginia mini-parks with my father.
-Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did together, rather than, say, going to a museum.
+Looking back, it's perhaps no accident, but rather shared inclination, that that's what he and I did together — rather than, say, going to a museum.
 </p>
 
 <hr/>
@@ -67,11 +66,11 @@ At a certain point, I found this park:
 </p>
 
 <p>
-It's "Canine Commons Dog Park" — a dog park, and I've never had a dog, but I went nonetheless.
+It's "Canine Commons Dog Park". It's a dog park, and I've never had a dog, but I went anyway.
 </p>
 
 <p>
-This is the entrance to the park:
+This is the entrance:
 ---todo add a photo of the entrance to the park--
 The surroundings are wholly unremarkable, which somehow supported the feeling of divinity to the place.
 TODO: add photo of the entrance of the park.
@@ -91,7 +90,7 @@ At the stream, I'd often sit in a natural seat formed by the roots of a tree on 
 I took this photo from the seat, or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
-I think the branches running across the photo are the branches of that tree.
+I think the branches running across it are the branches of that tree.
 </p>
 
 <hr/>
@@ -109,20 +108,19 @@ At the streambed, you see a world of fractals: stones, leaves, patterns in the w
 
 <p>
 A former coworker — who was from the area originally — once called Binghamton "a cesspool of drugs and debauchery", which is kind of funny, but he wasn't wrong.
-Where I lived, there was constant criminal activity, constant police activity, and constant all-around bad behavior.
 </p>
 
 <hr/>
 
 <p>
-There's an aesthetic contrast of such a beautiful place in such a troubled town.
+There's a certain contrast of such a beautiful place in such a troubled town.
 Similarly, a sliver of nature involves a physical contrast.
-That's to say, the contrast between, say, the rear parking lot of a restaurant — with its loading dock and dumpsters — and the tranquil cluster of pines just beyond the asphalt.
+There's the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the quiet cluster of pines just beyond the asphalt.
 </p>
 
 <p>
 Years later, I was recollecting the park and decided to find it using Google Maps's street view.
-When I finally found it, I experienced a surprisingly strong emotion: something like transcendence amid the grit of everyday life.
+When I found it, I experienced a surprisingly strong emotion: something like transcendence within the grit of everyday life.
 </p>
 
 <br/>
