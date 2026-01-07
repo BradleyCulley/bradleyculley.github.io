@@ -20,8 +20,10 @@ A nice thing about Northeastern Virginia is the miniature parks one finds sprink
 <p>
 One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
 The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
-TODO: create a screenshot that's clickable and opens in a new tab
-https://www.youtube.com/watch?v=ynLpZGegiJE
+TODO: create a screenshot that's clickable and add it as the image for this:
+<a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
+    <img src="https://bradleyculley.github.io/images/Bruce-Lee-Two-Finger-Push-Ups.png"/>
+</a>
 
 It's quite a pleasant film.
 </p>
@@ -87,7 +89,7 @@ TODO: add a screenshot showing the layout, with annotations from Google maps
 
 <p>
 At the stream, I'd often sit in a natural seat formed by the roots of a tree on the streambank.
-I took this photo from the seat, or right nearby:<br/>
+I took this photo from that seat, or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
 I think the branches running across it are the branches of that tree.
@@ -113,14 +115,14 @@ A former coworker — who was from the area originally — once called Binghamto
 <hr/>
 
 <p>
-There's a certain contrast of such a beautiful place in such a troubled town.
+There's a contrast of such a beautiful place being in such a troubled town.
 Similarly, a sliver of nature involves a physical contrast.
 There's the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the quiet cluster of pines just beyond the asphalt.
 </p>
 
 <p>
 Years later, I was recollecting the park and decided to find it using Google Maps's street view.
-When I found it, I experienced a surprisingly strong emotion: something like transcendence within the grit of everyday life.
+When I finally found it, I experienced a surprisingly strong emotion: something like transcendence within the grit of everyday life.
 </p>
 
 <br/>
