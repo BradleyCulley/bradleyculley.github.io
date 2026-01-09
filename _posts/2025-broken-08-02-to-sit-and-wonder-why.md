@@ -7,7 +7,7 @@
 
 <hr/>
 
-Talk about the Dan Milman scene with the house the burned down
+Talk about the Dan Milman scene with the house that burned down
 
 New job girlfriend and dog - that was the whole post and it had an enormous number of upvotes.
 It was saying no, actually, that's the answer
