@@ -198,6 +198,13 @@ These aphorisms often involved "leadership", which was in particularly vogue in 
 https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-perception-that-virtue-is
 </p>
 
+<p>
+TODO: Perhaps end the essay with this quote from The Hero With a Thousand Faces:
+hey have become associated with the causes of the factions, as instruments of propaganda and self-congratulation. The universal triumph of the secular state has thrown all religious organizations into such a definitely secondary, and finally ineffectual, position that religious pantomime is hardly more today than a sanctimonious exercise for Sunday morning, whereas business ethics and patriotism stand for the remainder of the week. Such a monkey-holiness is not what the functioning world requires; rather, a transmutation of the whole social order is necessary, so that through every detail and act of secular life the vitalizing image of the universal god-man who is actually immanent and effective in all of us may be somehow made known to consciousness”
+
+“The modern hero, the modern individual who dares to heed the call and seek the mansion of that presence with whom it is our whole destiny to be atoned, cannot, indeed must not, wait for his community to cast off its slough of pride, fear, rationalized avarice, and sanctified misunderstanding. ‘Live,’ Nietzche says, ‘as though the day were here.’ It is not society that is to guide and save the creative hero, but precisely the reverse. And so every one of us shares the supreme ordeal– carries the cross of the redeemer– not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.”
+</p>
+
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
 http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
 https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=35845&dataid=53662&FileName=The%20Hero%20with%20a%20Thousand%20Faces.pdf

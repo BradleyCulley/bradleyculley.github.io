@@ -36,24 +36,25 @@ More photos of the park:
 
 <p>
 <img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
+
 I walked the circuit just like in the video.
-Part the magic was that, as you can see in the video, there are homes all around the park.
-It was like a backyard tree fort: both near to people and in another world.
+Part the magic was that, as you can see in the video, there are homes all around.
+It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
 <p>
-I think a lot of people have a haven like this: the courtyard where they take their lunch break, or their garden at home.
+I think a lot of people have a haven like this: perhaps the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
-Later, I walked through one of those Northeastern Virginia mini-parks with my father.
-Looking back, it's perhaps no accident, but rather shared inclination, that that's what he and I did together — rather than, say, going to a museum.
+Another time, I walked through one of those Northeastern Virginia mini-parks with my father.
+Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did — rather than, say, going to a museum.
 </p>
 
 <hr/>
 
 <p>
-About 5 years before living in Virginia, I lived and worked in the Binghamton, New York area.
+A few years before living in Virginia, I lived and worked in the Binghamton, New York area.
 At a certain point, I found this park:
 <iframe
   width="600"
@@ -116,13 +117,17 @@ A former coworker — who was from the area originally — once called Binghamto
 
 <p>
 There's a contrast of such a beautiful place being in such a troubled town.
-Similarly, a sliver of nature involves a physical contrast.
+When you're sitting at the stream, you kind of have to wonder: if this is the physical infrastructure, then why, actually, is life so often so crazy?
+</p>
+
+<p>
+Similarly, a sliver of nature involves a physical contrast. --maybe remove
 There's the contrast between, say, the rear parking lot of a restaurant, with its loading dock and dumpsters, and the quiet cluster of pines just beyond the asphalt.
 </p>
 
 <p>
 Years later, I was recollecting the park and decided to find it using Google Maps's street view.
-When I finally found it, I experienced a surprisingly strong emotion: something like transcendence within the grit of everyday life.
+When I finally found it, I felt a rather strange emotion: something like a mix of transcendence and disgust.
 </p>
 
 <br/>
