@@ -170,7 +170,7 @@ Around when I read the book, and mimetically inspired by Lee, I trained for thum
     The Narrator comes to discover that time he thought wasted, in frivolous society or in love, now comes to represent the materials from which he will compose his art.¹⁰
     </blockquote>
 
-    That's perhaps the single best idea I've ever encountered in literature.
+    That's one of the best ideas I've encountered in literature.
 </p>
 
 <p>
