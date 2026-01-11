@@ -108,12 +108,11 @@ A former coworker — who was from the area originally — once called Binghamto
 <hr/>
 
 <p>
-There's a certain contrast of such a nice place being in such a troubled town.
-When you're sitting at the stream, you kind of have to wonder: if this is the physical infrastructure, then why, actually, is life so often so crazy?
+There's a certain aesthetic contrast of such a nice place being in such a troubled town.
 </p>
 
 <p>
-Similarly, a sliver of nature involves a physical contrast. --maybe remove
+Similarly, a sliver of nature involves a physical contrast.
 There's the contrast between, say, the rear parking lot of a restaurant, with its loading dock and ventilation fans, and the quiet cluster of pines just beyond the asphalt.
 </p>
 
@@ -123,9 +122,3 @@ Sources:<br/>
 ²: <a href="https://en.wikipedia.org/wiki/Carl_Sagan">https://en.wikipedia.org/wiki/Carl_Sagan](https://en.wikipedia.org/wiki/Carl_Sagan</a><br/>
 ³: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
 ⁴: <a href="https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/">https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/</a><br/>
-
-
-<p>
-Years later, I was recollecting the park and decided to find it using Google Maps's street view.
-When I finally found it, I felt a rather strange emotion: something like a mix of transcendence and disgust.
-</p>
