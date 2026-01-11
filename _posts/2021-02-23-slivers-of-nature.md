@@ -46,7 +46,7 @@ Looking back, it's perhaps no accident, but rather shared inclination, that that
 
 <p>
 A few years before living in Virginia, I lived and worked in the Binghamton, New York area.
-At a certain point, I found this park: https://www.bringfido.com/attraction/10830.
+At a certain point, I found this park — "Canine Commons Dog Park": <a href="https://www.bringfido.com/attraction/10830" target="_blank">https://www.bringfido.com/attraction/10830</a>
 
 </p>
 
@@ -61,7 +61,7 @@ src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAC2g4eF6TWRPzMSK1EYTqB
 </iframe>
 
 <p>
-It's "Canine Commons Dog Park" — a dog park, and I didn't have a dog, but I went anyway.
+It's a dog park, and I didn't have a dog, but I went anyway.
 </p>
 
 <p>
