@@ -14,7 +14,7 @@
 
 <p>
 From mid-2018 to early 2020, I lived in Northeastern Virginia.
-A nice thing about Northeastern Virginia is the miniature parks one finds sprinkled through its suburban neighborhoods.
+A nice thing about Northeastern Virginia is the miniature parks one finds sprinkled throughout its suburban neighborhoods.
 </p>
 
 <p>
