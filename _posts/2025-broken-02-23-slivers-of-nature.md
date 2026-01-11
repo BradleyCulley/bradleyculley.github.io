@@ -22,7 +22,7 @@ One day, I chanced across a video of a person walking in a park in the rain, and
 The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
 TODO: create a screenshot that's clickable and add it as the image for this:
 <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
-    <img src="https://bradleyculley.github.io/images/Bruce-Lee-Two-Finger-Push-Ups.png"/>
+    <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png.png"/>
 </a>
 
 It's quite a pleasant film.
