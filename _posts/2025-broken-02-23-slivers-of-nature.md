@@ -20,7 +20,6 @@ A nice thing about Northeastern Virginia is the miniature parks one finds sprink
 <p>
 One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
 The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
-TODO: create a screenshot that's clickable and add it as the image for this:
 <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
     <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png.png"/>
 </a>
@@ -29,21 +28,13 @@ It's quite a pleasant film.
 </p>
 
 <p>
-More photos of the park:
----add a few photos of the park---
----add the screenshot of the person giving the location of the park---
-</p>
-
-<p>
-<img src="https://bradleyculley.github.io/images/Park-in-Virginia.png" />
-
 I walked the circuit just like in the video.
 Part the magic was that, as you can see in the video, there are homes all around.
 It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
 <p>
-I think a lot of people have a haven like this: perhaps the courtyard where they take their lunch break, or their garden at home.
+I think a lot of people have a place like this: perhaps the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
@@ -55,27 +46,28 @@ Looking back, it's perhaps no accident, but rather shared inclination, that that
 
 <p>
 A few years before living in Virginia, I lived and worked in the Binghamton, New York area.
-At a certain point, I found this park:
-<iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY
-    &q=Canine+Commons+Dog+Park,21+Lewis+Rd,Binghamton+NY+13905">
-</iframe>
+At a certain point, I found this park: https://www.bringfido.com/attraction/10830.
+
 </p>
 
+<iframe
+width="600"
+height="450"
+style="border:0"
+loading="lazy"
+allowfullscreen
+referrerpolicy="no-referrer-when-downgrade"
+src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAC2g4eF6TWRPzMSK1EYTqBV9IPlT7I3og&q=Canine+Commons+Dog+Park,21+Lewis+Rd,Binghamton+NY+13905">
+</iframe>
+
 <p>
-It's "Canine Commons Dog Park". It's a dog park, and I've never had a dog, but I went anyway.
+It's "Canine Commons Dog Park" — a dog park, and I didn't have a dog, but I went anyway.
 </p>
 
 <p>
 This is the entrance:
 ---todo add a photo of the entrance to the park--
-The surroundings are wholly unremarkable, which somehow supported the feeling of divinity to the place.
+The surroundings are wholly unremarkable, which somehow supported the feeling of divinity to it.
 TODO: add photo of the entrance of the park.
 </p>
 
