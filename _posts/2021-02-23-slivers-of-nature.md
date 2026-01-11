@@ -21,7 +21,7 @@ A nice thing about Northeastern Virginia is the miniature parks one finds sprink
 One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
 The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
 <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
-    <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png.png"/>
+    <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png"/>
 </a>
 
 It's quite a pleasant film.
