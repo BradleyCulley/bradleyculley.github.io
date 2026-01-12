@@ -85,7 +85,7 @@ At the stream, I'd often sit in a natural seat formed by the roots of a tree on 
 I took this photo from that seat, or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
-I think the branches running across it are the branches of that tree.
+I think the branches running across the photo are the branches of that tree.
 </p>
 
 <hr/>
@@ -100,8 +100,8 @@ It was a world of fractals: stones, leaves, patterns in the water.
 <hr/>
 
 <p>
-The contrast of that stream to its unremarkable surroundings is perhaps typical of a sliver of nature.
-Unremarkable, dull, or synthetic surroundings are the wrapping, and in the contrast lies half the magic.
+The contrast of that stream to its unremarkable surroundings is typical for a sliver of nature.
+The surroundings are the wrapping, and in the contrast lies half the magic.
 </p>
 
 <br/>
@@ -110,5 +110,3 @@ Sources:<br/>
 ²: <a href="https://en.wikipedia.org/wiki/Carl_Sagan">https://en.wikipedia.org/wiki/Carl_Sagan](https://en.wikipedia.org/wiki/Carl_Sagan</a><br/>
 ³: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
 ⁴: <a href="https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/">https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/</a><br/>
-
-Think of the parking lot behind a restaurant, with its loading dock and ventilation fans; and just beyond the asphalt, a small cluster of pines.
