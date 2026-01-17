@@ -7,7 +7,7 @@
 <hr/>
 
 <p>
-<b>My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep in nature.</b>
+<b>My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature.</b>
 </p>
 
 <hr/>
@@ -34,7 +34,7 @@ It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
 <p>
-I think a lot of people have a place like this: perhaps the courtyard where they take their lunch break, or their garden at home.
+I think a lot of people have a sort of getaway like this: perhaps the courtyard where they take their lunch break, or their garden at home.
 </p>
 
 <p>
@@ -69,7 +69,7 @@ It's a dog park, and I didn't have a dog, but I went anyway.
 <p>
 This is the entrance:
 ---todo add a photo of the entrance to the park--
-The surroundings are wholly unremarkable, which somehow facilitated the feeling of transcendence to the place.
+The surroundings are wholly unremarkable, which somehow facilitated the feelings of transcendence to the place.
 TODO: add photo of the entrance of the park.
 </p>
 
@@ -79,12 +79,12 @@ TODO: add photo of the entrance of the park.
 I found a small path from the park's main road to a stream just below. 
 The stream was fairly hidden from the two roads that ran parallel to it on either side.
 There's the highway on one side and the main road inside the park on the other:
-TODO: add a screenshot showing the layout, with annotations from Google maps
+TODO: add a drawn diagram showing the layout
 </p>
 
 <p>
-At the stream, I'd often sit in a natural seat formed by the roots of a tree on the streambank.
-I took this photo from that seat, or right nearby:<br/>
+At the stream, I'd sometimes sit in a sort of natural seat formed by the roots of a tree on the streambank.
+I took this photo from that seat or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
 I think the branches running across the photo are the branches of that tree.
@@ -93,7 +93,7 @@ I think the branches running across the photo are the branches of that tree.
 <hr/>
 
 <p>
-The streambed mesmerized me; the elegance of the rocks and the water.<br/>
+The streambed was mesmerizing; the elegance of the rocks and the water.<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 
 It was a world of fractals: stones, leaves, patterns in the water.
@@ -102,7 +102,7 @@ It was a world of fractals: stones, leaves, patterns in the water.
 <hr/>
 
 <p>
-The contrast of that stream to its unremarkable surroundings is typical for a sliver of nature.
+The contrast of that stream to its unremarkable surroundings is perhaps typical for a sliver of nature.
 The surroundings are the wrapping, and in the contrast lies half the magic.
 </p>
 
