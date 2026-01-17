@@ -44,7 +44,7 @@ hr {
   opacity: 0.3;
 }
 
-a {
+.site-footer a {
   overflow-wrap: anywhere;
   word-break: break-word;
 }
