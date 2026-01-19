@@ -74,4 +74,5 @@ Similarly having money won't make you happy but not having money will make you u
 40. Add the inner ring to the high school advice book
 41. Add the Drama Triangle to the advice book 
 42. Add the fact that most feedback loops in the real world are positive feedback loops, not negative feedback loops. Disney movies tend to showcase negative feedback loops, such as rags to riches. In the real world, it's much more typical to have rags to rags, and riches to more riches. Having $100,000 in your bank account makes it much easier to get the next $100,000. Poverty tends to beget worse poverty. Wealth begets more wealth. Sickness begets more sickness. Woe begets woe.
-
+43. https://www.reddit.com/r/overemployed/comments/1eg6wy7/a_bit_about_the_work_number_twnequifax/
+44. 
