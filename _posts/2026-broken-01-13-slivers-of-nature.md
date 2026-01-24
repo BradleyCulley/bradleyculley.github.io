@@ -7,19 +7,19 @@
 <hr/>
 
 <p>
-<b>My father used to say places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature.</b>
+<b>My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature.</b>
 </p>
 
 <hr/>
 
 <p>
 From mid-2018 to early 2020, I lived in Northeastern Virginia.
-A nice thing about Northeastern Virginia is the miniature parks one finds sprinkled throughout its suburban neighborhoods.
+A nice thing about Northeastern Virginia is the miniature parks one finds sprinkled through its suburban neighborhoods.
 </p>
 
 <p>
 One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
-The park is Pimmit View Park in Falls Church, Virginia, and this is the video (click to watch it in a new tab):<br/>
+The park is Pimmit View Park in Falls Church, Virginia. This is the video (click to watch it in a new tab):<br/>
 <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
     <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png"/>
 </a>
@@ -39,22 +39,21 @@ I think a lot of people have a sort of sanctuary like this: perhaps the park whe
 
 <p>
 Another time, I walked through one of those Virginia mini-parks with my father.
-Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did, rather than, say, going to a museum.
+Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did — rather than, say, going to a museum.
 </p>
 
 <hr/>
 
 <p>
-A few years before living in Virginia, I lived and worked in the Binghamton, New York area.
+A while before living in Virginia, I lived and worked in the Binghamton, New York area.
 At a certain point, I found this park — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>
 </p>
 
 <p>
 This is the entrance:
----todo add a photo of the entrance to the park--
-The surroundings are everyday rural Americana: two-lane highways on two sides, an industrial park on another side, and fire station across the street.   
+---TODO: add a photo of the entrance to the park--
+The surroundings of the park are everyday rural Americana: two-lane highways on two sides, an industrial park on another side, and a fire station across the street.   
 The everyday surroundings somehow facilitated the feeling of transcendence to the place.
-TODO: add photo of the entrance of the park.
 </p>
 
 <hr/>
@@ -66,11 +65,11 @@ TODO: add a drawn diagram showing the layout
 </p>
 
 <p>
-At the stream, I'd sometimes sit in a sort of natural seat formed by the roots of a tree on the streambank.
+At the stream, I'd sometimes sit in a natural seat formed by the roots of a tree.
 I took this photo from that seat or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
-I think the branches running across the photo are the branches of that tree.
+I think the branches running across the photo are the branches of the tree.
 </p>
 
 <hr/>
