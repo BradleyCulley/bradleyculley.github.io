@@ -59,13 +59,13 @@ The everyday surroundings somehow facilitated the feeling of transcendence to th
 <hr/>
 
 <p>
-I found a small path from the park's main road to a stream just below. 
-The stream was fairly hidden from the two roads that sandwich it: the highway on one side and the main road in the park on the other:
+I found a small path from the park's main road to a creek, named Little Choconut Creek, just below. 
+The creek was fairly hidden from the two roads that sandwich it: the highway on one side and the main road in the park on the other:
 TODO: add a drawn diagram showing the layout
 </p>
 
 <p>
-At the stream, I'd sometimes sit in a natural seat formed by the roots of a tree.
+At the creek, I'd sometimes sit in a natural seat formed by the roots of a tree.
 I took this photo from that seat or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
@@ -75,7 +75,7 @@ I think the branches running across the photo are the branches of the tree.
 <hr/>
 
 <p>
-The streambed was mesmerizing; the elegance of the rocks and the water.<br/>
+The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 
 It was a world of fractals: stones, leaves, patterns in the water.
@@ -84,7 +84,7 @@ It was a world of fractals: stones, leaves, patterns in the water.
 <hr/>
 
 <p>
-The contrast of that stream to its unremarkable surroundings is perhaps typical for a sliver of nature.
+The contrast between the elegance of the creek and its unremarkable surroundings is somehow characteristic for a sliver of nature.
 The surroundings are the wrapping, and in the contrast lies half the magic.
 </p>
 
