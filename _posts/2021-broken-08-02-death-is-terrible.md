@@ -29,6 +29,10 @@ We do better with our hard drives.
 </p>
 
 <p>
+Talk about the experience of seeing the building that the person built for their dying child, when I was out running one day
+</p>
+
+<p>
 Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. 
 Even more so when they're a great person, like Bruce Lee. 
 Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).
