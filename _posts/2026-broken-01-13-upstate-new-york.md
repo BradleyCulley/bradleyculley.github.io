@@ -26,6 +26,14 @@ He was recently arrested for almost a DWI: https://www.syracuse.com/crime/2018/0
 </p>
 
 <p>
+The chili person at the bar.
+</p>
+
+<p>
+The coworker at Dominos Pizza, who was homeless and quite angry, freaking out about the lack of pizza prep from the prior day.
+</p>
+
+<p>
 And that was my experience in upstate New York!
 </p>
 
