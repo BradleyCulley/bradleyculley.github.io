@@ -71,8 +71,6 @@ I took this photo from that seat or right nearby:<br/>
 I think the branches in the foreground are the branches of the tree.
 </p>
 
-<hr/>
-
 <p>
 The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
