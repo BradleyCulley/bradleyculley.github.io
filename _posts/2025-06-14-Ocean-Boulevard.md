@@ -1,7 +1,7 @@
 ## <div align="center">Ocean Boulevard</div>
 
 <div align="center">
-    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-5.jpg" />
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-Header.jpg" />
     <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
 </div>
 
@@ -49,6 +49,8 @@ Sometimes I'd leave the curtains open to be able to look out over the waves ever
 <p>
 Everything about each condo was pleasant: the landlord, the condo itself, and the ocean nearby.
 </p>
+
+<img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-beach-5.jpg" />
 
 <hr/>
 
