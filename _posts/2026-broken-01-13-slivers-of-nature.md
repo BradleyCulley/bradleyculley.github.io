@@ -18,23 +18,24 @@ A nice thing about Northeastern Virginia is the miniature parks one finds sprink
 </p>
 
 <p>
-One day, I chanced across a video of a person walking in a park in the rain, and the park randomly turned out to be right nearby.
-The park is Pimmit View Park in Falls Church, Virginia. This is the video (click to watch it in a new tab):<br/>
+One day, I chanced across a video of a person walking in a park in the rain.
+Randomly, the park was close to where I lived. It's Pimmit View Park in Falls Church, Virginia.
+This is the video (click to watch it in a new tab):<br/>
 <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
     <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png"/>
 </a>
 
-It's quite a pleasant film.
+Quite a pleasant film.
 </p>
 
 <p>
-I walked the circuit just like in the video.
+I walked the walking path circuit just like in the video.
 Part the magic was that, as you can see in the video, there are homes all around the park.
 It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
 <p>
-I think a lot of people have a sort of sanctuary like this: perhaps the park where they eat breakfast on Saturday mornings, or their garden at home.
+I think a lot of people have a sort of sanctuary like this: perhaps the park where they eat breakfast on Saturdays, or their garden at home.
 </p>
 
 <p>
@@ -45,23 +46,21 @@ Looking back, it's perhaps no accident, but rather shared inclination, that that
 <hr/>
 
 <p>
-A while before living in Virginia, I lived and worked in the Binghamton, New York area.
-At a certain point, I found this park — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>
+A while before living in Virginia, I lived in the Binghamton, New York area.
+At a certain point, I found this park — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>.
 </p>
 
 <p>
-This is the entrance:
----TODO: add a photo of the entrance to the park--
-The surroundings of the park are everyday rural Americana: two-lane highways on two sides, an industrial park on another side, and a fire station across the street.   
-The everyday surroundings somehow facilitated the feeling of transcendence to the place.
+The park's surroundings are typical rural Americana: two-lane highways on two sides, an industrial park on another side, and a fire station across the street.
+This is the layout:<br/> TODO - add the fire station, and maybe the internal road, to the diagram.
+<img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
 </p>
 
 <hr/>
 
 <p>
 I found a small path from the park's main road to a creek, named Little Choconut Creek, just below. 
-The creek was fairly hidden from the two roads that sandwich it: the highway on one side and the main road in the park on the other:
-TODO: add a drawn diagram showing the layout
+The creek was fairly hidden from the roads on either side: the highway on one side and the main road in the park on the other.
 </p>
 
 <p>
@@ -69,7 +68,7 @@ At the creek, I'd sometimes sit in a natural seat formed by the roots of a tree.
 I took this photo from that seat or right nearby:<br/>
 <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 <br/>
-I think the branches running across the photo are the branches of the tree.
+I think the branches in the foreground are the branches of the tree.
 </p>
 
 <hr/>
@@ -84,7 +83,7 @@ It was a world of fractals: stones, leaves, patterns in the water.
 <hr/>
 
 <p>
-The contrast between the elegance of the creek and its unremarkable surroundings is somehow characteristic for a sliver of nature.
+The contrast of the elegance of the creek with its everyday surroundings is perhaps characteristic of a sliver of nature.
 The surroundings are the wrapping, and in the contrast lies half the magic.
 </p>
 
