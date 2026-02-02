@@ -21,9 +21,11 @@ A nice thing about Northeastern Virginia is the miniature parks one finds sprink
 One day, I chanced across a video of a person walking in a park in the rain.
 Randomly, the park was close to where I lived. It's Pimmit View Park in Falls Church, Virginia.
 This is the video (click to watch it in a new tab):<br/>
-<a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
-    <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png"/>
-</a>
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
+        <img src="https://bradleyculley.github.io/images/Pimmit-View-Park-Video.png"/>
+    </a>
+</div>
 
 Quite a pleasant film.
 </p>
@@ -53,7 +55,9 @@ At a certain point, I found this park — "Choconut Center Park": <a href="https
 <p>
 The park's surroundings are typical rural Americana: two-lane highways on two sides, an industrial park on another side, and a fire station across the street.
 This is the layout:<br/> TODO - add the fire station, and maybe the internal road, to the diagram.
-<img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
+</div>
 </p>
 
 <hr/>
@@ -66,14 +70,18 @@ The creek was fairly hidden from the roads on either side: the highway on one si
 <p>
 At the creek, I'd sometimes sit in a natural seat formed by the roots of a tree.
 I took this photo from that seat or right nearby:<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
+</div>
 <br/>
 I think the branches in the foreground are the branches of the tree.
 </p>
 
 <p>
 The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
-<img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
+</div>
 
 It was a world of fractals: stones, leaves, patterns in the water.
 </p>
