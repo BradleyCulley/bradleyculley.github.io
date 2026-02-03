@@ -52,6 +52,8 @@ The park's surroundings are everyday rural Americana: two-lane highways, an indu
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
 </div>
+
+The everyday surroundings somehow contributed to the feelings of transcendence to the place.
 </p>
 
 <hr/>
@@ -83,10 +85,6 @@ It was a world of fractals: stones, leaves, patterns in the water.
   <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
 </div>
 </p>
-
-<br/>
-
-<hr/>
 
 <p>
 The contrast of the elegance of the creek with its everyday surroundings is perhaps characteristic of a sliver of nature.
