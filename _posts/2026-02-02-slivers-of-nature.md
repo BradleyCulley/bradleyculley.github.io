@@ -30,25 +30,21 @@ Quite a pleasant film.
 </p>
 
 <p>
-I walked the walking path circuit just like in the video.
+I walked the circuit just like in the video.
 Part the magic was that, as you can see in the video, there are homes all around the park.
 It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
 <p>
-I think a lot of people have a sort of sanctuary like this: perhaps the park where they eat breakfast on Saturdays, or their garden at home.
-</p>
-
-<p>
-Another time, I walked through one of those Virginia mini-parks with my father.
-Looking back, it's perhaps no accident, but rather shared inclination, that that's what we did — rather than, say, going to a museum.
+Another time, I walked through a Virginia mini-park with my father.
+It's perhaps no accident, but rather shared inclination, that that's what we did — rather than, say, going to a museum.
 </p>
 
 <hr/>
 
 <p>
 A while before living in Virginia, I lived in the Binghamton, New York area.
-At a certain point, I found this park — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>.
+After a while, I found this park there — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>.
 </p>
 
 <p>
@@ -62,7 +58,7 @@ This is the layout:<br/>
 <hr/>
 
 <p>
-I found a small path from the park's main road to a creek, named Little Choconut Creek, just below. 
+At the park, I found a small path from the park's main road to a creek, named Little Choconut Creek, just below. 
 The creek was fairly hidden from the roads on either side: the highway on one side and the main road in the park on the other.
 </p>
 
