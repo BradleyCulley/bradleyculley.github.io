@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
 </div>
-
-<hr/>
+<br/>
 
 <p>
 <b>My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature.</b>
