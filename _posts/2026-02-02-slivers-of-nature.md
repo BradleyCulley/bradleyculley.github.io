@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-<b>My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature.</b>
+<b>My father used to say that places like the sliver of forest at the edge of a parking lot are somehow more wild than even deep nature</b>
 </p>
 
 <hr/>
