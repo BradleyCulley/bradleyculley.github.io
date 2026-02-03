@@ -88,7 +88,7 @@ It was a world of fractals: stones, leaves, patterns in the water.<br/>
 </p>
 
 <p>
-The contrast of the elegance of the creek with its everyday surroundings is perhaps characteristic of a sliver of nature.
+The contrast between the elegance of the creek and its everyday surroundings is perhaps characteristic of a sliver of nature.
 The surroundings are the wrapping, and in the contrast lies half the magic.
 </p>
 
