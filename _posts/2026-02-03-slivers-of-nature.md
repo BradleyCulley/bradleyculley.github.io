@@ -48,8 +48,7 @@ After a while, I found this park there — "Choconut Center Park": <a href="http
 </p>
 
 <p>
-The park's surroundings are typical rural Americana: two-lane highways on two sides, an industrial park on another side, and a fire station across the street.
-This is the layout:<br/>
+The park's surroundings are everyday rural Americana: two-lane highways, an industrial park, and a fire station.
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
 </div>
@@ -78,10 +77,14 @@ The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
     <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </div>
 
-<br/>
-
 It was a world of fractals: stones, leaves, patterns in the water.
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
+</div>
 </p>
+
+<br/>
 
 <hr/>
 
