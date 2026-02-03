@@ -31,7 +31,7 @@ Quite a pleasant film.
 
 <p>
 I walked the circuit just like in the video.
-Part the magic was that, as you can see in the video, there are homes all around the park.
+Part of the magic was that, as you can see in the video, there are homes all around the park.
 It was like a backyard tree fort: near to people, yet in another world.
 </p>
 
