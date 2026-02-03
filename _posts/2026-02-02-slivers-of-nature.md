@@ -78,6 +78,8 @@ The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
     <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </div>
 
+<br/>
+
 It was a world of fractals: stones, leaves, patterns in the water.
 </p>
 
