@@ -13,12 +13,12 @@
 
 <p>
 From mid-2018 to early 2020, I lived in Northeastern Virginia.
-Northeastern Virginia has miniature parks sprinkled throughout its suburban neighborhoods.
+A nice thing about Northeastern Virginia is the mini-parks one finds sprinkled throughout its suburban neighborhoods.
 </p>
 
 <p>
 One day, I chanced across a video of a person walking in a park in the rain.
-Randomly, the park was close to where I lived. It's Pimmit View Park in Falls Church, Virginia.
+Randomly, the park turned out to be close to where I lived. It's Pimmit View Park in Falls Church, Virginia.
 This is the video (click to watch it in a new tab):<br/>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
