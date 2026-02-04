@@ -37,7 +37,7 @@ It was like a backyard tree fort: near to people, yet in another world.
 
 <p>
 Another time, I walked through a Virginia mini-park with my father.
-It's perhaps no accident, but rather shared inclination, that that's what we did — rather than, say, going to a museum.
+It's perhaps no accident, but rather shared inclination, that that's what we did, rather than, say, going to a museum.
 </p>
 
 <hr/>
