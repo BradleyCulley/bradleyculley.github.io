@@ -30,8 +30,10 @@ I assumed once they got through the "warm-ups", they'd start tackling the "real 
 
 <p>
 Turns out, I was wrong.
+</p>
 
-But then again, it also turns out the real stuff is handled by <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">books, the internet, and university degree programs</a>.
+<p>
+But then again, that's what <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">books, the internet, and university degree programs are for</a>.
 </p>
 
 <br/>
