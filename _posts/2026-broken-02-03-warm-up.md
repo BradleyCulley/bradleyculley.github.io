@@ -48,7 +48,7 @@ After a while, I found this park there — "Choconut Center Park": <a href="http
 </p>
 
 <p>
-The park's surroundings are everyday rural Americana: two-lane roads, an industrial park, and a fire station.
+The park's surroundings are everyday rural Americana: two-lane highways, an industrial park, and a fire station.
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
 </div>
