@@ -29,7 +29,7 @@ I assumed once they got through the "warm-ups", they'd tackle the real stuff.
     <li>Quantum gravity</li>
     <li>Nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
-Some of which I knew about then, and some of which I learned of later.
+Some of which I knew of then, and some of which I became aware of later.
 </p>
 
 <p>
