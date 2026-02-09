@@ -11,11 +11,11 @@ Me with a magnifying glass as a kid
 <hr/>
 
 <p>
-As a young person listening to National Public Radio (NPR), I assumed that programs like "This American Life" were just "warming up" by dabbling around in stories like someone setting up a tiny little indie theatre in a small town that used to revolve around having a shoe factory that employed everyone, in which the shoe factory, sadly, closed.
+As a young person listening to National Public Radio (NPR), I assumed that programs like "This American Life" were just "warming up" by dabbling around in stories like ones about someone setting up a tiny little indie theatre in a tiny little town; a tiny little town that used to revolve around having a shoe factory that employed everybody, and in which the shoe factory has since, sadly, closed.
 </p>
 
 <p>
-I assumed once they got through the "warm-ups", they'd start tackling the "real stuff":
+I assumed once they got through the "warm-ups", they'd start tackling the real stuff:
 <ul>
     <li>Retroviral-vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
