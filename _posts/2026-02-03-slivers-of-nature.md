@@ -52,7 +52,9 @@ The park's surroundings are everyday rural Americana: two-lane highways, an indu
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Choconut-Center-Park.png"/>
 </div>
+</p>
 
+<p>
 The everyday surroundings somehow contributed to the feelings of transcendence to the place.
 </p>
 
@@ -70,7 +72,7 @@ I took this photo from that seat or right nearby:<br/>
     <img src="https://bradleyculley.github.io/images/Binghamton-Park-3.jpg" />
 </div>
 <br/>
-I think the branches in the foreground are the branches of the tree.
+I think the branches in the foreground are the branches of that tree.
 </p>
 
 <p>
@@ -78,9 +80,13 @@ The creekbed was mesmerizing; the elegance of the rocks and the water.<br/>
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Binghamton-Park-5.jpg" />
 </div>
+</p>
 
+<p>
 It was a world of fractals: stones, leaves, patterns in the water.<br/>
+</p>
 
+<p>
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />
 </div>
