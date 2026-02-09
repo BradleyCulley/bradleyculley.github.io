@@ -1,7 +1,10 @@
 ## <div align="center">Warm-Up<div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/me-with-a-magnifying-glass.jpg" />
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/me-with-a-magnifying-glass.jpg" />
+</div>
+<div align="center">
+Me with a magnifying glass as a kid
 </div>
 <br/>
 
