@@ -15,9 +15,9 @@ As a young person listening to National Public Radio (NPR), I assumed that progr
 </p>
 
 <p>
-I assumed once they got through the "warm-ups", they'd start tackling the real stuff:
+I assumed once they got through the "warm-ups", they'd tackle the real stuff.
 <ul>
-    <li>Retroviral-vector-based gene therapy</li>
+    <li>Retroviral vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
     <li>American re-industrialization</li>
     <li>Biohacking, trans-humanism, longevity, cryonics, and immortality</li>
@@ -29,14 +29,15 @@ I assumed once they got through the "warm-ups", they'd start tackling the real s
     <li>Quantum gravity</li>
     <li>Nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
+Some of which I knew about then, and some of which I became aware of later.
 </p>
 
 <p>
-Turns out, I was wrong.
+Turns out, I was wrong. The warm-up was eternal.
 </p>
 
 <p>
-But then again, that's what <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">books, the internet, and university degree programs are for</a>.
+But then again, <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">that's what books, the internet, and university degree programs are for</a>.
 </p>
 
 <br/>
