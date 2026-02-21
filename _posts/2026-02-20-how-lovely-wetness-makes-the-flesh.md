@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    Reading the poem and the note created a distinctive sort of positive reaction in my mind. It's my favorite poem of all time.
+    Reading the poem and the note created a distinctive kind of positive reaction in my mind. It's my favorite poem of all time.
 </p>
 
 <hr/>
