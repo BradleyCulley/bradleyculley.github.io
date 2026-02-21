@@ -11,11 +11,11 @@ Me with a magnifying glass as a kid
 <hr/>
 
 <p>
-As a young person listening to National Public Radio (NPR), I assumed that programs like "This American Life" were just "warming up" by dabbling around in stories like ones about someone setting up a tiny little indie theatre in a tiny little town; a tiny little town that used to revolve around having a shoe factory that employed everybody, and in which the shoe factory has since, sadly, closed.
+As a young person listening to National Public Radio (NPR), I assumed shows like "This American Life" were just "warming up" by dabbling in stories like ones about someone setting up a little indie theatre in a little town; a little town that used to revolve around having a shoe factory that employed everybody, and in which the shoe factory has since closed.
 </p>
 
 <p>
-I assumed once they got through the "warm-ups", they'd tackle the real stuff.
+I assumed once they got through the "warm-ups", they'd tackle the real stuff, some of which I knew of then, and some of which I learned of later:
 <ul>
     <li>Retroviral vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
@@ -29,11 +29,10 @@ I assumed once they got through the "warm-ups", they'd tackle the real stuff.
     <li>Quantum gravity</li>
     <li>Nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
-Some of which I knew of then, and some of which I became aware of later.
 </p>
 
 <p>
-Turns out, I was wrong. The warm-up was eternal.
+Turns out, I was wrong: the warm-up was eternal.
 </p>
 
 <p>

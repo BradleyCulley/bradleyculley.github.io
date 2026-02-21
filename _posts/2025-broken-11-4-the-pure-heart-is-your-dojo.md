@@ -15,6 +15,9 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 </div>
 <br>
 
+TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
+TODO: Add much of your pain is self-chosen to the pure heart essay
+TODO: I read a somewhat strange book called Journey Into Nature, which I took as a fairy tale until the last chapter or so, which terrifically gripped me! A friend recently wrote me about starting to read I am You by Daniel Kolak.
 ---
 <p>
 In college, I trained with a Japanese Buddhist priest.
