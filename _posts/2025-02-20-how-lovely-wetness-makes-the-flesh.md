@@ -27,14 +27,12 @@
     Anyway, concerned about his tendency to fixate on details, Neistat seeks the opinion of his romantic partner³.
 </p>
 
-<p>
-    <blockquote>
-    <p>So, this spirited man sought counsel and reconciliation from a spirited woman, from his domestic partner, baby mama, main squeeze, common law wife — a spirited woman who's tasked with pulling the slack when <i>he's</i> succumbed to this detail or that.</p>
-    "These details matter to me to such an extent," he explained, "that I'm willing to endure any consequences as a result of having committed to these ridiculous details, and it feels like I can't help it."
-    <p>And her reply — offhanded, and gentle, and light, and truthful — ignited within this spirited man an epiphany: a moment of sudden revelation or insight.</p>
-    And what the spirited woman — this spirited man's domestic partner, baby mama, main squeeze, common law wife — said was this: she said simply, "I love that about you."
-    </blockquote>
-</p>
+<blockquote>
+<p>So, this spirited man sought counsel and reconciliation from a spirited woman, from his domestic partner, baby mama, main squeeze, common law wife — a spirited woman who's tasked with pulling the slack when <i>he's</i> succumbed to this detail or that.</p>
+"These details matter to me to such an extent," he explained, "that I'm willing to endure any consequences as a result of having committed to these ridiculous details, and it feels like I can't help it."
+<p>And her reply — offhanded, and gentle, and light, and truthful — ignited within this spirited man an epiphany: a moment of sudden revelation or insight.</p>
+And what the spirited woman — this spirited man's domestic partner, baby mama, main squeeze, common law wife — said was this: she said simply, "I love that about you."
+</blockquote>
 
 <p>
     You can read the poem, and the editor's note, here: <a href="https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875" target="_blank">https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875</a>.
