@@ -13,8 +13,10 @@
     Reading the poem and the note created a sort of alchemic reaction in my mind. It remains my favorite poem of all time.
 </p>
 
+<hr/>
+
 <p>
-    The reaction it created reminds me of something from a short film titled "Why Details Matter," by the artist Van Neistat³.
+    The reaction it created reminds me of something from a short film titled "Why Details Matter," by the video artist Van Neistat³.
     You can watch the film here: <a href="https://www.youtube.com/watch?v=ooTN3dkYXQM" target="_blank">link</a>.
 </p>
 
