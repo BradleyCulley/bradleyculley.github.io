@@ -17,7 +17,6 @@
 
 <p>
     The reaction it created reminds me of something from a short film titled "Why Details Matter," by the video artist Van Neistat³.
-    You can watch the film here: <a href="https://www.youtube.com/watch?v=ooTN3dkYXQM" target="_blank">link</a>.
 </p>
 
 <p>
@@ -26,7 +25,7 @@
 </p>
 
 <p>
-    Anyway, concerned about his tendency to fixate on details, Neistat seeks the opinion of his romantic partner³.
+    Anyway, concerned about his tendency to fixate on details, Neistat seeks the opinion of his romantic partner:³
 </p>
 
 <blockquote>
