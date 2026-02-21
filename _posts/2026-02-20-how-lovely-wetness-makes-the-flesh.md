@@ -10,7 +10,7 @@
 </p>
 
 <p>
-    Reading the poem and the note created a sort of alchemic reaction in my mind. It remains my favorite poem of all time.
+    Reading the poem and the note created a very good kind of reaction in my mind. It remains my favorite poem of all time.
 </p>
 
 <hr/>
