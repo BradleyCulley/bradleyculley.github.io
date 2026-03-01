@@ -7,6 +7,7 @@
 <p>
     I chanced upon the poem in a paper copy of Harper's Magazine.
     There was an editor's note below the poem that was very much part of the experience, too.
+    You can read the poem, and the editor's note, here: <a href="https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875" target="_blank">https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875</a>.
 </p>
 
 <p>
@@ -34,10 +35,6 @@
 <p>And her reply — offhanded, and gentle, and light, and truthful — ignited within this spirited man an epiphany: a moment of sudden revelation or insight.</p>
 <p>And what the spirited woman — this spirited man's domestic partner, baby mama, main squeeze, common law wife — said was this: she said simply, "I love that about you."</p>
 </blockquote>
-
-<p>
-    You can read the poem, and the editor's note, here: <a href="https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875" target="_blank">https://www.thefreelibrary.com/How+Lovely+Wetness+Makes+the+Flesh.-a0189832875</a>.
-</p>
 
 <hr/>
 
