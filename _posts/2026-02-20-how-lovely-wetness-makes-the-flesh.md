@@ -18,6 +18,7 @@
 
 <p>
     The reaction it created reminds me of something from a short film titled "Why Details Matter," by the video artist Van Neistat³.
+    You can watch the film here (8-minute duration, open in a new tab): <a target="_blank" href="https://www.youtube.com/watch?v=ooTN3dkYXQM">link</a>.
 </p>
 
 <p>
