@@ -11,20 +11,23 @@ Me with a magnifying glass as a kid
 <hr/>
 
 <p>
-As a young person listening to National Public Radio (NPR), I assumed shows like "This American Life" were just "warming up" by dabbling in stories like ones about someone setting up a little indie theatre in a little town; a little town that used to revolve around having a shoe factory that employed everybody, and in which the shoe factory has since closed.
+As a kid listening to National Public Radio (NPR), I thought shows like "This American Life" were just "warming up" by dabbling in stories like ones about someone setting up a little indie theater in a little town; a little town that used to revolve around having a shoe factory where everyone worked, and in which the shoe factory has since, unfortunately, closed.
 </p>
 
 <p>
-I assumed once they got through the "warm-ups", they'd tackle the real stuff, some of which I knew of then, and some of which I learned of later:
+I assumed once they got through the "warm-ups", they'd tackle the real stuff.
+The "real stuff", some of which I knew of then and some of which I learned of later, being:
 <ul>
     <li>Retroviral vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
     <li>American re-industrialization</li>
     <li>Biohacking, trans-humanism, longevity, cryonics, and immortality</li>
     <li>Sub-nucleonic structure (what's inside a quark?)</li>
+    <li>Optimal socio-political-economic structuring</li>
     <li>Quantum electrodynamics, and more interestingly, quantum chromodynamics</li>
     <li>NP completeness, Gödel incompleteness</li>
     <li>Tuberculosis vaccines</li>
+    <li>Condensed plain-language complete-certainty answers to all important theological questions</li>
     <li>Structural violence, the preconditions of war, and unequal access to health care</li>
     <li>Quantum gravity</li>
     <li>Nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
@@ -32,7 +35,7 @@ I assumed once they got through the "warm-ups", they'd tackle the real stuff, so
 </p>
 
 <p>
-Turns out, I was wrong: the warm-up was eternal.
+Turns out, the warm-up was eternal.
 </p>
 
 <p>

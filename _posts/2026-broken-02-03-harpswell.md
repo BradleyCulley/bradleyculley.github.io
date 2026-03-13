@@ -8,7 +8,7 @@
 <blockquote>
 <div style="text-align: center;">
 The world reveals itself to those who travel by foot<br/>
--Werner Herzog
+-Werner Herzog¹
 </div>
 </blockquote>
 
@@ -35,5 +35,19 @@ Though a long story short, I did get back there to build later in the month, but
 <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
 <br/>
 
+<br/>
+Sources:<br/>
+¹: [https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad](https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad) <br/>
 
-https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad#:~:text=And%20I%20would%20not%20call,those%20who%20travel%20on%20foot.%E2%80%9D
+
+
+
+²: [https://en.wikipedia.org/wiki/Longevity_escape_velocity](https://en.wikipedia.org/wiki/Longevity_escape_velocity) <br/>
+³: [https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf) <br/>
+⁴: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
+⁵: [https://en.wikipedia.org/wiki/Hydra_(genus)](https://en.wikipedia.org/wiki/Hydra_(genus)) <br/>
+⁶: [https://en.wikipedia.org/wiki/List_of_language_families](https://en.wikipedia.org/wiki/List_of_language_families) <br/>
+⁷: [https://michaelstoneteaching.com/notes-on-dying-3-death-poems/](https://michaelstoneteaching.com/notes-on-dying-3-death-poems/) <br/>
+
+
+
