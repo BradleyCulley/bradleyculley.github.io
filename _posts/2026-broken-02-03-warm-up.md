@@ -16,7 +16,7 @@ As a kid listening to National Public Radio (NPR), I thought shows like "This Am
 
 <p>
 I assumed once they got through the "warm-ups", they'd tackle the real stuff.
-The "real stuff", some of which I knew of then and some of which I learned of later, being:
+The "real stuff", some of which I knew about then and some of which I learned about later, being:
 <ul>
     <li>Retroviral vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
