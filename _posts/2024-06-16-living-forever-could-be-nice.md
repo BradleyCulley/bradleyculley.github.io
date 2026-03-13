@@ -64,6 +64,16 @@ A few lifetimes for fluency in at least one language in each major language fami
 The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
 </p>
 
+<blockquote>
+I thought to live<br/>
+Two centuries, or three-<br/>
+Yet here comes death<br/>
+To me, a child<br/>
+Just eight-five years old.<br/>
+
+― Hanabusa Ikkei, Japanese artist (died in 1843)⁷
+</blockquote>
+
 -----
 
 <p>
@@ -124,3 +134,4 @@ Sources:<br/>
 ⁴: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
 ⁵: [https://en.wikipedia.org/wiki/Hydra_(genus)](https://en.wikipedia.org/wiki/Hydra_(genus)) <br/>
 ⁶: [https://en.wikipedia.org/wiki/List_of_language_families](https://en.wikipedia.org/wiki/List_of_language_families) <br/>
+⁷: [https://michaelstoneteaching.com/notes-on-dying-3-death-poems/](https://michaelstoneteaching.com/notes-on-dying-3-death-poems/) <br/>

@@ -1,37 +1,38 @@
 ## <div align="center">Afraid of the Light</div>
 
 <p>
-I read a post on X recently, in which the author said he was sick of making children do things against their will every day of their lives
-</p>
-
-<p>
 After a certain point in the 1600s, candidates for rulers of the Ottoman Empire were confined to house arrest until they ascended to the throne and took power.
 The building to which they were confined was called "Kafes", which literally means "cage" in Turkish.
-Shocking no one, Ottoman rulers came out of the literal cage unbelievably insane. 
+Unsurspringly, Ottoman rulers came out of the "cage" unbelievably insane. 
 </p>
 
 <p>
-An example of this is Sultan Ibrahim, who ruled the Ottoman Empire from 1640 to 1648.
+Sultan Ibrahim ruled the Ottoman Empire from 1640 to 1648.
 He was known, rather un-creatively, as "Ibrahim the Mad".
 Ibrahim the Mad was a sex addict and a wildly dysfunctional ruler.
 </p>
 
 <p>
 Addiction is, of course, a textbook coping mechanism for traumatic life experiences.
-Among other failures, Ibrahim the Mad's poor leadership led to the Cretan War (1645–1669), which, according to records at the time, claimed over 150,000 lives.
+Among other failures, Ibrahim the Mad's poor leadership led to the Cretan War (1645–1669), which, according to records at the time, claimed over 150,000 lives (!).
 Ibrahim the Mad was eventually executed (by strangling!) at the direction of his mother (!), at the age of 32.
 </p>
 
 <hr/>
 
 <p>
-As the X poster notes, it is indeed common practice to make children do things against their will more or less every day of their lives
-The problem is: they don't stay children forever.
+I read a post on X recently, in which the author said he was sick of making children do things against their will every day of their lives
+</p>
+
+<p>
+As the X poster notes, it's indeed common practice to make children do things against their will more or less every day of their lives.
+"What's the big deal?", you may say. After all, they're children! You gotta do that!
+The problem is: they don't stay children forever. And they don't stay powerless forever.
 </p>
 
 <p>
 Like Ibrahim the Mad, they grow up and take power in the world.
-It's perhaps no coincidence that the world shaped by adults is as insane as it.
+And so it's perhaps no coincidence that the world shaped by adults is as insane as it.
 </p>
 
 <p>
@@ -133,7 +134,12 @@ Ripostes:<br/>
 -Lucretius, from the poem "De Rerum Natura"
 </p>
 
-Add to the afraid of the light essay the prison stuff. The main prison with the guy being sprayed maybe. The Georgia prisons with a violation of their constitutional rights. The wing correctional essay and mother Jones and or it talks about the sexual slaves there. And tie it back to recidivism. You expect someone to endure these conditions and come out a well-functioning will adjusted member of society. That's a bit much.
+Add to the afraid of the light essay the prison stuff. The main prison with the guy being sprayed maybe.
+The Georgia prisons with a violation of their constitutional rights.
+The wing correctional essay and mother Jones and or it talks about the sexual slaves there.
+And tie it back to recidivism.
+You expect someone to endure these conditions and come out a well-functioning will adjusted member of society.
+That's a bit much.
 
 ¹:https://www.loebclassics.com/view/lucretius-de_rerum_natura/1924/pb_LCL181.195.xml?readMode=recto
 ²:https://www.humanium.org/en/finlands-children-centric-school-system-a-global-model-for-success/
@@ -145,8 +151,7 @@ Add to the afraid of the light essay the prison stuff. The main prison with the 
 ⁸:https://en.wikipedia.org/wiki/Ibrahim_of_the_Ottoman_Empire
 ⁹:https://en.wikipedia.org/wiki/Kafes
 
-
-
+The place to get stock photos is iStock 
 
 
 
