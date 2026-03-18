@@ -20,7 +20,7 @@ In the summer of 2009, I traveled to coastal Harspwell, Maine.
 
 <hr/>
 
-Herzog likes to say, that “the world reveals itself to those who travel by foot.”
+
 
 From email: 
 "It's so strange to arrive at that place where you have dreamed of.

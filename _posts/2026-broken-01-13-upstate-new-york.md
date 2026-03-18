@@ -34,6 +34,18 @@ The coworker at Dominos Pizza, who was homeless and quite angry, freaking out ab
 </p>
 
 <p>
+Talk about the neighbors in the Irondequoit house. The problems with all 3.
+"Him: people have been juicing for hundreds of years.
+Me: People have been smoking for hundreds of years".
+</p>
+
+<p>
+Talk about the guy I tutored who started punching his calculator in a public library, when he got frustrated while studying chemistry.
+I recall thinking: is he really punching his calculator in the middle of a library filled with people.  
+During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v
+</p>
+
+<p>
 And that was my experience in upstate New York!
 </p>
 

@@ -35,7 +35,7 @@ The "real stuff", some of which I knew about then and some of which I learned ab
 </p>
 
 <p>
-Turns out, the warm-up was eternal.
+Turns out, I was wrong.
 </p>
 
 <p>
