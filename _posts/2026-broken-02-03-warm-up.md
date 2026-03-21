@@ -39,6 +39,17 @@ Turns out, I was wrong.
 </p>
 
 <p>
+<blockquote>
+I forgot what my life was like before quantum mechanics.
+I know I was playing in a sandbox and someone was trying to beat me up, but I don’t remember when that was.<br/>
+-Ramamurti Shankar
+-https://www.acsu.buffalo.edu/~jjmarzia/misc/shankar.pdf
+</blockquote>
+
+See if I can find the poem from Wesley McNair about time running backwards include that maybe ask Denis for help.
+</p>
+
+<p>
 But then again, <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">that's what books, the internet, and university degree programs are for</a>.
 </p>
 
