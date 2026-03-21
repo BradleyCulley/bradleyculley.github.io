@@ -30,11 +30,24 @@ The chili person at the bar.
 </p>
 
 <p>
+The guy coming into Dominos and giving a fake 100 dollar bill. It was significantly too small.
+My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
+He was calm as can be, and perhaps slightly bemused, as was his constant mood.
+A great boss and a great man. I owe him a lot. 
+</p>
+
+<p>
 The coworker at Dominos Pizza, who was homeless and quite angry, freaking out about the lack of pizza prep from the prior day.
 </p>
 
 <p>
-Talk about the neighbors in the Irondequoit house. The problems with all 3.
+Throwing the pizza dough trays out of walk-in cooler while screaming "now they're out".
+I looked up at one my coworkers. We were on the other side of the pizza oven.
+It was like "woah".
+</p>
+
+<p>
+Talk about the neighbors in the Irondequoit house. The problems with all 3 people.
 "Him: people have been juicing for hundreds of years.
 Me: People have been smoking for hundreds of years".
 </p>
