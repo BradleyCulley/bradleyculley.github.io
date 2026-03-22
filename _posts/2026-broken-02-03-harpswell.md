@@ -42,45 +42,89 @@ I worked on my application to study abroad in Nepal, on my laptop. Later, I deci
 <p>
 I went for a run, barefoot, up the side road I was in, onto the main road, then along the main road. A ways down down the road, I came across the entrance to, as I recall, some kind of nature reserve.
 I ran down the main road in the preserve. The buildings nearby were abandoned, and the glass was broken in.
-I ended up on a pier of some sort that extended into the ocean.
+I ended up on a pier of some sort, surrounded by the ocean.
 </p>
 
-It was sunset. I'd brought my cell phone, a flip phone, along and took these photos:
+<p>
+It was sunset. I had my cell phone, a flip phone, and took these photos:
 
-I returned to where I was thinking of camping out. I was walking down the road near the potential camp site and looking up at the stars. It was a rural area, right near the ocean, so there wasn't much light from artificial sources.
+</p>
 
-The stars were clear, bright, and numerous. It wasn't a few fuzzy points of yellowish light but rather clusters of clear, bright, white points.
+<p>
+I returned to where I was thinking of camping out.
+I walked down the road near the potential camp site and looked up at the stars.
+It was a rural area, right near the ocean, so there wasn't much light pollution.
+</p>
 
-At one point, I was looking out through the darkness, across a stretch of ocean to the shore on the other side. I saw two points of light on that other shore.
+<p>
+The stars were clear, bright, and numerous.
+Not a few fuzzy points of yellowish light but rather sharp bright clusters of points.
+</p>
 
-The light also reminded me of the romantic interest. I'm my mind, the two points of light were her and I.
+<p>
+At one point that night, I was looking out through the darkness, across a stretch of ocean, to the shore on the other side.
+I saw two points of light on that other shore, which reminded me again of that romantic interest.
+I'm my mind, the two points of light were her and I.
+</p>
 
 <hr/>
 
-At a certain point that evening, I was on the phone with my parents. They were understandably concerned that I was in a random place alone, thinking of free camping. I tried to explain everything was cool. They persisted and called a taxi. The taxi took me to a hotel nearby. The next morning I headed home, taking a bus to a town closer to home and meeting my dad there.
+<p>
+At a certain point that evening, I was on the phone with my parents. I think they called me rather than the other way around.
+They were understandably concerned that I was in a random place, alone, and planning to free camp.
+</p>
 
-I felt a singular emotion the next day - the day that started in the hotel. It was a lightness and a completeness, like turning in a test at school on which you know you did well. You walk out of the classroom with lightness, satisfaction, and relief.
+<p>
+I explained that everything was cool. They explained that things were, in fact, not cool, and then they called a taxi to bring me to a hotel nearby.
+I remember honestly not being too bothered either way, and sort of calmly enjoying the taxi ride.
+</p>
 
-I conveyed that impression to my father, who told me Jack Kerouk used to say he felt "wiped clean" after his famous trips across the country.
+<p>
+The taxi took me to a hotel nearby.
+The next morning, I headed home, taking a bus and then meeting my dad at the bus station, as I recall.
+</p>
+
+<p>
+I felt a singular emotion the next day - the day that started in the hotel.
+It was a lightness and a completeness, like turning in a test at school, on which you know you did well.
+You walk out of the classroom with lightness, satisfaction, and relief.
+</p>
+
+<p>
+I conveyed the impression to my father, who told me Jack Kerouk used to say he felt "wiped clean" after his famous trips across the country.
+For Kerouk, the slate was blank, so to speak.
+</p>
 
 <hr/>
 
-Later that summer, I went back to the build site in Harpswell, and actually volunteered building homes.
+<p>
+Later that month, I went back to the build site in Harpswell, and actually volunteered building homes.
+Among other things, I helped put up roof trusses.
+</p>
 
 <hr/>
 
-A market research professional once told me surveys show a consistent trend among people as they age: their view of life gets more negative. I think it's actually a bit dangerous to navigate that slide without having had any idealism in the first place.
+<p>
+For those following along, I was being an idiot about nearly everything.
+<ul>
+    <li>Manually swinging hammers wasn't the most economically efficient way for me to contribute to society. I was doing a STEM degree at an elite university and unironically should have working on curing a disease or something.</li>
+    <li>I should have verified the build was going to happen</li>
+    <li>I shouldn't have entertained free-camping in a random place</li>
+    <li>I shouldn't have been so romantic</li>
+</ul>
+But maybe it depends on how you look at it.
+</p>
 
-It's perhaps somehow realistic, in an indifferent and often nasty world, to see points of light across the vastness of the ocean and be filled with feelings of love.
+<hr/>
 
-From email: 
-"It's so strange to arrive at that place where you have dreamed of.
-I remember writing the application in the evening beside a post office in Harpswell, ME, because there was a power outlet there.
-I had taken a bus there to go to a habitat site, but found out they didn't need volunteers, so planned to stay the night in the forest nearby (without supplies!).
-I remember walking down the road to a huge lake, which I tried to bathe in, but was salty.
-I also remember running barefoot to a huge park, which had a pier into the ocean, right near sunset.
-The buildings nearby were abandoned, and the glass was broken in.
-Though a long story short, I did get back there to build later in the month, but it was such a strange experience riding in a cab late in the night on the way to a hotel in Brunswick."
+<p>
+A market research professional once told me surveys show a deeply consistent trend among people as they get older: their view of life gets more negative.
+I think there's a danger to navigating that long slow slide without having had any idealism to begin with.
+</p>
+
+<p>
+In the case of Harpswell, it's perhaps quite realistic, in an often troubled world, to look across the vastness of the ocean and be filled with feelings of love.
+</p>
 
 <img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" />
 <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
