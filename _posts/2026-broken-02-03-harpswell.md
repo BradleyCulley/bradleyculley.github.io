@@ -5,13 +5,6 @@
 </div>
 <br/>
 
-<blockquote>
-<div style="text-align: center;">
-The world reveals itself to those who travel by foot<br/>
--Werner Herzog¹
-</div>
-</blockquote>
-
 <hr/>
 
 <p>
@@ -54,12 +47,23 @@ I ended up on a pier, surrounded by the ocean.
     </div>
 </p>
 
+<blockquote>
+<div style="text-align: center;">
+The world reveals itself to those who travel by foot<br/>
+-Werner Herzog¹
+</div>
+</blockquote>
+
+<hr/>
+
 <p>
 I returned to where I was thinking of camping.
 At one point, after it was fully dark, I was walking down the road near the potential camp site, and looked up at the stars.
 It was a rural area, right near the ocean, so there wasn't much light pollution.
 The stars were clear, bright, and numerous.
 </p>
+
+<hr/>
 
 <p>
 At one point that night, I was looking out through the darkness, across a stretch of ocean to the shore on the other side.
@@ -70,37 +74,36 @@ I'm my mind, the two points of light were her and I.
 <hr/>
 
 <p>
-At a certain point night, I was on the phone with my parents. I think they called me rather than the other way around.
+Also that night, I was on the phone with my parents. I think they called me rather than the other way around.
 They were understandably concerned that I was in a random place, alone, and planning to free camp.
 </p>
 
 <p>
 I explained that everything was cool.
-They explained that everything was, in fact, not cool. Then they called a taxi to bring me to a hotel nearby.
+They explained that everything was in fact not cool. Then they called a taxi to bring me to a hotel nearby.
 I remember not being too bothered, and sort of calmly enjoying the taxi ride.
 </p>
 
 <p>
-The taxi took me to a hotel nearby.
-The next morning, I headed home, taking a bus and then meeting my dad at the bus station, as I recall.
+The next morning, I headed home.
 </p>
 
 <p>
-I felt a singular emotion the next day - the day that started in the hotel.
+I felt a singular emotion the next day — the day that started in the hotel.
 It was a lightness and a completeness, like turning in a test at school, on which you know you did well.
 You walk out of the classroom with lightness, satisfaction, and relief.
 </p>
 
 <p>
-I conveyed the impression to my father, who told me Jack Kerouk used to say he felt "wiped clean" after his famous trips across the country.
-For Kerouk, the slate was blank, so to speak.
+I conveyed the impression to my father, who told me Jack Kerouac used to say he felt "wiped clean" after his famous trips across the country.
+For Kerouac, the slate was made blank, so to speak.
 </p>
 
 <hr/>
 
 <p>
 Later that month, I went back to the build site in Harpswell, and actually volunteered building homes.
-Among other things, I helped put up roof trusses.
+Among other things, we put up roof trusses.
 </p>
 
 <hr/>
@@ -108,7 +111,7 @@ Among other things, I helped put up roof trusses.
 <p>
 For those following along, I was being an idiot about nearly everything.
 <ul>
-    <li>Manually swinging hammers wasn't the most economically efficient way for me to contribute to society. I was doing a STEM degree at an elite university and unironically should have working on curing a disease or something.</li>
+    <li>Manually swinging hammers wasn't the most efficient way for me to contribute to society. I was doing a STEM degree at an elite university and unironically should have been working on curing a disease or something.</li>
     <li>I should have verified the build was going to happen</li>
     <li>I shouldn't have entertained free-camping in a random place</li>
     <li>I shouldn't have been so romantic</li>
@@ -120,11 +123,11 @@ But maybe it depends on how you look at it.
 
 <p>
 A market research professional once told me surveys show a deeply consistent trend among people as they get older: their view of life gets more negative.
-I think there's a danger to navigating that long slow slide without having had any idealism to begin with.
+I think there's danger in navigating that long slow slide without having had any idealism to begin with.
 </p>
 
 <p>
-In the case of Harpswell, it's perhaps quite realistic, in an often troubled world, to look across the ocean at night and be filled with feelings of love.
+In the case of Harpswell, it's perhaps quite realistic, in a rather crazy world, to look across the ocean at night and be filled with feelings of love.
 </p>
 
 <br/>
