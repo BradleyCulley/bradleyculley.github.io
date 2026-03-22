@@ -30,7 +30,7 @@ The chili person at the bar.
 </p>
 
 <p>
-The guy coming into Dominos and giving a fake 100 dollar bill. It was significantly too small.
+The guy coming into Dominoes and giving a fake 100 dollar bill. It was significantly too small.
 My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
 He was calm as can be, and perhaps slightly bemused, as was his constant mood.
 A great boss and a great man. I owe him a lot. 
