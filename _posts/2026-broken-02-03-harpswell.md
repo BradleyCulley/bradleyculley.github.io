@@ -16,27 +16,34 @@ The world reveals itself to those who travel by foot<br/>
     The 
 </p>
 
-In the summer of 2009, I traveled to coastal Harspwell, Maine.
-
 <hr/>
 
-In the summer of 2009, I was trying to volunteer building homes.
+<p>
+In the summer of 2009, I was trying to volunteer building homes through Habitat for Humanity in Maine.
+</p>
 
-The summer prior, while working a campus job, I'd joined a trip to a Habitat for Humanity work site. I kept going, once a week, through the following academic year.
+<p>
+I signed up for a build day in Harpswell, Maine, but the logistics fell through.
+And so I was at the job site, an hour and a half from where I lived, without any volunteering that needed to be done.
+I'd taken a bus for part of the trip, so I couldn't simply drive homw.
+</p>
 
-I connected with Habitat for Humanity 7 Rivers Maine and signed up for attending a build day in Harpswell, Maine. There was a rescheduling or some sort of logistical change. The result was that, one day, I was in Harpswell but there wasn't any volunteering to be done.
+<p>
+For some reason, I thought camping in the woods for the night, without a tent or whatever, was a perfectly good plan.
+I sat read from a book. Near where I sat, I saw a piece of amber from a tree.
+The amber was, as I recall, roughly heart-shaped.
+</p>
 
-I was thinking of camping in the woods for the night. I sat for a while and read from a book.
-
-Near where I sat, I saw a piece of amber from a tree. The amber was, as I recall, roughly heart-shaped. I took a photo, but can't seem to find the photo now.
-
-The amber reminded me of a person in whom I had a romantic interest and whom I later dated. A sort of Rorschach Test.
-
+<p>
+The heart-shaped amber reminded me of a person in whom I had a romantic interest, and whom I later dated.
 I worked on my application to study abroad in Nepal, on my laptop. Later, I decided to go for for a run.
+</p>
 
+<p>
 I went for a run, barefoot, up the side road I was in, onto the main road, then along the main road. A ways down down the road, I came across the entrance to, as I recall, some kind of nature reserve.
 I ran down the main road in the preserve. The buildings nearby were abandoned, and the glass was broken in.
 I ended up on a pier of some sort that extended into the ocean.
+</p>
 
 It was sunset. I'd brought my cell phone, a flip phone, along and took these photos:
 
