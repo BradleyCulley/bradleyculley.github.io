@@ -107,11 +107,10 @@ I think there's danger in navigating that long slow slide without having had any
 </p>
 
 <p>
-In the case of Harpswell, it's perhaps somehow realistic to look across the vast solitude of the ocean at night and be filled with feelings of love.
+In the case of Harpswell, it's perhaps somehow realistic to look across the vastness of the ocean at night and be filled with feelings of love.
 </p>
 
 <hr/>
 
-<br/>
 Sources:<br/>
 ¹: [https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad](https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad) <br/>
