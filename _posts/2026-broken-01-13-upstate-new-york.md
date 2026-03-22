@@ -30,7 +30,7 @@ The chili person at the bar.
 </p>
 
 <p>
-The guy coming into Dominoes and giving a fake 100 dollar bill. It was significantly too small.
+The guy coming into Domino's and giving a fake 100 dollar bill. It was significantly too small.
 My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
 He was calm as can be, and perhaps slightly bemused, as was his constant mood.
 A great boss and a great man. I owe him a lot. 
@@ -41,13 +41,13 @@ Speaking of stealing $100, --talk about the guy in the house who stole $100 from
 </p>
 
 <p>
-The coworker at Dominos Pizza, who was homeless and quite angry, freaking out about the lack of pizza prep from the prior day.
+The coworker at Domino's Pizza, who was homeless and quite angry, freaking out about the lack of pizza prep from the prior day.
 </p>
 
 <p>
 Throwing the pizza dough trays out of walk-in cooler while screaming "now they're out".
-I looked up at one my coworkers. We were on the other side of the pizza oven.
-It was like "woah".
+A coworker and I were were on the other side of the pizza oven.
+We looked at each other with a sort of mutual "woah".
 </p>
 
 <p>
@@ -58,12 +58,47 @@ Me: People have been smoking for hundreds of years".
 
 <p>
 Talk about the guy I tutored who started punching his calculator in a public library, when he got frustrated while studying chemistry.
-I recall thinking: is he really punching his calculator in the middle of a library filled with people.  
-During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v
+I recall thinking: is he really punching his calculator in the middle of a library filled with people?
+During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v.
+My sharing that fact seemed to simultaneously impress and offend him, and he enjoined something like "that's some genius stuff".
 </p>
 
 <p>
-And that was my experience in upstate New York!
+In early 2016, I took a job offer in Colorado.
+As part of moving, I cleaned out my apartment and had some things I wanted to throw away, so I drove to a waste transfer station.
+As is typical at waste transfer stations, there was a little building where you check in before and after disposing of the items you've brought.
+</p>
+
+<p>
+The woman who spoke to me, through a speaker, from the little building was unbelievably rude and hostile, for absolutely no reason.
+At the end of our interaction, she told me "you're free to go", which, for those not in the know, is what law enforcement in the US typically says at the end of a given interaction.
+It took me a second to process this unexpected hostility.
+</p>
+
+<p>
+My brain caught up and I circled right around to the other side of the building, without dropping off anything.
+I stopped my car on the other side of the building and a guy in the little building asked me through the speaker why I was leaving without dropping anything off.
+I told him the customer service there was terrible.
+He seemed genuinely confused, and a little hurt, by this revelation. Then I left.
+</p>
+
+<p>
+One day, while working on the move-out, I was standing on the street near my apartment.
+There was a main road perpendicular to the cross-street on which I lived, and that section of the main road was a steeply sloped hill, headed downwards into town. 
+All of a sudden, a van came absolutely _flying_ over the hill at the top of the road.
+</p>
+
+<p>
+I seem to remember that it literally left the ground for a few moments, like a scene from an action movie or something.
+It was going like literally 100 miles an hour.
+I remember thinking "woah", that seems unusual.
+A few seconds later, police cars came flying down the road after the van.
+Towards the bottom of the hill, the van, as I recall, crashed into a pole, and I think the person fled on foot.
+</p>
+
+<p>
+A nutjob fleeing the cops at 100 miles an hour, in a van, down a normal suburban street, was something a microcosm of my entire experience in Upstate New York.
+Unexpected destructive chaos injected into attempts to live a normal life.
 </p>
 
 <br/>
