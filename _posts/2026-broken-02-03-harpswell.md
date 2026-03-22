@@ -47,24 +47,22 @@ I ended up on a pier, surrounded by the ocean.
 </p>
 
 <p>
-It was sunset. I had my cell phone, a flip phone, and took some photos:
-<img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
-<img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" />
+    It was sunset. I had my cell phone — a flip phone — and took some photos:<br/>
+    <div align="center">
+        <img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" /><br/>
+        <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
+    </div>
 </p>
 
 <p>
-I returned to where I was thinking of camping out.
-I walked down the road near the potential camp site and looked up at the stars.
+I returned to where I was thinking of camping.
+At one point, after it was fully dark, I was walking down the road near the potential camp site, and looked up at the stars.
 It was a rural area, right near the ocean, so there wasn't much light pollution.
-</p>
-
-<p>
 The stars were clear, bright, and numerous.
-Not a few fuzzy points of yellowish light but rather sharp bright clusters of points.
 </p>
 
 <p>
-At one point that night, I was looking out through the darkness, across a stretch of ocean, to the shore on the other side.
+At one point that night, I was looking out through the darkness, across a stretch of ocean to the shore on the other side.
 I saw two points of light on that other shore, which reminded me again of that romantic interest.
 I'm my mind, the two points of light were her and I.
 </p>
@@ -72,13 +70,14 @@ I'm my mind, the two points of light were her and I.
 <hr/>
 
 <p>
-At a certain point that evening, I was on the phone with my parents. I think they called me rather than the other way around.
+At a certain point night, I was on the phone with my parents. I think they called me rather than the other way around.
 They were understandably concerned that I was in a random place, alone, and planning to free camp.
 </p>
 
 <p>
-I explained that everything was cool. They explained that things were, in fact, not cool, and then they called a taxi to bring me to a hotel nearby.
-I remember honestly not being too bothered either way, and sort of calmly enjoying the taxi ride.
+I explained that everything was cool.
+They explained that everything was, in fact, not cool. Then they called a taxi to bring me to a hotel nearby.
+I remember not being too bothered, and sort of calmly enjoying the taxi ride.
 </p>
 
 <p>
