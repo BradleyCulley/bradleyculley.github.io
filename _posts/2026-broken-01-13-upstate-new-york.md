@@ -14,7 +14,7 @@ In the summer and early fall of 2012, I was doing WWOOF workshares at various fa
 The last workshare I did was at a farm in upstate New York.
 The couple hosting the workshare were the absolute nicest people in the world.
 Both were retired, and their children had grown up and moved out of the home years ago.
-They had a huge home which literally looked like a castle.
+They had a huge home that looked like a literal stone castle.
 Their home was beautiful, inside and out, as was their entire estate.
 </p>
 
@@ -34,6 +34,10 @@ The guy coming into Dominos and giving a fake 100 dollar bill. It was significan
 My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
 He was calm as can be, and perhaps slightly bemused, as was his constant mood.
 A great boss and a great man. I owe him a lot. 
+</p>
+
+<p>
+Speaking of stealing $100, --talk about the guy in the house who stole $100 from me, by pretending to be in need--
 </p>
 
 <p>

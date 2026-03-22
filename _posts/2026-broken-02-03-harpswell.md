@@ -36,14 +36,20 @@ I worked on my application to study abroad in Nepal, on my laptop. Later, I deci
 </p>
 
 <p>
-I went for a run, barefoot, up the side road I was in, onto the main road, then along the main road. A ways down down the road, I came across the entrance to, as I recall, some kind of nature reserve.
-I ran down the main road in the preserve. The buildings nearby were abandoned, and the glass was broken in.
-I ended up on a pier of some sort, surrounded by the ocean.
+I went for a run, barefoot, up the side road, onto the main road, then along the main road.
+A ways down the main road, I came across the entrance to, as I recall, some kind of giant nature reserve.
+I ran down the entranceway, into the preserve.
 </p>
 
 <p>
-It was sunset. I had my cell phone, a flip phone, and took these photos:
+The buildings inside were abandoned, with broken glass around.
+I ended up on a pier, surrounded by the ocean.
+</p>
 
+<p>
+It was sunset. I had my cell phone, a flip phone, and took some photos:
+<img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
+<img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" />
 </p>
 
 <p>
@@ -122,8 +128,6 @@ I think there's a danger to navigating that long slow slide without having had a
 In the case of Harpswell, it's perhaps quite realistic, in an often troubled world, to look across the vastness of the ocean and be filled with feelings of love.
 </p>
 
-<img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" />
-<img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
 <br/>
 
 <br/>
