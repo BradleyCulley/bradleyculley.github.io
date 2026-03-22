@@ -124,7 +124,7 @@ I think there's a danger to navigating that long slow slide without having had a
 </p>
 
 <p>
-In the case of Harpswell, it's perhaps quite realistic, in an often troubled world, to look across the vastness of the ocean and be filled with feelings of love.
+In the case of Harpswell, it's perhaps quite realistic, in an often troubled world, to look across the ocean at night and be filled with feelings of love.
 </p>
 
 <br/>
