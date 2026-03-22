@@ -85,7 +85,7 @@ Among other things, we put up roof trusses.
 <p>
 For those following along, I was being an idiot about nearly everything:
 <ul>
-    <li>Swinging hammers wasn't the most efficient way for me to contribute to society. I was doing a STEM degree at an elite university and unironically should have been working on curing a disease or something.</li>
+    <li>Swinging a hammer wasn't the most efficient way for me to contribute to society. I was doing a STEM degree at an elite university and unironically should have been working on curing a disease or something.</li>
     <li>I should have verified the build was going to happen</li>
     <li>I shouldn't have entertained free-camping in a random place</li>
     <li>I shouldn't have been so romantic</li>
