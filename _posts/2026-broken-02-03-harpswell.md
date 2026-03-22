@@ -12,10 +12,6 @@ The world reveals itself to those who travel by foot<br/>
 </div>
 </blockquote>
 
-<p>
-    The 
-</p>
-
 <hr/>
 
 <p>
