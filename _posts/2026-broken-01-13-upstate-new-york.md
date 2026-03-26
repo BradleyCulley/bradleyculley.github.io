@@ -64,7 +64,7 @@ My sharing that fact seemed to simultaneously impress and offend him, and he enj
 </p>
 
 <p>
-Talk about the "prison nickname" I was given at Domino's Pizza
+Talk about the "prison nickname" I was given at Domino's Pizza. Talk about the nature place near the bridge.
 </p>
 
 <p>
