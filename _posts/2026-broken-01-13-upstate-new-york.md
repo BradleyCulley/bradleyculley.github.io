@@ -64,6 +64,10 @@ My sharing that fact seemed to simultaneously impress and offend him, and he enj
 </p>
 
 <p>
+Talk about the "prison nickname" I was given at Domino's Pizza
+</p>
+
+<p>
 In early 2016, I took a job offer in Colorado.
 As part of moving, I cleaned out my apartment and had some things I wanted to throw away, so I drove to a waste transfer station.
 As is typical at waste transfer stations, there was a little building where you check in before and after disposing of the items you've brought.
