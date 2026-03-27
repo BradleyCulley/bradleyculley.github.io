@@ -58,7 +58,7 @@ The stars were clear, bright, and numerous.
 <p>
 At another point that night, I was looking out through the darkness, across a stretch of ocean to the shore on the other side.
 There were two points of light on the other shore, which reminded me again of that romantic interest.
-In my mind, the two points of light were her and I.
+In my mind, the two points of light were me and her.
 </p>
 
 <hr/>
