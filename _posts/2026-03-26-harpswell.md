@@ -16,7 +16,7 @@ The world reveals itself to those who travel by foot<br/>
 <br/>
 
 <p>
-In the summer of 2009, I was trying to volunteer helping build homes in Maine.
+In the summer of 2009, I was trying to volunteer building homes in Maine.
 </p>
 
 <p>
