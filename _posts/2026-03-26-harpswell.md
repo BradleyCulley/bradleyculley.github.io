@@ -4,12 +4,16 @@
   <img src="https://bradleyculley.github.io/images/Harpswell.jpeg" />
 </div>
 
+<br/>
+
 <blockquote>
 <div style="text-align: center;">
 The world reveals itself to those who travel by foot<br/>
 -Werner Herzog¹
 </div>
 </blockquote>
+
+<br/>
 
 <p>
 In the summer of 2009, I was trying to volunteer helping build homes in Maine.
