@@ -12,7 +12,7 @@ The world reveals itself to those who travel by foot<br/>
 </blockquote>
 
 <p>
-In the summer of 2009, I was trying to volunteer building homes in Maine.
+In the summer of 2009, I was trying to volunteer helping build homes in Maine.
 </p>
 
 <p>
@@ -24,8 +24,8 @@ I'd taken a bus for part of the trip, so I couldn't just drive home.
 
 <p>
 For some reason, I thought camping in the woods for the night, without a tent or whatever, was a good idea.
-I sat and read from a book for a bit. Nearby, I saw a piece of amber from a tree.
-The amber was, as I recall, roughly heart-shaped, and it reminded me of a person in whom I had a romantic interest, and whom I later dated.
+I sat and read from a book for a bit. Nearby, I saw a piece of resin from a tree.
+The resin was, as I recall, roughly heart-shaped, and it reminded me of a person in whom I had a romantic interest, and whom I later dated.
 </p>
 
 <hr/>
@@ -58,7 +58,7 @@ The stars were clear, bright, and numerous.
 <p>
 At another point that night, I was looking out through the darkness, across a stretch of ocean to the shore on the other side.
 There were two points of light on the other shore, which reminded me again of that romantic interest.
-I'm my mind, the two points of light were her and I.
+In my mind, the two points of light were her and I.
 </p>
 
 <hr/>
@@ -84,7 +84,7 @@ Later that month, I went back to the build site and actually helped build a home
 <p>
 For those following along, I was being an idiot about nearly everything:
 <ul>
-    <li>Swinging a hammer wasn't the most efficient way for me to contribute to society at the time. I was doing a STEM degree at an fancy university and unironically should have been curing a disease or something.</li>
+    <li>Swinging a hammer wasn't the most efficient way for me to contribute to society at the time. I was doing a STEM degree at a fancy university and unironically should have been trying to cure a disease or something.</li>
     <li>I should have verified the build was going to happen</li>
     <li>I shouldn't have entertained free-camping in a random place</li>
     <li>I shouldn't have been so romantic</li>
@@ -96,11 +96,11 @@ But maybe it depends on how you look at it.
 
 <p>
 A market research professional once told me surveys show a highly consistent trend among people as they get older: their view of life gets more negative.
-I think there's danger in navigating that long slow slide of disillusionment without having had any idealism to begin with.
+I think there's danger in navigating that long slow slide without having had any idealism to begin with.
 </p>
 
 <p>
-In the case of Harpswell, it's perhaps somehow realistic to look across the vastness of the ocean and be filled with feelings of love.
+In the case of Harpswell, it's perhaps quite realistic to look across the vastness of the ocean and be filled with feelings of love.
 </p>
 
 <hr/>
