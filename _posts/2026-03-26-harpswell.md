@@ -45,7 +45,7 @@ The large concrete buildings in the preserve were abandoned, with broken glass a
 After a while, I ended up on a pier, surrounded by the ocean, at sunset.
 I had my cell phone — a flip phone — and took some photos:<br/>
     <div align="center">
-        <img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" /><br/>
+        <img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" /><br/><br/>
         <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
     </div>
 </p>
