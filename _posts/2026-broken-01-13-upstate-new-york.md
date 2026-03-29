@@ -30,6 +30,18 @@ The chili person at the bar.
 </p>
 
 <p>
+Talk about the guy I tutored who started punching his calculator in a public library, when he got frustrated while studying chemistry.
+I recall thinking: is he really punching his calculator in the middle of a library filled with people?
+During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v.
+My sharing that fact seemed to simultaneously impress and offend him, and he enjoined something like "that's some genius stuff".
+</p>
+
+<p>
+Working for the Korean English language teaching school, that failed to pay me on time and in which my manager's manager got all 3 of us on a call and yelled at my manager in Korean for about 40 minutes straight, then said something like "Ok great thanks for the meeting".
+My manager quit not long after. 
+</p>
+
+<p>
 The guy coming into Domino's and giving a fake 100 dollar bill. It was significantly too small.
 My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
 He was calm as can be, and perhaps slightly bemused, as was his constant mood.
@@ -54,17 +66,60 @@ We looked at each other with a sort of mutual "woah".
 Talk about the neighbors in the Irondequoit house. The problems with all 3 people.
 "Him: people have been juicing for hundreds of years.
 Me: People have been smoking for hundreds of years".
+He got me to give him a ride somewhere once, and was apparently using that as a test run to see if he could get other stuff from me.
+At one point, he attempted to ply me with sad stories about his work as a nursing assistant.
+I also lent him my graphing calculator once.
+I can't remember the details now, but he started asking for more favors from me.
+It might have been me tutoring him for free, or driving him places...
 </p>
 
 <p>
-Talk about the guy I tutored who started punching his calculator in a public library, when he got frustrated while studying chemistry.
-I recall thinking: is he really punching his calculator in the middle of a library filled with people?
-During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v.
-My sharing that fact seemed to simultaneously impress and offend him, and he enjoined something like "that's some genius stuff".
+Talk about the neighbors at the Cobb Hill house.
+The girlfriend who would just outright scream at her boyfriend for extended periods of time.
+The power went out one time and the residents of the building kind of gathered together outside to try to figure things out.
+One guy said someone else in the building had tripped the circuit by plugging in their terrarium, which I somehow found kind of funny.
+We went exploring in the basement area to try to turn the power back on, and there was broken glass along walking path into the basement.
+</p>
+
+<p>
+Tell the story of the person who called tech support on New Years day with almost $1 Million in payroll missing, because they'd misplaced the file they needed to send to the bank to have the direct deposits performed.
+Tell the story of the person who couldn't get me into their computer, who eventually declared that they weren't "a computer genius".
 </p>
 
 <p>
 Talk about the "prison nickname" I was given at Domino's Pizza. Talk about the nature place near the bridge.
+</p>
+
+<p>
+
+</p>
+
+<p>
+Talk about getting laid off with zero notice, and without being told I was being laid off.
+</p>
+
+<p>
+Talk about my car having a broken frame, which meant it couldn't pass inspection ever again, even if I got it fixed.
+I sold it to a junkyard, for about $500.
+I went to an auto dealer nearby to look at cars, and did a test drive of one I was able to afford.
+The brakes screeched loudly whenever I braked. I asked if there was an issue with the brakes, and they said "no".
+I later learned that that's what happens when the brake pads are worn through and it's an incredibly dangerous condition in which to drive a car.
+</p>
+
+<p>
+A guy who lived in or around my building asked me for money at least a few times, until one time I got angry with him, and he stopped.
+</p>
+
+<p>
+Two of the guys in my building were on some kind of welfare, and lived in the same apartment, along with one of the guys's wife.
+One of them said he had cancer, and used to wear a leg brace (which seems unrelated now that I think of it).
+I remember once commenting, unknowingly, that he seemed to be getting around ok despite the brace.
+I meant it as a genuine compliment, and he kind of said "yeah I'm doing my best!" or something.
+Later, when he was talking about having cancer, another tenant in the apartment building said "don't listen to him, he's been dyin' for 20 years!", which is an all-timer turn of phrase.
+</p>
+
+<p>
+Talk about the engineering leader at my corporate job in the area who at one point got up on a table in a conference room during a meeting and started shouting about something he was angry about.
 </p>
 
 <p>
