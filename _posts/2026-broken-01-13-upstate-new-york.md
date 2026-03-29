@@ -91,11 +91,12 @@ Talk about the "prison nickname" I was given at Domino's Pizza. Talk about the n
 </p>
 
 <p>
-
-</p>
-
-<p>
-Talk about getting laid off with zero notice, and without being told I was being laid off.
+Talk about getting told on a Friday afternoon at around 2 PM, with prior zero notice, that the other contractor and I needed to "pause" working for two weeks, then come back and keep working.
+They also said it looked like they'd probably convert me to a full-time employee.
+The contracting company said that a particular executive would reach out to me to via Skype, and he never did.
+I of course reached out to him via Skype, and he ghosted me.
+That Friday was the last day I worked for the company.
+Years later, that executive added me on LinkedIn.
 </p>
 
 <p>
@@ -131,7 +132,7 @@ As is typical at waste transfer stations, there was a little building where you 
 <p>
 The woman who spoke to me, through a speaker, from the little building was unbelievably rude and hostile, for absolutely no reason.
 At the end of our interaction, she told me "you're free to go", which, for those not in the know, is what law enforcement in the US typically says at the end of a given interaction.
-It took me a second to process this unexpected hostility.
+It took me a second to process this unbelievably unexpected hostility.
 </p>
 
 <p>
@@ -152,12 +153,16 @@ I seem to remember that it literally left the ground for a few moments, like a s
 It was going like literally 100 miles an hour.
 I remember thinking "woah", that seems unusual.
 A few seconds later, police cars came flying down the road after the van.
-Towards the bottom of the hill, the van, as I recall, crashed into a pole, and I think the person fled on foot.
+As I recall, towards the bottom of the hill the van crashed into a pole, and the person fled on foot.
 </p>
 
 <p>
-A nutjob fleeing the cops at 100 miles an hour, in a van, down a normal suburban street, was something a microcosm of my entire experience in Upstate New York.
-Unexpected destructive chaos injected into attempts to live a normal life.
+And that was my three and a half years in upstate New York.
+</p>
+
+<p>
+A nutjob fleeing the cops at 100 miles an hour, in a van, down a residential street, was something of a microcosm of my whole experience in Upstate New York.
+Chaos injected into attempts to live a normal life.
 </p>
 
 <br/>
