@@ -112,6 +112,28 @@ A guy who lived in or around my building asked me for money at least a few times
 </p>
 
 <p>
+One time, an elderly woman in my apartment building was out in the hallway and asked myself and two other guys if any of us could bring her to a store so she could buy some bread.
+We're talking like 80-year old woman, super nice, trying to literally get food.
+It felt like something from a Charles Dickens novel or something.
+</p>
+
+<p>
+The two other guys were brothers, and they said they couldn't help.
+As I recall, they said they were headed in another direction or something.
+</p>
+
+<p>
+I said yes, and drove the woman to the store.
+At the store, we encounter none other than the two brothers who just lied to us about being able to help.
+Nuclear-level cringe moment.
+</p>
+
+<p>
+When the elderly woman and I got back to the apartment building, she told me my eyes reminder her of her late husband's eyes.
+Again, it felt like I was in a late 1800s novel, perhaps more Tolstoy than Dickens by that point. 
+</p>
+
+<p>
 Two of the guys in my building were on some kind of welfare, and lived in the same apartment, along with one of the guys's wife.
 One of them said he had cancer, and used to wear a leg brace (which seems unrelated now that I think of it).
 I remember once commenting, unknowingly, that he seemed to be getting around ok despite the brace.
