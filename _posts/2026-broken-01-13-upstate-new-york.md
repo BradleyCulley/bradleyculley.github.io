@@ -129,7 +129,7 @@ Nuclear-level cringe moment.
 </p>
 
 <p>
-When the elderly woman and I got back to the apartment building, she told me my eyes reminder her of her late husband's eyes.
+When the elderly woman and I got back to the apartment building, she told me my eyes reminded her of her late husband's eyes.
 Again, it felt like I was in a late 1800s novel, perhaps more Tolstoy than Dickens by that point. 
 </p>
 
