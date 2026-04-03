@@ -208,6 +208,8 @@ hey have become associated with the causes of the factions, as instruments of pr
 “The modern hero, the modern individual who dares to heed the call and seek the mansion of that presence with whom it is our whole destiny to be atoned, cannot, indeed must not, wait for his community to cast off its slough of pride, fear, rationalized avarice, and sanctified misunderstanding. ‘Live,’ Nietzche says, ‘as though the day were here.’ It is not society that is to guide and save the creative hero, but precisely the reverse. And so every one of us shares the supreme ordeal– carries the cross of the redeemer– not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.”
 </p>
 
+Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
+
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
 http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
 https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=35845&dataid=53662&FileName=The%20Hero%20with%20a%20Thousand%20Faces.pdf
