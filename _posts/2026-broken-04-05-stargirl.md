@@ -1,5 +1,5 @@
-## <div align="center">The Demon-Haunted World<div>
-<div style="font-size: 25px; font-weight: bold;" align="center">by Jerry Spinelli</div><br/>
+## <div align="center">Star Girl<div>
+<div style="font-size: 25px; font-weight: bold;" align="center">by Carl Sagan</div><br/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
@@ -12,11 +12,7 @@
 <hr/>
 
 <p>
-ONE OF TIME MAGAZINE'S 100 BEST YA BOOKS OF ALL TIME - NEW YORK TIMES BESTSELLER - A PARADE BEST KIDS BOOK OF ALL TIME
-
-A modern-day classic from Newbery Medalist Jerry Spinelli, this beloved celebration of individuality is now an original movie on Disney+!
-
-https://www.amazon.co.uk/Stargirl-Jerry-Spinelli/dp/037582233X
+ A New York Times bestseller. Winner of the Los Angeles Times Book Prize for 1996.
 </p>
 
 <hr/>
