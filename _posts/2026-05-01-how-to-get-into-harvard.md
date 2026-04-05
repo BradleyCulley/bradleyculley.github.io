@@ -97,23 +97,13 @@ Another example would be
 4. Be rich
 
 <p>
-I'm mostly including this for completeness, since it's less within your controler. The daughter of the CEO of Chevron was in my sister's class at Harvard.
-When my sister went to Harvard, she qualified for a program called the Harvard Financial Aid Initiative (HFAI). -https://college.harvard.edu/financial-aid/how-aid-works/types-aid
-HFAI provides a full-tuition scholarship for students with combined family incomes below a certain amount.
-Back in 2003, when she started at Harvard, it was like $60,000, which was actually quite a good income back then.
+I'm mostly including this for completeness, since it's less within your controll. As an example, the daughter of the CEO of Chevron was in my sister's class at Harvard.
 </p>
 
 <p>
 At Harvard, my sister used to make a nice little side income collecting the (usually designer) clothes and other items people threw away at the end of each semester and selling them to consignment stores.
-We were still below that mark. She also got a free laptop...pretty sweet deal. Most people are Harvard are rich as hell.
-</p>
-
-<p>
-There's what's called the "sticker price", which is the official cost of tuition at the university, and then there's the price after financial aid.
-Huge difference if you're even upper middle class or below socioeconomically.
-My total cost of attending Williams from 2007 to 2011 was about $3,000 per academic year (9 months in duration), which included food and housing.
-It was cheaper than renting a dumpy apartment and buying food from Costco, and it was that way because of financial aid and my family's adjusted parental income.
-Note the word "adjusted" there: if your parents make a lot but are also e.g. spending a lot to send your siblings to college concomitantly, that's taken into account and lowers your family income in Harvard's eyes (which is a good thing). 
+At the time (2003), if your combined adjusted family income was below $60,000/year, you got a full scholarship, including housing and food.
+We were below that mark. She also got a free laptop...pretty sweet deal.
 </p>
 
 5. Be famous (and probably also rich)
@@ -125,23 +115,54 @@ I later learned he was <i>literally</i> a prince, from the Middle East somewhere
 Similarly, Ashton Kutcher famously went to Yale.
 </p>
 
+<p>
+Again including this mostly for completeness, although it's definitely possible to make yourself famous (in a good way, not in an FBI's Most Wanted List kind of way).
+Ashton Kutcher didn't start out famous, nor did he come from a famous family.
+</p>
+
 #### How Do I Get a High SAT (and PSAT) Score?
 
 <p>
-Practice. Research has shown that performance on a standardized test is linearly correlated with how long one spends preparing for it. --TODO add citation
+<b>Practice.</b> Research has shown that performance on a standardized test is linearly correlated with how long one spends preparing for it. --TODO add citation
 The more work you put in studying for the SAT, the better you'll do on it.
 This is actually really good news, because in the absence of the ability to prepare, the SAT acts like an IQ test yet with known biases related to one's background, and both of those are out of your control.
 Studying, however, is within your control.
 </p>
 
 <p>
+TODO Reference Alex Hormozi's true story of studying for the GRE until he got a score that was (at or above?) Harvard Business School's average score.
+</p>
+
+<p>
 Do you need a tutor?
 No, but you'll do better if you hire a good one.
 How do you know if they're a good tutor? They're a good tutor if they:<br/>
-1. Got a very high score themeslves
+1. Got a very high score themeslves. TODO link the WyzAnt tutor who notes that they've gotten 99th percentile scores on various standardized tests.
 2. Have good ratings on whatever platform through which they offer their services
-3. Ideally have been reccomended to you by family, friends, coworkers, etc. If the child of someone you know got into a good school, they probably got a good SAT score. Ask if they had an SAT (and PSAT) tutor.
+3. Ideally have been recommended to you by family, friends, coworkers, etc. If the child of someone you know got into a good school, they probably got a good SAT score. Ask if they had an SAT (and PSAT) tutor.
 <p>
+
+<p>
+Which materials should I use? Start with taking practice tests that are the <i>actual</i> tests given in prior years.
+The College Board, the company that creates and manages the SAT, provides, for free, the tests given in prior years (TODO fact check that).
+This is a link to those tests.
+</p>
+
+<p>
+Tests from prior years are the best resource to use because they are guaranteed to be realistic: they're literally what the test was that year.
+Note that the test has changed over time, in both structure and content (sections added/removed, type of content changed, etc.), so more recent prior tests are better simulations of what you'll get when you take the SAT.
+</p>
+
+<p>
+Prior year tests from recent aren't enough volume of material, however.
+Also, if you're targeting schools like Harvard, you'll want to specifically study for getting a score in the 99th percentile.
+Most SAT prep resources don't specifically focus on that, because it's frankly overkill for getting into most colleges, and yet it takes a lot more time and effort.
+</p>
+
+<p>
+What's the solution? There's a test prep book specifically for getting a perfect score (or close).
+The title is "SAT 1600 with Online Test: Aiming for the Perfect Score". Here it is: https://www.amazon.ie/SAT-1600-Online-Test-Perfect/dp/1438012233
+</p>
 
 <p>
 This same advice applies for any of the competitions above: The International Mathematical Olympiad, etc.
@@ -149,22 +170,48 @@ For those though, try to pick something you're actually interested in (science, 
 </p>
 
 <p>
-TODO: tell the story about Chandrasekhar, who won a Nobel Prize, driving to teaching the class to two people, both of whom won Nobel Prizes.
-</p>
-
-<p>
 TODO talk about Bloom's Two Sigma Problem and how tutorial instruction by an expert has been a secret to success since all the way back to Plato, who tutored 
 </p>
 
-
-TODO move this under a heading like "I couldn't go to Harvard anyway: it's too expensive".
-A loot of people think they can't go to Harvard/MIT/etc. because it's too expensive.
-That's a huge misconception, and in fact the opposite is true.
-If you're accomplished enough to get into a university like Harvard or MIT, they will almost always find a way to make it work for you financially, up to and including a full scholarship, a campus job, covering your flights, and so on.
+<p>
+TODO: tell the story about Chandrasekhar, who won a Nobel Prize, driving to teaching the class to two people, both of whom won Nobel Prizes.
 </p>
 
+#### I Couldn't Go to Harvard Anyway: It's Too Expensive
 
+<p>
+<b>Wrong!</b>
+</p>
+
+<p>
+A loooot of people think they can't go to Harvard/MIT/etc. because it's too expensive.
+That's a huge misconception, and in fact the opposite is true.
+If you're accomplished enough to get into a university like Harvard or MIT, they will almost always find a way to make it work for you financially, up to and including a full scholarship, a campus job, covering your flights, and so on.
+The key is the difference between what's called the "sticker price" and the actual price.
+</p>
+
+<p>
+The "sticker price" is the price you've probably heard of: $80,000 per year or whatever.
+The actual price is what you pay after financial aid comes into the mix.
+Only fairly wealthy people (asterisk for don't hate me if you don't consider yourself wealthy but you'd have to pay the full price. Fun fact: you're wealthy, deal with it.) pay the sticker price.
+Everyone else pays less, often much less.
+</p>
+
+<p>
+When my sister went to Harvard, she qualified for a program called the Harvard Financial Aid Initiative (HFAI). -https://college.harvard.edu/financial-aid/how-aid-works/types-aid
+HFAI provides a full-tuition scholarship for students with combined family incomes below a certain amount.
+Back in 2003, when she started at Harvard, it was like $60,000, which was actually quite a good income back then.
+</p>
+
+<p>
+My total cost of attending Williams from 2007 to 2011 was about $3,000 per academic year (9 months in duration), which included food and housing.
+It was cheaper than renting a dumpy apartment and buying food from Costco, and it was that way because of financial aid and my family's adjusted parental income.
+Note the word "adjusted" there: if your parents make a lot but are also e.g. spending a lot to send your siblings to college concomitantly, that's taken into account and lowers your family income in Harvard's eyes (which is a good thing).
+</p>
+
+<p>
+TODO: include this somewhere
 For example, there was famously an SAT question that hinged on knowing what the word "regatta" means.
 "Regatta" means "A regatta is a sports event consisting of races between yachts or rowing boats." -https://www.collinsdictionary.com/dictionary/english/regatta
 A yacht race. Can you see the problem there?
-However, this essay will explain how you can overcome these issues.
+</p>
