@@ -162,6 +162,7 @@ Most SAT prep resources don't specifically focus on that, because it's frankly o
 <p>
 What's the solution? There's a test prep book specifically for getting a perfect score (or close).
 The title is "SAT 1600 with Online Test: Aiming for the Perfect Score". Here it is: https://www.amazon.ie/SAT-1600-Online-Test-Perfect/dp/1438012233
+TODO add other such books if I can find them.
 </p>
 
 <p>
