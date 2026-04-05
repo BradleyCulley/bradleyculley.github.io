@@ -125,11 +125,38 @@ I later learned he was <i>literally</i> a prince, from the Middle East somewhere
 Similarly, Ashton Kutcher famously went to Yale.
 </p>
 
-#### I'm Dumb, How Do I Get a High SAT Score?
-
-Practice.
+#### How Do I Get a High SAT (and PSAT) Score?
 
 <p>
+Practice. Research has shown that performance on a standardized test is linearly correlated with how long one spends preparing for it. --TODO add citation
+The more work you put in studying for the SAT, the better you'll do on it.
+This is actually really good news, because in the absence of the ability to prepare, the SAT acts like an IQ test yet with known biases related to one's background, and both of those are out of your control.
+Studying, however, is within your control.
+</p>
+
+<p>
+Do you need a tutor?
+No, but you'll do better if you hire a good one.
+How do you know if they're a good tutor? They're a good tutor if they:<br/>
+1. Got a very high score themeslves
+2. Have good ratings on whatever platform through which they offer their services
+3. Ideally have been reccomended to you by family, friends, coworkers, etc. If the child of someone you know got into a good school, they probably got a good SAT score. Ask if they had an SAT (and PSAT) tutor.
+<p>
+
+<p>
+This same advice applies for any of the competitions above: The International Mathematical Olympiad, etc.
+For those though, try to pick something you're actually interested in (science, math, writing, etc.).
+</p>
+
+<p>
+TODO: tell the story about Chandrasekhar, who won a Nobel Prize, driving to teaching the class to two people, both of whom won Nobel Prizes.
+</p>
+
+<p>
+TODO talk about Bloom's Two Sigma Problem and how tutorial instruction by an expert has been a secret to success since all the way back to Plato, who tutored 
+</p>
+
+
 TODO move this under a heading like "I couldn't go to Harvard anyway: it's too expensive".
 A loot of people think they can't go to Harvard/MIT/etc. because it's too expensive.
 That's a huge misconception, and in fact the opposite is true.
