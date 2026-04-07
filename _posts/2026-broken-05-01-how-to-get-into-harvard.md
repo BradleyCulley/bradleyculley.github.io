@@ -14,17 +14,36 @@ Not clickbait, not monetized in any way, not a waste time.
 </p>
 
 <p>
+
+### Part A: Get good grades.
+
+No matter which of the below strategies you use, you'll want to get good grades.
+Straight As should be your plan.
+This is much bigger deal if you go to a "known" high school, which is explained below, than a random high school.
+
+### Part B: How to Stand Out From the Crowd
+
 1. Get a high SAT Score
 
-This is basically non-negotiable. The way it works is that Harvard reports the average SAT score for each incoming class of students.
+<p>
+Even beyond standing out from the crowd, this is basically non-negotiable.
+It's more or less a fundamental requirement.
+The way it works is that Harvard reports the average SAT score for each incoming class of students.
 They want the average to be as high as possible, because:<br/>
 a. It's one of the factors in the ranking system that US News and World Report uses to rank each university. The higher the score, the better.
 b. It positively correlates with academic success in college.
+</p>
 
---maybe move below or remove--
+<p>
 The higher your score, the more likely you are to do well in college.
-Note: the SAT has major structural flaws that mirror social issues in the US and worldwide.
-More on that, and on how to get a good score, below.
+Note: the SAT has structural flaws that mirror social issues in the US and worldwide.
+We'll cover how to get a good score on the SAT later in this essay.
+</p>
+
+<p>
+A good score alone doesn't guarantee admission, however.
+Every year, Harvard rejects a number of students who are valedictorians and who got a perfect score on the SAT. --TODO: add citation
+</p>
 
 2. Win national or global competitions.
 
@@ -54,12 +73,27 @@ It's simply impossible for college admissions officers to keep track of anything
 </p>
 
 <p>
+One good way around the 
+</p>
+
+<p>
+The obscurity of most high schools brings us to our next point: going to a top high school.
+</p>
+
+3. Go To A Top High School
+
+<p>
 There are a few high schools for which they <i>do</i> do this, however.
-For example, Deerfield Academy in Massachusetts and Phillips Exeter Academy in New Hampshire.
+For example, Deerfield Academy in Massachusetts, Phillips Exeter Academy in New Hampshire, the Bronx High School of Science in NYC, and Stuyvesant .
 Where did Mark Zuckerberg go to high school before going to Harvard? Phillips Exeter.
 
----TODO add other famous Harvard grads who went to one of those two---
-Competition to get into Deerfield or Phillips Exeter is intense, for good reason.
+
+Competition to get into a high school Deerfield or Phillips Exeter is intense, for good reason.
+These are lists of the top high schools in the United States:
+https://www.usnews.com/education/best-high-schools/national-rankings
+https://www.niche.com/k12/search/best-high-schools/
+
+Note how charter schools/magnet schools rank highly. 
 </p>
 
 <p>
@@ -77,7 +111,7 @@ Here's a list of some of the top national and international competitions that wi
 </ul>
 </p>
 
-3. In general, be the best (or among the very best) in the world at something.<br/>
+4. Be among the best in the world at something, even if there's not a formal competition for it.<br/>
 
 <p>
 Tim Doner became famous for making a YouTube video in which he speaks 20 different languages, with impressive depth and skill, as a 16 year-old high school student.
@@ -90,11 +124,7 @@ The point here is that there wasn't a formal competition in play there. He creat
 Great if you can do it, but trickier.
 </p>
 
-<p>
-Another example would be 
-</p>
-
-4. Be rich
+5. Be rich
 
 <p>
 I'm mostly including this for completeness, since it's less within your controll. As an example, the daughter of the CEO of Chevron was in my sister's class at Harvard.
@@ -106,7 +136,7 @@ At the time (2003), if your combined adjusted family income was below $60,000/ye
 We were below that mark. She also got a free laptop...pretty sweet deal.
 </p>
 
-5. Be famous (and probably also rich)
+6. Be famous
 
 <p>
 One time when she was a student at Harvard, I went for lunch with my sister in Cambridge, Massachusetts.
@@ -119,6 +149,8 @@ Similarly, Ashton Kutcher famously went to Yale.
 Again including this mostly for completeness, although it's definitely possible to make yourself famous (in a good way, not in an FBI's Most Wanted List kind of way).
 Ashton Kutcher didn't start out famous, nor did he come from a famous family.
 </p>
+
+<hr/>
 
 #### How Do I Get a High SAT (and PSAT) Score?
 
