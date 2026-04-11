@@ -33,6 +33,10 @@ Talk about the experience of seeing the building that the person built for their
 </p>
 
 <p>
+Talk about the experience of the dream about Wil Smith from Seeds of Peace. I was flying, moving forward above a road lined with trees on either side. The branches of the trees spread out over the road somewhat, creating a sort of partial tunnel, that I was traveling down.  
+</p>
+
+<p>
 Nonexistence is perhaps especially incongruous and inexplicable when someone young dies so suddenly. 
 Even more so when they're a great person, like Bruce Lee. 
 Oumou Sangare has a song title that captures this well: [Saa Magna - "Death is Terrible"](https://www.youtube.com/watch?v=4_YyroDeZrY).

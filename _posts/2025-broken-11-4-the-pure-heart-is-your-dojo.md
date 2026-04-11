@@ -1,5 +1,4 @@
-## <div align="center">Complete Nepali</div>
-<div style="font-size: 25px; font-weight: bold;" align="center">A Teach Yourself Guide,<br/>by Michael J Hutt, Krishna Pradhan, and Abhi Subedi</div>
+## <div align="center">The Pure Heart Is Your Dojo</div>
 
 ---
 
@@ -8,25 +7,13 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Marpha.jpeg" />
-</div>
-<div align="center">
-An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<br/>I took the photo in 2010.
+
 </div>
 <br>
 
 TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
-TODO: Add much of your pain is self-chosen to the pure heart essay
-TODO: I read a somewhat strange book called Journey Into Nature, which I took as a fairy tale until the last chapter or so, which terrifically gripped me! A friend recently wrote me about starting to read I am You by Daniel Kolak.
 ---
-<p>
-In college, I trained with a Japanese Buddhist priest.
-He used to tell me the Japanese saying "jikishin kore dojo", which means "the pure heart is your dojo".
-A dojo is a traditional Japanese place of mental and physical training, a sort of refuge of strength.
-Life can sometimes take from you everything other than being a decent person.
-</p>
 
-A story, from the book The Hero with a Thousand Faces by Joseph Campbell, which I read on my own during the following year of college:
 <blockquote>
 The second story is of a different style. Tt is told of a young
 prince who had just completed his military studies under a
@@ -105,9 +92,18 @@ story to human beings; then went his way.32
 </blockquote> -https://ia601406.us.archive.org/30/items/Birdsfrogsandmirrors/JosephCampbell%20-%20The%20Hero%20With%20a%20Thousand%20Faces%20Commemorative%20Edition.pdf
 maybe change to get quote from here? https://themythologyproject.com/prince-five-weapons/?utm_source=chatgpt.com
 
-<hr/>
+<p>
+In college, I trained with a Japanese Buddhist priest.
+He used to tell me, over and over again, "jikishin kore dojo", which in Japanese means "the pure heart is your dojo".
+A dojo is a traditional Japanese place of mental and physical training: a refuge of strength.
+The idea is that life can sometimes take from you everything other than being a decent person.
+</p>
 
-It sounds like a platitude — "be good" — but there's more to it.
+<p>
+It sounds like a simple platitude — "be good" — but there's more to it.
+</p>
+
+<hr/>
 
 1. A decent person, not a caricature of virtue.
 Talk about how both Mike Merritt the astronomy professor, and the ex-con interviewee said essentially the same thing when summarizing their life: I didn't do anything evil.
@@ -127,7 +123,8 @@ In fact they're quite the opposite of those who won't stop talking about their "
 
 Add the Devkota poem quote about the ascetic being a deserter
 
-"https://fixquotes.com/quotes/receiving-far-less-attention-are-the-working-117529.htm?utm_source=chatgpt.com" -John Lennon, TODO: add citation, and see if there's 
+"https://fixquotes.com/quotes/receiving-far-less-attention-are-the-working-117529.htm?utm_source=chatgpt.com" -John Lennon, TODO: add citation, and see if there's
+
 3. The subtle shift that is everything: my experience.
 Many years ago, and also in college, I experienced this firsthand.
 In particular, I went from more of a "hmmm, am I the good guy here?" to a certainty that I was entirely decent.
@@ -207,6 +204,8 @@ hey have become associated with the causes of the factions, as instruments of pr
 
 “The modern hero, the modern individual who dares to heed the call and seek the mansion of that presence with whom it is our whole destiny to be atoned, cannot, indeed must not, wait for his community to cast off its slough of pride, fear, rationalized avarice, and sanctified misunderstanding. ‘Live,’ Nietzche says, ‘as though the day were here.’ It is not society that is to guide and save the creative hero, but precisely the reverse. And so every one of us shares the supreme ordeal– carries the cross of the redeemer– not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.”
 </p>
+
+TODO: Add much of your pain is self-chosen to the pure heart essay
 
 Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
 
