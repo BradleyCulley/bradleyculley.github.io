@@ -194,6 +194,12 @@ These aphorisms often involved "leadership", which was in particularly vogue in 
 </p>
 
 <p>
+TODO: talk about how an essential element of an event being traumatic seems to be that one finds at least partial fault in oneself.
+If you are the victim of a random crime, for example, it's actually less likely to be traumatic.
+Talk about the idea of cathexis from Freud in that regard: you bring into yourself the thing you want to attack, and attack yourself by way of attacking the thing.
+</p>
+
+<p>
 "The essence of greatness is the perception that virtue is enough."
 https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-perception-that-virtue-is
 </p>
