@@ -104,6 +104,10 @@ I think there's danger in navigating that long slow slide without having had any
 </p>
 
 <p>
+When I shared an earlier version of this essay with my father, he told me of a quote he'd heard somewhere: "we are forged in the fires of our youth".
+</p>
+
+<p>
 In the case of Harpswell, it's perhaps realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
 </p>
 
