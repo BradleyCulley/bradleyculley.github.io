@@ -37,6 +37,40 @@ My sharing that fact seemed to simultaneously impress and offend him, and he enj
 </p>
 
 <p>
+Looking for work on Craigslist and helping the guy move stuff at the retired guy's house.
+He was a retired math teacher and I told him about my math background.
+He seemed shocked and saddened that I working as a helper moving things at his house, which is fair.
+He was very nice.
+</p>
+
+<p>
+The guy who was leading the work of moving stuff - who may have been the son of the retired math teacher (I don't recall), was nice to me.
+And more importantly, he took me seriously.
+He took me to a restaurant - a Chinese restaurant as I recall - after the job and paid for my meal.
+For some reason, I was explaining my goal of living in a little cabin or something like that.
+He looked at me from across the table with an intent and serious gaze.
+He said something like "I hope you do it".
+As I recall, he also offered to let me stay at his place in Lexington, Kentucky if I ever wanted to.
+He wasn't the least bit creepy. He had some kind of business in the trades: carpentry perhaps, I don't recall.
+He was a military veteran.
+Something else in Kentucky had opened a business with the same name as his, and he was talking about how he might have to legally pressure them to change it. 
+</p>
+
+<p>
+He spoke about the differences between the Binghamton area and Lexington: the economy and the sunshine.
+He said "Lexington is booming".
+</p>
+
+<p>
+The experience with him was utterly and completely different than nearly every other experience in Upstate New York.
+He was nice to me. He took me seriously.
+There was absolutely nothing he needed from me.
+The moving job was a one-time job, and he was headed back to Lexington. 
+The experience was something like pulling a sliver of wood out of my heart.
+It wasn't until I experienced it that I fully appreciated how good it felt.
+</p>
+
+<p>
 Working for the Korean English language teaching school, that failed to pay me on time and in which my manager's manager got all 3 of us on a call and yelled at my manager in Korean for about 40 minutes straight, then said something like "Ok great thanks for the meeting".
 My manager quit not long after. 
 </p>
