@@ -8,8 +8,8 @@
 
 <blockquote>
 <div style="text-align: center;">
-The world reveals itself to those who travel by foot<br/>
--Werner Herzog¹
+We are forged in the fires of our youth<br/>
+-My dad
 </div>
 </blockquote>
 
@@ -110,8 +110,3 @@ When I shared an earlier version of this essay with my father, he told me of a q
 <p>
 In the case of Harpswell, it's perhaps realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
 </p>
-
-<hr/>
-
-Sources:<br/>
-¹: [https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad](https://www.nationalgeographic.com/travel/article/werner-herzog-interview-on-bruce-chatwin-film-nomad) <br/>
