@@ -17,3 +17,19 @@ And second, his mention of the marathon runner, dead from old age on a stretcher
 
 Why do we not teach this in schools?
 Forget church, forget fairly tales, teach the world as it is - both the good (the potential in life) and the bad (the world is rudderless, theodicy ain't real).
+
+From Yeats:
+
+https://poems.com/poem/nineteen-hundred-and-nineteen/
+
+<blockquote>
+
+We too had many pretty toys when young:
+A law indifferent to blame or praise,
+To bribe or threat; habits that made old wrong
+Melt down, as it were wax in the sun’s rays;
+Public opinion ripening for so long
+We thought it would outlive all future days.
+O what fine thought we had because we thought
+That the worst rogues and rascals had died out.
+</blockquote>
