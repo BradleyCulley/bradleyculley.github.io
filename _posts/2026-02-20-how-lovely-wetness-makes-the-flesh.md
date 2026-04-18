@@ -18,16 +18,16 @@
 
 <p>
     The reaction it created reminds me of something from a short film titled "Why Details Matter," by the video artist Van Neistat³.
-    You can watch the film here (8-minute duration, open in a new tab): <a target="_blank" href="https://www.youtube.com/watch?v=ooTN3dkYXQM">link</a>.
+    You can watch the film here (8-minutes, open in a new tab): <a target="_blank" href="https://www.youtube.com/watch?v=ooTN3dkYXQM">link</a>.
 </p>
 
 <p>
     In the film, Neistat talks about his tendency to fixate on details: using exactly the right brand of pencil, the temperature of his art studio, and so on.
-    I wasn't fixated on details, but I resonated with the resolution he describes.
+    I wasn't fixated on details myself, but I resonated with his resolution to his concern about being fixated on details.
 </p>
 
 <p>
-    Anyway, concerned about his tendency to fixate on details, Neistat seeks the opinion of his romantic partner:³
+    The resolution comes when Neistat shares his concern with his romantic partner and seeks her opinion:³
 </p>
 
 <blockquote>
