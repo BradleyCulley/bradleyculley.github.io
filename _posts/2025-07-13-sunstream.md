@@ -20,16 +20,23 @@
 </p>
 
 <p>
-    Some photos I took that summer:
+    Some photos I took at the camp that summer:
 </p>
 
 <div align="center">
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-8.jpg" />
 </div>
+<br/>
 <div align="center">
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-6.jpg" />
 </div>
 <br/>
+<div align="center">
+    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-9.jpg" />
+</div>
+<div align="center">
+    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-10.jpg" />
+</div>
 <div align="center">
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-5.jpg" />
 </div>
