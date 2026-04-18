@@ -85,6 +85,8 @@ Add to the trouble with doctors that every once in a while you get a doctor who 
 The doctor who gave me advice about earphones when I said earplugs.
 The medical practice that shouted "self-pay" when I visited with an ear infection just after resigning from my job and starting my own business, so I was in limbo before starting COBRA-based health insurance. 
 
+That they generally want to feel like they can actually help. I think that's part of why they like acute issues. They can definitely help with a fractured arm. In fact they can often completely fix it, or get pretty close. The trouble comes when the desire to be effective starts to drive them to turn chronic into acute, to simplify, to shortcut the diagnostic process, and so on. A hammer looking for a nail.
+
 <br/>
 Sources:<br/>
 ¹: <a href="https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf">https://ia801202.us.archive.org/6/items/DemonHauntedWorld_carlSagan/Sagan_-_The_Demon-Haunted_World___Science_as_a_candle_in_the_dark.pdf</a><br/>
