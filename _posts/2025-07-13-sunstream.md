@@ -24,6 +24,9 @@
 </p>
 
 <div align="center">
+    <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-8.jpg" />
+</div>
+<div align="center">
     <img style="height: auto; width: 40%;" src="https://bradleyculley.github.io/images/Kents-Hill-6.jpg" />
 </div>
 <br/>
