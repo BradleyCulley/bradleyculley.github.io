@@ -18,6 +18,10 @@ They had a huge home that looked like a literal stone castle.
 Their home was beautiful, inside and out, as was their entire estate.
 </p>
 
+<p>
+Talk about the French Canadian guy and his wife, who were doing the remodeling, for whom I worked.
+</p>
+
 <hr/>
 
 <p>
