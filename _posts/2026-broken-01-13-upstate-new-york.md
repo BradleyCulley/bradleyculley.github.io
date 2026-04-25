@@ -180,6 +180,10 @@ Later, when he was talking about having cancer, another tenant in the apartment 
 </p>
 
 <p>
+Add the walks along those street, especially the one with the trees on either side, to the upstate New York essay
+</p>
+
+<p>
 Talk about the engineering leader at my corporate job in the area who at one point got up on a table in a conference room during a meeting and started shouting about something he was angry about.
 </p>
 
