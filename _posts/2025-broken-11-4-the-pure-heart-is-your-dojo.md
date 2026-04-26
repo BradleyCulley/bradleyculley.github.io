@@ -139,6 +139,10 @@ I see...the ascetic in his cave a deserter
 
 "https://fixquotes.com/quotes/receiving-far-less-attention-are-the-working-117529.htm?utm_source=chatgpt.com" -John Lennon, TODO: add citation, and see if there's
 
+TODO: mabye add the story about Wendell on his last day of work, getting the logs to the yard, and include a photo of him.
+Or even just include a photo of him: the photo with Denis.
+Talk about him losing his eye, working into his 80s, etc.
+
 3. The subtle change that is everything
 
 my experience.
