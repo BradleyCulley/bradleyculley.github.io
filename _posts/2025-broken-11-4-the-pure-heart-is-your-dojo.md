@@ -193,6 +193,13 @@ That's another piece of the pure heart, which you could call the "Star Wars" pie
 There's a satisfaction to living long enough to not see yourself become the villian.
 Attaining the position of power, and refusing to abuse it.
 
+8. For you 
+
+Most of all, and a key point here, is that virtue isn't for someone else. Not for your priest, pastor, parent, child, spouse, or society.
+It's for you!
+
+---
+
 Henry David Thoreau had a nice turn of phrase in this regard:
 <blockquote>
  Thoreau died of tuberculosis in the town of his birth, Concord, Massachusetts aged 44. When his aunt Louisa asked him in his last weeks if he had made his peace with God, Thoreau responded: “I did not know we had ever quarreled.”
@@ -213,7 +220,7 @@ Virtue is an awkward academic term, so you'll usually hear things phrased anothe
 You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
 
 Add this somewhere in the essay: Buddhist ethics are intentionalist, meaning it's about what you've intended to do, even if you fail to achieve the intended outcome.
-That fits with "jikishin kore dojo", because it's about controlling the inputs (your own intentions), which is all you really have control over.
+That fits with "jikishin kore dojo", because it's about controlling the inputs (your own intentions), which is all you really control.
 
 <p>
 I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
@@ -225,7 +232,8 @@ He conveyed that saying, "jikishin kore dojo" - "the pure heart is your dojo" wi
 He would, as I recall, generally say it in Japanese first and then in English, ensuring that I understood.
 At the time, it didn't stick much in my psyche.
 I saw it as another of the vague aphorisms sometimes wielded by the adults in my life.
-These aphorisms often involved "leadership", which was in particularly vogue in my social milieu in the early 2000s. Think school principal speeches and baseball coach pep talks.
+These aphorisms often involved "leadership", which was in particularly vogue in my social milieu in the early 2000s.
+Think the school principal on stage in the auditorium, or the baseball coach addressing us in the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
 </p>
 
 <p>
