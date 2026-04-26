@@ -17,6 +17,8 @@ Charles Ponzi
 TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
 ---
 
+TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
+
 <blockquote>
 The second story is of a different style. 
 It is told of a young prince who had just completed his military studies under a world-renowned teacher.
