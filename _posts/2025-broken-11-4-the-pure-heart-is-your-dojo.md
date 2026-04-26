@@ -5,6 +5,9 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" />
 </div> -- TODO add citation: https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg
+<div align="center">
+Charles Ponzi
+</div>
 <br>
 <div align="center">
 
@@ -119,7 +122,7 @@ And yet the earlier you start being a decent person, the stronger the effect is.
 2. Unassuming
 
 I once read that the single biggest external marker of a decent person is being _unassuming_ --TODO cite Chris Ebbert post about that
-We've all met people like this: chill, lighthearted, an aura of solidity and decency.
+We've all met people like this: doesn't take themselves too seriously, an aura of transparency and solidity.
 Every plumber I've ever met was like this. The pure heart.
 
 Another translation of "jikishin kore dojo" is "straightforward mind is the Dojo". -https://www.mountaincloud.org/straightforward-mind-is-the-dojo/
@@ -172,8 +175,8 @@ The key mistake is to think the compass isn't being applied <i>to you</i>, <i>by
 And the thing is, generally nobody has more control over you, than you.
 Former CIA intelligence officer Andrew Bustamante recounted his experience - TODO fill in the detail of the story and add a citation.
 Former Navy SEAL and famous ultramarathon runner David Goggins said "your mind has the ultimate tactical advantage over you" --TODO add citation.
-If you don't, fundamentally, see yourself as someone decent, your mind will, in my opinion, tend to use that fact against you.
-But the contrary is also true: thus the story of Prince Five-Weapons.
+If you don't, fundamentally, see yourself as someone decent, your mind will, in my opinion, use that fact against you.
+But the converse is also true: thus the story of Prince Five-Weapons.
 
 7. One of my father's longtime friends used to work at a frozen yogurt shop.
 It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
