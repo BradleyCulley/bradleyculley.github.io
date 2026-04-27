@@ -14,7 +14,6 @@ Charles Ponzi
 </div>
 <br>
 
-TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
 ---
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
@@ -72,22 +71,21 @@ maybe change to get quote from here? https://themythologyproject.com/prince-five
 <p>
 In college, I trained with a Japanese Buddhist priest.
 He used to tell me, over and over, "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
-As I recall, he would generally say it Japanese, then immediately after in English.
-A "dojo" is a traditional Japanese place of mental and physical training: a place of refuge and of strength.
+As I recall, he would usually say it Japanese, then in English right after.
+A "dojo" is a traditional Japanese place of mental and physical training: a place of refuge and strength.
 The idea of the quotation is that being a decent person is the final and most important protection against the storms of life.
 </p>
 
 <p>
-It sounds like a simple platitude — "be good" — but there's more to it.
+It sounds like a platitude — "be good" — but it goes deeper than that.
 </p>
 
 <hr/>
 
-1. A decent person, not a caricature of virtue.
+1. A caricature of virtue
 
 I once saw an interview with a man who had spent many years in prison.
 When reflecting on his life, he said something like that he had done illegal things, but he'd never done something evil.
-You could tell he was at peace with himself.
 
 A year after retiring from being a professor of astronomy, Professor Emeritus Mike Merritt was asked if had any regrets:
 <blockquote>
@@ -99,7 +97,7 @@ Dr. Merritt:<br/>
 I mean yeah, you can always beat yourself up about things that you should have done differently, things that you shouldn't have said, things that you should have said.
 
 Interviewer:<br/>
-Go on then, that's what I want [😂]. 
+Go on then, that's what I want. 
 
 Dr. Merritt:<br/>
 But honestly, you know, you only get one shot at things, and I think I can honestly say that...of all the things I've done...I've never behaved maliciously.
@@ -108,28 +106,23 @@ You can never hope to get it right all the time, but what you can hope to do is 
 </blockquote>
 -https://www.youtube.com/watch?v=axN5sveQ06M (starting around 8:00 in the video)
  
-Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't fast and pray, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
+Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't stop eating for a while, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 
-When virtue is explained in cartoonish terms, like becoming a monk, it does everyone a great disservice.
-This is especially true for young people, for whom the message is most important.
+Thinking of virtue as being a monk 
+When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
+This is especially true for young people, for whom the message is most critical.
 Most people have zero interest in being a monk and will never be a monk.
 
-1. "Ok whatever"
-2. "Booooring"
-3. "Irrelevant"
-
 The lives of the famous saints in various religions, pretty much all of them sound, to be blunt, not particularly fun, especially if you're like 14 years old.
-And yet the earlier you start being a decent person, the stronger the effect is...by a lot.
+And yet the earlier you start being a decent person, the stronger is the effect.
 
 2. Unassuming
 
 I once read that the single biggest external marker of a decent person is being _unassuming_ --TODO cite Chris Ebbert post about that
-We've all met people like this: doesn't take themselves too seriously, an aura of transparency and solidity.
+We've all met people like this. They don't take themselves too seriously; they have an aura of transparency and solidity.
 Every plumber I've ever met was like this. The pure heart.
 
-Another translation of "jikishin kore dojo" is "straightforward mind is the Dojo". -https://www.mountaincloud.org/straightforward-mind-is-the-dojo/
-
-Perhaps uncoincidentally, these are generally the last people you'll find talking about their "spirituality".
+These are generally the last people you'll find talking about their spirituality.
 
 Add the Devkota poem quote about the ascetic being a deserter
 <blockquote>
@@ -145,12 +138,19 @@ Talk about him losing his eye, working into his 80s, etc.
 
 3. The subtle change that is everything
 
-my experience.
-Many years ago, and also in college, I experienced this firsthand.
-In particular, I went from unsure of my moral standing to a certainty that I was all right.
-I went to sleep at night, dreamt, and woke up in the peaceful containment of this knowledge.
+Many years ago, and also in college, I was, for a while, unsure of my own moral character.
+That feeling of uncertainty, which was quite unpleasant, led me to make a number of changes in my life.
+Around 8 months later, I remember feeling entirely different.
+I hadn't "figured it all out", but I had the right intentions and was doing the right things.
+I knew there was still much to do with respect to my missions in life, but it was more about intentionality and directionality.
 
-4. This is Charles Ponzi, the person the "Ponzi scheme" is named after. 
+I went to sleep at night, slept peacefully, and woke up, all within the containment of this knowledge.
+
+“When you're moving in the positive, your destination is the brightest star.”
+-https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-stevie-wonder-when-youre-moving-in-the-positive-your-destination-inspiring-quotes-by-one-of-the-best-selling-music-artists-of-all-time/articleshow/128786561.cms?from=mdr
+-Stevie Wonder
+
+4. Charles Ponzi
 
 This is Charles Ponzi, the person after which the "Ponzi scheme" scam is named:
 <div align="center">
@@ -165,38 +165,46 @@ His scheme ran for over a year before it collapsed, costing his "investors" $20 
 A few years ago, I was talking with someone about Charles Ponzi, then looked him up and saw that photo of him.
 
 I remember thinking something like "wow, he just <i>looks</i> like scum".
-You can just <i>feel</i> the uneasiness in that photo.
+More than anything else, you can feel the <i>uneasiness</i> in that photo.
 
-As an aside, Ponzi is introduced as a "charlatan and con artist" in the first paragraph of his Wikipedia article, which is kind of funny. https://en.wikipedia.org/wiki/Charles_Ponzi
+5. Also applies to institutions, cultures, and countries.
+There are some countries and cultures that have never really done anything crazy to anyone.
+Never invaded, conquered, or colonized.
+Thailand is a good example of this, and I think it permeates the culture in a positive way.
 
-5. Also applies to institutions, cultures, and countries. Ireland is, in my opinion, a good example of the power of the pure heart.
+
 Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
 The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
 The ultimate "get everything taken from you" experience is of course death.
 
-6. Self-sabotage is a real thing. I'm not a psychologist, but I think a real factor is one's sense of oneself.
-While it doesn't always win in immediate decision-making, I think most people have a moral compass of some sort.
-The key mistake is to think the compass isn't being applied <i>to you</i>, <i>by you</i>.
+6. Self-sabotage
+
+If you don't, fundamentally, see yourself as a decent person, your mind will, in my opinion, use that fact against you.
+But the converse is also true, as in the story of Prince Five-Weapons.
+
+<blockquoute>
+Your mind has the ultimate tactical advantage over you<br/>
+-David Goggins
+</blockquoute>--TODO add citation.
+
+
 And the thing is, generally nobody has more control over you, than you.
 Former CIA intelligence officer Andrew Bustamante recounted his experience - TODO fill in the detail of the story and add a citation.
-Former Navy SEAL and famous ultramarathon runner David Goggins said "your mind has the ultimate tactical advantage over you" --TODO add citation.
-If you don't, fundamentally, see yourself as someone decent, your mind will, in my opinion, use that fact against you.
-But the converse is also true: thus the story of Prince Five-Weapons.
+Former Navy SEAL and famous ultramarathon runner  said 
+
 
 7. One of my father's longtime friends used to work at a frozen yogurt shop.
 It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
 My father's friend said the other guy was cool - fine to work with and so on.
 Then one day, the other guy - the coworkers - was made the manager of the frozen yogurt shop.
-He instantly became an enormous jerk.
-That's another piece of the pure heart, which you could call the "Star Wars" piece: not letting power, or abuse from others, or just the storms of life, turn you into the kind of person you used to hate.
-There's a satisfaction to living long enough to not see yourself become the villian.
-Attaining the position of power, and refusing to abuse it.
+He instantly became an insufferable jerk.
+You could call this the "Star Wars" piece of the pure heart: not letting power, or abuse from others, or any of the storms of life, turn you into what you used to hate.
+There's great satisfaction in ending up in that position of power, and refusing to abuse it.
 
 8. For you 
 
-Most of all, and a key point here, is that virtue isn't for someone else. Not for your priest, pastor, parent, child, spouse, or society.
-It's for you!
+Most of all, virtue is for <i>you</i>. Not for your priest, pastor, parent, child, spouse, or society.
 
 ---
 
@@ -211,8 +219,6 @@ On his deathbed, Henry David Thoreau was asked by his aunt Louisa if he had made
 
 His last words were, “Now comes good sailing.”
 </blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
-
-
 
 Offense: not to be dramatic, but this is kind of the "end goal" of a human life.
 People have wildly different definitions of virtue, but virtue is still their goal.
@@ -257,6 +263,8 @@ hey have become associated with the causes of the factions, as instruments of pr
 TODO: Add much of your pain is self-chosen to the pure heart essay
 
 Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
+
+TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
 
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
 http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
