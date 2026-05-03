@@ -9,7 +9,7 @@
 ------------------------------------------
 
 <p>
-<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind _"on fire with the truth"_.</b>
+<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind <i>"on fire with the truth"</i>.</b>
 </p>
 
 <b>Early Life and Education</b>
@@ -24,7 +24,7 @@
 
 [[include photos from here of a young JVN: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb]]
 
-<p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his (von Neumann's) mathematical abilities that Szegő wept literal tears of joy.⁷</p>
+<p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
 
 <p>
 
@@ -33,15 +33,15 @@ You know you're doing ok when you're beating Georg Cantor at his own game..
 
 </p>
 
-<p>
+<blockquote>
 For his university schooling, he undertook, simultaneously, a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't the typical parental pressure situation though.
 von Neumann and his father kind of thought through options and together decided on chemical engineering.
-von Neumann appears to have dodged the whole "do what makes money or do what I'm passionate about" situation by simply doing both.
-He completed both degrees in 1926. He received his PhD Summa Cum Laude, with minors in experimental physics and chemistry.
-He then completed his Habilitation, which like a European version of a postdoc, thereby qualifying himself to be a university professor.
-</p>
+von Neumann, in typical supergenius fashion, seems to have dodged the whole "do what makes you money or do what you're passionate about" thing by simply doing both at the same time.
+He completed both degrees in 1926. He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
+He then completed his Habilitation, which is like a European version of a postdoc, thereby qualifying himself to be a university professor.
+</blockquote>
 
 <b>Professional Life</b>
 <p>
@@ -58,63 +58,68 @@ He remained a professor at the IAS for the rest of his life.</p>
 
 <p>
 The IAS is an interesting institution. 
-"[The] guiding principle in founding the institute was the pursuit of knowledge for its own sake.
-The faculty have no classes to teach.
-There are no degree programs or experimental facilities at the institute.
-Research is never contracted or directed.
-It is left to each individual researcher to pursue their own goals."
-von Neumann 
-</p>
+
+<blockquote>
+[The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. The faculty have no classes to teach. There are no degree programs or experimental facilities at the institute. Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.
+</blockquote> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 
 <p>
-A not-so-well-known fact about the IAS in Princeton is that it's not actually part of Princeton University.
+A not-so-well-known fact about the IAS in Princeton is that it's not part of Princeton University.
 While there are collaborations and programs that informally link the two, it's a completely separate institution.
 A kind of fun fact about the IAS is that it was just created "out of nowhere" from scratch with funding from a brother and sister - Louis Bamberger and Caroline Bamberger Fuld - who owned a department store in Newark, NJ.
 The store was called "Bamberger's".
-</p>
-
+</p> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 
 <p>
-His memory was best described as prodigious. It's probably the case that his is the best memory of anyone who has ever lived, at least about whom there is a historical record.
+von Neumann's memory was prodigious. 
+It's probably the case that his is the best memory of anyone who has ever lived and about whom there's a historical record.
 Brian Bi makes this claim elegantly: [[insert Brian Bi quote from Quora]]] 
 
-> Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:
+<blockquote>
+Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:
  One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
  He could also translate it at no diminution in speed from its original language into English.
  On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
  Von Neumann was reportedly able to memorize the pages of telephone directories.
  He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein¹
-</p>
+</blockquote>
 
-<p>
+<blockquote>
 "He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect"¹
-</p>
+</blockquote>
 
-<p>
-"A Princeton professor of [Byzantine History] once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
-</p>
+<blockquote>
+A Princeton professor of [Byzantine History] once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
+</blockquote>
 
-"You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is" 
+<blockquote>
+You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.
+</blockquote>
 -Enrico Fermi (Nobel Prize in Physics, 1938)¹⁷
 
-"One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch."
--Eugene Wigner (Nobel Prize in Physics, 1963)¹⁷
+<blockquote>
+One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.
+</blockquote>
+-Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain¹⁷
 
-"There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class. I came to a certain theorem, and I said it is not proved and it may be difficult. von Neumann didn’t say anything but after five minutes he raised his hand. When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann"
+"There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
+I came to a certain theorem, and I said it is not proved and it may be difficult. 
+von Neumann didn’t say anything but after five minutes he raised his hand. 
+When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.
 -George Pólya¹⁷
 
 <p>
-He accomplished an almost unbelievable amount in his life. Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military.
-A rare combination indeed. Typically two different types of minds for two different roles.
+He accomplished an unbelievable amount in his life. 
+Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military, including a key role in winning World War II.
+That is a rare combination indeed. Science work and public sector work are typically the purview of two different types of minds.
 </p>
 
 <p>
-von Neumann can't be characterized monofactorially, yet this description from a review of _Selected Letters_ is apt:
+von Neumann can't be characterized monofactorially, yet this description from a review of <i>Selected Letters</i> is apt:
 </p>
 
-<p>
-
-> The unifying theme in von Neumann’s life and
+<blockquote>
+The unifying theme in von Neumann’s life and
 work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing
 information and solving problems all the time.
 "Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his
@@ -125,24 +130,26 @@ with a question mark, he could not leave alone;
 he would sulk, pout, and be generally impossible
 until, at least to his own satisfaction, he had found
 the right answer.²
+</blockquote>
 
-</p>
+Major themes of his life include mathematics, politics, the military, physics, and computing.
 
-Major themes of his life include mathematics, politics and the military, physics, computing.
-
-<p>In each of those, he was world-changingly successful.</p>
+<p>In each of those, he was world-changingly successful. To give some illuminating examples:</p>
 
 <h3>Mathematics</h3>
 <p>He founded multiple entirely new fields, including, most notably, game theory.
 von Neumann was the sole founder of the mathematical field of game theory, via his 1928 paper "Zur Theorie der Gesellschaftsspiele" ("On the Theory of Games of Strategy", https://link.springer.com/article/10.1007/BF01448847).
-"In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics."¹³
-</p>
 
-<h3>In politics and the military</h3>
+<blockquote>
+In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
+<blockquote>
+
+<h3>Politics and the military</h3>
 <p>
 He did critical work on the Manhattan project.
-Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. He was instrumental in the design of the second atomic bomb...¹³
-He was instrumental in - it would not be hyperbole to say - saving the world.
+Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
+He was instrumental in the design of the second atomic bomb...¹³
+And so he was a key part of - it would not be hyperbole to say - saving the world.
 </p>
 
 <h3>Physics</h3>
@@ -154,33 +161,41 @@ He was instrumental in - it would not be hyperbole to say - saving the world.
 <p>
 He invented the internal organizational architecture that is still used in almost all computers today.
 It is called, straightforwardly, "The von Neumann Architecture".
-To quote, "The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit."¹¹
+
+<blockquote>
+The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
+</blockquote>
+
+<p>
+He invented the von Neumann architecture in 1945. 1945!
+As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
+He was, of course, successful in both regards.
 </p>
 
 <p>
-He invented this architecture in 1945.
-As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence.
-He was successful in both regards. 1945!
-</p>
+<blockquote>
+He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
+</blockquote>
 
-<p>
-"He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years."¹³
 Cellular automata are sufficiently important computational structures as to be a standard part of university-level computer science curricula. 
 Von Neumann proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
 </p>
 
+<blockquote>
+About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+</blockquote>
+
 <p>
-"About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence --TODO add citation. Perhaps the single most spoken-about and pressing topic on all our minds these days.
+<blockquote>
+The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
+</blockquote>
+
+It must be stressed, he came up with the idea of the technological singularity due to artificial intelligence <i>before the mid 1950s</i>.
 </p>
 
 <p>
-He invented the concept of a technological singularity. A topic on all our minds these days.
-"The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint."¹⁸
-It must be stressed, he came up with this idea _before the mid 1950s_.
-</p>
-
-<p>
-The list of things named after John von Neumann is sufficiently voluminous as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
 The list, which is still but a subset of his total body of work⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
@@ -270,24 +285,49 @@ His many other professional contributions include the fruits of his informal col
 
 <p>
 Personality-wise, he was social and boisterous.
-Contrast that with Kurt Gödel awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+Contrast that with Kurt Gödel, the famous mathematician who also worked (contemporaneously) at the Institute for Advanced Study, awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by that point, and kind of shooed him along.
+</p>
+
+<p>
 von Neumann loved parties, loud music, and off-color jokes.
-He was a fun dude to hang out with.
+He was reportedly a fun dude to hang out with.
 </p>
 
 <p>
 I read somewhere that America suited him far better than it did most of the other intellectual luminaries who fled Europe around the time of WWII.
-It's a apt point.
-He was an extremely patriotic American. A case in point: "Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
-Note that lieutenant is the lowest rank among officers.
-He was a world-famous mathematician, ready to go through boot camp to join the Army at the very bottom of the hierarchy. And he was serious about it. 
-But that's just one dimension in which he fit in well in America.  
-He was serious about his work, yet lighthearted and playful outside of work.
-He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".
-He was boisterous and gregarious. He lived in a big, and fairly fancy, house. Have a look:<br/><br/>
+In fact it seems America suited him, and he America, in a litany of ways.
 </p>
 
 <p>
+1. Patriotic
+He was an extremely patriotic American.
+A case in point: "Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
+Note that lieutenant is the lowest rank among officers.
+He was a world-famous mathematician, ready to go through boot camp to join the Army at the very bottom of the hierarchy, and he was dead serious about it.
+Escaping both communism and the Holocaust were probably the motivating factors there.
+</p>
+
+<p>
+2. Folksy humor
+But that's just way in which he fit in well in America.  
+He was serious about his work, yet lighthearted and playful in his outlook on life.
+He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".--TODO add citation
+</p>
+
+<p>
+3. Folksy in general
+He had a taste for power and influence, yet wielded both in a low-key sort of folksy manner.
+
+<blockquote>
+Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.¹
+</blockquote>
+</p>
+
+<p>
+3. Extroverted
+He was boisterous and gregarious. He lived in a big, and fairly fancy, house. Have a look:<br/><br/>
+
 <div align="center">
     <img src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
 </div>
@@ -301,26 +341,38 @@ He was boisterous and gregarious. He lived in a big, and fairly fancy, house. Ha
 
 <p>
 He threw parties. May have grilled a burger or two.
+I imagine he'd fit in at a tailgating party outside a football stadium. An American vibe for sure.
+</p>
+
+<p>
+4. Militaristic
 He was militaristic. He participated in and grew the military industrial complex.
-Contrast that with Einstein's atom bomb regrets. 
+Contrast that with Einstein's atom bomb regrets and the infamous social awkwardness of Godel, Paul Dirac, and other contemporaneous scientific luminaries.
+</p>
+
+<p>
+5. Technocratic and techno-optimistic, perhaps to a fault
 von Neumann believed in the power of technology, and of invention. He was a futurist.
-He had a taste for power and influence, yet wielded both in a low-key sort of folksy manner.
-Conversely, he suited America well. He helped America win WWII and, via pioneering work on ICBMs, to be positioned to win the Cold War.
+</p>
+
+<p>
+Conversely, he suited America well.
+He helped America win WWII and, via pioneering work on inter-continental ballistic missiles, to be positioned to win the Cold War.
 He contributed greatly to American scholarship and to many American institutions.
+</p>
+
+<p>
 Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
 Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 </p>
 
 <p>
-
 > "[He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly".¹
 
 > "[He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.".¹
 </p>
 
 <p>He was a great leader, in both academic and military contexts.
-
-> "Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones."¹
 </p>
 
 <p>He was a good husband and father, yet was once divorced.
