@@ -381,7 +381,7 @@ In her memoir, she speaks highly of her father, who by all accounts was about as
 <p>von Neumann was ethnically and culturally Jewish.
 He was, however, more or less religiously agnostic.
 One could say he was one of long line of areligious jewish intellectual titans.
-On his deathbed, he literally opted for Pascal's Wager.
+On his deathbed, he literally opted for Pascal's Wager and got TODO add what he got (last rites?).
 Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."
 -https://en.wikipedia.org/wiki/John_von_Neumann</p>
 
@@ -402,7 +402,7 @@ In fact, nearly all the Union Republics of the Soviet Union had joined the USSR 
 Driving was apparently too boring.
 One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It's so boring." ([[]])</p>
 
-<p>I think it's the confluence of factors that make the picture of von Neumann so fascinating.
+<p>I think it's the variety within his traits that makes von Neumann so fascinating.
 What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?</p>
 
 ------------------------------------------
@@ -452,7 +452,7 @@ That's von Neumann on artificial general intelligence and even AI takeoff/intell
 
 <p>
 von Neumann developed early computers specifically with the goal of building artificial general intelligence.
-He was thinking about these things in the 1930s, including discussing them with Alan Turing.
+He was thinking about these things in the 1930s, and even discussed them with Alan Turing.
 
 > Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
  Turing’s first published paper: “In his [1934] paper ‘Almost periodic functions in a group,’ J. 
