@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/John_von_Neumann.jpeg" />
-    <div style="font-size: 16px; font-style: italic;">Photo taken summer 2021</div>
+    <div style="font-size: 16px; font-style: italic;">My copy of <i>Selected Letters</i>, summer 2021</div>
 </div>
 
 ------------------------------------------
