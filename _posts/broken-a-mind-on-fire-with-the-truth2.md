@@ -326,33 +326,30 @@ Many considered him an excellent chairman of committees, deferring rather easily
 
 <p>
 3. Extroverted
-He was boisterous and gregarious. He lived in a big, and fairly fancy, house. Have a look:<br/><br/>
-
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
-</div>
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/von-Neumann-house-2.jpeg" />
-</div>
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
-</div>
-</p>
-
 <p>
-He threw parties. May have grilled a burger or two.
-I imagine he'd fit in at a tailgating party outside a football stadium. An American vibe for sure.
+He was boisterous and gregarious. He threw parties. May have grilled a burger or two.
+
+<blockquote>
+[He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly.¹
+</blockquote>
+
+<blockquote>
+[He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.¹
+</blockquote>
+
+I imagine he'd like tailgating at a football game.
 </p>
 
 <p>
 4. Militaristic
-He was militaristic. He participated in and grew the military industrial complex.
+He participated in and grew the military industrial complex.
 Contrast that with Einstein's atom bomb regrets and the infamous social awkwardness of Godel, Paul Dirac, and other contemporaneous scientific luminaries.
 </p>
 
 <p>
-5. Technocratic and techno-optimistic, perhaps to a fault
-von Neumann believed in the power of technology, and of invention. He was a futurist.
+5. Technocratic and techno-optimistic, sometimes to a fault
+von Neumann believed in the power of technology and of invention. He was a futurist.
+--TODO add some quotes here, about tech uses. Perhaps the admiral quote about computing and one about bombs.
 </p>
 
 <p>
@@ -366,11 +363,6 @@ Near the end of his life, he received the Presidential Medal of Freedom from Pre
 Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 </p>
 
-<p>
-> "[He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly".¹
-
-> "[He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.".¹
-</p>
 
 <p>He was a great leader, in both academic and military contexts.
 </p>
