@@ -198,7 +198,9 @@ Von Neumann proposed the concept of a "learning machine" that could improve its 
 </p>
 
 <blockquote>
-About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+About the millionth other impressive thing von Neumann did was create open-source computing. 
+Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. 
+He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
 </blockquote>
 
 <p>
