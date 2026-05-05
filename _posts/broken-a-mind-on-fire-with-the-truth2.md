@@ -193,8 +193,7 @@ He was, of course, successful in both regards.
 He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
 </blockquote>
 
-Cellular automata are sufficiently important computational structures as to be a standard part of university-level computer science curricula. 
-Von Neumann proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
+Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
 </p>
 
 <blockquote>
@@ -209,12 +208,12 @@ He invented the concept of a "technological singularity": a point at which machi
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
 </blockquote>
 
-It must be stressed, he came up with the idea of the technological singularity due to artificial intelligence <i>before the mid 1950s</i>.
+It must be stressed that he came up with the idea of the technological singularity <i>before the mid 1950s</i>.
 </p>
 
 <p>
 The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
-The list, which is still but a subset of his total body of work⁴:<br/>
+This is the list, which is still but a subset of his total body of work (not everything he did got named after him)⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
 Birkhoff–von Neumann decomposition<br/>
@@ -303,18 +302,18 @@ His many other professional contributions include the fruits of his informal col
 
 <p>
 Personality-wise, he was social and boisterous.
-Contrast that with Kurt Gödel, the famous mathematician who also worked (contemporaneously) at the Institute for Advanced Study, awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
-The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by that point, and kind of shooed him along.
+Contrast that with Kurt Gödel, the famous mathematician who also worked at the Institute for Advanced Study at around the same time, awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and so shooed him along.
 </p>
 
 <p>
 von Neumann loved parties, loud music, and off-color jokes.
-He was reportedly a fun dude to hang out with.
+He was apparently a fun dude.
 </p>
 
 <p>
 I read somewhere that America suited him far better than it did most of the other intellectual luminaries who fled Europe around the time of WWII.
-In fact it seems America suited him, and he America, in a litany of ways.
+That seems true. It also seems true, reciprocally, that he suited America.
 </p>
 
 <p>
