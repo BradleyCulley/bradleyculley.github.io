@@ -9,65 +9,77 @@
 ------------------------------------------
 
 <p>
-<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind <i>"on fire with the truth"</i>.</b>
+<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b>
 </p>
 
 <b>Early Life and Education</b>
 
 <p>
 
-> "Von Neumann was born in Budapest, Kingdom of Hungary...on December 28, 1903, to a wealthy, acculturated, and non-observant Jewish family.
-    His Hungarian birth name was Neumann János Lajos.
-    In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English."
+<blockquote>
+Von Neumann was born in Budapest, Kingdom of Hungary...on December 28, 1903, to a wealthy, acculturated, and non-observant Jewish family. His Hungarian birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.
+</blockquote>
 
-> "Von Neumann was a child prodigy who at six years old could divide two eight-digit numbers in his head and could converse in Ancient Greek."
+<blockquote>
+Von Neumann was a child prodigy who at six years old could divide two eight-digit numbers in his head and could converse in Ancient Greek.
+</blockquote>
 
 [[include photos from here of a young JVN: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb]]
 
 <p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
 
+<blockquote>
+By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.¹
+</blockquote>
+
 <p>
+Georg Cantor is a hugely famous mathematician who singlehandedly founded the field of Set Theory, which is a large and deeply important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
+von Neumann's definition of Ordinal numbers is the standard definition still in use to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
 
-"By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition."¹
-You know you're doing ok when you're beating Georg Cantor at his own game..
-
+You're doing well when you beat Georg Cantor at his own game.
 </p>
 
-<blockquote>
-For his university schooling, he undertook, simultaneously, a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
+<p>
+For his university schooling, von Neumann undertook, simultaneously, a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't the typical parental pressure situation though.
-von Neumann and his father kind of thought through options and together decided on chemical engineering.
-von Neumann, in typical supergenius fashion, seems to have dodged the whole "do what makes you money or do what you're passionate about" thing by simply doing both at the same time.
+von Neumann and his father brainstormed options together and decided on chemical engineering. -https://en.wikipedia.org/wiki/John_von_Neumann
+</p>
+
+<p>
+Moreover, von Neumann, in typical fashion, seems to have dodged the classic "do what makes you money or do what you're passionate about" thing by just doing both at the same time.
 He completed both degrees in 1926. He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
-He then completed his Habilitation, which is like a European version of a postdoc, thereby qualifying himself to be a university professor.
-</blockquote>
+He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.
+</p>
 
 <b>Professional Life</b>
 <p>
-    After his schooling, he became a "Privatdozent" at the University of Berlin.
-    A Privatdozent is kind of like a lecturer/professor.
-    He was "the youngest person ever elected Privatdozent in the university's history in any subject"¹ at the University.
-    "He [then] began writing nearly one major mathematics paper per month."¹.
+After his schooling, he became a "Privatdozent" at the University of Berlin.
+A Privatdozent is kind of like a lecturer/professor.
+He was "the youngest person ever elected Privatdozent in the university's history in any subject"¹ at the University.
+"He [then] began writing nearly one major mathematics paper per month."¹.
 </p>
 
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University.
 Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS) in Princeton.
-He remained a professor at the IAS for the rest of his life.</p>
+He remained a professor at the IAS for the rest of his life.
+</p>
+
+<hr/>
 
 <p>
-The IAS is an interesting institution. 
+The Institute for Advanced Study (IAS) is an interesting institution. 
 
 <blockquote>
 [The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. The faculty have no classes to teach. There are no degree programs or experimental facilities at the institute. Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.
 </blockquote> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 
 <p>
-A not-so-well-known fact about the IAS in Princeton is that it's not part of Princeton University.
-While there are collaborations and programs that informally link the two, it's a completely separate institution.
-A kind of fun fact about the IAS is that it was just created "out of nowhere" from scratch with funding from a brother and sister - Louis Bamberger and Caroline Bamberger Fuld - who owned a department store in Newark, NJ.
-The store was called "Bamberger's".
+A not-so-well-known fact about the IAS is that it's not part of Princeton University.
+While there are collaborations and programs that informally link the two, and they're in the same town, it's a completely separate institution.
+A related fun fact is that the IAS was created "out of nowhere" with funding from a brother and sister — Louis Bamberger and Caroline Bamberger Fuld — who owned a department store in Newark, NJ.
+The store was called "Bamberger's". It sold clothes and stuff.
 </p> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 
 <p>
@@ -102,39 +114,43 @@ One had the impression of a perfect instrument whose gears were machined to mesh
 </blockquote>
 -Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain¹⁷
 
-"There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
+<blockquote>
+I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and Wemer Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.
+</blockquote> 
+-Eugene Wigner again -https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my or here: https://fabpedigree.com/Tech/genius3.htm
+
+<blockquote>
+There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
 I came to a certain theorem, and I said it is not proved and it may be difficult. 
 von Neumann didn’t say anything but after five minutes he raised his hand. 
 When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.
+</blockquote>
 -George Pólya¹⁷
 
 <p>
 He accomplished an unbelievable amount in his life. 
-Seminal scientific discoveries across multiple disciplines as well as deeply influential work in geopolitics and with the military, including a key role in winning World War II.
-That is a rare combination indeed. Science work and public sector work are typically the purview of two different types of minds.
+Seminal scientific discoveries across multiple disciplines.
+Deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
+It was a rare combination indeed.
+Scientific work and public sector work typically emanate from two different kinds of minds.
 </p>
 
 <p>
-von Neumann can't be characterized monofactorially, yet this description from a review of <i>Selected Letters</i> is apt:
-</p>
+von Neumann can't be characterized monofactorially, yet this description from a review of <i>Selected Letters</i> is pretty good:
 
 <blockquote>
-The unifying theme in von Neumann’s life and
-work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing
-information and solving problems all the time.
-"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his
-compulsive ambition to know, to understand any
-problem, no matter on what level,” wrote Klari [von Neumann's wife] after
-his death. "Anything that would tickle his curiosity
-with a question mark, he could not leave alone;
-he would sulk, pout, and be generally impossible
-until, at least to his own satisfaction, he had found
-the right answer.²
+The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
+"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level,” wrote Klari [von Neumann's wife] after his death.
+"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer.²
 </blockquote>
 
+A mind on fire with the truth.
+</p>
+
+<p>
 Major themes of his life include mathematics, politics, the military, physics, and computing.
 
-<p>In each of those, he was world-changingly successful. To give some illuminating examples:</p>
+In each of those, he was world-changingly successful. To give some illuminating examples:
 
 <h3>Mathematics</h3>
 <p>He founded multiple entirely new fields, including, most notably, game theory.
