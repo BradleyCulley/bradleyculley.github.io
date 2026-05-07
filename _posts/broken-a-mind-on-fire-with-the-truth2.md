@@ -252,6 +252,10 @@ He was, of course, successful in both regards.
 </p>
 
 <p>
+TODO talk about ENIAC and Merge Sort
+</p>
+
+<p>
 <blockquote>
 He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
 </blockquote>
