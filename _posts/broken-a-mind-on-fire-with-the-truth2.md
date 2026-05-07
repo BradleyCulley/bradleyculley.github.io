@@ -137,8 +137,7 @@ I still think about that sometimes. Sounds awesome.
 
 <p>
 von Neumann's memory was prodigious. 
-It's probably the case that his is the best memory of anyone who has ever lived and about whom there's a historical record.
-Brian Bi makes this claim elegantly: [[insert Brian Bi quote from Quora]]] 
+He may have had the best memory of anyone who's ever lived and about whom there's a definitive historical record.
 
 <blockquote>
 Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:
@@ -181,7 +180,7 @@ When I called on him he went to the blackboard and proceeded to write down the p
 -George Pólya¹⁷
 
 <p>
-He accomplished an unbelievable amount in his life. 
+von Neumann accomplished an unbelievable amount in his life. 
 Seminal scientific discoveries across multiple disciplines.
 Deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
 It was a rare combination indeed.
@@ -386,8 +385,8 @@ He had a folksy sense of human: "Quite independently of his liking for abstract 
 </p>
 
 <p>
-3. Folksy in general
-He had a taste for power and influence, yet wielded both in a low-key sort of folksy manner.
+3. Low-key and folksy
+He had a taste for power and influence, yet wielded both in a laid back way.
 
 <blockquote>
 Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.¹
