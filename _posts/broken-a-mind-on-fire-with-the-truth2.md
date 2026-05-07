@@ -123,14 +123,14 @@ More photos I took in the Institute Woods that day:
 
 <p>
 I got my undergraduate degree in astronomy.
-One time in college, I went to an alumni panel, in which graduates from my college talked about their experiences.
+One time in college, I went to a panel in which graduates from my college talked about their experiences.
 One of the graduates was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
 
 <p>
 IAS fellows don't have teaching responsibilities, or any specific professional duties or objectives at all, actually.
-The alum said something like that although you could technically do nothing all day, the very <i>environment</i> of the IAS <i>makes</i> you want to strive and achieve and discover new science.
-I still think about that. It sounds awesome.
+The alum said something like that although you could technically do nothing all day, the very <i>environment</i> of the IAS makes you want to strive and achieve and discover new science.
+I still think about that sometimes. Sounds awesome.
 </p>
 
 <hr/>
