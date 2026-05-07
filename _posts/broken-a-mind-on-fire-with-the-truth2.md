@@ -95,6 +95,17 @@ I said it a bit tongue in check, as though we were meeting at a friend's house..
 </p>
 
 <p>
+Here von Neumann's former home in Princeton, at 26 Westcott Road:
+<div align="center">
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" />
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
+  <div style="font-size: 16px; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
+</div>
+</p>
+
+<p>
 And indeed we did: met at John von Neumann's house and then walked over to Kurt Gödel's house.
 Einstein's house is right nearby, too.
 My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods.
@@ -396,7 +407,7 @@ Many considered him an excellent chairman of committees, deferring rather easily
 <p>
 3. Extroverted
 <p>
-He was boisterous and gregarious. He threw parties. May have grilled a burger or two.
+He was boisterous and gregarious. He threw parties. Probably grilled a burger or two.
 
 <blockquote>
 [He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly.¹
@@ -433,7 +444,8 @@ Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 </p>
 
 
-<p>He was a great leader, in both academic and military contexts.
+<p>
+He was a great leader, in both academic and military contexts.
 </p>
 
 <p>He was a good husband and father, yet was once divorced.
@@ -447,7 +459,8 @@ Top of her class at Radcliff (now Harvard), PhD from Colombia, successful indust
 In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.
 </p> 
 
-<p>von Neumann was ethnically and culturally Jewish.
+<p>
+von Neumann was ethnically and culturally Jewish.
 He was, however, more or less religiously agnostic.
 One could say he was one of long line of areligious jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager and got TODO add what he got (last rites?).
@@ -476,14 +489,13 @@ What would the world be like if we had more von Neumanns, or all von Neumanns? B
 
 ------------------------------------------
 <p>
-From the book:
-</p>
+From <i>Selected Letter</i>:
 
-<p>
-
-> "Throughout much of his career, he led a double life: as an intellectual leader in the ivory tower of pure mathematics and as a man of action, in constant demand as an advisor, consultant and decision-maker to what is sometimes called the military-industrial complex of the United States. My own belief is that these two aspects of his double life, his wide-ranging activities as well as his strictly intellectual pursuits, were motivated by two profound convictions. The first was the overriding responsibility that each of us has to make full use of whatever intellectual capabilities we were endowed with. He had the scientist's passion for learning and discovery for its own sake and the genius's ego-driven concern for the significance and durability of his own contributions. The second was the critical importance of an environment of political freedom for the pursuit of the first, and for the welfare of mankind in general.
-> I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
-> In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay."
+<blockquote>
+Throughout much of his career, he led a double life: as an intellectual leader in the ivory tower of pure mathematics and as a man of action, in constant demand as an advisor, consultant and decision-maker to what is sometimes called the military-industrial complex of the United States. My own belief is that these two aspects of his double life, his wide-ranging activities as well as his strictly intellectual pursuits, were motivated by two profound convictions. The first was the overriding responsibility that each of us has to make full use of whatever intellectual capabilities we were endowed with. He had the scientist's passion for learning and discovery for its own sake and the genius's ego-driven concern for the significance and durability of his own contributions. The second was the critical importance of an environment of political freedom for the pursuit of the first, and for the welfare of mankind in general.
+I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
+In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.
+</blockquote>
 
 -Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.
 </p>
@@ -578,8 +590,7 @@ He continued to work from his hospital room, including consulting with top milit
 
 <p>von Neumann took with him to Walter Reed the manuscript he was preparing for the Silliman Lectures.
 It was his singular professional focus during his final days.⁶
-It was during that hospital visit at Walter Reed that von Neumann ultimately passed away, from bone cancer, in early 1957.</p>
-
+It was during that hospital visit at Walter Reed that von Neumann passed away, from bone cancer, in early 1957.</p>
 <p>
 
 > Towards the end, as cancer got hold of him and just before he received in 1956 a Medal of Freedom from President Dwight Eisenhower for his technical contributions to national defence, von Neumann asked in an article in Fortune magazine, "Can we survive technology?"
@@ -638,17 +649,5 @@ Beautiful. Have a look:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
   <div style="font-size: 16px; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
-</div>
-</p>
-
-<p>When I'd visit Princeton, I'd go by John von Neumann's former home.<br/>
-
-Here it is, at 26 Westcott Road:
-<div align="center">
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" />
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
-  <div style="font-size: 16px; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
 </div>
 </p>
