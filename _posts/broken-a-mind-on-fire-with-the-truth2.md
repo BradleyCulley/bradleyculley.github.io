@@ -83,6 +83,59 @@ The store was called "Bamberger's". It sold clothes and stuff.
 </p> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
 
 <p>
+I used to live and work in Central New Jersey, not far from Princeton.
+When I lived nearby, I used to really like visiting Princeton.
+It's a beautiful town and I loved thinking seeing and thinking about the history of the place.
+</p>
+
+<p>
+One time, I met my dad in Princeton. He was visiting me from out of state.
+When were were planning were to meet first, I asked to meet at John von Neumann's house.
+I said it a bit tongue in check, as though we were meeting at a friend's house...something like "let's meet at John von Neumann's house".
+</p>
+
+<p>
+And indeed we did: met at John von Neumann's house and then walked over to Kurt Gödel's house.
+Einstein's house is right nearby, too.
+My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods.
+There's a walking tour of Princeton called "From Genius to Genius", that stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann. --TODO add citation: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
+</p>
+
+<p>
+Another time, years later, I visited a friend who lived in the area.
+We too went to the Institute Woods.
+This is a photo I took of some of the Institute buildings, from the walking trails (which are open to the public) in the Institute Woods:
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpeg" />
+    <div style="font-size: 16px; font-style: italic;">You can kind of feel the peace and intelligence emanating from the place.</div>
+</div>
+</p>
+
+<p>
+More photos I took in the Institute Woods that day:
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/IAS_Woods_1.jpeg" />
+</div>
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpeg" />
+</div>
+</p>
+
+<p>
+I got my undergraduate degree in astronomy.
+One time in college, I went to an alumni panel, in which graduates from my college talked about their experiences.
+One of the graduates was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
+</p>
+
+<p>
+IAS fellows don't have teaching responsibilities, or any specific professional duties or objectives at all, actually.
+The alum said something like that although you could technically do nothing all day, the very <i>environment</i> of the IAS <i>makes</i> you want to strive and achieve and discover new science.
+I still think about that. It sounds awesome.
+</p>
+
+<hr/>
+
+<p>
 von Neumann's memory was prodigious. 
 It's probably the case that his is the best memory of anyone who has ever lived and about whom there's a historical record.
 Brian Bi makes this claim elegantly: [[insert Brian Bi quote from Quora]]] 
