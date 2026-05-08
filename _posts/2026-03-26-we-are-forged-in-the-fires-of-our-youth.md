@@ -55,7 +55,7 @@ I had my cell phone — a flip phone — and took some photos:<br/>
 <p>
 I returned to where I was thinking of camping.
 At one point, after it was fully dark, I was walking down the side road and looked up at the stars.
-It was a rural area, right near the ocean, so there wasn't much light pollution.
+It was rural and near the ocean, so there wasn't much light pollution.
 The stars were clear, bright, and numerous.
 </p>
 
