@@ -1,4 +1,4 @@
-## <div align="center">Harpswell<div>
+## <div align="center">We Are Forged in the Fires of Our Youth<div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Harpswell.jpeg" />
@@ -104,7 +104,7 @@ I think there's danger in navigating that long slow slide without having had any
 </p>
 
 <p>
-When I shared an earlier version of this essay with my father, he told me of a quote he'd heard somewhere: "we are forged in the fires of our youth".
+When I shared an earlier version of this essay with my father, he told me of a phrase he'd heard somewhere: "we are forged in the fires of our youth".
 </p>
 
 <p>
