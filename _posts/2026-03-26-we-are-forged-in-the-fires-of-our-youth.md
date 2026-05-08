@@ -72,8 +72,8 @@ The night ended with me traveling in a taxi to a nearby hotel, then heading home
 </p>
 
 <p>
-The next day — the day that started at the hotel — I felt a singular emotion.
-It was a sort of lightness and a completeness, like turning in a test at school on which you know you did well.
+The next day —the day that started at the hotel—I felt a singular emotion.
+It was a lightness and completeness, like turning in a test at school on which you know you did well.
 </p>
 
 <p>
