@@ -78,7 +78,7 @@ It was a lightness and completeness, like turning in a test at school on which y
 
 <p>
 I conveyed that impression to my father, who told me Jack Kerouac used to say he felt "wiped clean" after his famous trips across the country.
-The slate was made blank, so to speak.
+The slate was made blank.
 </p>
 
 <p>
