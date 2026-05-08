@@ -22,7 +22,7 @@ In the summer of 2009, I was trying to volunteer building homes in Maine.
 <p>
 I signed up for a volunteer build day in Harpswell, Maine, a town on the coast of the Atlantic Ocean.
 Before the build day, the logistics fell through.
-That meant I was at the job site, an hour and a half from where I lived, without any volunteering to do.
+That meant I was at the job site, an hour and a half from where I lived, without any volunteer house-building to do.
 I'd taken a bus for part of the trip, so I couldn't just drive home.
 </p>
 
