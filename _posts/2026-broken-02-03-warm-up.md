@@ -22,7 +22,7 @@ As a kid listening to National Public Radio (NPR), I thought shows like "This Am
 </p>
 
 <p>
-I assumed that after the "warm-ups", they'd tackle the "big picture" items. They were just working their way towards it.
+I assumed that after the warm-ups, they'd tackle the "big picture" items. They were just working their way towards it.
 The big picture items, some of which I knew about then and some of which I learned about later, would include:
 <ul>
     <li>Retroviral vector-based gene therapy</li>
