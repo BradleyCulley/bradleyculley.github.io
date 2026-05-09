@@ -18,11 +18,11 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-As a kid listening to National Public Radio (NPR), I thought shows like "This American Life" were "warming up" with stories like ones about someone setting up a small indie theater in a mostly-deteriorated small rural American town, so as to resist the seemingly inevitable decline of said precious small town.
+As a kid listening to National Public Radio (NPR), I thought shows like "This American Life" were "warming up" with stories like ones about someone setting up a small indie theater in a mostly-deteriorated small rural American town, so as to resist the seemingly inevitable decline of said town.
 </p>
 
 <p>
-I assumed that after the warm-ups, they'd tackle the "big picture" items. They were just working their way towards it.
+I assumed that after the warm-ups, they'd tackle the "big picture" items. They were just working their way around towards it.
 The big picture items, some of which I knew about then and some of which I learned about later, would include:
 <ul>
     <li>Retroviral vector-based gene therapy</li>
@@ -43,7 +43,5 @@ The big picture items, some of which I knew about then and some of which I learn
 </p>
 
 <p>
-As has often been the case, I was wrong. But then again, <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">that's what books, the internet, nerdy friends, and university degree programs are for</a>.
+As has often been the case, I was wrong. But then again, <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">that's what books, the internet, like-minded friends, and university degree programs are for</a>.
 </p>
-
-See if I can find the poem from Wesley McNair about time running backwards include that maybe ask Denis for help.

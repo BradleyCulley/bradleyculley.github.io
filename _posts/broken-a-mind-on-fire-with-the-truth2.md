@@ -9,7 +9,9 @@
 ------------------------------------------
 
 <p>
-<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read, to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b>
+<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 
+--TODO: quote from here: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
+Order this copy once I move, I want the article anyway: https://www.ebay.com/itm/298292073890?_skw=Dec.+8%2C+2011+rolling+stone+middle+east&itmmeta=01KR7563D9XX8985MZ4YMTPK77&hash=item457397d5a2:g:85QAAOSwPZBmhdrp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBxq5RrtzhhnAqwKeDrLtYiOAKBEAL7AJgeP9Qg%2B%2F2xwXXirRE9SOBa93JTT109yP0l1nZG3%2B3Za9%2FZSq3ujvW0tZDoykw4j6j3FglnpWFe8HlYC6jMRGfSbJ7KfR3NYTnB4cjN0vOi78u3ShehroLC6cq32Nov3qsnI%2FTxuR%2BKOPfeSNoSXgFXpi%2FPugvZrKPuDvHgtTr2%2BLilBnXBxuTjn33OfYUjf8mTRZcqjkCEz%2BL6Glkcstx4TeY5uJfouOVBgG8VseUUJU6Lumzv4mU60II2gRZTjKHYCmXDd9YKR4SCsLGu1Ak0PIYDGBVEsv8%3D%7Ctkp%3ABFBM6raY5cFn
 </p>
 
 <b>Early Life and Education</b>
@@ -17,14 +19,24 @@
 <p>
 
 <blockquote>
-Von Neumann was born in Budapest, Kingdom of Hungary...on December 28, 1903, to a wealthy, acculturated, and non-observant Jewish family. His Hungarian birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.
+Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
 </blockquote>
 
 <blockquote>
-Von Neumann was a child prodigy who at six years old could divide two eight-digit numbers in his head and could converse in Ancient Greek.
+<p>
+[von Neumann was a] child prodigy who at six years old could divide two eight-digit numbers in his head and converse in Ancient Greek.
+</p>
+
+<p>
+He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].
+</p>
+-https://performativebafflement.substack.com/p/john-von-neumann
 </blockquote>
 
-[[include photos from here of a young JVN: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb]]
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
+    <div style="font-size: 16px; font-style: italic;">John von Neumann as a child -https://www.ias.edu/von-neumann</div>
+</div>
 
 <p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
 
@@ -40,22 +52,23 @@ You're doing well when you beat Georg Cantor at his own game.
 </p>
 
 <p>
-For his university schooling, von Neumann undertook, simultaneously, a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
+For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
-It wasn't the typical parental pressure situation though.
-von Neumann and his father brainstormed options together and decided on chemical engineering. -https://en.wikipedia.org/wiki/John_von_Neumann
+It wasn't a typical parental pressure situation though.
+von Neumann and his father brainstormed options and together decided on chemical engineering. -https://en.wikipedia.org/wiki/John_von_Neumann
 </p>
 
 <p>
-Moreover, von Neumann, in typical fashion, seems to have dodged the classic "do what makes you money or do what you're passionate about" thing by just doing both at the same time.
-He completed both degrees in 1926. He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
+Moreover, von Neumann, in typical fashion, seems to have dodged the classic "do what makes you money or do what you're passionate about" thing by doing both at the same time.
+He completed both degrees in 1926.
+He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.
 </p>
 
 <b>Professional Life</b>
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
-A Privatdozent is kind of like a lecturer/professor.
+A Privatdozent is like a lecturer/professor.
 He was "the youngest person ever elected Privatdozent in the university's history in any subject"¹ at the University.
 "He [then] began writing nearly one major mathematics paper per month."¹.
 </p>
@@ -97,9 +110,9 @@ I said it a bit tongue in check, as though we were meeting at a friend's house..
 <p>
 Here von Neumann's former home in Princeton, at 26 Westcott Road:
 <div align="center">
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" />
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" />
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" />
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
   <div style="font-size: 16px; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
 </div>
@@ -139,19 +152,19 @@ One of the graduates was (or had recently been, I can't remember) a fellow at th
 </p>
 
 <p>
-IAS fellows don't have teaching responsibilities, or any specific professional duties or objectives at all, actually.
-The alum said something like that although you could technically do nothing all day, the very <i>environment</i> of the IAS makes you want to strive and achieve and discover new science.
-I still think about that sometimes. Sounds awesome.
+IAS fellows don't have teaching responsibilities, or any specific professional duties at all actually.
+The alum said something like that while you could technically do nothing all day, the <i>environment</i> of the IAS makes you want to strive and achieve.
+I still think about that sometimes. It sounds awesome.
 </p>
 
 <hr/>
 
 <p>
 von Neumann's memory was prodigious. 
-He may have had the best memory of anyone who's ever lived and about whom there's a definitive historical record.
+He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 
 <blockquote>
-Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:
+Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:<br/>
  One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
  He could also translate it at no diminution in speed from its original language into English.
  On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
@@ -160,11 +173,11 @@ Von Neumann was also noted for his eidetic memory, particularly of the symbolic 
 </blockquote>
 
 <blockquote>
-"He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect"¹
+He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect.¹
 </blockquote>
 
 <blockquote>
-A Princeton professor of [Byzantine History] once stated that by the time he was in his thirties, Johnny had greater expertise in Byzantine history than he did (Blair, 1957).
+A Princeton Professor of Byzantine History once said that he would only attend one of von Neumann’s famous parties if von Neumann promised not to bring up the subject of Byzantine history, because many thought the professor to be the world’s foremost expert on the subject, and he did not want anyone to know that that title might actually belong to von Neumann. -https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of
 </blockquote>
 
 <blockquote>
