@@ -264,6 +264,8 @@ TODO: Add much of your pain is self-chosen to the pure heart essay
 
 Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
 
+Add to pure heart is your dojo the point about even having a period of time where you had the pure heart will help you immensely in the future. In part because you know you can get back to it in part because you know you did it you went through it and did it and you're capable of it, and in part because it's just kind of a mental and emotional positive space you can always go to.
+
 TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
 
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
