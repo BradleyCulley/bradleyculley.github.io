@@ -6,15 +6,6 @@
 
 <br/>
 
-<blockquote>
-<div style="text-align: center;">
-We are forged in the fires of our youth<br/>
--My dad
-</div>
-</blockquote>
-
-<br/>
-
 <p>
 In the summer of 2009, I was trying to volunteer building homes in Maine.
 </p>
@@ -37,30 +28,31 @@ The resin was, as I recall, roughly heart-shaped, and it reminded me of a person
 <p>
 I went out jogging, barefoot, up the side road, then along the main road.
 A ways down the main road, I saw the entrance to some kind of nature preserve or something.
-I ran down the entranceway, into the preserve.
+I went down the entranceway, into the preserve.
 </p>
 
 <p>
-The large concrete buildings in the preserve were abandoned, with broken glass around.
+Inside the preserve, I recall an abandoned concrete building and broken glass on the ground.
 After a while, I ended up on a pier, surrounded by the ocean, at sunset.
-I had my cell phone — a flip phone — and took some photos:<br/>
+I had my cell phone—a flip phone—and took some photos:<br/>
     <div align="center">
+        <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" /><br/><br/>
         <img src="https://bradleyculley.github.io/images/Harpswell1.jpeg" /><br/><br/>
-        <img src="https://bradleyculley.github.io/images/Harpswell2.jpeg" />
+        <img src="https://bradleyculley.github.io/images/Harpswell.jpeg" />
     </div>
 </p>
 
 <hr/>
 
 <p>
-I returned to where I was thinking of camping.
-At one point, after it was fully dark, I was walking down the side road and looked up at the stars.
+I returned to where I'd been thinking of camping.
+At one point after nightfall, I was walking down the side road and looked up at the stars.
 It was rural and near the ocean, so there wasn't much light pollution.
 The stars were clear, bright, and numerous.
 </p>
 
 <p>
-At another point that night, I was looking out through the darkness, across a stretch of ocean to the shore on the other side.
+At another point that night, I was looking through the darkness across a stretch of ocean to the shore on the other side.
 There were two points of light on the other shore, which reminded me again of that romantic interest.
 In my mind, the two points of light were me and her.
 </p>
@@ -68,17 +60,14 @@ In my mind, the two points of light were me and her.
 <hr/>
 
 <p>
-The night ended with me traveling in a taxi to a nearby hotel, then heading home the next day.
+The night ended with traveling in a taxi to a nearby hotel, then going home the next day.
 </p>
 
 <p>
-The next day —the day that started at the hotel—I felt a singular emotion.
+The next day—the day that started at the hotel—I felt a singular emotion.
 It was a lightness and completeness, like turning in a test at school on which you know you did well.
-</p>
-
-<p>
 I conveyed that impression to my father, who told me Jack Kerouac used to say he felt "wiped clean" after his famous trips across the country.
-The slate was made blank.
+The slate was made blank, so to speak.
 </p>
 
 <p>
@@ -99,8 +88,8 @@ But maybe it depends on how you look at it.
 <hr/>
 
 <p>
-A market research professional once told me surveys show a highly consistent trend among people as they get older: their view of life gets more negative.
-I think there's danger in navigating that long slow slide without having had any idealism to begin with.
+A market research professional once told me surveys show a deeply consistent trend as people get older: their view of life gets more negative.
+Maybe there's danger in navigating that long slow slide without having had any idealism in the first place.
 </p>
 
 <p>
@@ -108,5 +97,5 @@ When I shared an earlier version of this essay with my father, he told me of a p
 </p>
 
 <p>
-In the case of Harpswell, it's perhaps realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
+In the case of Harpswell, maybe it's somehow realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
 </p>
