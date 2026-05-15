@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-Header.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took during my stay there.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took while living there.</div>
 </div>
 
 <hr/>
@@ -21,7 +21,7 @@ It's perhaps not well known that there's oceanfront in New Hampshire. There isn'
 <p>
 Hampton is one of the towns on that coastline.
 Both condos I lived in in Hampton were right off a road that ran alongside the ocean.
-The road is called Ocean Boulevard.
+The road is named Ocean Boulevard.
 </p>
 
 <p>
@@ -34,7 +34,7 @@ This shows the sidewalk and Ocean Boulevard:
 </p>
 
 <p>
-I also spent time in another condo on Ocean Boulevard, just down the road. That one had an oceanfront view.
+I also spent time in a different condo on Ocean Boulevard, just down the road. That one had an oceanfront view.
 A sliding glass door opened to a balcony overlooking the ocean:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/oceanfront-condo-balcony.jpg" />
@@ -60,7 +60,7 @@ Waves rolled in from the horizon, each breaking with a muted sigh.
 </p>
 
 <p>
-Sometimes I'd walk right on the beach: on the sand itself, rather than on the sidewalk up above.
+Sometimes I'd walk right on the beach: on the sand itself.
 The town was quiet at night. Not many people on the sidewalk. The rhythmic sighing of the waves.
 </p>
 
@@ -72,7 +72,7 @@ On one walk, I crossed an area like this, stepping on high spots so my feet didn
 </p>
 
 <p>
-The view from the edge of the water:
+The edge of the water:
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-close-to-water.jpg" />
 </div>
@@ -88,7 +88,7 @@ It was like a little jetpack of calm.
 
 <p>
 I once read a description, written by an introvert, of something like "a day in the life of an introvert".
-He said something like that he didn't so much read a book as become emotionally engulfed in a book; lost in a book.
+He said something like that he doesn't so much read a book as become emotionally engulfed in a book; lost in a book.
 </p>
 
 <p>

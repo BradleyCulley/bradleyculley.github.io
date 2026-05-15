@@ -2,11 +2,19 @@
 ### John von Neumann: Selected Letters, edited by Miklós Rédei
 
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/John_von_Neumann.jpeg" />
+    <img src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
     <div style="font-size: 16px; font-style: italic;">My copy of <i>Selected Letters</i>, summer 2021</div>
 </div>
 
 ------------------------------------------
+
+
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/JohnvonNeumann.gif" />
+</div>
+
+https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
+
 
 <p>
 <b>When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 

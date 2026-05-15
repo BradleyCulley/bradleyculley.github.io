@@ -1,4 +1,4 @@
-## <div align="center">We Are Forged in the Fires of Our Youth<div>
+## <div align="center">We Are Forged in the Fires of Our Youth</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Harpswell.jpeg" />
@@ -28,7 +28,7 @@ The resin was, as I recall, roughly heart-shaped, and it reminded me of a person
 <p>
 I went out jogging, barefoot, up the side road, then along the main road.
 A ways down the main road, I saw the entrance to some kind of nature preserve or something.
-I went down the entranceway, into the preserve.
+I went down the path into the preserve.
 </p>
 
 <p>
@@ -78,9 +78,9 @@ Later that month, I went back to the build site and actually helped build a home
 For those following along, I was being an idiot about nearly everything:
 <ul>
     <li>Swinging a hammer wasn't the most efficient way for me to contribute to society at the time. I was doing a STEM degree at a university and unironically should have been trying to cure a disease or something.</li>
-    <li>I should have verified the build was going to happen</li>
-    <li>I shouldn't have entertained free-camping in a random place</li>
-    <li>I shouldn't have been so romantic</li>
+    <li>I should have verified the build was going to happen.</li>
+    <li>I shouldn't have entertained camping in a random place.</li>
+    <li>I shouldn't have been so romantic.</li>
 </ul>
 But maybe it depends on how you look at it.
 </p>
@@ -89,7 +89,7 @@ But maybe it depends on how you look at it.
 
 <p>
 A market research professional once told me surveys show a deeply consistent trend as people get older: their view of life gets more negative.
-Maybe there's danger in navigating that long slow slide without having had any idealism in the first place.
+I think there's danger in navigating that long slow slide without having had any idealism in the first place.
 </p>
 
 <p>
