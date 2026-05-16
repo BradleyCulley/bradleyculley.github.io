@@ -31,7 +31,7 @@ Everything from semi-funky relationships to remembering to get an oil change.<br
 I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
 It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
 In Japanese culture, there's a popular idea of "Subtraction thinking" (https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com).
-In other words, <i>eliminate the problem, rather than trying to add a solution to the problem</i>. A big difference.
+In other words, <i>eliminate the problem, rather than adding a solution to the problem</i>. A big difference.<br/><br/>
 4. Complexity removal "shortcuts",  like going "off-grid" in an RV in a national park.
 Being off-grid an RV in a national park means that you'll going to have to figure out your showering situation.
 A gravity-fed shower you hang from a tree branch, for example.
@@ -39,7 +39,7 @@ The trouble comes in the winter, when the shower will be freezing cold.
 You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
 The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
 Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
-As the lyrics of an old Eagles song say, "every refuge has its price".<br/><br/>
+As the lyrics of an old Eagles song say, "every refuge has its price" (https://en.wikipedia.org/wiki/Lyin%27_Eyes). Truer words have seldom been spoken.<br/><br/>
 5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
 There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
 Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
@@ -47,7 +47,7 @@ Clinically, this is characterized by the Diathesis-stress model: [https://en.wik
 "Diathesis" refers to a person's innate tolerance for complexity and stress.
 In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
 The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load, set-shifting, and decision fatigue.<br/><br/>
-Likewise, sociologically by concepts such as role strain and role conflict. In other words, being two different people in two different areas of your life.<br/><br/>
+Likewise, sociologically by concepts such as role strain and role conflict (https://en.wikipedia.org/wiki/Role_theory). In other words, being two different people in two different areas of your life.<br/><br/>
 
 The brain detests complexity.<br/><br/>
 Another large factor is the society into which one is embedded.<br/><br/>
@@ -55,7 +55,7 @@ The social diathesis of The United States, for example, is very low. Of Sweden, 
 Approximately 60% of Americans live paycheck-to-paycheck. Healthcare is tied to your job - the only industrialized nation on Earth to do so.
 Even many full-time jobs, such as at restaurants, don't offer healthcare.<br/><br/>
 If Americans seem stressed, that's why. They're one small mistake away from quite possibly literal death.
-Low diathesis. I'm continually amazed by how civil and reasonable the average American is in spite of the macroeconomic Venus Fly Trap in which they're embedded.
+Low diathesis. I don’t blame the average American for their own structural victimization, though. I'm continually amazed by how civil and reasonable the average American is in spite of the macroeconomic Venus Fly Trap in which they're embedded.
 
 Years ago, I saw an interview with a man who was seeking help in life, for himself and his 3 children. I certainly felt for him and his situation.
 Yet after a moment the thought came to mind: if you weren't 100% sure you could provide for your first child, why did you have the first child? Surely not a second? And a third?
