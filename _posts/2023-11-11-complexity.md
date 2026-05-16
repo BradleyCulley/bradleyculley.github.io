@@ -47,7 +47,7 @@ Clinically, this is characterized by the Diathesis-stress model: [https://en.wik
 "Diathesis" refers to a person's innate tolerance for complexity and stress.
 In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
 The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load, set-shifting, and decision fatigue.<br/><br/>
-Likewise, sociologically by concepts such as role strain and role conflict (https://en.wikipedia.org/wiki/Role_theory). In other words, being two different people in two different areas of your life.<br/><br/>
+Likewise, sociologically by concepts such as role strain and role conflict ([https://en.wikipedia.org/wiki/Role_theory](https://en.wikipedia.org/wiki/Role_theory)). In other words, being two different people in two different areas of your life.<br/><br/>
 
 The brain detests complexity.<br/><br/>
 Another large factor is the society into which one is embedded.<br/><br/>
