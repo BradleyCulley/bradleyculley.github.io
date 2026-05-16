@@ -53,8 +53,8 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 </blockquote>
 
 <p>
-Georg Cantor is a hugely famous mathematician who singlehandedly founded the field of Set Theory, which is a large and deeply important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
-von Neumann's definition of Ordinal numbers is the standard definition still in use to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
+Georg Cantor is a hugely famous mathematician who single-handedly founded the field of Set Theory, an expansive and deeply important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
+von Neumann's definition of Ordinal numbers is the standard definition still used to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
 
 You're doing well when you beat Georg Cantor at his own game.
 </p>

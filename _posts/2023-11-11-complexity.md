@@ -18,34 +18,36 @@ Those are all good things, but piling on complexity too quickly is a common mala
 In fact, I see some people pile on #3 while #1 is in progress.
 Marriage, kids, and a mortgage while you're still in medical school? That's wild!<br>
 
-   I think a few phenomena cause us to take on too much:
-   1. Things like going back to school are implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
-   That's only after the fact, though. In the midst of it, they're high complexity tasks...often much higher than anticipated.<br/><br/>
-   One doesn't just buy a home. 
-   It's finding a good real estate agent, researching the neighborhood, home inspections, radon, termites, smoke alarms, mold, interest rates, mortgage applications, credit lines, debt-to-income ratios, resale potential, market trends, neighbors, HVAC, water drainage slopes, water infiltration, structural issues, "Buyers are Liars & Sellers are Too!" ([tinyurl.com/5n6vey23](http://tinyurl.com/5n6vey23)), price and tax history, zoning, HOAs, ADUs, flood zones, liens, water potability, earnest money, attorneys, title searches, closing companies, boundary surveys, moving vans, and so on.<br/><br/>
-   2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
-   Everything from semi-funky relationships to remembering to get an oil change.<br/><br/>
-   3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
-   I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
-   It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
-   In Japanese culture, there's a popular idea of "Subtraction thinking" (https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com).
-   In other words, <i>eliminate the problem, rather than trying to add a solution to the problem</i>. A big difference.
-   4. Complexity removal "shortcuts",  like going "off-grid" in an RV in a national park.
-   Being off-grid an RV in a national park means that you'll going to have to figure out your showering situation.
-   A gravity-fed shower you hang from a tree branch, for example.
-   The trouble comes in the winter, when the shower will be freezing cold. 
-   You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
-   The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
-   Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
-   As the lyrics of an old Eagles song say, "every refuge has its price".<br/><br/>
-   5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
-   There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
-   Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
-   Clinically, this is characterized by the Diathesis-stress model: [https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model](https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model). <br/><br/>
-   "Diathesis" refers to a person's innate tolerance for complexity and stress.
-   In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
-   The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load, set-shifting, and decision fatigue.<br/><br/>
-   Likewise, sociologically by concepts such as role strain and role conflict. In other words, being two different people in two different areas of your life.<br/><br/>
+<hr/>
+
+I think a few phenomena cause us to take on too much:
+1. Things like going back to school are implicitly pitched as having the effect of lowering life complexity. For example, better degree equals better job.
+That's only after the fact, though. In the midst of it, they're high complexity tasks...often much higher than anticipated.<br/><br/>
+One doesn't just buy a home. 
+It's finding a good real estate agent, researching the neighborhood, home inspections, radon, termites, smoke alarms, mold, interest rates, mortgage applications, credit lines, debt-to-income ratios, resale potential, market trends, neighbors, HVAC, water drainage slopes, water infiltration, structural issues, "Buyers are Liars & Sellers are Too!" ([tinyurl.com/5n6vey23](http://tinyurl.com/5n6vey23)), price and tax history, zoning, HOAs, ADUs, flood zones, liens, water potability, earnest money, attorneys, title searches, closing companies, boundary surveys, moving vans, and so on.<br/><br/>
+2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
+Everything from semi-funky relationships to remembering to get an oil change.<br/><br/>
+3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
+I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
+It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
+In Japanese culture, there's a popular idea of "Subtraction thinking" (https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com).
+In other words, <i>eliminate the problem, rather than trying to add a solution to the problem</i>. A big difference.
+4. Complexity removal "shortcuts",  like going "off-grid" in an RV in a national park.
+Being off-grid an RV in a national park means that you'll going to have to figure out your showering situation.
+A gravity-fed shower you hang from a tree branch, for example.
+The trouble comes in the winter, when the shower will be freezing cold. 
+You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
+The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
+Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
+As the lyrics of an old Eagles song say, "every refuge has its price".<br/><br/>
+5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
+There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
+Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
+Clinically, this is characterized by the Diathesis-stress model: [https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model](https://en.wikipedia.org/wiki/Diathesis%E2%80%93stress_model). <br/><br/>
+"Diathesis" refers to a person's innate tolerance for complexity and stress.
+In the case of the person with the bad week, the Diathesis-stress model provides the etiology of substance use disorder.
+The pathological weight of complexity itself is characterized by psychological concepts such as cognitive load, set-shifting, and decision fatigue.<br/><br/>
+Likewise, sociologically by concepts such as role strain and role conflict. In other words, being two different people in two different areas of your life.<br/><br/>
 
 The brain detests complexity.<br/><br/>
 Another large factor is the society into which one is embedded.<br/><br/>
