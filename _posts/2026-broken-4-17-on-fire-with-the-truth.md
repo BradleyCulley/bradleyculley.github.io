@@ -1,4 +1,4 @@
-## <div align="center">A Mind On Fire with The Truth<div>
+## <div align="center">On Fire with The Truth<div>
 ### John von Neumann: Selected Letters, edited by Miklós Rédei
 
 <div align="center">
@@ -11,21 +11,19 @@
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/JohnvonNeumann.gif" />
+    <div style="font-size: 16px; font-style: italic;">Dr. John von Neumann</div> -https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
 </div>
 
-https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
-
-
 <p>
-<b>When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 
+<b>
+When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 
 --TODO: quote from here: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
 Order this copy once I move, I want the article anyway: https://www.ebay.com/itm/298292073890?_skw=Dec.+8%2C+2011+rolling+stone+middle+east&itmmeta=01KR7563D9XX8985MZ4YMTPK77&hash=item457397d5a2:g:85QAAOSwPZBmhdrp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBxq5RrtzhhnAqwKeDrLtYiOAKBEAL7AJgeP9Qg%2B%2F2xwXXirRE9SOBa93JTT109yP0l1nZG3%2B3Za9%2FZSq3ujvW0tZDoykw4j6j3FglnpWFe8HlYC6jMRGfSbJ7KfR3NYTnB4cjN0vOi78u3ShehroLC6cq32Nov3qsnI%2FTxuR%2BKOPfeSNoSXgFXpi%2FPugvZrKPuDvHgtTr2%2BLilBnXBxuTjn33OfYUjf8mTRZcqjkCEz%2BL6Glkcstx4TeY5uJfouOVBgG8VseUUJU6Lumzv4mU60II2gRZTjKHYCmXDd9YKR4SCsLGu1Ak0PIYDGBVEsv8%3D%7Ctkp%3ABFBM6raY5cFn
 </p>
 
-<b>Early Life and Education</b>
+<h3 style="text-align: center;">Early Life and Education</h3>
 
 <p>
-
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
 </blockquote>
@@ -43,37 +41,41 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
-    <div style="font-size: 16px; font-style: italic;">John von Neumann as a child -https://www.ias.edu/von-neumann</div>
 </div>
 
-<p>At 15 years old, von Neumann so deeply impressed mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
+<p>At 15 years old, von Neumann so deeply impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
+
+<hr/>
 
 <blockquote>
 By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.¹
 </blockquote>
 
 <p>
-Georg Cantor is a hugely famous mathematician who single-handedly founded the field of Set Theory, an expansive and deeply important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
+Georg Cantor is an immensely famous mathematician who single-handedly founded the field of Set Theory, a deep and highly important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
 von Neumann's definition of Ordinal numbers is the standard definition still used to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
 
-You're doing well when you beat Georg Cantor at his own game.
+19 and beating Georg Cantor at his own game is pretty good.
 </p>
 
 <p>
-For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich and a PhD in mathematics from Pázmány Péter University in Budapest.
+For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (the university Albert Einstein went to) and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't a typical parental pressure situation though.
 von Neumann and his father brainstormed options and together decided on chemical engineering. -https://en.wikipedia.org/wiki/John_von_Neumann
 </p>
 
 <p>
-Moreover, von Neumann, in typical fashion, seems to have dodged the classic "do what makes you money or do what you're passionate about" thing by doing both at the same time.
+He dodged the classic "do what makes you money or do what you're passionate about" situation by just doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.
+He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor. --https://en.wikipedia.org/wiki/John_von_Neumann
 </p>
 
-<b>Professional Life</b>
+<hr/>
+
+<h3 style="text-align: center;">Professional Life</h3>
+
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
 A Privatdozent is like a lecturer/professor.
@@ -129,14 +131,49 @@ Here von Neumann's former home in Princeton, at 26 Westcott Road:
 <p>
 And indeed we did: met at John von Neumann's house and then walked over to Kurt Gödel's house.
 Einstein's house is right nearby, too.
-My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods.
+My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods (which are open to the public).
 There's a walking tour of Princeton called "From Genius to Genius", that stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann. --TODO add citation: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
 </p>
 
 <p>
-Another time, years later, I visited a friend who lived in the area.
-We too went to the Institute Woods.
-This is a photo I took of some of the Institute buildings, from the walking trails (which are open to the public) in the Institute Woods:
+Let's linger on Kurt Gödel for a minute.
+
+<blockquote>
+Kurt Friedrich Gödel...was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century (at a time when Bertrand Russell, Alfred North Whitehead, and David Hilbert were using logic and set theory to investigate the foundations of mathematics), building on earlier work by Frege, Richard Dedekind, and Georg Cantor.
+</blockquote> 
+
+Lingering upon Gödel's incompleteness theorems: 
+
+<blockquote>
+The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of natural numbers. For any such consistent formal system, there will always be statements about natural numbers that are true, but that are unprovable within the system. Equivalently, there will always be statements about natural numbers that are false, but that cannot be proved false within the system.
+</blockquote> -https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+
+https://www.youtube.com/watch?v=HeQX2HjkcNo
+-https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
+
+<p>
+In <i>Selected Letters</i>, von Neumann takes an affable yet professional tone with most of the people with whom he corresponds.
+For example (TODO cite example from writing to the admiral or Baumgartner).
+</p>
+
+<p>
+With Gödel, von Neumann's tone is completely different. He "rips right into it".
+He largely dispenses with the pleasantries, quickly diving into the details of the mathematics they're discussing.
+
+TODO: add a blockquote of an example of von Neumann doing that.
+
+This is perhaps indicative of both great friendship and respect in its truest form.
+The latter meaning it seems von Neumann saw Gödel as a true friend and an intellectual peer, both of which are notable designations.
+</p>
+
+<p>
+The tonal difference with Gödel is one of my absolute favorite things from <i>Selected Letters</i>. 
+</p>
+
+<p>
+Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
+As with when my father visited, my friend and I went to the Institute Woods.
+This is a photo from that day with my friend, of some of the Institute buildings, from the walking trails in the Institute Woods:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpeg" />
     <div style="font-size: 16px; font-style: italic;">You can kind of feel the peace and intelligence emanating from the place.</div>
@@ -154,14 +191,14 @@ More photos I took in the Institute Woods that day:
 </p>
 
 <p>
-I got my undergraduate degree in astronomy.
-One time in college, I went to a panel in which graduates from my college talked about their experiences.
-One of the graduates was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
+I got my bachelor's degree in astronomy.
+One time in college, I went to a panel at which alums from my college talked about their experiences.
+One of the alums was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
 
 <p>
-IAS fellows don't have teaching responsibilities, or any specific professional duties at all actually.
-The alum said something like that while you could technically do nothing all day, the <i>environment</i> of the IAS makes you want to strive and achieve.
+IAS fellows don't have teaching responsibilities, or any specific professional duties at all.
+That alum said something like that although you could technically do nothing all day, the <i>environment</i> of the IAS makes you want to learn and strive and discover.
 I still think about that sometimes. It sounds awesome.
 </p>
 
@@ -211,12 +248,15 @@ When I called on him he went to the blackboard and proceeded to write down the p
 </blockquote>
 -George Pólya¹⁷
 
+</p>
+
+<hr/>
+
 <p>
 von Neumann accomplished an unbelievable amount in his life. 
 Seminal scientific discoveries across multiple disciplines.
 Deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
-It was a rare combination indeed.
-Scientific work and public sector work typically emanate from two different kinds of minds.
+It was a rare combination indeed: elite scientific work and elite public sector work typically suit two very different kinds of minds.
 </p>
 
 <p>
@@ -238,18 +278,18 @@ In each of those, he was world-changingly successful. To give some illuminating 
 
 <h3>Mathematics</h3>
 <p>He founded multiple entirely new fields, including, most notably, game theory.
-von Neumann was the sole founder of the mathematical field of game theory, via his 1928 paper "Zur Theorie der Gesellschaftsspiele" ("On the Theory of Games of Strategy", https://link.springer.com/article/10.1007/BF01448847).
+von Neumann was the sole founder of the mathematical field of game theory, via his 1928 paper "Zur Theorie der Gesellschaftsspiele" ("On the Theory of Games of Strategy", --TODO link citation: https://link.springer.com/article/10.1007/BF01448847).
 
 <blockquote>
 In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
-<blockquote>
+</blockquote>
 
 <h3>Politics and the military</h3>
 <p>
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
 He was instrumental in the design of the second atomic bomb...¹³
-And so he was a key part of - it would not be hyperbole to say - saving the world.
+And so he was a key part of—it would not be hyperbole to say—saving the world.
 </p>
 
 <h3>Physics</h3>
@@ -257,10 +297,24 @@ And so he was a key part of - it would not be hyperbole to say - saving the worl
 "Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics."¹³
 </p>
 
+TODO: add more for physics
+
+<h3>Meteorology</h3>
+
+Yes, really.
+
+<blockquote>
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used;[306] von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation.[308] Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.[309] Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.
+</blockquote>
+
+He co-founded computerized weather forecasting!
+
 <h3>Computing</h3>
 <p>
-He invented the internal organizational architecture that is still used in almost all computers today.
-It is called, straightforwardly, "The von Neumann Architecture".
+von Neumann invented the internal organizational architecture that's still used in almost all computers today.
+It's called, straightforwardly, "The von Neumann Architecture". --TODO add citation
+
+TODO: talk about ENIAC, etc. See the wiki article for more details and go from there.
 
 <blockquote>
 The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
@@ -269,7 +323,7 @@ The Von Neumann architecture consists of a single, shared memory for programs an
 <p>
 He invented the von Neumann architecture in 1945. 1945!
 As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
-He was, of course, successful in both regards.
+And he was successful in both.
 </p>
 
 <p>
@@ -291,7 +345,7 @@ He fought back legally and won in a three-year federal trial, creating the indus
 </blockquote>
 
 <p>
-He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence --TODO add citation. Perhaps the single most spoken-about and pressing topic on all our minds these days.
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence --TODO add citation. Perhaps the single most spoken-about and pressing topic on all of our minds these days.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
 </blockquote>
@@ -300,8 +354,10 @@ It must be stressed that he came up with the idea of the technological singulari
 </p>
 
 <p>
-The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
-This is the list, which is still but a subset of his total body of work (not everything he did got named after him)⁴:<br/>
+--TODO: rework this section because clearly not all of these are named after John von Neumann
+
+The list of things named after John von Neumann is sufficiently voluminous to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+This is the list, which is still a subset of his total body of work⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
 Birkhoff–von Neumann decomposition<br/>
