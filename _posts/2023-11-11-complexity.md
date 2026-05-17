@@ -39,7 +39,7 @@ The trouble comes in the winter, when the shower will be freezing cold.
 You have to figure out and maintain a system for hot water with your gravity-fed shower that's hung from a tree branch.
 The shower situation has quickly become <i>more</i> complicated than just hopping in a normal shower in a normal house.
 Plus, you'll be dealing with snarky comments about the shower situation, from nearly everyone you know.
-As the lyrics of an old Eagles song say, "every refuge has its price" ([https://en.wikipedia.org/wiki/Lyin%27_Eyes](https://en.wikipedia.org/wiki/Lyin%27_Eyes)). Truer words have seldom been spoken.<br/><br/>
+My father used to paraphrase from an old Eagles song, that "every refuge has its price" ([https://en.wikipedia.org/wiki/Lyin%27_Eyes](https://en.wikipedia.org/wiki/Lyin%27_Eyes)). Truer words have seldom been spoken.<br/><br/>
 5. Paradoxically, at times of high complexity, it's human to reach for the fixes (e.g. drugs, alcohol) that add the most complexity. Mesolimbic pathway and all that.
 There's many a tale of a person who in the same week loses their job and is diagnosed with a serious illness, and turns to the bottle to cope.
 Now that person has three problems, not two. And the alcoholism is perhaps the most complex of the three.<br><br>
