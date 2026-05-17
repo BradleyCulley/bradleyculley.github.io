@@ -17,8 +17,8 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 
 ---
 <p>
-I read Complete Nepali in around the summer of 2011. Listened to the audio on the accompanying CDs. The audio was great: realistic mock conversations on a range of topics.
-The voice actors are all native speakers. They also speak significantly slower than normal speech.
+I read Complete Nepali in around the summer of 2011. I listened to the audio on the accompanying CDs. The audio was great: realistic mock conversations on a range of topics.
+The voice actors are all native speakers. They also intentionally speak slower than one would in normal speech.
 I found that speed adjustment particularly helpful with picking out individual words from a given sentence.
 </p>
 
