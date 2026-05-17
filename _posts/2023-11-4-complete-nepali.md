@@ -15,10 +15,11 @@ An orchard in Marpha, Nepal, in the Annapurna mountain range of the Himalayas.<b
 </div>
 <br>
 
----
+<hr/>
+
 <p>
 I read Complete Nepali in around the summer of 2011. I listened to the audio on the accompanying CDs. The audio was great: realistic mock conversations on a range of topics.
-The voice actors are all native speakers. They also intentionally speak slower than one would in normal speech.
+The voice actors are all native speakers. They also intentionally speak slowly.
 I found that speed adjustment particularly helpful with picking out individual words from a given sentence.
 </p>
 
@@ -27,6 +28,8 @@ Computing meaning is real-time is a tough barrier with a language.
 Someone once told me they had a moment when their Italian host parent was speaking Italian, when the sentence parsed as discrete words, rather than a stream of sound.
 After that, she felt she had a "foothold".
 </p>
+
+<hr/>
 
 <p>
 I quite liked the structure of the book. It's pragmatically organized. Each section is "here's a grammatical structure that's practical in common speech". For example, "here's the grammatical structure for saying "x is for y" (को लागि). Or, "here's how to conjugate for the simple past tense".
@@ -39,6 +42,8 @@ Each such structure was taught with examples and commonly-used words. I think th
 <p>
 Quite an illustrious group of authors: all three are university professors. Abhi Subedi is a renowned literary figure. He's a poet, playwright, and novelist. He's written dozens of books.
 </p>
+
+<hr/>
 
 <p>
 I studied abroad in Nepal in the spring of 2010. I mostly lived in the Kathmandu Valley, with some time spent in the Terai and in the Annapurna region.
@@ -54,6 +59,8 @@ Beyond the textbook and dictionary for the Nepali class used in the college cour
 Schmidt's book is particularly excellent. It's available here: <a href="https://dsal.uchicago.edu/dictionaries/schmidt">link</a>.
 </p>
 
+<hr/>
+
 <p>
 I was greatly aided, especially after the study abroad program, by speaking with native speakers. They humored my struggles.
 </p>
@@ -66,6 +73,8 @@ A remark from Dr. Hutt, one of the coauthors, has stuck with me. It was somethin
 Nepali is grammatically rich and sophisticated. It has case and declension - including ergativity, gender, agglutination, formality levels in both pronouns and conjugation, and strong use of postpositional markers.
 The postpositional markers in Nepali include को/ko ("belonging to"), लाई/laai (indirect object marker), मा/maa ("in, on, etc."), मुनि/muni ("under"), and सित/sita ("with").
 </p>
+
+<hr/>
 
 <p>
 I worked at a summer camp in 2011. I spent much of my downtime studying Nepali. A camper told me he heard Sanskrit would be the easiest language "for a computer to learn".
@@ -91,6 +100,8 @@ Vis-à-vis its atonality and it's language family, near the end of the study abr
 One of the languages besides Nepali that's spoken in Nepal is called Newari. It's interesting to contemplate that Nepali and English are more linguistically similar than are Nepali and Newari. Newari is also a Sino-Tibetan language, and is mostly spoken in the Kathmandu Valley.
 </p>
 
+<hr/>
+
 <p>
 Nepali has great prosody.
 </p>
@@ -100,5 +111,5 @@ In 2012, I was speaking Nepali with a gentleman in New Hampshire. I used the phr
 </p>
 
 <p>
-Studying Nepali has been a nice experience. Grammatically commanding, intimate, emotive, and sophisticated.
+Studying Nepali has been a nice experience. Intimate, emotive, commanding, and sophisticated.
 </p>
