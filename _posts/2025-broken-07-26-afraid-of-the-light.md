@@ -1,5 +1,10 @@
 ## <div align="center">Afraid of the Light</div>
 
+<div style="width: 100%; text-align: center; font-weight: bold;">
+"It’s easier to build strong children than to repair broken men."<br/>
+-Frederick Douglass -https://teachdifferent.com/podcast/its-easier-to-build-strong-children-than-to-repair-broken-men-teach-different-with-frederick-douglass-education/
+</div>
+
 <p>
 After a certain point in the 1600s, candidates for rulers of the Ottoman Empire were confined to house arrest until they ascended to the throne and took power.
 The building to which they were confined was called "Kafes", which literally means "cage" in Turkish.
