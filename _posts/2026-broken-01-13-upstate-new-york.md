@@ -34,10 +34,26 @@ The chili person at the bar.
 </p>
 
 <p>
-Talk about the guy I tutored who started punching his calculator in a public library, when he got frustrated while studying chemistry.
-I recall thinking: is he really punching his calculator in the middle of a library filled with people?
-During the course of tutoring, I once explained something that came down to the fact that f ·𝛌 = v.
-My sharing that fact seemed to simultaneously impress and offend him, and he enjoined something like "that's some genius stuff".
+Talk about the guy I tutored early in my time in the Binghamton area.
+He was taking intro general chemistry at Binghamton University, as I recall.
+I read the syllabus/course plan/course handbook/something like that, for the course...probably as part of making sure I was prepared for the lessons.
+There was a whole section of the document dedicated to basically saying you weren't allowed to act like nutjob in class.
+Something like you can't start verbally battling the professor and disrupting class.
+</p>
+
+<p>
+Beyond being just overall crazy, there was a interesting contrastive aspect to it.
+The college I went to was ranked by Forbes at #1 in the nation, out of all colleges of any kind, in 2011, the year I graduated.
+It was extremely fancy/prestigious/highly-selective/etc.
+The idea of a course handbook having to spell out that you aren't allowed to just start screaming at the teacher in class was like an artifact from a foreign world.
+A metaphorical meteorite freshly fallen in the metaphorical Iowa cornfield of my mind as read it. "Wait...what?".
+</p>
+
+<p>
+One time, that student got so frustrated by a chemistry problem he was working on that he started physically punching his calculator, right in the middle of a public library, surrounded by people.
+I recall thinking: is he really punching his calculator right now?
+During the course of the tutoring, I once explained something that came down to the fact that the velocity of a wave is the product of it's frequency times its wavelength: f ·𝛌 = v.
+Me sharing that fact seemed to simultaneously impress and annoy him, and he enjoined something like "that's some genius stuff".
 </p>
 
 <p>
