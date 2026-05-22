@@ -86,8 +86,7 @@ The experience with him was utterly and completely different than nearly every o
 He was nice to me. He took me seriously.
 There was absolutely nothing he needed from me.
 The moving job was a one-time job, and he was headed back to Lexington. 
-The experience was something like pulling a sliver of wood out of my heart.
-It wasn't until I experienced it that I fully appreciated how good it felt.
+The experience was like pulling a splinter out of my heart.
 </p>
 
 <p>
