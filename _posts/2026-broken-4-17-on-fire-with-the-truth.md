@@ -1,18 +1,11 @@
-## <div align="center">On Fire with The Truth<div>
-### John von Neumann: Selected Letters, edited by Miklós Rédei
-
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
-    <div style="font-size: 16px; font-style: italic;">My copy of <i>Selected Letters</i>, summer 2021</div>
-</div>
-
-------------------------------------------
-
+# <div align="center">On Fire with The Truth<div>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/JohnvonNeumann.gif" />
-    <div style="font-size: 16px; font-style: italic;">Dr. John von Neumann</div> -https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
+    <div style="font-size: 16px; font-style: italic;">Dr. John von Neumann¹⁹</div>
 </div>
+
+------------------------------------------
 
 <p>
 <b>
@@ -43,7 +36,7 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
     <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
 </div>
 
-<p>At 15 years old, von Neumann so deeply impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept literal tears of joy.⁷</p>
+<p>At 15 years old, von Neumann so deeply impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷</p>
 
 <hr/>
 
@@ -108,13 +101,15 @@ The store was called "Bamberger's". It sold clothes and stuff.
 <p>
 I used to live and work in Central New Jersey, not far from Princeton.
 When I lived nearby, I used to really like visiting Princeton.
-It's a beautiful town and I loved thinking seeing and thinking about the history of the place.
+I loved thinking seeing and thinking about its history.
+Plus it's a beautiful town.
 </p>
 
 <p>
 One time, I met my dad in Princeton. He was visiting me from out of state.
-When were were planning were to meet first, I asked to meet at John von Neumann's house.
-I said it a bit tongue in check, as though we were meeting at a friend's house...something like "let's meet at John von Neumann's house".
+I asked for us to rendevous at John von Neumann's house.
+I said it a bit tongue-in-cheek, as though we were meeting at a friend's house.
+And indeed we did: met at John von Neumann's house.
 </p>
 
 <p>
@@ -129,54 +124,54 @@ Here von Neumann's former home in Princeton, at 26 Westcott Road:
 </p>
 
 <p>
-And indeed we did: met at John von Neumann's house and then walked over to Kurt Gödel's house.
-Einstein's house is right nearby, too.
-My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods (which are open to the public).
-There's a walking tour of Princeton called "From Genius to Genius", that stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann. --TODO add citation: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
+After meeting, we walked to Kurt Gödel's house, which is right nearby. Einstein's house is nearby, too.
+My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods, which are open to the public.
+There's a walking tour of Princeton called "From Genius to Genius", that stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann²¹. You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
 </p>
 
+<hr/>
+
 <p>
-Let's linger on Kurt Gödel for a minute.
+Lingering on Kurt Gödel for a minute:
 
 <blockquote>
 Kurt Friedrich Gödel...was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century (at a time when Bertrand Russell, Alfred North Whitehead, and David Hilbert were using logic and set theory to investigate the foundations of mathematics), building on earlier work by Frege, Richard Dedekind, and Georg Cantor.
 </blockquote> 
 
-Lingering upon Gödel's incompleteness theorems: 
+In 2021, I bought a copy of a book of some of von Neumman's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
 
-<blockquote>
-The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of natural numbers. For any such consistent formal system, there will always be statements about natural numbers that are true, but that are unprovable within the system. Equivalently, there will always be statements about natural numbers that are false, but that cannot be proved false within the system.
-</blockquote> -https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
-
-https://www.youtube.com/watch?v=HeQX2HjkcNo
--https://en.wikipedia.org/wiki/Kurt_G%C3%B6del
+<div align="center">
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
+</div>
 
 <p>
-In <i>Selected Letters</i>, von Neumann takes an affable yet professional tone with most of the people with whom he corresponds.
+In the book, von Neumann takes an affable yet professional tone with most people with whom he corresponds.
 For example (TODO cite example from writing to the admiral or Baumgartner).
 </p>
 
 <p>
-With Gödel, von Neumann's tone is completely different. He "rips right into it".
-He largely dispenses with the pleasantries, quickly diving into the details of the mathematics they're discussing.
+With Gödel, though, he "rips right into it".
+After minimal pleasantries, he dives right into the math they're discussing.
 
 TODO: add a blockquote of an example of von Neumann doing that.
 
-This is perhaps indicative of both great friendship and respect in its truest form.
-The latter meaning it seems von Neumann saw Gödel as a true friend and an intellectual peer, both of which are notable designations.
+To me, von Neumann's tone with Gödel shows both great friendship and great respect.
+With the latter, it seems von Neumann saw Gödel as a true intellectual peer, a truly notable designation.
 </p>
 
 <p>
-The tonal difference with Gödel is one of my absolute favorite things from <i>Selected Letters</i>. 
+The tonal difference with Gödel is one of my absolute favorite aspects of <i>Selected Letters</i>. 
 </p>
+
+<hr/>
 
 <p>
 Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
 As with when my father visited, my friend and I went to the Institute Woods.
-This is a photo from that day with my friend, of some of the Institute buildings, from the walking trails in the Institute Woods:
+This is a photo from that day with my friend, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpeg" />
-    <div style="font-size: 16px; font-style: italic;">You can kind of feel the peace and intelligence emanating from the place.</div>
+    <div style="font-size: 16px; font-style: italic;">You can kind of feel peace and intelligence emanating from the place.</div>
 </div>
 </p>
 
@@ -190,8 +185,9 @@ More photos I took in the Institute Woods that day:
 </div>
 </p>
 
+<hr/>
+
 <p>
-I got my bachelor's degree in astronomy.
 One time in college, I went to a panel at which alums from my college talked about their experiences.
 One of the alums was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
@@ -236,9 +232,9 @@ One had the impression of a perfect instrument whose gears were machined to mesh
 -Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain¹⁷
 
 <blockquote>
-I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and Wemer Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.
+I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.
 </blockquote> 
--Eugene Wigner again -https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my or here: https://fabpedigree.com/Tech/genius3.htm
+-Eugene Wigner again²⁰
 
 <blockquote>
 There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
@@ -707,6 +703,9 @@ Sources:
 ¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists)
 ¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb
 ¹⁸: https://en.wikipedia.org/wiki/Technological_singularity
+¹⁹: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
+²⁰: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my
+²¹: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
 
 
 To consider keeping:
