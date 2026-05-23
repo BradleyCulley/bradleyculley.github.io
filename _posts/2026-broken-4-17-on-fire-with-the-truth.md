@@ -250,8 +250,8 @@ When I called on him he went to the blackboard and proceeded to write down the p
 
 <p>
 von Neumann accomplished an unbelievable amount in his life. 
-Seminal scientific discoveries across multiple disciplines.
-Deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
+He made seminal scientific discoveries across multiple disciplines.
+He did deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
 It was a rare combination indeed: elite scientific work and elite public sector work typically suit two very different kinds of minds.
 </p>
 
@@ -273,8 +273,11 @@ Major themes of his life include mathematics, politics, the military, physics, a
 In each of those, he was world-changingly successful. To give some illuminating examples:
 
 <h3>Mathematics</h3>
-<p>He founded multiple entirely new fields, including, most notably, game theory.
-von Neumann was the sole founder of the mathematical field of game theory, via his 1928 paper "Zur Theorie der Gesellschaftsspiele" ("On the Theory of Games of Strategy", --TODO link citation: https://link.springer.com/article/10.1007/BF01448847).
+<p>He founded multiple entirely new fields, including, perhaps most notably, game theory²².
+
+<blockquote>
+By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).²²
+</blockquote>
 
 <blockquote>
 In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
@@ -323,7 +326,16 @@ And he was successful in both.
 </p>
 
 <p>
-TODO talk about ENIAC and Merge Sort
+He invented Merge Sort in 1945¹.
+Merge sort is half of the standard sorting algorithm implementation (Timsort) used in billions of software systems worldwide²³.  
+</p>
+
+<p>
+He invented Stochastic computing and pioneered computational complexity theory (big O notation!).
+<blockquote>
+Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.¹
+</blockquote>
+
 </p>
 
 <p>
@@ -334,10 +346,9 @@ He created the field of cellular automata through his rigorous mathematical trea
 Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
 </p>
 
+Open-source computing:
 <blockquote>
-About the millionth other impressive thing von Neumann did was create open-source computing. 
-Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. 
-He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
 </blockquote>
 
 <p>
@@ -686,7 +697,7 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
 </div>
 
 Sources:
-¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of all quotations unless otherwise noted)
+¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source)
 ²: https://www.ams.org/notices/200706/tx070600724p.pdf
 ³: https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html
 ⁴: https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann
@@ -706,6 +717,8 @@ Sources:
 ¹⁹: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
 ²⁰: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my
 ²¹: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
+²²: https://www.ias.edu/von-neumann
+²³: https://en.wikipedia.org/wiki/Timsort
 
 
 To consider keeping:
