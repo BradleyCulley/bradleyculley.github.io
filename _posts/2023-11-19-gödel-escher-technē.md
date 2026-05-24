@@ -2,11 +2,9 @@
 
 <br/><br/>
 
-<i>
-This is a revised version of an essay about artificial intelligence that I wrote in 2023. It's about some things related to AI that had been on the mind for a while. The keys ideas came together while grocery shopping one day in Gilford, New Hampshire in 2023.
+<i>This is a revised version of an essay about artificial intelligence that I wrote in 2023. It's about some things related to AI that had been on the mind for a while. The keys ideas came together while grocery shopping one day in Gilford, New Hampshire in 2023.</i>
 
-The essay is titled "Gödel Escher Technē", a reference to the book "Gödel, Escher, Bach: an Eternal Golden Braid" by Douglas Hofstadter.
-</i>
+<i>The essay is titled "Gödel Escher Technē", a reference to the book "Gödel, Escher, Bach: an Eternal Golden Braid" by Douglas Hofstadter.</i>
 
 <hr/>
 
