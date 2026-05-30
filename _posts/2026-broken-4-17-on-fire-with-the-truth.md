@@ -15,6 +15,18 @@ Order this copy once I move, I want the article anyway: https://www.ebay.com/itm
 </p>
 
 <p>
+von Neumann can't be easily characterized monofactorially, but this description is pretty good:
+
+<blockquote>
+The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
+"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level,” wrote Klari [von Neumann's wife] after his death.
+"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer.²
+</blockquote>
+
+A mind on fire with the truth.
+</p>
+
+<p>
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
 </blockquote>
@@ -291,22 +303,10 @@ When I called on him he went to the blackboard and proceeded to write down the p
 <hr/>
 
 <p>
-von Neumann accomplished an unbelievable amount in his life. 
+von Neumann was extremely professionally productive. 
 He made seminal scientific discoveries across multiple disciplines.
 He did deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
 It was a rare combination indeed: elite scientific work and elite public sector work typically suit two very different kinds of minds.
-</p>
-
-<p>
-von Neumann can't be characterized monofactorially, yet this description from a review of <i>Selected Letters</i> is pretty good:
-
-<blockquote>
-The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
-"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level,” wrote Klari [von Neumann's wife] after his death.
-"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer.²
-</blockquote>
-
-A mind on fire with the truth.
 </p>
 
 <p>
