@@ -11,16 +11,6 @@
 
 <hr/>
 
-<p>
-ONE OF TIME MAGAZINE'S 100 BEST YA BOOKS OF ALL TIME - NEW YORK TIMES BESTSELLER - A PARADE BEST KIDS BOOK OF ALL TIME
-
-A modern-day classic from Newbery Medalist Jerry Spinelli, this beloved celebration of individuality is now an original movie on Disney+!
-
-https://www.amazon.co.uk/Stargirl-Jerry-Spinelli/dp/037582233X
-</p>
-
-<hr/>
-
 > <p>The 1939 New York World's Fair - that so transfixed me as a small visitor from darkest Brooklyn - was about "The World of Tomorrow." Merely by adopting such a motif, it promised that there would <i>be</i> a world of tomorrow, and the most casual glance affirmed that it would be better than the world of 1939. Although the nuance wholly passed me by, many people longed for such a reassurance on the eve of the most brutal and calamitous war in human history. I knew at least that I would be growing up in the future. The sleek and clean "tomorrow" portrayed by the Fair was appealing and hopeful. And something called science was plainly the means by which that future would be realized.</p><p>But if things had gone a little differently, the Fair could have given me enormously more. A fierce struggle had gone on behind the scenes. The vision that prevailed was that of the Fair's president and chief spokesman, Grover Whalen - former corporate executive, New York City police chief in a time of unprecedented police brutality, and public relations innovator. It was he who had envisioned the exhibit buildings as chiefly commercial, industrial, oriented to consumer products, and he who had convinced Stalin and Mussolini to build lavish national pavilions. (He later complained about how often he had been obliged to give the fascist salute.) The level of the exhibits, as one designer described it, was pitched to the mentality of a twelve-year-old."</p><p>However, as recounted by the historian Peter Kuznick of American University, a group of prominent scientists - including Harold Urey and Albert Einstein - advocated presenting science for its own sake, not just as the route to gadgets for sale; concentrating on the way of thinking and not just the products of science. They were convinced that broad popular understanding of science was the antidote to superstition and bigotry; that, as science popularizer Watson Davis put it, "the scientific way is the democratic way." One scientist even suggested that widespread public appreciation of the methods of science might work "a final conquest of stupidity" - a worthy, but probably unrealizable, goal.</p><p>As events transpired, almost no real science was tacked on to the Fair's exhibits, despite the scientists' protests and their appeals to high principles. And yet, some of the little that was added trickled down to me and helped to transform my childhood. The corporate and consumer focused remained central, though, and essentially nothing appeared about science as a way of thinking, much less as a bulwark of a free society.<br/><br/>-pages 403-404¹</p>
 
 <hr/>

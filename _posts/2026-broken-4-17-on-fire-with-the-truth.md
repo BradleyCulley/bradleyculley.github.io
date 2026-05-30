@@ -14,8 +14,6 @@ When I think of Dr. John von Neumann, I am reminded of a reference I once read t
 Order this copy once I move, I want the article anyway: https://www.ebay.com/itm/298292073890?_skw=Dec.+8%2C+2011+rolling+stone+middle+east&itmmeta=01KR7563D9XX8985MZ4YMTPK77&hash=item457397d5a2:g:85QAAOSwPZBmhdrp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBxq5RrtzhhnAqwKeDrLtYiOAKBEAL7AJgeP9Qg%2B%2F2xwXXirRE9SOBa93JTT109yP0l1nZG3%2B3Za9%2FZSq3ujvW0tZDoykw4j6j3FglnpWFe8HlYC6jMRGfSbJ7KfR3NYTnB4cjN0vOi78u3ShehroLC6cq32Nov3qsnI%2FTxuR%2BKOPfeSNoSXgFXpi%2FPugvZrKPuDvHgtTr2%2BLilBnXBxuTjn33OfYUjf8mTRZcqjkCEz%2BL6Glkcstx4TeY5uJfouOVBgG8VseUUJU6Lumzv4mU60II2gRZTjKHYCmXDd9YKR4SCsLGu1Ak0PIYDGBVEsv8%3D%7Ctkp%3ABFBM6raY5cFn
 </p>
 
-<h3 style="text-align: center;">Early Life and Education</h3>
-
 <p>
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
@@ -36,7 +34,7 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
     <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
 </div>
 
-<p>At 15 years old, von Neumann so deeply impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷</p>
+<p>At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷</p>
 
 <hr/>
 
@@ -48,7 +46,7 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 Georg Cantor is an immensely famous mathematician who single-handedly founded the field of Set Theory, a deep and highly important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
 von Neumann's definition of Ordinal numbers is the standard definition still used to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
 
-19 and beating Georg Cantor at his own game is pretty good.
+19 and beating Georg Cantor at his own game.
 </p>
 
 <p>
@@ -59,15 +57,13 @@ von Neumann and his father brainstormed options and together decided on chemical
 </p>
 
 <p>
-He dodged the classic "do what makes you money or do what you're passionate about" situation by just doing both at the same time.
+He dodged the "do what makes you money or do what you're passionate about" situation by doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor. --https://en.wikipedia.org/wiki/John_von_Neumann
 </p>
 
 <hr/>
-
-<h3 style="text-align: center;">Professional Life</h3>
 
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
@@ -77,9 +73,9 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 </p>
 
 <p>
-von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University.
-Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS) in Princeton.
-He remained a professor at the IAS for the rest of his life.
+von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.
+Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University (the town is named Princeton).
+He remained a professor at the Institute for Advanced Study for the rest of his life.
 </p>
 
 <hr/>
@@ -88,32 +84,62 @@ He remained a professor at the IAS for the rest of his life.
 The Institute for Advanced Study (IAS) is an interesting institution. 
 
 <blockquote>
-[The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. The faculty have no classes to teach. There are no degree programs or experimental facilities at the institute. Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.
-</blockquote> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
+[The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. 
+The faculty have no classes to teach. 
+There are no degree programs or experimental facilities at the institute. 
+Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.¹⁴
+</blockquote>
 
 <p>
-A not-so-well-known fact about the IAS is that it's not part of Princeton University.
+A not-so-well-known fact about the IAS is that it's completely separate from Princeton University.
 While there are collaborations and programs that informally link the two, and they're in the same town, it's a completely separate institution.
-A related fun fact is that the IAS was created "out of nowhere" with funding from a brother and sister — Louis Bamberger and Caroline Bamberger Fuld — who owned a department store in Newark, NJ.
-The store was called "Bamberger's". It sold clothes and stuff.
-</p> -https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
+The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, NJ.
+The store was called "Bamberger's". It sold clothes and stuff.¹⁴
+</p>
 
 <p>
 I used to live and work in Central New Jersey, not far from Princeton.
-When I lived nearby, I used to really like visiting Princeton.
-I loved thinking seeing and thinking about its history.
-Plus it's a beautiful town.
+I used to really like visiting Princeton.
+I loved thinking about and seeing its history.
+It's a beautiful town with a beautiful university campus.
+</p>
+
+<p>
+Many of the buildings on campus are built with gray stone in a beautiful "Collegiate Gothic" architectural style. -https://en.wikipedia.org/wiki/Princeton_University
+For example, this is Firestone Library, the largest library on campus:
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
+</div>
+
+By Photo: Andreas Praefcke - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2238823
+- https://en.wikipedia.org/wiki/File:Firestone_Library_Princeton_front.jpg
+
+Holder Hall and tower of Rockefeller College:
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
+</div>
+
+By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329
+-https://en.wikipedia.org/wiki/File:Princeton_(6035183309).jpg
+
+"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus": --TODO add citation
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Washington_Road_Elm_Allée.jpg" />
+</div>
+
+By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849
+-https://en.wikipedia.org/wiki/File:Washington_Road_Elm_All%C3%A9e_(east_side).jpg
 </p>
 
 <p>
 One time, I met my dad in Princeton. He was visiting me from out of state.
 I asked for us to rendevous at John von Neumann's house.
-I said it a bit tongue-in-cheek, as though we were meeting at a friend's house.
-And indeed we did: met at John von Neumann's house.
+I said it a bit tongue-in-cheek, as though we were meeting at an old friend's house.
+And indeed we did: we met at John von Neumann's house.
 </p>
 
 <p>
-Here von Neumann's former home in Princeton, at 26 Westcott Road:
+This is von Neumann's former home in Princeton, at 26 Westcott Road:
 <div align="center">
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
@@ -124,9 +150,11 @@ Here von Neumann's former home in Princeton, at 26 Westcott Road:
 </p>
 
 <p>
-After meeting, we walked to Kurt Gödel's house, which is right nearby. Einstein's house is nearby, too.
-My dad and I visited the Institute for Advanced study, too, and walked along the trails in the Institute Woods, which are open to the public.
-There's a walking tour of Princeton called "From Genius to Genius", that stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann²¹. You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
+After meeting, my dad and I walked to Kurt Gödel's house, which is right nearby. Einstein's house is nearby too.
+My dad and I also visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
+There's a walking tour of Princeton called "From Genius to Genius".²¹
+The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann²¹.
+You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
 </p>
 
 <hr/>
@@ -168,20 +196,20 @@ The tonal difference with Gödel is one of my absolute favorite aspects of <i>Se
 <p>
 Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
 As with when my father visited, my friend and I went to the Institute Woods.
-This is a photo from that day with my friend, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
+This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpeg" />
-    <div style="font-size: 16px; font-style: italic;">You can kind of feel peace and intelligence emanating from the place.</div>
+    <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
+    <div style="font-size: 16px; font-style: italic;">You can kind of feel serenity and intelligence emanating from the IAS</div>
 </div>
 </p>
 
 <p>
 More photos I took in the Institute Woods that day:
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/IAS_Woods_1.jpeg" />
+    <img src="https://bradleyculley.github.io/images/IAS_Woods_1.jpg" />
 </div>
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpeg" />
+    <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpg" />
 </div>
 </p>
 
@@ -193,9 +221,9 @@ One of the alums was (or had recently been, I can't remember) a fellow at the IA
 </p>
 
 <p>
-IAS fellows don't have teaching responsibilities, or any specific professional duties at all.
-That alum said something like that although you could technically do nothing all day, the <i>environment</i> of the IAS makes you want to learn and strive and discover.
-I still think about that sometimes. It sounds awesome.
+As mentioned above, IAS fellows any specific professional duties whatsoever.
+That alum said something like that although you could technically do nothing all day, the <i>environment itself</i> of the IAS makes you want to learn and strive and discover.
+I still think about that sometimes...it sounds awesome.
 </p>
 
 <hr/>
