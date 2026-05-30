@@ -101,12 +101,26 @@ The store was called "Bamberger's". It sold clothes and stuff.¹⁴
 I used to live and work in Central New Jersey, not far from Princeton.
 I used to really like visiting Princeton.
 I loved thinking about and seeing its history.
-It's a beautiful town with a beautiful university campus.
 </p>
 
 <p>
-Many of the buildings on campus are built with gray stone in a beautiful "Collegiate Gothic" architectural style. -https://en.wikipedia.org/wiki/Princeton_University
-For example, this is Firestone Library, the largest library on campus:
+I remember once, when I was driving, seeing a sign for Stellarator Road.
+"Stellerator" is the name of a kind of nuclear fusion architecture in which plasma is magnetically-confined, an architecture that was first implemented at Princeton University.
+
+<blockquote>
+The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
+...
+The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.
+</blockquote> -https://en.wikipedia.org/wiki/Stellarator
+
+I'd heard of the Stellarator. When I saw the road name, I thought something like "oh that's so cool" .
+The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ. -https://www.pppl.gov/
+</p>
+
+<p>
+It's a beautiful town with a beautiful university campus.
+Many of the campus buildings are in gray stone in a beautiful "Collegiate Gothic" architectural style. -https://en.wikipedia.org/wiki/Princeton_University
+This is Firestone Library, the largest library on campus:
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
 </div>
