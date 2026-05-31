@@ -65,14 +65,14 @@ von Neumann's definition of Ordinal numbers is the standard definition still use
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (the university Albert Einstein went to) and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't a typical parental pressure situation though.
-von Neumann and his father brainstormed options and together decided on chemical engineering. -https://en.wikipedia.org/wiki/John_von_Neumann
+von Neumann and his father brainstormed options and together decided on chemical engineering.¹
 </p>
 
 <p>
 He dodged the "do what makes you money or do what you're passionate about" situation by doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor. --https://en.wikipedia.org/wiki/John_von_Neumann
+He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.¹
 </p>
 
 <hr/>
@@ -131,7 +131,7 @@ The stellarator was invented by American scientist Lyman Spitzer in 1951. Much o
 </blockquote> -https://en.wikipedia.org/wiki/Stellarator
 
 I'd heard of the Stellarator. When I saw the road name, I thought something like "oh that's so cool" .
-The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ. -https://www.pppl.gov/
+The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.²⁴
 </p>
 
 <p>
@@ -584,11 +584,18 @@ He was a great leader, in both academic and military contexts.
 
 <p>He was a good husband and father, yet was once divorced.
 His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649.
-The term "Martian" comes via Leo Szilard, himself most famous for conceiving the nuclear chain reaction (a.k.a. nuclear weapons), who was himself Hungarian.¹⁵
-"The Martians" (Hungarian: "A marslakók") is a term used to refer to a group of prominent Hungarian scientists (mostly, but not exclusively, physicists and mathematicians) of Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."¹⁵</p>
+"The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."¹⁶</p>
+</p>
 
-<p>Marina is, like her father was, intellectually brilliant and highly successful.
-Top of her class at Radcliff (now Harvard), PhD from Colombia, successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
+<p>
+The term "Martian" comes via Leo Szilard, himself most famous for conceiving the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
+<blockquote>
+The universe is vast, containing myriads of stars ... likely to have planets circling around them. ... The simplest living things will multiply, evolve by natural selection and become more complicated till eventually active, thinking creatures will emerge. ... Yearning for fresh worlds ... they should spread out all over the Galaxy. These highly exceptional and talented people could hardly overlook such a beautiful place as our Earth. – "And so," Fermi came to his overwhelming question, "if all this has been happening, they should have arrived here by now, so where are they?" – It was Leo Szilard, a man with an impish sense of humor, who supplied the perfect reply to the Fermi Paradox: "They are among us," he said, "but they call themselves Hungarians."¹⁶
+</blockquote>
+</p>
+
+<p>Marina is, as her father was, intellectually brilliant and highly successful.
+She graduated at the top of her class at Radcliff (now Harvard), received a PhD from Colombia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
 "[Marina] wrote that he was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
 In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.
 </p> 
@@ -597,9 +604,9 @@ In her memoir, she speaks highly of her father, who by all accounts was about as
 von Neumann was ethnically and culturally Jewish.
 He was, however, more or less religiously agnostic.
 One could say he was one of long line of areligious jewish intellectual titans.
-On his deathbed, he literally opted for Pascal's Wager and got TODO add what he got (last rites?).
-Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."
--https://en.wikipedia.org/wiki/John_von_Neumann</p>
+On his deathbed, he literally opted for Pascal's Wager and got --TODO add what he got (last rites?).
+Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹
+</p>
 
 <p>He escaped Hungary before The Holocaust. Defeating Nazism was a deeply personal mission.</p>
 
@@ -743,29 +750,31 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
 </div>
 
 Sources:
-¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source)
-²: https://www.ams.org/notices/200706/tx070600724p.pdf
-³: https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html
-⁴: https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann
-⁵: https://en.wikipedia.org/wiki/File:John_von_neumann_tomb_2004.jpg
-⁶: https://mathshistory.st-andrews.ac.uk/Extras/Von_Neumann_Silliman
-⁷: https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91
-⁸: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/
-⁹: https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman
-¹⁰: https://www.brown.edu/Research/Istrail_Lab/papers/Istrail-Marcus012912FINAL.pd
-¹¹: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture
-¹²: https://en.wikipedia.org/wiki/ENIAC
-¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/
-¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study
-¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists)
-¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb
-¹⁸: https://en.wikipedia.org/wiki/Technological_singularity
-¹⁹: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif
-²⁰: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my
-²¹: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html
-²²: https://www.ias.edu/von-neumann
-²³: https://en.wikipedia.org/wiki/Timsort
-
+¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source) <br/>
+²: https://www.ams.org/notices/200706/tx070600724p.pdf <br/>
+³: https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html <br/>
+⁴: https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann <br/>
+⁵: https://en.wikipedia.org/wiki/File:John_von_neumann_tomb_2004.jpg <br/>
+⁶: https://mathshistory.st-andrews.ac.uk/Extras/Von_Neumann_Silliman <br/>
+⁷: https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91 <br/>
+⁸: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
+⁹: https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman <br/>
+¹⁰: https://www.brown.edu/Research/Istrail_Lab/papers/Istrail-Marcus012912FINAL.pd <br/>
+¹¹: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture <br/>
+¹²: https://en.wikipedia.org/wiki/ENIAC <br/>
+¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/ <br/>
+¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study <br/>
+¹⁵: https://en.wikipedia.org/wiki/Leo_Szilard <br/>
+¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists) <br/>
+¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb <br/>
+¹⁸: https://en.wikipedia.org/wiki/Technological_singularity <br/>
+¹⁹: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif <br/>
+²⁰: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my <br/>
+²¹: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html <br/>
+²²: https://www.ias.edu/von-neumann <br/>
+²³: https://en.wikipedia.org/wiki/Timsort <br/>
+²⁴: https://www.pppl.gov/ <br/>
+²⁵: https://en.wikipedia.org/wiki/Stellarator
 
 To consider keeping:
 
