@@ -119,6 +119,12 @@ I loved thinking about and seeing its history.
 I remember once, when I was driving, seeing a sign for Stellarator Road.
 "Stellerator" is the name of a kind of nuclear fusion architecture in which plasma is magnetically-confined, an architecture that was first implemented at Princeton University.
 
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
+</div>
+
+By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371
+
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
 ...
