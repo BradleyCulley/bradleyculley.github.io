@@ -570,9 +570,8 @@ He contributed greatly to American scholarship and to many American institutions
 
 <p>
 Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
-Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
+Doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
 </p>
-
 
 <p>
 He was a great leader, in both academic and military contexts.
@@ -636,7 +635,7 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 
 > "Oh, France won't matter."
 
--von Neumann's prewar thoughts on World War II
+-von Neumann's prewar thoughts on World War II (lol)
 </p>
 
 ------------------------------------------
