@@ -121,9 +121,8 @@ I remember once, when I was driving, seeing a sign for Stellarator Road.
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
+    <div style="font-size: 16px; font-style: italic;">Stellerator design -By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371</div>
 </div>
-
-By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371
 
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
