@@ -775,11 +775,6 @@ that's unequivocally something of which we humans can be proud.</p>
 In a world largely centered on negativity, I feel similarly about von Neumann's worldview and achievements: his life and work, both personal and professional.
 </p>
 
-<p>I used to work in Hamilton, New Jersey, a town not far from Princeton, New Jersey.
-Princeton is nice. Nice restaurants, nice old-timey academic buildings.
-The branding is stone of various hues - mostly brown and grey.
-Beautiful. Have a look:
-
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
   <div style="font-size: 16px; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
