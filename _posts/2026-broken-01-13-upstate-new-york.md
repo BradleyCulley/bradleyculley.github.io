@@ -90,8 +90,12 @@ The experience was like pulling a splinter out of my heart.
 </p>
 
 <p>
-Working for the Korean English language teaching school, that failed to pay me on time and in which my manager's manager got all 3 of us on a call and yelled at my manager in Korean for about 40 minutes straight, then said something like "Ok great thanks for the meeting".
-My manager quit not long after. 
+Working for the Korean English language teaching school. Talk about the students blowing into the microphones to disrupt the class, and me having to click the button to mute them when they did.
+They then figured out, as I recall, that they could leave the videoconference application and come back and be unmuted upon rejoining.
+It was, as I recall, always solely boys who did this, not girls.
+So I was there muting 5th grade boys "whack-a-mole" style while trying to teach at the same time.
+The company failed to pay me on time and in which my manager's manager got all 3 of us on a call and yelled at my manager in Korean for about 40 minutes straight, then said something like "Ok great thanks for the meeting".
+My manager quit not long after.
 </p>
 
 <p>
@@ -103,6 +107,10 @@ A great boss and a great man. I owe him a lot.
 
 <p>
 Speaking of stealing $100, --talk about the guy in the house who stole $100 from me, by pretending to be in need--
+</p>
+
+<p>
+Talk about the experience 
 </p>
 
 <p>
