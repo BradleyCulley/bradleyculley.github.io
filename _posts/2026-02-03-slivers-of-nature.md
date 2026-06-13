@@ -17,8 +17,8 @@ A nice thing about Northeastern Virginia is the mini-parks one finds sprinkled t
 </p>
 
 <p>
-One day, I chanced across a video of a person walking in a park in the rain.
-Randomly, the park turned out to be close to where I lived. It's Pimmit View Park in Falls Church, Virginia.
+One day, I came across a video of a person walking in a park in the rain.
+Randomly, the park turned out to be near where I lived. It's Pimmit View Park in Falls Church, Virginia.
 This is the video (click to watch it in a new tab):<br/>
 <div align="center">
     <a href="https://www.youtube.com/watch?v=ynLpZGegiJE" target="_blank">
@@ -44,7 +44,7 @@ It's perhaps no accident, but rather shared inclination, that that's what we did
 
 <p>
 A while before living in Virginia, I lived in the Binghamton, New York area.
-After a while, I found this park there — "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>.
+I found a park there named "Choconut Center Park": <a href="https://www.mypacer.com/parks/147331/choconut-center-park-binghamton" target="_blank">link</a>.
 </p>
 
 <p>
@@ -55,14 +55,14 @@ The park's surroundings are everyday rural Americana: two-lane roads, an industr
 </p>
 
 <p>
-The everyday surroundings somehow contributed to the feelings of transcendence to the place.
+The everyday surroundings somehow contributed to the feelings of transcendence.
 </p>
 
 <hr/>
 
 <p>
 At the park, I found a small path from the park's main road to a creek, named Little Choconut Creek, just below. 
-The creek was fairly hidden from the roads on either side: the highway on one side and the main road in the park on the other.
+The creek was pretty hidden from the roads on either side: the highway on one side and the main road in the park on the other.
 </p>
 
 <p>
