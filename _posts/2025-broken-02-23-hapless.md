@@ -6,7 +6,7 @@
 
 <hr/>
 
-One paragraph each: every shitshow disaster screwup I experienced in the economic and social world in The United States.
+One paragraph each: every disaster I experienced in the economic and social world in The United States.
 
 The Bluebird Botanticals order in Hampton
 The homebuying in Illinois
