@@ -2,7 +2,7 @@
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Hampton-Header.jpg" />
-    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took while living there.</div>
+    <div style="font-size: 15px; font-style: italic;">Hampton Beach. All photos are ones I took there.</div>
 </div>
 
 <hr/>

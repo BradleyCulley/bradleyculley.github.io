@@ -37,9 +37,8 @@ Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hunga
 </p>
 
 <p>
-He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].
+He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].²⁶
 </p>
--https://performativebafflement.substack.com/p/john-von-neumann
 </blockquote>
 
 <div align="center">
@@ -56,9 +55,7 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 
 <p>
 Georg Cantor is an immensely famous mathematician who single-handedly founded the field of Set Theory, a deep and highly important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
-von Neumann's definition of Ordinal numbers is the standard definition still used to this day. -https://mathworld.wolfram.com/OrdinalNumber.html
-
-19 and beating Georg Cantor at his own game.
+von Neumann's definition of Ordinal numbers is the standard definition still used to this day.²⁷
 </p>
 
 <p>
@@ -117,60 +114,53 @@ I loved thinking about and seeing its history.
 
 <p>
 I remember once, when I was driving, seeing a sign for Stellarator Road.
-"Stellerator" is the name of a kind of nuclear fusion architecture in which plasma is magnetically-confined, an architecture that was first implemented at Princeton University.
+"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.²⁹
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-    <div style="font-size: 16px; font-style: italic;">Stellerator design -By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371</div>
+  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor²⁸</div>
 </div>
 
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
 ...
-The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.
-</blockquote> -https://en.wikipedia.org/wiki/Stellarator
+The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.²⁹
+</blockquote>
 
-I'd heard of the Stellarator. When I saw the road name, I thought something like "oh that's so cool" .
+I'd heard of the Stellarator. When I saw the road name, I thought something like "that's super cool" .
 The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.²⁴
 </p>
 
 <p>
-It's a beautiful town with a beautiful university campus.
-Many of the campus buildings are in gray stone in a beautiful "Collegiate Gothic" architectural style. -https://en.wikipedia.org/wiki/Princeton_University
-This is Firestone Library, the largest library on campus:
+It's a beautiful town with a very nice university campus.
+Many of the campus buildings are in gray stone in a "Collegiate Gothic" architectural style.³⁰
+
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
+  <div style="font-size: 16px; font-style: italic;">Firestone Library, the largest library on campus:³¹</div>
 </div>
-
-By Photo: Andreas Praefcke - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2238823
-- https://en.wikipedia.org/wiki/File:Firestone_Library_Princeton_front.jpg
 
 Holder Hall and tower of Rockefeller College:
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
+  <div style="font-size: 16px; font-style: italic;">Holder Hall and tower of Rockefeller College³²</div>
 </div>
 
-By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329
--https://en.wikipedia.org/wiki/File:Princeton_(6035183309).jpg
-
-"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus": --TODO add citation
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Washington_Road_Elm_Allée.jpg" />
+  <div style="font-size: 16px; font-style: italic;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"³³</div>
 </div>
-
-By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849
--https://en.wikipedia.org/wiki/File:Washington_Road_Elm_All%C3%A9e_(east_side).jpg
 </p>
 
 <p>
-One time, I met my dad in Princeton. He was visiting me from out of state.
+One time when I lived in central New Jersey, I met my dad in Princeton.
 I asked for us to rendevous at John von Neumann's house.
 I said it a bit tongue-in-cheek, as though we were meeting at an old friend's house.
 And indeed we did: we met at John von Neumann's house.
 </p>
 
 <p>
-This is von Neumann's former home in Princeton, at 26 Westcott Road:
+Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road:
 <div align="center">
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
@@ -181,8 +171,11 @@ This is von Neumann's former home in Princeton, at 26 Westcott Road:
 </p>
 
 <p>
-After meeting, my dad and I walked to Kurt Gödel's house, which is right nearby. Einstein's house is nearby too.
-My dad and I also visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
+After meeting at the house, we walked over to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
+On the same trip, my dad and I also visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
+</p>
+
+<p>
 There's a walking tour of Princeton called "From Genius to Genius".²¹
 The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann²¹.
 You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
@@ -209,17 +202,17 @@ For example (TODO cite example from writing to the admiral or Baumgartner).
 </p>
 
 <p>
-With Gödel, though, he "rips right into it".
-After minimal pleasantries, he dives right into the math they're discussing.
+With Gödel, he gets right into it.
+After minimal pleasantries, he dives into the math they're discussing.
 
 TODO: add a blockquote of an example of von Neumann doing that.
 
 To me, von Neumann's tone with Gödel shows both great friendship and great respect.
-With the latter, it seems von Neumann saw Gödel as a true intellectual peer, a truly notable designation.
+With the latter, it seems von Neumann saw Gödel as a real intellectual peer; a notable designation.
 </p>
 
 <p>
-The tonal difference with Gödel is one of my absolute favorite aspects of <i>Selected Letters</i>. 
+The tonal difference with Gödel is one of my absolute favorite things from <i>Selected Letters</i>. 
 </p>
 
 <hr/>
@@ -230,7 +223,7 @@ As with when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
-    <div style="font-size: 16px; font-style: italic;">You can kind of feel serenity and intelligence emanating from the IAS</div>
+    <div style="font-size: 16px; font-style: italic;">You can kind of feel the serenity and intelligence emanating from the IAS</div>
 </div>
 </p>
 
@@ -247,14 +240,14 @@ More photos I took in the Institute Woods that day:
 <hr/>
 
 <p>
-One time in college, I went to a panel at which alums from my college talked about their experiences.
+One time in college, I went to a panel at which alums talked about their experiences.
 One of the alums was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
 
 <p>
-As mentioned above, IAS fellows any specific professional duties whatsoever.
-That alum said something like that although you could technically do nothing all day, the <i>environment itself</i> of the IAS makes you want to learn and strive and discover.
-I still think about that sometimes...it sounds awesome.
+As mentioned above, IAS fellows don't have any specific professional duties whatsoever.
+The alum said something like that although you could technically do nothing all day, the <i>environment itself</i> of the IAS makes you want to do great work.
+I still think about that sometimes. It sounds awesome.
 </p>
 
 <hr/>
@@ -339,15 +332,15 @@ And so he was a key part of—it would not be hyperbole to say—saving the worl
 </p>
 
 <h3>Physics</h3>
-<p>
-"Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics."¹³
-</p>
+<blockquote>
+Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics.¹³
+</blockquote>
 
 TODO: add more for physics
 
 <h3>Meteorology</h3>
 
-Yes, really.
+Yep, that's right.
 
 <blockquote>
 By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used;[306] von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation.[308] Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.[309] Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.
@@ -358,12 +351,19 @@ He co-founded computerized weather forecasting!
 <h3>Computing</h3>
 <p>
 von Neumann invented the internal organizational architecture that's still used in almost all computers today.
-It's called, straightforwardly, "The von Neumann Architecture". --TODO add citation
+It's called "The von Neumann Architecture".³⁴
+
+<blockquote>
+Von Neumann describes a detailed design of a "very high speed automatic digital computing system." He divides it into six major subdivisions: a central arithmetic part, CA; a central control part, CC; memory, M; input, I; output, O; and (slow) external memory, R, such as punched cards, Teletype tape, or magnetic wire or steel tape.
+</blockquote>
+-https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC
 
 TODO: talk about ENIAC, etc. See the wiki article for more details and go from there.
 
 <blockquote>
 The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
+...
+Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.
 </blockquote>
 
 <p>
@@ -774,7 +774,25 @@ Sources:
 ²²: https://www.ias.edu/von-neumann <br/>
 ²³: https://en.wikipedia.org/wiki/Timsort <br/>
 ²⁴: https://www.pppl.gov/ <br/>
-²⁵: https://en.wikipedia.org/wiki/Stellarator
+²⁵: https://en.wikipedia.org/wiki/Stellarator <br/>
+²⁶: https://performativebafflement.substack.com/p/john-von-neumann <br/>
+²⁷: https://mathworld.wolfram.com/OrdinalNumber.html <br/>
+²⁸: By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371 <br/>
+²⁹: https://en.wikipedia.org/wiki/Stellarator <br/>
+³⁰: https://en.wikipedia.org/wiki/Princeton_University <br/>
+³¹: By Photo: Andreas Praefcke - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2238823 <br/>
+³²: By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329 <br/>
+³³: By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849 <br/>
+³⁴: https://en.wikipedia.org/wiki/Von_Neumann_architecture <br/>
+
+
+
+
+
+
+
+
+
 
 To consider keeping:
 
