@@ -36,7 +36,7 @@ I once heard a young man tell a story about going on a whale watch in Mexico. Th
 </p>
 
 <p>
-As soon as he jumped overboard and got below the surface, he saw that he was about ten feet from a very large whale, which filled his entire field of vision. As he put it, “I opened my eyes and it was all just <b>whale</b>.”
+As soon as he jumped overboard and got below the surface, he saw that he was about ten feet from a very large whale, which filled his entire field of vision. As he put it, "I opened my eyes and it was all just <b>whale</b>."
 </p>
 
 <p>
