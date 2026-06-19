@@ -350,7 +350,7 @@ He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
 <p>
-von Neumann invented the internal organizational architecture that's still used in almost all computers today.
+von Neumann publicized the internal organizational architecture that's still used in almost all computers today.
 It's called "The von Neumann Architecture".³⁴
 
 <blockquote>
