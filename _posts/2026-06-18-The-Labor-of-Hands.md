@@ -13,7 +13,7 @@
 <p>
 Mercer, Maine is the town my parents moved to when they were 24 years old, in 1981.
 It's a town in rural Maine with a population of about 700 people.¹
-The population was around 300 when my parents arrived in 1981.
+Back in 1981, the population was around 300.
 </p>
 
 <p>
