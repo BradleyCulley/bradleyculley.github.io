@@ -24,7 +24,7 @@ The essay is about his way of thinking about Mercer.
 </p>
 
 <p>
-As is clear from the essay, he quite likes Mercer.
+As you can see from the essay, he quite likes Mercer.
 </p>
 
 <hr/>
