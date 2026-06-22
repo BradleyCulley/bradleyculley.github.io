@@ -109,7 +109,7 @@ She was retired from a great career, was happily married (and had been for over 
 </p>
 
 <p>
-At one point during our conversation in the garden, and a bit out of the blue, she told me "relationships are the most important thing in life".
+At one point during our conversation in the garden, and a bit out of the blue, she said "relationships are the most important thing in life".
 </p>
 
 ---
