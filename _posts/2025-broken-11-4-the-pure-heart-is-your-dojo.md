@@ -253,6 +253,10 @@ Talk about the idea of cathexis from Freud in that regard: you bring into yourse
 https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-perception-that-virtue-is
 </p>
 
+From Thoreau:
+"What a man thinks of himself, that it is which determines, or rather indicates, his fate." This quote is more than positive thinking or self-confidence. But Thoreau’s message goes much deeper. “The way you see yourself, that’s the direction of your life,” he says.
+-https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-henry-david-thoreau-what-a-man-thinks-of-himself-that-it-is-which-determines-or-rather-indicates-/amp_articleshow/131915894.cms
+
 <p>
 TODO: Perhaps end the essay with this quote from The Hero With a Thousand Faces:
 hey have become associated with the causes of the factions, as instruments of propaganda and self-congratulation. The universal triumph of the secular state has thrown all religious organizations into such a definitely secondary, and finally ineffectual, position that religious pantomime is hardly more today than a sanctimonious exercise for Sunday morning, whereas business ethics and patriotism stand for the remainder of the week. Such a monkey-holiness is not what the functioning world requires; rather, a transmutation of the whole social order is necessary, so that through every detail and act of secular life the vitalizing image of the universal god-man who is actually immanent and effective in all of us may be somehow made known to consciousness”

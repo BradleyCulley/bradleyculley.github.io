@@ -367,9 +367,20 @@ Numbers are to be represented in binary notation. He estimates 27 binary digits 
 </blockquote>
 
 <p>
-He invented the von Neumann architecture in 1945. 1945!
+He was working on the von Neumann architecture in 1945. 1945!
 As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
 And he was successful in both.
+</p>
+
+<p>
+<blockquote>
+Considered to be possibly "the most influential researcher in scientific computing of all time",[295] von Neumann made several contributions to the field, both technically and administratively.
+</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
+
+<blockquote>
+From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically,[302] and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems.[303] In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically.[244] He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.
+</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
+
 </p>
 
 <p>
