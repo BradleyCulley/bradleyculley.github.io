@@ -5,6 +5,11 @@
   <img src="" /> https://artfoodhome.com/2022/12/23/christmas-eve-at-the-grave-1896-by-otto-hesselbom/
 </div>
 
+<blockquote>
+When an old person dies, it's like burning a library
+-My dad
+</blockquote>
+
 <hr/>
 
 The above painting is titled "Christmas Eve at the Grave, 1896 by Otto Hesselbom".
@@ -53,6 +58,8 @@ Sometimes I dream that I'm talking to my parents and suddenly, still immersed in
 But here they are, alive and well, my dad doing an ironic face. Jokes, my mom seriously advising me to wear a scarf because it was cold. When I wake up, I go through a brief grieving process again. Clearly, there's something inside me that's ready to believe in life after death. And he doesn't care at all if there's any objective proof of it.
 So I don't laugh at the woman who visits her husband's grave and talks to him from time to time maybe on the anniversary of his death. It's not hard to understand. And if I'm struggling with the ontological nature of who you're talking to, that's fine. That's not what it's all about. It's about human beings being human.
 - Carl Sagan
+
+https://wright-beard.com/tribute/details/898/Jeremy-Sands/condolences.html
 
 <br/>
 Sources:<br/>
