@@ -349,16 +349,38 @@ By 1950 von Neumann and Charney wrote the world's first climate modelling softwa
 He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
-<p>
-von Neumann publicized the internal organizational architecture that's still used in almost all computers today.
-It's called "The von Neumann Architecture".³⁴
 
+von Neumann was directly involved in the absolute ground-floor of the development of the modern computer.
+
+von Neumann was one of the chief developers of the ENIAC computer. -https://en.wikipedia.org/wiki/ENIAC
+
+<blockquote>
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.
+</blockquote> -https://en.wikipedia.org/wiki/ENIAC
+
+<blockquote>
+Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.
+</blockquote> -https://en.wikipedia.org/wiki/ENIAC
+
+<blockquote>
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...
+</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
+
+<p>
+von Neumann consulted on the EDVAC project, which was "a successor to ENIAC".
+"Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer." -https://en.wikipedia.org/wiki/EDVAC
+</p>
+
+<p>
+von Neumann publicized (although didn't directly invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
+It's called The von Neumann Architecture.³⁴
+</p>
+
+About The von Neumann Architecture used in the EDVAC:
 <blockquote>
 Von Neumann describes a detailed design of a "very high speed automatic digital computing system." He divides it into six major subdivisions: a central arithmetic part, CA; a central control part, CC; memory, M; input, I; output, O; and (slow) external memory, R, such as punched cards, Teletype tape, or magnetic wire or steel tape.
 </blockquote>
 -https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC
-
-TODO: talk about ENIAC, etc. See the wiki article for more details and go from there.
 
 <blockquote>
 The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
