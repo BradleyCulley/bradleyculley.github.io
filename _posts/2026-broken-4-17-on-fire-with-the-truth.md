@@ -390,7 +390,7 @@ Numbers are to be represented in binary notation. He estimates 27 binary digits 
 
 <p>
 He was working on the von Neumann architecture in 1945. 1945!
-As if that were not enough, his reason for working on computing was a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
+As if that were not enough, some of his primary reasons for working on computing were a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
 And he was successful in both.
 </p>
 
@@ -432,18 +432,19 @@ About the 75th most impressive thing von Neumann did was create open-source comp
 </blockquote>
 
 <p>
-He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence --TODO add citation. Perhaps the single most spoken-about and pressing topic on all of our minds these days.
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity is perhaps the single most spoken-about and pressing topic on people's minds these days.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
 </blockquote>
 
-It must be stressed that he came up with the idea of the technological singularity <i>before the mid 1950s</i>.
+He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
 <p>
 --TODO: rework this section because clearly not all of these are named after John von Neumann
 
 The list of things named after John von Neumann is sufficiently voluminous to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+
 This is the list, which is still a subset of his total body of work⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>

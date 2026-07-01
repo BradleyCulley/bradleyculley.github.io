@@ -61,6 +61,8 @@ So I don't laugh at the woman who visits her husband's grave and talks to him fr
 
 https://wright-beard.com/tribute/details/898/Jeremy-Sands/condolences.html
 
+https://x.com/afshineemrani/status/2072346876268171293?s=20
+
 <br/>
 Sources:<br/>
 ¹: <a target="_blank" href="https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg">https://commons.wikimedia.org/wiki/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg#/media/File:Bruce_Lee_in_Enter_the_Dragon_(1973).jpg</a><br/>
