@@ -400,34 +400,43 @@ He co-founded computerized weather forecasting!
 
 von Neumann was on the absolute ground-floor of the development of the modern computer.
 
-von Neumann was one of the chief developers of the ENIAC computer. -https://en.wikipedia.org/wiki/ENIAC
+von Neumann was one of the chief developers of the ENIAC computer¹²:
 
 <blockquote>
-ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.
-</blockquote> -https://en.wikipedia.org/wiki/ENIAC
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.¹²
+</blockquote>
 
 <blockquote>
-Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.
-</blockquote> -https://en.wikipedia.org/wiki/ENIAC
+Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.¹²
+</blockquote>
 
 <blockquote>
-By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...
-</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...¹
+</blockquote>
 
 <p>
-von Neumann consulted on the EDVAC project, which was "a successor to ENIAC".
-"Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer." -https://en.wikipedia.org/wiki/EDVAC
+von Neumann consulted on the EDVAC project, which was a successor to the ENIAC computer:
 </p>
 
+<blockquote>
+Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.³⁹
+</blockquote>
+
 <p>
-von Neumann publicized (although didn't directly invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
+von Neumann publicized (although didn't actually invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
 It's called The von Neumann Architecture.³⁴
+
+The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert⁴⁰ 
+The whole thing came out of a paper he wrote titled "First Draft of a Report on the EDVAC".
+
 </p>
 
 About The von Neumann Architecture used in the EDVAC:
 <blockquote>
 Von Neumann describes a detailed design of a "very high speed automatic digital computing system." He divides it into six major subdivisions: a central arithmetic part, CA; a central control part, CC; memory, M; input, I; output, O; and (slow) external memory, R, such as punched cards, Teletype tape, or magnetic wire or steel tape.
 </blockquote>
+
+
 -https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC
 
 <blockquote>
@@ -870,6 +879,8 @@ Sources:
 ³⁶: https://en.wikipedia.org/wiki/Eugene_Wigner <br/>
 ³⁷: https://en.wikipedia.org/wiki/Von_Neumann_entropy <br/>
 ³⁸: https://en.wikipedia.org/wiki/Quantum_logic <br/>
+³⁹: https://en.wikipedia.org/wiki/EDVAC <br/>
+⁴⁰: https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC <br/>
 
 
 
