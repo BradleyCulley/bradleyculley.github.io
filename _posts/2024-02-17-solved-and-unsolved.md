@@ -171,6 +171,8 @@ I think that attitude misses potential in both directions.
 The unsolved problems are much more interesting, and the solved problems are much more important.
 </p>
 
+<hr/>
+
 <br/>
 Sources:<br/>
 ¹: [https://accelconf.web.cern.ch/e06/papers/thespa01.pdf](https://accelconf.web.cern.ch/e06/papers/thespa01.pdf) <br/>
@@ -181,5 +183,5 @@ Sources:<br/>
 ⁶: [https://www.security.org/resources/homeless-statistics](https://www.security.org/resources/homeless-statistics/) <br/>
 ⁷: [https://en.wikipedia.org/wiki/Cycle_of_poverty](https://en.wikipedia.org/wiki/Cycle_of_poverty) <br/>
 ⁸:  [https://okm.fi/en/frequently-asked-questions](https://okm.fi/en/frequently-asked-questions) <br/>
-⁹: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a)
+⁹: [https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a](https://medium.com/@cailiansavage1/there-are-private-schools-in-finland-but-they-offer-the-same-education-based-on-the-national-4fe673d1b34a) <br/>
 ¹⁰: [https://www.britannica.com/topic/theodicy-theology](https://www.britannica.com/topic/theodicy-theology)
