@@ -332,15 +332,63 @@ And so he was a key part of—it would not be hyperbole to say—saving the worl
 </p>
 
 <h3>Physics</h3>
+I give a fuller picture of von Neumann's work in physics, rather than more of a sampling, in part because physics is a bit popular in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+In terms of scale, see the note at the end of this section comparing the scale of his work in physics (which, as you can see, is wildly prolific within the standards of mere mortals) was not nearly as prolific as was his work in math.
+
 <blockquote>
-Von Neumann published a set of papers which established a rigorous mathematical framework for quantum mechanics.¹³
+Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i>¹.
 </blockquote>
 
-TODO: add more for physics
+<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, and he is the sole author³⁵.
+
+<blockquote>
+Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.¹
+</blockquote>
+
+<blockquote>
+Von Neumann's proof inaugurated a line of research that ultimately led, through Bell's theorem and the experiments of Alain Aspect in 1982, to the demonstration that quantum physics either requires a notion of reality substantially different from that of classical physics, or must include nonlocality in apparent violation of special relativity.¹
+</blockquote>
+
+<blockquote>
+In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere.[218] Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!³⁶], this interpretation never gained acceptance among the majority of physicists.¹
+</blockquote>
+
+<blockquote>
+Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.
+</blockquote>
+
+<blockquote>
+The density matrix was introduced, with different motivations, by von Neumann and by Lev Landau. The motivation that inspired Landau was the impossibility of describing a subsystem of a composite quantum system by a state vector. On the other hand, von Neumann introduced the density matrix in order to develop both quantum statistical mechanics and a theory of quantum measurements. He introduced the expression now known as von Neumann entropy by arguing that a probabilistic combination of pure states is analogous to a mixture of ideal gases. Von Neumann first published on the topic in 1927. His argument was built upon earlier work by Albert Einstein and Leo Szilard.³⁷
+</blockquote>
+
+<blockquote>
+The formalism of density operators and matrices was introduced by von Neumann[227] in 1927 and independently, but less systematically by Lev Landau[228] and Felix Bloch[229] in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.¹
+</blockquote>
+
+<blockquote>
+The von Neumann measurement scheme, the ancestor of quantum decoherence theory, represents measurements projectively by taking into account the measuring apparatus which is also treated as a quantum object. The 'projective measurement' scheme introduced by von Neumann led to the development of quantum decoherence theories.¹
+</blockquote>
+
+<blockquote>
+Von Neumann first proposed a quantum logic in his 1932 treatise Mathematical Foundations of Quantum Mechanics, where he noted that projections on a Hilbert space can be viewed as propositions about physical observables. The field of quantum logic was subsequently inaugurated in a 1936 paper by von Neumann and Garrett Birkhoff, the first to introduce quantum logics, wherein von Neumann and Birkhoff first proved that quantum mechanics requires a propositional calculus substantially different from all classical logics and rigorously isolated a new algebraic structure for quantum logics.¹
+</blockquote>
+
+<blockquote>
+Quantum logic remains in use among logicians and interests are expanding through the recent development of quantum computing, which has engendered a proliferation of new logics for formal analysis of quantum protocols and algorithms (see also § Relationship to other logics). The logic may also find application in (computational) linguistics.³⁸
+</blockquote>
+
+<blockquote>
+During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.¹
+</blockquote>
+
+Note the "While not as prolific in physics as he was in mathematics"¹ part here (🙂):
+<blockquote>
+While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.¹
+</blockquote>
 
 <h3>Meteorology</h3>
 
-Yep, that's right.
+That's right: meteorology!
 
 <blockquote>
 By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used;[306] von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation.[308] Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.[309] Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.
@@ -350,7 +398,7 @@ He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
 
-von Neumann was directly involved in the absolute ground-floor of the development of the modern computer.
+von Neumann was on the absolute ground-floor of the development of the modern computer.
 
 von Neumann was one of the chief developers of the ENIAC computer. -https://en.wikipedia.org/wiki/ENIAC
 
@@ -818,6 +866,10 @@ Sources:
 ³²: By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329 <br/>
 ³³: By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849 <br/>
 ³⁴: https://en.wikipedia.org/wiki/Von_Neumann_architecture <br/>
+³⁵: https://press.princeton.edu/books/hardcover/9780691178561/ <br/>
+³⁶: https://en.wikipedia.org/wiki/Eugene_Wigner <br/>
+³⁷: https://en.wikipedia.org/wiki/Von_Neumann_entropy <br/>
+³⁸: https://en.wikipedia.org/wiki/Quantum_logic <br/>
 
 
 
