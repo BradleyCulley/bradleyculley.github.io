@@ -11,7 +11,6 @@
 <b>
 When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 
 --TODO: quote from here: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
-Order this copy once I move, I want the article anyway: https://www.ebay.com/itm/298292073890?_skw=Dec.+8%2C+2011+rolling+stone+middle+east&itmmeta=01KR7563D9XX8985MZ4YMTPK77&hash=item457397d5a2:g:85QAAOSwPZBmhdrp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBxq5RrtzhhnAqwKeDrLtYiOAKBEAL7AJgeP9Qg%2B%2F2xwXXirRE9SOBa93JTT109yP0l1nZG3%2B3Za9%2FZSq3ujvW0tZDoykw4j6j3FglnpWFe8HlYC6jMRGfSbJ7KfR3NYTnB4cjN0vOi78u3ShehroLC6cq32Nov3qsnI%2FTxuR%2BKOPfeSNoSXgFXpi%2FPugvZrKPuDvHgtTr2%2BLilBnXBxuTjn33OfYUjf8mTRZcqjkCEz%2BL6Glkcstx4TeY5uJfouOVBgG8VseUUJU6Lumzv4mU60II2gRZTjKHYCmXDd9YKR4SCsLGu1Ak0PIYDGBVEsv8%3D%7Ctkp%3ABFBM6raY5cFn
 </p>
 
 <p>
@@ -498,9 +497,7 @@ He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
 <p>
---TODO: rework this section because clearly not all of these are named after John von Neumann
-
-The list of things named after John von Neumann is sufficiently voluminous to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
 
 This is the list, which is still a subset of his total body of work⁴:<br/>
 Birkhoff–von Neumann algorithm<br/>
@@ -586,54 +583,55 @@ John von Neumann University<br/>
 </p>
 
 <p>
-His many other professional contributions include the fruits of his informal collaborations and discussions with other luminaries, as well as his classified military work, including on the Manhattan project
+von Neumann's many other professional contributions include the fruits of his informal collaborations with other luminaries, as well as his classified military work, including on the Manhattan project
 </p>
 
 <p>
 Personality-wise, he was social and boisterous.
-Contrast that with Kurt Gödel, the famous mathematician who also worked at the Institute for Advanced Study at around the same time, awkwardly telling the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
-The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and so shooed him along.
+Kurt Gödel, a famous mathematician who also worked at the Institute for Advanced Study at around the same time, was a bit socially awkward. 
+For example, Gödel told the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and shooed Gödel along through the hearing.
 </p>
 
 <p>
 von Neumann loved parties, loud music, and off-color jokes.
-He was apparently a fun dude.
+He was a fun dude.
 </p>
 
 <p>
-I read somewhere that America suited him far better than it did most of the other intellectual luminaries who fled Europe around the time of WWII.
-That seems true. It also seems true, reciprocally, that he suited America.
+I read somewhere that America suited him better than it suited most of the other luminaries who fled Europe around the time of WWII.
+That seems true. It also that, reciprocally, he suited America.
 </p>
 
 <p>
 1. Patriotic
-He was an extremely patriotic American.
-A case in point: "Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
+von Neumann was an extremely patriotic American.
+"Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
 Note that lieutenant is the lowest rank among officers.
-He was a world-famous mathematician, ready to go through boot camp to join the Army at the very bottom of the hierarchy, and he was dead serious about it.
-Escaping both communism and the Holocaust were probably the motivating factors there.
+He was a world-famous mathematician, ready to go through boot camp (Officer Candidate School), and he was dead serious.
+Escaping both communism and the Holocaust were probably the motivating factors.
 </p>
 
 <p>
 2. Folksy humor
-But that's just way in which he fit in well in America.  
 He was serious about his work, yet lighthearted and playful in his outlook on life.
 He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".--TODO add citation
 </p>
 
 <p>
-3. Low-key and folksy
-He had a taste for power and influence, yet wielded both in a laid back way.
+3. Low-key and folksy overall, but locked in when it was "prime time"
+He had a taste for power and influence, yet wielded both in a chill laid back way.
+</p>
 
 <blockquote>
 Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.¹
 </blockquote>
-</p>
 
 <p>
 3. Extroverted
 <p>
-He was boisterous and gregarious. He threw parties. Probably grilled a burger or two.
+He was boisterous and gregarious. He threw parties...probably grilled burgers.
+</p>
 
 <blockquote>
 [He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly.¹
@@ -643,31 +641,34 @@ He was boisterous and gregarious. He threw parties. Probably grilled a burger or
 [He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.¹
 </blockquote>
 
-I imagine he'd like tailgating at a football game.
+<p>
+I can imagine him tailgating at a football game...a quintessentially American pastime.
 </p>
 
 <p>
 4. Militaristic
-He participated in and grew the military industrial complex.
-Contrast that with Einstein's atom bomb regrets and the infamous social awkwardness of Godel, Paul Dirac, and other contemporaneous scientific luminaries.
+He participated in and strenghtend the American military-industrial complex.
+Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
 <p>
 5. Technocratic and techno-optimistic, sometimes to a fault
-von Neumann believed in the power of technology and of invention. He was a futurist.
+von Neumann believed in the power of technology and of invention. And he was a futurist.
 --TODO add some quotes here, about tech uses. Perhaps the admiral quote about computing and one about bombs.
 </p>
 
 <p>
 Conversely, he suited America well.
-He helped America win WWII and, via pioneering work on inter-continental ballistic missiles, to be positioned to win the Cold War.
+He helped America win WWII. Via pioneering work on intercontinental ballistic missiles, he helped position America to win the Cold War.
 He contributed greatly to American scholarship and to many American institutions.
 </p>
 
 <p>
 Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
-Doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
+Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 </p>
+
+<hr/>
 
 <p>
 He was a great leader, in both academic and military contexts.
@@ -694,14 +695,14 @@ In her memoir, she speaks highly of her father, who by all accounts was about as
 <p>
 von Neumann was ethnically and culturally Jewish.
 He was, however, more or less religiously agnostic.
-One could say he was one of long line of areligious jewish intellectual titans.
+He was one of long line of areligious jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager and got --TODO add what he got (last rites?).
 Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹
 </p>
 
-<p>He escaped Hungary before The Holocaust. Defeating Nazism was a deeply personal mission.</p>
+<p>He escaped Hungary before The Holocaust. Defeating Nazism was a deeply personal thing.</p>
 
-<p>He also saw firsthand the effects of Soviet-era communism kickin' off right next door.
+<p>He also saw firsthand the effects of Soviet-era communism kicking off next door.
 Ukraine, which borders Hungary, joined the USSR in 1922 while he was still living in Hungary.
 In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930 (https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union).
 
@@ -714,9 +715,10 @@ In fact, nearly all the Union Republics of the Soviet Union had joined the USSR 
 
 <p>He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
-One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It's so boring." ([[]])</p>
+One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It's so boring." --TODO: add citation</p>
 
-<p>I think it's the variety within his traits that makes von Neumann so fascinating.
+<p>I think it's the variety within von Neumann's traits that makes him so fascinating.
+What a fascinatingly complex individual.
 What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?</p>
 
 ------------------------------------------
