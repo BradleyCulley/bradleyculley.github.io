@@ -211,6 +211,11 @@ With the latter, it seems von Neumann saw Gödel as a real intellectual peer; a 
 </p>
 
 <p>
+Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally just math. An example:
+TODO: add a photo from a page from one of the letters to Godel and cite it.
+</p>
+
+<p>
 The tonal difference with Gödel is one of my absolute favorite things from <i>Selected Letters</i>. 
 </p>
 
@@ -426,40 +431,30 @@ von Neumann publicized (although didn't actually invent) the internal organizati
 It's called The von Neumann Architecture.³⁴
 
 The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert⁴⁰ 
-The whole thing came out of a paper he wrote titled "First Draft of a Report on the EDVAC".
+The write-up he did was a paper titled "First Draft of a Report on the EDVAC".
 
 </p>
-
-About The von Neumann Architecture used in the EDVAC:
-<blockquote>
-Von Neumann describes a detailed design of a "very high speed automatic digital computing system." He divides it into six major subdivisions: a central arithmetic part, CA; a central control part, CC; memory, M; input, I; output, O; and (slow) external memory, R, such as punched cards, Teletype tape, or magnetic wire or steel tape.
-</blockquote>
-
-
--https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC
 
 <blockquote>
 The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
 ...
-Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.
+Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.⁴⁰
 </blockquote>
 
 <p>
-He was working on the von Neumann architecture in 1945. 1945!
-As if that were not enough, some of his primary reasons for working on computing were a combination of wanting to save the world (The Manhattan Project) and wanting to pioneer artificial intelligence. --TODO add citation
+He was involved in the von Neumann Architecture in 1945. 1945!
+As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and wanting to pioneer artificial intelligence.<sup>1,41</sup>
 And he was successful in both.
 </p>
 
-<p>
+Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating the use and impact of computers in scientific discovery.
 <blockquote>
-Considered to be possibly "the most influential researcher in scientific computing of all time",[295] von Neumann made several contributions to the field, both technically and administratively.
-</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
+Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.¹
+</blockquote>
 
 <blockquote>
-From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically,[302] and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems.[303] In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically.[244] He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.
-</blockquote> -https://en.wikipedia.org/wiki/John_von_Neumann
-
-</p>
+From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems. In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically. He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.¹
+</blockquote>
 
 <p>
 He invented Merge Sort in 1945¹.
@@ -472,13 +467,12 @@ He invented Stochastic computing and pioneered computational complexity theory (
 Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.¹
 </blockquote>
 
-</p>
-
 <p>
 <blockquote>
 He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
 </blockquote>
 
+<p>
 Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
 </p>
 
@@ -487,12 +481,13 @@ Open-source computing:
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
 </blockquote>
 
-<p>
+
 He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity is perhaps the single most spoken-about and pressing topic on people's minds these days.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
 </blockquote>
 
+<p>
 He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
@@ -615,7 +610,7 @@ Escaping both communism and the Holocaust were probably the motivating factors.
 <p>
 2. Folksy humor
 He was serious about his work, yet lighthearted and playful in his outlook on life.
-He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".--TODO add citation
+He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".¹
 </p>
 
 <p>
@@ -883,6 +878,7 @@ Sources:
 ³⁸: https://en.wikipedia.org/wiki/Quantum_logic <br/>
 ³⁹: https://en.wikipedia.org/wiki/EDVAC <br/>
 ⁴⁰: https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC <br/>
+⁴¹: https://en.wikipedia.org/wiki/The_Computer_and_the_Brain <br/>
 
 
 
