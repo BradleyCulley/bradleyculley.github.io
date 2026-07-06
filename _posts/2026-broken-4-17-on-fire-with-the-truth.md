@@ -696,22 +696,22 @@ In her memoir, she speaks highly of her father, who by all accounts was about as
 von Neumann was ethnically and culturally Jewish.
 He was, however, more or less religiously agnostic.
 He was one of long line of areligious jewish intellectual titans.
-On his deathbed, he literally opted for Pascal's Wager and got --TODO add what he got (last rites?).
-Logically-minded to the end, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹
+On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
+Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹
 </p>
 
-<p>He escaped Hungary before The Holocaust. Defeating Nazism was a deeply personal thing.</p>
+<p>He escaped Hungary before The Holocaust, so defeating Nazism was personal.</p>
 
-<p>He also saw firsthand the effects of Soviet-era communism kicking off next door.
+<p>
+He also saw the effects of Soviet-era communism kicking off next door.
 Ukraine, which borders Hungary, joined the USSR in 1922 while he was still living in Hungary.
 In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930 (https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union).
-
-> "During a Senate committee hearing he described his political ideology as 'violently anti-communist, and much more militaristic than the norm'"
-> -¹
-
-> "Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism"
-> -¹
 </p>
+
+<blockquote>
+Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism. During a Senate committee hearing he described his political ideology as 'violently anti-communist, and much more militaristic than the norm'.¹
+</blockquote>
+>
 
 <p>He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
