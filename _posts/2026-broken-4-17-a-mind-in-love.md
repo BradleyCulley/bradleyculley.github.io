@@ -7,22 +7,35 @@
 
 ------------------------------------------
 
+<blockquote>
+The mind, disposed to love at its creation,
+is readily moved toward anything that pleases
+as soon as by that pleasure it is roused to act.
+'From real forms your perception draws
+an image it unfolds within you
+so that the mind considers it,
+and if the mind, so turned, inclines to it,
+that inclination is a natural love,
+which beauty binds in you at once.
+Then, as fire, born to rise,
+moves upward in its essence,
+to where its matter lives the longest,
+just so the mind, thus seized, achieves desire,
+a movement of the spirit never resting
+as long as it enjoys the thing it loves.
+-from Dante's Divine Comedy 
+</blockquote>-https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg
+
 <p>
 <b>
-When I think of Dr. John von Neumann, I am reminded of a reference I once read to a description by Dante of a mind "on fire with the truth".--TODO add a footnote linking to the article (not available any more, and noting that I couldn't find the original quote from Dante anywhere)</b> 
---TODO: quote from here: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
-</p>
-
-<p>
-von Neumann can't be easily characterized monofactorially, but this description is pretty good:
+When I think of Dr. John von Neumann, I am reminded of a section from an article in Rolling Stone that I read many years ago.
+The article was about a proufoundly intellectually gifted young man named Santiago Gonzales. 
 
 <blockquote>
-The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
-"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level,” wrote Klari [von Neumann's wife] after his death.
-"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer.²
-</blockquote>
-
-A mind on fire with the truth.
+Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
+One prominent researcher used Dante's phrase "a mind in love" (see the above quote) to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
+Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.
+</blockquote>--TODO cite from the actual article: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
 </p>
 
 <p>
@@ -262,11 +275,11 @@ He may have had the best memory of anyone who's ever lived about whom there's a 
 
 <blockquote>
 Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:<br/>
- One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
- He could also translate it at no diminution in speed from its original language into English.
- On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
- Von Neumann was reportedly able to memorize the pages of telephone directories.
- He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein¹
+One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
+He could also translate it at no diminution in speed from its original language into English.
+On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
+Von Neumann was reportedly able to memorize the pages of telephone directories.
+He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein¹
 </blockquote>
 
 <blockquote>
@@ -385,7 +398,7 @@ Quantum logic remains in use among logicians and interests are expanding through
 During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.¹
 </blockquote>
 
-Note the "While not as prolific in physics as he was in mathematics"¹ part here (🙂):
+Note the "While not as prolific in physics as he was in mathematics"¹ part here:
 <blockquote>
 While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.¹
 </blockquote>
@@ -799,6 +812,18 @@ That it was Turing-complete means it had the ability to do really any arbitrary 
 </p>
 
 <p>
+von Neumann can't be easily characterized monofactorially, but this description is pretty good:
+
+<blockquote>
+The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
+"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level," wrote Klari [von Neumann's wife] after his death.
+"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer."²
+</blockquote>
+
+A mind in love with the truth.
+</p>
+
+<p>
 
 <h4>The Silliman Lectures</h4>
 
@@ -902,8 +927,3 @@ that's unequivocally something of which we humans can be proud.</p>
 In a world largely centered on negativity, I feel similarly about von Neumann's worldview and achievements: his life and work, both personal and professional.
 </p>
 
-<div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Princeton.jpeg" />
-  <div style="font-size: 16px; font-style: italic;">Arch in Holder Hall Princeton<br/>(https://soa.princeton.edu/content/about-princeton-university)</div>
-</div>
-</p>
