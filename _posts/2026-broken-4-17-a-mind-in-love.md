@@ -59,7 +59,9 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
     <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
 </div>
 
-<p>At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷</p>
+<p>
+At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷
+</p>
 
 <hr/>
 
@@ -96,9 +98,9 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 </p>
 
 <p>
-von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.
-Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University (the town is named Princeton).
-He remained a professor at the Institute for Advanced Study for the rest of his life.
+von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.¹
+Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
+He remained a professor at the Institute for Advanced Study for the rest of his life.<sup>44</sup>
 </p>
 
 <hr/>
@@ -110,14 +112,14 @@ The Institute for Advanced Study (IAS) is an interesting institution.
 [The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. 
 The faculty have no classes to teach. 
 There are no degree programs or experimental facilities at the institute. 
-Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.¹⁴
+Research is never contracted or directed. It is left to each individual researcher to pursue their own goals.<sup>14</sup>
 </blockquote>
 
 <p>
 A not-so-well-known fact about the IAS is that it's completely separate from Princeton University.
 While there are collaborations and programs that informally link the two, and they're in the same town, it's a completely separate institution.
 The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, NJ.
-The store was called "Bamberger's". It sold clothes and stuff.¹⁴
+The store was called "Bamberger's". It sold clothes and stuff.<sup>14</sup>
 </p>
 
 <p>
@@ -128,11 +130,11 @@ I loved thinking about and seeing its history.
 
 <p>
 I remember once, when I was driving, seeing a sign for Stellarator Road.
-"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.²⁹
+"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.<sup>29</sup>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor²⁸</div>
+  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor<sup>28</sup></div>
 </div>
 
 <blockquote>
@@ -174,13 +176,12 @@ And indeed we did: we met at John von Neumann's house.
 </p>
 
 <p>
-Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road:
+Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road⁴⁵:
 <div align="center">
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
-  <div style="font-size: 16px; font-style: italic;">(https://twitter.com/Ananyo/status/1722282580018692417)</div>
 </div>
 </p>
 
@@ -908,6 +909,8 @@ Sources:
 ⁴¹: https://en.wikipedia.org/wiki/The_Computer_and_the_Brain <br/>
 ⁴²: https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg <br/>
 ⁴³: https://en.wikipedia.org/wiki/Georg_Cantor <br/>
+⁴⁴: https://www.lindahall.org/about/news/scientist-of-the-day/john-von-neumann/ <br/>
+⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
 
 
 
