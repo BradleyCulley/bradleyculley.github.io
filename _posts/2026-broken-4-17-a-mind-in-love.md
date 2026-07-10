@@ -205,7 +205,7 @@ Lingering on Kurt Gödel for a minute:
 Kurt Friedrich Gödel...was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century (at a time when Bertrand Russell, Alfred North Whitehead, and David Hilbert were using logic and set theory to investigate the foundations of mathematics), building on earlier work by Frege, Richard Dedekind, and Georg Cantor.
 </blockquote> 
 
-In 2021, I bought a copy of a book of some of von Neumman's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
+In 2021, I bought a copy of a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
