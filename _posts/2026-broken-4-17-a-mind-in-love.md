@@ -8,23 +8,25 @@
 ------------------------------------------
 
 <blockquote>
-The mind, disposed to love at its creation,
-is readily moved toward anything that pleases
-as soon as by that pleasure it is roused to act.
-'From real forms your perception draws
-an image it unfolds within you
-so that the mind considers it,
-and if the mind, so turned, inclines to it,
-that inclination is a natural love,
-which beauty binds in you at once.
-Then, as fire, born to rise,
-moves upward in its essence,
-to where its matter lives the longest,
-just so the mind, thus seized, achieves desire,
-a movement of the spirit never resting
-as long as it enjoys the thing it loves.
--from Dante's Divine Comedy 
-</blockquote>-https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg
+The mind, disposed to love at its creation,<br/>
+is readily moved toward anything that pleases<br/>
+as soon as by that pleasure it is roused to act.<br/>
+'From real forms your perception draws<br/>
+an image it unfolds within you<br/>
+so that the mind considers it,<br/>
+and if the mind, so turned, inclines to it,<br/>
+that inclination is a natural love,<br/>
+which beauty binds in you at once.<br/>
+Then, as fire, born to rise,<br/>
+moves upward in its essence,<br/>
+to where its matter lives the longest,<br/>
+just so the mind, thus seized, achieves desire,<br/>
+a movement of the spirit never resting<br/>
+as long as it enjoys the thing it loves.<br/>
+-Dante, The Divine Comedy<sup>42</sup>
+</blockquote>
+
+<hr/>
 
 <p>
 <b>
@@ -49,7 +51,7 @@ Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hunga
 </p>
 
 <p>
-He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].²⁶
+He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].<sup>26</sup>
 </p>
 </blockquote>
 
@@ -66,8 +68,8 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 </blockquote>
 
 <p>
-Georg Cantor is an immensely famous mathematician who single-handedly founded the field of Set Theory, a deep and highly important branch of mathematics. -https://en.wikipedia.org/wiki/Georg_Cantor 
-von Neumann's definition of Ordinal numbers is the standard definition still used to this day.²⁷
+Georg Cantor is an immensely famous mathematician who co-founded the field of Set Theory, a deep and highly important branch of mathematics.<sup>43</sup> 
+von Neumann's definition of Ordinal numbers is the standard definition still used to this day.<sup>27</sup>
 </p>
 
 <p>
@@ -904,6 +906,8 @@ Sources:
 ³⁹: https://en.wikipedia.org/wiki/EDVAC <br/>
 ⁴⁰: https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC <br/>
 ⁴¹: https://en.wikipedia.org/wiki/The_Computer_and_the_Brain <br/>
+⁴²: https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg <br/>
+⁴³: https://en.wikipedia.org/wiki/Georg_Cantor <br/>
 
 
 
