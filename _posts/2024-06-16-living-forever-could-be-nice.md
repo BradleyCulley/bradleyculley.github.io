@@ -123,7 +123,7 @@ The transcription factor "forkhead box O" (FoxO) has been identified as a critic
 </p>
 
 <p>
-So, Hydras prove it's possible. I think it would be nice.
+So, Hydras prove it's possible. I think it'd be nice.
 </p>
 
 <br/>
