@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-In particular, a lifetime of decisions is like what in computer science is called an "N-ary tree".
+A lifetime of decisions looks like what in computer science is called an "N-ary tree".
 The "N" in "N-ary tree" refers to the maximum number of branches coming out of each node in the tree.
 </p>
 
@@ -44,7 +44,7 @@ A decision in life - when meeting someone for the first time, for example:
 </p>
 
 <p>
-The sheer number of decisions one makes between birth and death is enormous.
+The number of decisions one makes between birth and death is enormous.
 </p>
 
 <p>

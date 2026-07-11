@@ -74,7 +74,7 @@
 <br/>
 
 <p>
-    One day, I started the washer cycle for my laundry at a local laundromat, then forgot to come back before the laundromat closed.
+    One day, I started the washer cycle for my laundry at a local laundromat and forgot to return before the laundromat closed.
     When I returned the next day, someone unknown had taken my laundry out of the washing machine, put it in a dryer, and paid for the dryer cycle.
     I opened the dryer to find my clothes clean and dry. Then I noticed they'd even added a dryer sheet.
 </p>
@@ -116,8 +116,7 @@
 <br/>
 
 <p>
-    The owner of a car repair shop where I took my car, a great man, spent the better part of an hour telling me his life's story.
-    I still think about him sometimes.
+    The owner of a car repair shop where I took my car, a great man, spent the better part of an hour telling me his life's story. He’d built the car repair business from the ground up. He had a nice house across the street. I still think about him sometimes.
 </p>
 
 <br/>
