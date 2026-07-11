@@ -69,7 +69,7 @@ I thought to live<br/>
 Two centuries, or three-<br/>
 Yet here comes death<br/>
 To me, a child<br/>
-Just eight-five years old.<br/>
+Just eighty-five years old.<br/>
 
 ― Hanabusa Ikkei, Japanese artist (died in 1843)⁷
 </blockquote>
