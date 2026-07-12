@@ -213,22 +213,17 @@ In 2021, I bought a copy of a book of some of von Neumann's correspondences: <i>
 
 <p>
 In the book, von Neumann takes an affable yet professional tone with most people with whom he corresponds.
-For example (TODO cite example from writing to the admiral or Baumgartner).
 </p>
 
 <p>
 With Gödel, he gets right into it.
 After minimal pleasantries, he dives into the math they're discussing.
-
-TODO: add a blockquote of an example of von Neumann doing that.
-
 To me, von Neumann's tone with Gödel shows both great friendship and great respect.
 With the latter, it seems von Neumann saw Gödel as a real intellectual peer; a notable designation.
 </p>
 
 <p>
-Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally just math. An example:
-TODO: add a photo from a page from one of the letters to Godel and cite it.
+Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally just math.
 </p>
 
 <p>
@@ -664,8 +659,7 @@ Contrast that with Einstein's atom bomb regrets, for example.
 
 <p>
 5. Technocratic and techno-optimistic, sometimes to a fault
-von Neumann believed in the power of technology and of invention. And he was a futurist.
---TODO add some quotes here, about tech uses. Perhaps the admiral quote about computing and one about bombs.
+von Neumann believed in the power of technology and of invention. He was a futurist.
 </p>
 
 <p>
@@ -726,7 +720,7 @@ Von Neumann entered government service primarily because he felt that, if freedo
 
 <p>He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
-One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It's so boring." --TODO: add citation</p>
+One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It’s so boring."<sup>46</sup></p>
 
 <p>I think it's the variety within von Neumann's traits that makes him so fascinating.
 What a fascinatingly complex individual.
@@ -911,6 +905,7 @@ Sources:
 ⁴³: https://en.wikipedia.org/wiki/Georg_Cantor <br/>
 ⁴⁴: https://www.lindahall.org/about/news/scientist-of-the-day/john-von-neumann/ <br/>
 ⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
+⁴⁶: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
 
 
 
