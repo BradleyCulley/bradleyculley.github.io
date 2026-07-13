@@ -365,7 +365,7 @@ In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann d
 </blockquote>
 
 <blockquote>
-Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.
+Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -402,7 +402,7 @@ While not as prolific in physics as he was in mathematics, he nevertheless made 
 That's right: meteorology!
 
 <blockquote>
-By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used;[306] von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation.[308] Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.[309] Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate. Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.<sup>1</sup>
 </blockquote>
 
 He co-founded computerized weather forecasting!
@@ -411,18 +411,17 @@ He co-founded computerized weather forecasting!
 
 von Neumann was on the absolute ground-floor of the development of the modern computer.
 
-von Neumann was one of the chief developers of the ENIAC computer¹²:
-
+von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
 <blockquote>
-ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.¹²
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.<sup>12</sup>
 </blockquote>
 
 <blockquote>
-Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.¹²
+Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.<sup>12</sup>
 </blockquote>
 
 <blockquote>
-By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...¹
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...<sup>1</sup>
 </blockquote>
 
 <p>
@@ -430,22 +429,21 @@ von Neumann consulted on the EDVAC project, which was a successor to the ENIAC c
 </p>
 
 <blockquote>
-Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.³⁹
+Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.<sup>39</sup>
 </blockquote>
 
 <p>
 von Neumann publicized (although didn't actually invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
-It's called The von Neumann Architecture.³⁴
+It's called The von Neumann Architecture.<sup>34</sup>
 
-The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert⁴⁰ 
+The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup> 
 The write-up he did was a paper titled "First Draft of a Report on the EDVAC".
-
 </p>
 
 <blockquote>
-The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.¹¹
+The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.<sup>11</sup>
 ...
-Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.⁴⁰
+Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.<sup>40</sup>
 </blockquote>
 
 <p>
@@ -456,42 +454,42 @@ And he was successful in both.
 
 Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating the use and impact of computers in scientific discovery.
 <blockquote>
-Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.¹
+Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems. In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically. He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.¹
+From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems. In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically. He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.<sup>1</sup>
 </blockquote>
 
 <p>
-He invented Merge Sort in 1945¹.
-Merge sort is half of the standard sorting algorithm implementation (Timsort) used in billions of software systems worldwide²³.  
+He invented Merge Sort in 1945.<sup>1</sup>
+Merge sort is half of the standard sorting algorithm implementation (Timsort) used in billions of software systems worldwide.<sup>23</sup>  
 </p>
 
 <p>
 He invented Stochastic computing and pioneered computational complexity theory (big O notation!).
 <blockquote>
-Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.¹
+Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.<sup>1</sup>
 </blockquote>
 
 <p>
 <blockquote>
-He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.¹³
+He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.<sup>13</sup>
 </blockquote>
 
 <p>
-Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.¹³
+Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.<sup>13</sup>
 </p>
 
 Open-source computing:
 <blockquote>
-About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.¹³
+About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
 
 
 He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity is perhaps the single most spoken-about and pressing topic on people's minds these days.
 <blockquote>
-The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.¹⁸
+The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.<sup>18</sup>
 </blockquote>
 
 <p>
@@ -501,7 +499,7 @@ He came up with the idea of the technological singularity in the <i>1950s</i>!
 <p>
 The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
 
-This is the list, which is still a subset of his total body of work⁴:<br/>
+This is the list, which is still a subset of his total body of work<sup>4</sup>:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
 Birkhoff–von Neumann decomposition<br/>
@@ -608,7 +606,7 @@ That seems true. It also that, reciprocally, he suited America.
 <p>
 1. Patriotic
 von Neumann was an extremely patriotic American.
-"Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."¹
+"Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."<sup>1</sup>
 Note that lieutenant is the lowest rank among officers.
 He was a world-famous mathematician, ready to go through boot camp (Officer Candidate School), and he was dead serious.
 Escaping both communism and the Holocaust were probably the motivating factors.
@@ -617,7 +615,7 @@ Escaping both communism and the Holocaust were probably the motivating factors.
 <p>
 2. Folksy humor
 He was serious about his work, yet lighthearted and playful in his outlook on life.
-He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".¹
+He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".<sup>1</sup>
 </p>
 
 <p>
@@ -626,7 +624,7 @@ He had a taste for power and influence, yet wielded both in a chill laid back wa
 </p>
 
 <blockquote>
-Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.¹
+Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.<sup>1</sup>
 </blockquote>
 
 <p>
@@ -636,11 +634,11 @@ He was boisterous and gregarious. He threw parties...probably grilled burgers.
 </p>
 
 <blockquote>
-[He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly.¹
+[He] did some of his best work in noisy, chaotic environments, including with his wife's phonograph playing loudly.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-[He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.¹
+[He] could attend parties until the early hours of the morning and then deliver a lucid lecture at 8:30.<sup>1</sup>
 </blockquote>
 
 <p>
@@ -675,9 +673,10 @@ Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
 He was a great leader, in both academic and military contexts.
 </p>
 
-<p>He was a good husband and father, yet was once divorced.
-His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649.
-"The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."¹⁶</p>
+<p>
+He was a good husband and father, yet was once divorced.
+His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": --TODO add citation: https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649.
+"The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."<sup>16</sup></p>
 </p>
 
 <p>
