@@ -78,14 +78,14 @@ von Neumann's definition of Ordinal numbers is the standard definition still use
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (the university Albert Einstein went to) and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't a typical parental pressure situation though.
-von Neumann and his father brainstormed options and together decided on chemical engineering.¹
+von Neumann and his father brainstormed options and together decided on chemical engineering.<sup>1</sup>
 </p>
 
 <p>
 He dodged the "do what makes you money or do what you're passionate about" situation by doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.¹
+He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.<sup>1</sup>
 </p>
 
 <hr/>
@@ -497,12 +497,12 @@ He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
 <p>
-The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann).<br/>
+The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann)<sup>4</sup>.<br/>
 
 This is the list, which is still a subset of his total body of work<sup>4</sup>:<br/>
 Birkhoff–von Neumann algorithm<br/>
 Birkhoff–von Neumann theorem<br/>
-Birkhoff–von Neumann decomposition<br/>
+Birkhoff–von Neumann decomposition<br/> 
 Dirac–von Neumann axioms<br/>
 Koopman–von Neumann classical mechanics<br/>
 Schatten–von Neumann norm<br/>
@@ -589,7 +589,7 @@ von Neumann's many other professional contributions include the fruits of his in
 <p>
 Personality-wise, he was social and boisterous.
 Kurt Gödel, a famous mathematician who also worked at the Institute for Advanced Study at around the same time, was a bit socially awkward. 
-For example, Gödel told the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole)).
+For example, Gödel told the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole))<sup>48</sup>.
 The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and shooed Gödel along through the hearing.
 </p>
 
@@ -675,18 +675,17 @@ He was a great leader, in both academic and military contexts.
 
 <p>
 He was a good husband and father, yet was once divorced.
-His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir": --TODO add citation: https://www.amazon.com/Martians-Daughter-Memoir-Marina-Whitman/dp/0472035649.
-"The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."<sup>16</sup></p>
+His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir"<sup>49</sup>:
+"The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."<sup>16</sup>
 </p>
 
-<p>
 The term "Martian" comes via Leo Szilard, himself most famous for conceiving the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
 <blockquote>
 The universe is vast, containing myriads of stars ... likely to have planets circling around them. ... The simplest living things will multiply, evolve by natural selection and become more complicated till eventually active, thinking creatures will emerge. ... Yearning for fresh worlds ... they should spread out all over the Galaxy. These highly exceptional and talented people could hardly overlook such a beautiful place as our Earth. – "And so," Fermi came to his overwhelming question, "if all this has been happening, they should have arrived here by now, so where are they?" – It was Leo Szilard, a man with an impish sense of humor, who supplied the perfect reply to the Fermi Paradox: "They are among us," he said, "but they call themselves Hungarians."¹⁶
 </blockquote>
-</p>
 
-<p>Marina is, as her father was, intellectually brilliant and highly successful.
+<p>
+Marina is, as her father was, intellectually brilliant and highly successful.
 She graduated at the top of her class at Radcliff (now Harvard), received a PhD from Colombia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
 "[Marina] wrote that he was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
 In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.
@@ -902,6 +901,8 @@ Sources:
 ⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
 ⁴⁶: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
 ⁴⁷: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
+⁴⁸: https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole <br/>
+⁴⁹: Whitman, M. von N. (2012). The Martian’s daughter: A memoir. University of Michigan Press. <br/>
 
 
 
