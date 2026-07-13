@@ -1,8 +1,8 @@
-# <div align="center">On Fire with The Truth<div>
+# <div align="center">A Mind in Love<div>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/JohnvonNeumann.gif" />
-    <div style="font-size: 16px; font-style: italic;">Dr. John von Neumann¹⁹</div>
+    <div style="font-size: 16px; font-style: italic;">Dr. John von Neumann<sup>19</sup></div>
 </div>
 
 ------------------------------------------
@@ -22,25 +22,25 @@ moves upward in its essence,<br/>
 to where its matter lives the longest,<br/>
 just so the mind, thus seized, achieves desire,<br/>
 a movement of the spirit never resting<br/>
-as long as it enjoys the thing it loves.<br/>
--Dante, The Divine Comedy<sup>42</sup>
+as long as it enjoys the thing it loves.<br/><br/>
+-Canto 18 of <i>Purgatorio</i>, Dante's Divine Comedy<sup>42</sup>
 </blockquote>
 
 <hr/>
 
 <p>
-<b>
-When I think of Dr. John von Neumann, I am reminded of a section from an article in Rolling Stone that I read many years ago.
-The article was about a proufoundly intellectually gifted young man named Santiago Gonzales. 
+Years ago, I read an article in Rolling Stone magazine about an intellectually gifted young man named Santiago Gonzales.
+When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
+</p>
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
 One prominent researcher used Dante's phrase "a mind in love" (see the above quote) to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.
 </blockquote>--TODO cite from the actual article: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
-</p>
 
 <p>
+About von Neumann's early life:
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
 </blockquote>
@@ -60,13 +60,13 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
 </div>
 
 <p>
-At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.⁷
+At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.<sup>7</sup>
 </p>
 
 <hr/>
 
 <blockquote>
-By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.¹
+By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.<sup>1</sup>
 </blockquote>
 
 <p>
@@ -93,12 +93,12 @@ He then completed his Habilitation, which is like a European postdoc, thereby qu
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
 A Privatdozent is like a lecturer/professor.
-He was "the youngest person ever elected Privatdozent in the university's history in any subject"¹ at the University.
-"He [then] began writing nearly one major mathematics paper per month."¹.
+He was "the youngest person ever elected Privatdozent in the university's history in any subject"<sup>1</sup> at the University.
+"He [then] began writing nearly one major mathematics paper per month."<sup>1</sup>
 </p>
 
 <p>
-von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.¹
+von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
 Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
 He remained a professor at the Institute for Advanced Study for the rest of his life.<sup>44</sup>
 </p>
@@ -123,9 +123,8 @@ The store was called "Bamberger's". It sold clothes and stuff.<sup>14</sup>
 </p>
 
 <p>
-I used to live and work in Central New Jersey, not far from Princeton.
-I used to really like visiting Princeton.
-I loved thinking about and seeing its history.
+I used to live and work in Central New Jersey, not far from Princeton, New Jersey.
+I used to love visiting Princeton; thinking about the history, seeing the historic places, and just the town overall.
 </p>
 
 <p>
@@ -140,31 +139,32 @@ I remember once, when I was driving, seeing a sign for Stellarator Road.
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
 ...
-The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.²⁹
+The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.<sup>29</sup>
 </blockquote>
 
-I'd heard of the Stellarator. When I saw the road name, I thought something like "that's super cool" .
-The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.²⁴
+<p>
+I'd heard of the Stellarator and so when I saw the road name, I thought something like "that's pretty cool" .
+The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.<sup>24</sup>
 </p>
 
 <p>
-It's a beautiful town with a very nice university campus.
-Many of the campus buildings are in gray stone in a "Collegiate Gothic" architectural style.³⁰
+It's a beautiful town with a nice university campus.
+Many of the campus buildings are in gray stone in a "Collegiate Gothic" architectural style.<sup>30</sup>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
-  <div style="font-size: 16px; font-style: italic;">Firestone Library, the largest library on campus:³¹</div>
+  <div style="font-size: 16px; font-style: italic;">Firestone Library, the largest library on campus:<sup>31</sup></div>
 </div>
 
 Holder Hall and tower of Rockefeller College:
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
-  <div style="font-size: 16px; font-style: italic;">Holder Hall and tower of Rockefeller College³²</div>
+  <div style="font-size: 16px; font-style: italic;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
 </div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Washington_Road_Elm_Allée.jpg" />
-  <div style="font-size: 16px; font-style: italic;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"³³</div>
+  <div style="font-size: 16px; font-style: italic;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
 </div>
 </p>
 
@@ -176,7 +176,7 @@ And indeed we did: we met at John von Neumann's house.
 </p>
 
 <p>
-Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road⁴⁵:
+Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<sup>45</sup>:
 <div align="center">
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
@@ -191,8 +191,8 @@ On the same trip, my dad and I also visited the Institute for Advanced study. We
 </p>
 
 <p>
-There's a walking tour of Princeton called "From Genius to Genius".²¹
-The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann²¹.
+There's a walking tour of Princeton called "From Genius to Genius".<sup>21</sup>
+The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann<sup>21</sup>.
 You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
 </p>
 
@@ -277,41 +277,39 @@ One of his remarkable abilities was his power of absolute recall. As far as I co
 He could also translate it at no diminution in speed from its original language into English.
 On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.
 Von Neumann was reportedly able to memorize the pages of telephone directories.
-He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein¹
+He entertained friends by asking them to randomly call out page numbers; he then recited the names, addresses and numbers therein.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect.¹
+He knew Hungarian, French, German and English fluently, and maintained a conversational level of Italian, Yiddish, Latin and Ancient Greek. His Spanish was less perfect.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-A Princeton Professor of Byzantine History once said that he would only attend one of von Neumann’s famous parties if von Neumann promised not to bring up the subject of Byzantine history, because many thought the professor to be the world’s foremost expert on the subject, and he did not want anyone to know that that title might actually belong to von Neumann. -https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of
+A Princeton Professor of Byzantine History once said that he would only attend one of von Neumann’s famous parties if von Neumann promised not to bring up the subject of Byzantine history, because many thought the professor to be the world’s foremost expert on the subject, and he did not want anyone to know that that title might actually belong to von Neumann.<sup>47</sup>
 </blockquote>
 
 <blockquote>
 You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.
+-Enrico Fermi (Nobel Prize in Physics, 1938)<sup>17</sup>
 </blockquote>
--Enrico Fermi (Nobel Prize in Physics, 1938)¹⁷
 
 <blockquote>
 One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.
+-Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain<sup>17</sup>
 </blockquote>
--Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain¹⁷
 
 <blockquote>
 I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.
-</blockquote> 
--Eugene Wigner again²⁰
+-Eugene Wigner again<sup>20</sup>
+</blockquote>
 
 <blockquote>
 There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
 I came to a certain theorem, and I said it is not proved and it may be difficult. 
 von Neumann didn’t say anything but after five minutes he raised his hand. 
 When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.
+-George Pólya<sup>17</sup>
 </blockquote>
--George Pólya¹⁷
-
-</p>
 
 <hr/>
 
@@ -319,30 +317,29 @@ When I called on him he went to the blackboard and proceeded to write down the p
 von Neumann was extremely professionally productive. 
 He made seminal scientific discoveries across multiple disciplines.
 He did deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
-It was a rare combination indeed: elite scientific work and elite public sector work typically suit two very different kinds of minds.
+It's a rare combination indeed: elite scientific work and elite public sector work usually suit different kinds of minds.
 </p>
 
 <p>
 Major themes of his life include mathematics, politics, the military, physics, and computing.
 
-In each of those, he was world-changingly successful. To give some illuminating examples:
-
+In each of those, he was world-changingly successful. Some examples:
 <h3>Mathematics</h3>
-<p>He founded multiple entirely new fields, including, perhaps most notably, game theory²².
+<p>He founded multiple entirely new fields, including, perhaps most notably, game theory<sup>22</sup>.
 
 <blockquote>
-By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).²²
+By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
 </blockquote>
 
 <blockquote>
-In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.¹³
+In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.<sup>13</sup>
 </blockquote>
 
 <h3>Politics and the military</h3>
 <p>
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
-He was instrumental in the design of the second atomic bomb...¹³
+He was instrumental in the design of the second atomic bomb...<sup>13</sup>
 And so he was a key part of—it would not be hyperbole to say—saving the world.
 </p>
 
@@ -351,21 +348,20 @@ I give a fuller picture of von Neumann's work in physics, rather than more of a 
 In terms of scale, see the note at the end of this section comparing the scale of his work in physics (which, as you can see, is wildly prolific within the standards of mere mortals) was not nearly as prolific as was his work in math.
 
 <blockquote>
-Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i>¹.
+Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
 </blockquote>
 
-<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, and he is the sole author³⁵.
-
+<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, and he is the sole author<sup>35</sup>.
 <blockquote>
-Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.¹
-</blockquote>
-
-<blockquote>
-Von Neumann's proof inaugurated a line of research that ultimately led, through Bell's theorem and the experiments of Alain Aspect in 1982, to the demonstration that quantum physics either requires a notion of reality substantially different from that of classical physics, or must include nonlocality in apparent violation of special relativity.¹
+Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere.[218] Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!³⁶], this interpretation never gained acceptance among the majority of physicists.¹
+Von Neumann's proof inaugurated a line of research that ultimately led, through Bell's theorem and the experiments of Alain Aspect in 1982, to the demonstration that quantum physics either requires a notion of reality substantially different from that of classical physics, or must include nonlocality in apparent violation of special relativity.<sup>1</sup>
+</blockquote>
+
+<blockquote>
+In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere.[218] Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!³⁶], this interpretation never gained acceptance among the majority of physicists.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -373,32 +369,32 @@ Quantum information theory is largely concerned with the interpretation and uses
 </blockquote>
 
 <blockquote>
-The density matrix was introduced, with different motivations, by von Neumann and by Lev Landau. The motivation that inspired Landau was the impossibility of describing a subsystem of a composite quantum system by a state vector. On the other hand, von Neumann introduced the density matrix in order to develop both quantum statistical mechanics and a theory of quantum measurements. He introduced the expression now known as von Neumann entropy by arguing that a probabilistic combination of pure states is analogous to a mixture of ideal gases. Von Neumann first published on the topic in 1927. His argument was built upon earlier work by Albert Einstein and Leo Szilard.³⁷
+The density matrix was introduced, with different motivations, by von Neumann and by Lev Landau. The motivation that inspired Landau was the impossibility of describing a subsystem of a composite quantum system by a state vector. On the other hand, von Neumann introduced the density matrix in order to develop both quantum statistical mechanics and a theory of quantum measurements. He introduced the expression now known as von Neumann entropy by arguing that a probabilistic combination of pure states is analogous to a mixture of ideal gases. Von Neumann first published on the topic in 1927. His argument was built upon earlier work by Albert Einstein and Leo Szilard.<sup>37</sup>
 </blockquote>
 
 <blockquote>
-The formalism of density operators and matrices was introduced by von Neumann[227] in 1927 and independently, but less systematically by Lev Landau[228] and Felix Bloch[229] in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.¹
+The formalism of density operators and matrices was introduced by von Neumann in 1927 and independently, but less systematically by Lev Landau[228] and Felix Bloch[229] in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-The von Neumann measurement scheme, the ancestor of quantum decoherence theory, represents measurements projectively by taking into account the measuring apparatus which is also treated as a quantum object. The 'projective measurement' scheme introduced by von Neumann led to the development of quantum decoherence theories.¹
+The von Neumann measurement scheme, the ancestor of quantum decoherence theory, represents measurements projectively by taking into account the measuring apparatus which is also treated as a quantum object. The 'projective measurement' scheme introduced by von Neumann led to the development of quantum decoherence theories.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-Von Neumann first proposed a quantum logic in his 1932 treatise Mathematical Foundations of Quantum Mechanics, where he noted that projections on a Hilbert space can be viewed as propositions about physical observables. The field of quantum logic was subsequently inaugurated in a 1936 paper by von Neumann and Garrett Birkhoff, the first to introduce quantum logics, wherein von Neumann and Birkhoff first proved that quantum mechanics requires a propositional calculus substantially different from all classical logics and rigorously isolated a new algebraic structure for quantum logics.¹
+Von Neumann first proposed a quantum logic in his 1932 treatise Mathematical Foundations of Quantum Mechanics, where he noted that projections on a Hilbert space can be viewed as propositions about physical observables. The field of quantum logic was subsequently inaugurated in a 1936 paper by von Neumann and Garrett Birkhoff, the first to introduce quantum logics, wherein von Neumann and Birkhoff first proved that quantum mechanics requires a propositional calculus substantially different from all classical logics and rigorously isolated a new algebraic structure for quantum logics.<sup>1</sup>
 </blockquote>
 
 <blockquote>
-Quantum logic remains in use among logicians and interests are expanding through the recent development of quantum computing, which has engendered a proliferation of new logics for formal analysis of quantum protocols and algorithms (see also § Relationship to other logics). The logic may also find application in (computational) linguistics.³⁸
+Quantum logic remains in use among logicians and interests are expanding through the recent development of quantum computing, which has engendered a proliferation of new logics for formal analysis of quantum protocols and algorithms (see also § Relationship to other logics). The logic may also find application in (computational) linguistics.<sup>38</sup>
 </blockquote>
 
 <blockquote>
-During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.¹
+During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.<sup>1</sup>
 </blockquote>
 
-Note the "While not as prolific in physics as he was in mathematics"¹ part here:
+Note the "While not as prolific in physics as he was in mathematics"<sup>1</sup> part here:
 <blockquote>
-While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.¹
+While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.<sup>1</sup>
 </blockquote>
 
 <h3>Meteorology</h3>
@@ -906,6 +902,7 @@ Sources:
 ⁴⁴: https://www.lindahall.org/about/news/scientist-of-the-day/john-von-neumann/ <br/>
 ⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
 ⁴⁶: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
+⁴⁷: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
 
 
 
