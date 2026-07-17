@@ -109,11 +109,24 @@ A great boss and a great man. I owe him a lot.
 </p>
 
 <p>
-Speaking of stealing $100, --talk about the guy in the house who stole $100 from me, by pretending to be in need--
+When I was renting the room in the house, a guy moved into one of the other rooms.
+He was a contractor and was immediately super friendly and ingratiating with me.
+He brought me out to a restaurant for a meal and proceeded to briefly verbally abuse the waitress, before explaining that it was "just a joke" and something like that he sure "got her blood pressure up".
+When he found out I don't drink, he threatened to, at a party to which he'd previously (ingratiatingly) mentioned bringing me, physically force me to drink alcohol. 
 </p>
 
 <p>
-Talk about the experience 
+Speaking of stealing $100, this guy talked a lot about how much money he was making as a contractor, but one day he told me he needed to borrow $100.
+I can't remember now the reason he gave - something about cashflow or something probably.
+I of course, like a dummy, immediately got $100 in cash and gave it to him.
+He never paid me back.
+</p>
+
+<p>
+I remember once sitting there in the living room with him after he'd just gotten back from a day working as a contractor, basically staring him down on paying me back.
+He gave various excuses and never paid. I ended up moving into a new apartment with a standard lease, and he had the temerity to text me something like "hey buddy how are you let's hang out".
+It's only in retrospect that I realize he almost certainly did jail or prison time.
+All aspects matched: the prison to tradesperson contractor pipeline, the antisocial behavior, the theft, the threats of violence, and so on. 
 </p>
 
 <p>
