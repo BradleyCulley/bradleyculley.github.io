@@ -102,7 +102,10 @@ My manager quit not long after.
 The guy coming into Domino's and giving a fake 100 dollar bill. It was significantly too small.
 My boss, who was a former Marine (but you'd never guess it), took the bill and just stared at it.
 He was calm as can be, and perhaps slightly bemused, as was his constant mood.
-A great boss and a great man. I owe him a lot. 
+When I told them I'd taken another job and was resigning, he offered to keep me on the schedule something like one day or week or one day a month.
+The idea, I think, was that if I found out I didn't like the old job, I could just pick back up the number of hours I used to have and go back to working at Domino's.
+One of the nicest things anyone has ever offered me.
+A great boss and a great man. I owe him a lot.
 </p>
 
 <p>
