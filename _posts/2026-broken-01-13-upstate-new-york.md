@@ -130,13 +130,13 @@ All aspects matched: the prison to tradesperson contractor pipeline, the antisoc
 </p>
 
 <p>
-The coworker at Domino's Pizza, who was homeless and quite angry, freaking out about the lack of pizza prep from the prior day.
+The coworker at Domino's Pizza, who was homeless-living in his car and an occasional hotel room-and was unbelieveably angry, freaking out about the lack of pizza prep from the prior day.
 </p>
 
 <p>
 Throwing the pizza dough trays out of walk-in cooler while screaming "now they're out".
-A coworker and I were were on the other side of the pizza oven.
-We looked at each other with a sort of mutual "woah".
+A coworker and I were on the other side of the pizza oven.
+We looked at each other with a knowing look of mutual "woah".
 </p>
 
 <p>
@@ -148,6 +148,7 @@ At one point, he attempted to ply me with sad stories about his work as a nursin
 I also lent him my graphing calculator once.
 I can't remember the details now, but he started asking for more favors from me.
 It might have been me tutoring him for free, or driving him places...
+I said no.
 </p>
 
 <p>
@@ -165,6 +166,14 @@ Tell the story of the person who couldn't get me into their computer, who eventu
 
 <p>
 Talk about the "prison nickname" I was given at Domino's Pizza. Talk about the nature place near the bridge.
+Include photos of that place, and of the little place near the fence where I used to sit sometimes.
+Talk about the inscription on the concrete about the civil engineers in the '90's, I think maybe with some kind of coop situation with a local university.
+I remember thinking about that quite a lot. The optimism of the '90's, how much simpler it was, how awesome it was.
+I wanted, although only with part of my soul, to be one of those civil engineers in the '90s.
+It was a such a straightforward (though not easy) assignment: concrete, a civic works project, a steady paycheck and social respectability.
+Imagine them wearing the gaps and gowns on graduation day.
+Not a single enemy in the world, graduating with a degree that pretty much purely helps people and that took real work, skill, and effort to obtain.
+A dream.
 </p>
 
 <p>
