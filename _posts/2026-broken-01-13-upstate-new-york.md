@@ -230,15 +230,19 @@ Again, it felt like I was in a late 1800s novel, perhaps more Tolstoy than Dicke
 </p>
 
 <p>
-Two of the guys in my building were on some kind of welfare, and lived in the same apartment, along with one of the guys's wife.
-One of them said he had cancer, and used to wear a leg brace (which seems unrelated now that I think of it).
-I remember once commenting, unknowingly, that he seemed to be getting around ok despite the brace.
+Two of the guys in my building, who lived on the same floor, were on some kind of welfare, and lived in the same apartment, along with one of the guys's wife.
+One of them said he had cancer and used to wear a leg brace (which seems unrelated now that I think of it).
+I remember once commenting, unknowingly, that he seemed to be getting around pretty ok despite the brace.
 I meant it as a genuine compliment, and he kind of said "yeah I'm doing my best!" or something.
-Later, when he was talking about having cancer, another tenant in the apartment building said "don't listen to him, he's been dyin' for 20 years!", which is an all-timer turn of phrase.
+Another time, when he was talking about having cancer, we were in the hallway of the apartment building.
+Another tenant who happened to be nearby said something like "oh don't listen to him, he's been dyin' for twenty years!".
+"He's been dyin' for twenty years" an all-timer turn of phrase, I must say.
 </p>
 
 <p>
-Add the walks along those street, especially the one with the trees on either side, to the upstate New York essay
+Add the walks along those street, especially the street with the trees on either side, to the upstate New York essay.
+Talk about solving the programming problem in JavaScript, and then the other time solving the query and saving it in a file named like woohoo.txt.
+Talk about reading the Java book in the diner, discussing it with the mini-mart guy, and the other mini-mart guy.
 </p>
 
 <p>
