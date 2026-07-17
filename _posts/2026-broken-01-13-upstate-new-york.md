@@ -188,13 +188,23 @@ Years later, that executive added me on LinkedIn.
 <p>
 Talk about my car having a broken frame, which meant it couldn't pass inspection ever again, even if I got it fixed.
 I sold it to a junkyard, for about $500.
-I went to an auto dealer nearby to look at cars, and did a test drive of one I was able to afford.
-The brakes screeched loudly whenever I braked. I asked if there was an issue with the brakes, and they said "no".
-I later learned that that's what happens when the brake pads are worn through and it's an incredibly dangerous condition in which to drive a car.
+I remember looking that the car in the junkyard and feeling, truly and at a raw emotional level, like I was losing an old friend.
+That car had seen me through homelessness and some of the most difficult years of my life.
 </p>
 
 <p>
-A guy who lived in or around my building asked me for money at least a few times, until one time I got angry with him, and he stopped.
+I went to an auto dealer nearby to look at used cars for sale, and did a test drive of one I was able to afford.
+The brakes screeched loudly whenever I braked. I asked if there was an issue with the brakes, and they said "no".
+I later learned that screeching like that is what happens when the brake pads are completely worn through that they're essentially non-existent.
+The engineers set the brakes up like that intentionally, so that they loudly screech to let you know there's a (major) problem.
+It's an incredibly dangerous condition in which to drive a car.
+They were happy to lie to my face and sell me what was at a minimum a lemon and at a maximum a death trap.
+</p>
+
+<p>
+A guy who lived in or around my building asked me for money at least a few times.
+He "just needed $5" or whatever to "buy a bus ticket" to solve [insert realistic-sounding one-time non-recurring problematic logistical situation with which a typical person could totally empathize].
+Until one time I got angry with him, and he stopped.
 </p>
 
 <p>
