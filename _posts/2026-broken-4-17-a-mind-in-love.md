@@ -851,13 +851,14 @@ It was his singular professional focus during his final days.⁶
 It was during that hospital visit at Walter Reed that von Neumann passed away, from bone cancer, in early 1957.</p>
 <p>
 
-> Towards the end, as cancer got hold of him and just before he received in 1956 a Medal of Freedom from President Dwight Eisenhower for his technical contributions to national defence, von Neumann asked in an article in Fortune magazine, "Can we survive technology?"
+<blockquote>
+Towards the end, as cancer got hold of him and just before he received in 1956 a Medal of Freedom from President Dwight Eisenhower for his technical contributions to national defence, von Neumann asked in an article in Fortune magazine, "Can we survive technology?"
 The article was naturally preoccupied with the destructive potential of more powerful weapons, faster computers and more rapid telecommunications.
 But it presciently noted the climatic impact of rising carbon-dioxide emissions, too.
 Von Neumann favoured introducing new geo-engineering technologies, which he thought would unite nations more than the threat of nuclear war.
 Yet he accepted that there was no "complete recipe" for avoiding human extinction by technological means.
 "We can specify only the human qualities required," he wrote, "patience, flexibility, intelligence."⁸
-</p>
+</blockquote>
 
 <p>Rest in peace Dr. von Neumann. We have the watch.</p>
 
