@@ -591,12 +591,14 @@ John von Neumann University<br/>
 </p>
 
 <p>
-von Neumann's many other professional contributions include the fruits of his informal collaborations with other luminaries, as well as his classified military work, including on the Manhattan project
+von Neumann's many other professional contributions include the fruits of his informal collaborations with other luminaries, as well as his classified military work (that's therefore not public), including on the Manhattan project.
 </p>
+
+<hr/>
 
 <p>
 Personality-wise, he was social and boisterous.
-Kurt Gödel, a famous mathematician who also worked at the Institute for Advanced Study at around the same time, was a bit socially awkward. 
+Kurt Gödel, a famous mathematician who also worked at the Institute for Advanced Study around the same time, was a bit socially awkward. 
 For example, Gödel told the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole))<sup>48</sup>.
 The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and shooed Gödel along through the hearing.
 </p>
@@ -608,11 +610,12 @@ He was a fun dude.
 
 <p>
 I read somewhere that America suited him better than it suited most of the other luminaries who fled Europe around the time of WWII.
-That seems true. It also that, reciprocally, he suited America.
+That seems true. It also seems true that, reciprocally, he suited America.
 </p>
 
 <p>
-1. Patriotic
+<h4>1. Patriotic</h4>
+<p>
 von Neumann was an extremely patriotic American.
 "Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."<sup>1</sup>
 Note that lieutenant is the lowest rank among officers.
@@ -621,14 +624,14 @@ Escaping both communism and the Holocaust were probably the motivating factors.
 </p>
 
 <p>
-2. Folksy humor
+<h4>2. A folksy sense of humor</h4>
 He was serious about his work, yet lighthearted and playful in his outlook on life.
 He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".<sup>1</sup>
 </p>
 
+<h4>3. Low-key and folksy overall, but locked in when it was "prime time"</h4>
 <p>
-3. Low-key and folksy overall, but locked in when it was "prime time"
-He had a taste for power and influence, yet wielded both in a chill laid back way.
+He had a taste for power and influence, yet wielded both in a laid-back way.
 </p>
 
 <blockquote>
@@ -636,9 +639,9 @@ Many considered him an excellent chairman of committees, deferring rather easily
 </blockquote>
 
 <p>
-3. Extroverted
+<h4>3. Extroverted</h4>
 <p>
-He was boisterous and gregarious. He threw parties...probably grilled burgers.
+He was boisterous and gregarious. He liked to throw parties. --TODO add citation
 </p>
 
 <blockquote>
@@ -661,7 +664,6 @@ Contrast that with Einstein's atom bomb regrets, for example.
 
 <p>
 5. Technocratic and techno-optimistic, sometimes to a fault
-von Neumann believed in the power of technology and of invention. He was a futurist.
 </p>
 
 <p>
@@ -672,7 +674,7 @@ He contributed greatly to American scholarship and to many American institutions
 
 <p>
 Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
-Doesn't get much more "well-suited" than the Presidential Medal of Freedom.
+Doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
 </p>
 
 <hr/>
