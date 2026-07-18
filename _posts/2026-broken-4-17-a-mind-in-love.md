@@ -145,7 +145,7 @@ I'd (vaugely) heard of the Stellarator and so when I saw the road name I thought
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor<sup>28</sup></div>
+  <div style="font-size: 14px;">The design of a Stellerator reactor<sup>28</sup></div>
 </div>
 
 <p>
@@ -160,25 +160,24 @@ Many of the campus buildings are in gray stone in a "Collegiate Gothic" architec
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
-  <div style="font-size: 16px; font-style: italic;">Firestone Library, the largest library on campus:<sup>31</sup></div>
+  <div style="font-size: 14px;">Firestone Library, the largest library on campus:<sup>31</sup></div>
 </div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
-  <div style="font-size: 16px; font-style: italic;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
+  <div style="font-size: 14px;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
 </div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Princeton_Washington_Road.jpg" />
-  <div style="font-size: 16px; font-style: italic;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
+  <div style="font-size: 14px;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
 </div>
-</p>
 
 <p>
-One time when I lived in central New Jersey, I met my dad in Princeton.
+One time when I lived in central New Jersey, my dad traveled from out of state to meet me, and we met in Princeton. 
 I asked for us to rendevous at John von Neumann's house.
 I said it a bit tongue-in-cheek, as though we were meeting at an old friend's house.
-And indeed we did: we met at John von Neumann's house.
+And we did: we met at John von Neumann's house.
 </p>
 
 <p>
@@ -193,7 +192,7 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
 
 <p>
 After meeting at the house, we walked over to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
-On the same trip, my dad and I also visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
+On the same trip, my dad and I visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
 </p>
 
 <p>
@@ -225,7 +224,7 @@ In the book, von Neumann takes an affable yet professional tone with most people
 With Gödel, he gets right into it.
 After minimal pleasantries, he dives into the math they're discussing.
 To me, von Neumann's tone with Gödel shows both great friendship and great respect.
-With the latter, it seems von Neumann saw Gödel as a real intellectual peer; a notable designation.
+With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a notable designation.
 </p>
 
 <p>
@@ -244,7 +243,7 @@ As with when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
-    <div style="font-size: 16px; font-style: italic;">You can kind of feel the serenity and intelligence emanating from the IAS</div>
+    <div style="font-size: 14px;">You can kind of feel the serenity and intelligence emanating from the IAS</div>
 </div>
 </p>
 
@@ -266,7 +265,7 @@ One of the alums was (or had recently been, I can't remember) a fellow at the IA
 </p>
 
 <p>
-As mentioned above, IAS fellows don't have any specific professional duties whatsoever.
+As mentioned above, IAS fellows don't have any specific required professional duties whatsoever.
 The alum said something like that although you could technically do nothing all day, the <i>environment itself</i> of the IAS makes you want to do great work.
 I still think about that sometimes. It sounds awesome.
 </p>
@@ -295,25 +294,25 @@ A Princeton Professor of Byzantine History once said that he would only attend o
 </blockquote>
 
 <blockquote>
-You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.
+You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.<br/>
 -Enrico Fermi (Nobel Prize in Physics, 1938)<sup>17</sup>
 </blockquote>
 
 <blockquote>
-One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.
+One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.<br/>
 -Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain<sup>17</sup>
 </blockquote>
 
 <blockquote>
-I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.
--Eugene Wigner again<sup>20</sup>
+I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.<br/>
+-Eugene Wigner (Nobel Prize in Physics, 1963)<sup>20</sup>
 </blockquote>
 
 <blockquote>
 There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
 I came to a certain theorem, and I said it is not proved and it may be difficult. 
 von Neumann didn’t say anything but after five minutes he raised his hand. 
-When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.
+When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.<br/>
 -George Pólya<sup>17</sup>
 </blockquote>
 
@@ -323,7 +322,7 @@ When I called on him he went to the blackboard and proceeded to write down the p
 von Neumann was extremely professionally productive. 
 He made seminal scientific discoveries across multiple disciplines.
 He did deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
-It's a rare combination indeed: elite scientific work and elite public sector work usually suit different kinds of minds.
+That's a rare combination: elite scientific work and elite public sector work.
 </p>
 
 <p>
@@ -331,7 +330,7 @@ Major themes of his life include mathematics, politics, the military, physics, a
 
 In each of those, he was world-changingly successful. Some examples:
 <h3>Mathematics</h3>
-<p>He founded multiple entirely new fields, including, perhaps most notably, game theory<sup>22</sup>.
+<p>He founded did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
 <blockquote>
 By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
@@ -345,19 +344,21 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 <p>
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
-He was instrumental in the design of the second atomic bomb...<sup>13</sup>
-And so he was a key part of—it would not be hyperbole to say—saving the world.
+He was instrumental in the design of the second atomic bomb.<sup>13</sup>
+And so he was a key part of—it would not be hyperbole to say—saving the world from Nazism.
 </p>
 
 <h3>Physics</h3>
-I give a fuller picture of von Neumann's work in physics, rather than more of a sampling, in part because physics is a bit popular in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
-In terms of scale, see the note at the end of this section comparing the scale of his work in physics (which, as you can see, is wildly prolific within the standards of mere mortals) was not nearly as prolific as was his work in math.
+Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
+That's in part because physics is a more popular in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+In terms of scale, see the note at the end of this section stating that the scale of his work in physics (which, as you can see, is wildly prolific within the standards of mere mortals) was not nearly as prolific as was the scale of his work in mathematics.
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
 </blockquote>
 
-<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, and he is the sole author<sup>35</sup>.
+<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, of which he's the sole author<sup>35</sup>.
+
 <blockquote>
 Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.<sup>1</sup>
 </blockquote>
@@ -379,7 +380,7 @@ The density matrix was introduced, with different motivations, by von Neumann an
 </blockquote>
 
 <blockquote>
-The formalism of density operators and matrices was introduced by von Neumann in 1927 and independently, but less systematically by Lev Landau[228] and Felix Bloch[229] in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.<sup>1</sup>
+The formalism of density operators and matrices was introduced by von Neumann in 1927 and independently, but less systematically by Lev Landau and Felix Bloch in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -391,7 +392,7 @@ Von Neumann first proposed a quantum logic in his 1932 treatise Mathematical Fou
 </blockquote>
 
 <blockquote>
-Quantum logic remains in use among logicians and interests are expanding through the recent development of quantum computing, which has engendered a proliferation of new logics for formal analysis of quantum protocols and algorithms (see also § Relationship to other logics). The logic may also find application in (computational) linguistics.<sup>38</sup>
+Quantum logic remains in use among logicians and interests are expanding through the recent development of quantum computing, which has engendered a proliferation of new logics for formal analysis of quantum protocols and algorithms [...]. The logic may also find application in (computational) linguistics.<sup>38</sup>
 </blockquote>
 
 <blockquote>
@@ -408,7 +409,7 @@ While not as prolific in physics as he was in mathematics, he nevertheless made 
 That's right: meteorology!
 
 <blockquote>
-By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as Numerical Integration of the Barotropic Vorticity Equation. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate. Though primitive, news of the ENIAC forecasts quickly spread around the world and a number of parallel projects in other locations were initiated.<sup>1</sup>
+By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as <i>Numerical Integration of the Barotropic Vorticity Equation</i>. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.<sup>1</sup>
 </blockquote>
 
 He co-founded computerized weather forecasting!
@@ -423,7 +424,7 @@ ENIAC (Electronic Numerical Integrator and Computer) was the first programmable,
 </blockquote>
 
 <blockquote>
-Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC.[61] In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.<sup>12</sup>
+Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC. In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.<sup>12</sup>
 </blockquote>
 
 <blockquote>
@@ -454,7 +455,7 @@ Numbers are to be represented in binary notation. He estimates 27 binary digits 
 
 <p>
 He was involved in the von Neumann Architecture in 1945. 1945!
-As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and wanting to pioneer artificial intelligence.<sup>1,41</sup>
+As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
 And he was successful in both.
 </p>
 
@@ -464,7 +465,7 @@ Considered to be possibly "the most influential researcher in scientific computi
 </blockquote>
 
 <blockquote>
-From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems. In June 1945 at the First Canadian Mathematical Congress he gave his first talk on general ideas of how to solve problems, particularly of fluid dynamics numerically. He also described how wind tunnels were actually analog computers, and how digital computers would replace them and bring a new era of fluid dynamics.<sup>1</sup>
+From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems.<sup>1</sup>
 </blockquote>
 
 <p>
@@ -473,12 +474,13 @@ Merge sort is half of the standard sorting algorithm implementation (Timsort) us
 </p>
 
 <p>
-He invented Stochastic computing and pioneered computational complexity theory (big O notation!).
+He invented stochastic computing and pioneered computational complexity theory (big O notation!).
 <blockquote>
 Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.<sup>1</sup>
 </blockquote>
 
 <p>
+He invented cellular automata!
 <blockquote>
 He created the field of cellular automata through his rigorous mathematical treatment of the structure of self-replication, which preceded the discovery of DNA by several years.<sup>13</sup>
 </blockquote>
@@ -503,7 +505,7 @@ He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
 <p>
-The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann)<sup>4</sup>.<br/>
+The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann) <sup>4</sup>.<br/>
 
 This is the list, which is still a subset of his total body of work<sup>4</sup>:<br/>
 Birkhoff–von Neumann algorithm<br/>
