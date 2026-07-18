@@ -39,8 +39,9 @@ One prominent researcher used Dante's phrase "a mind in love" (see the above quo
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.
 </blockquote>--TODO cite from the actual article: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
 
+<hr/>
+
 <p>
-About von Neumann's early life:
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
 </blockquote>
@@ -60,7 +61,7 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
 </div>
 
 <p>
-At 15 years old, von Neumann so impressed Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő wept tears of joy.<sup>7</sup>
+At 15 years old, von Neumann so impressed the Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő cried tears of joy.<sup>7</sup>
 </p>
 
 <hr/>
@@ -71,18 +72,18 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 
 <p>
 Georg Cantor is an immensely famous mathematician who co-founded the field of Set Theory, a deep and highly important branch of mathematics.<sup>43</sup> 
-von Neumann's definition of Ordinal numbers is the standard definition still used to this day.<sup>27</sup>
+von Neumann's definition of ordinal numbers is the standard definition still used to this day.<sup>27</sup>
 </p>
 
 <p>
-For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (the university Albert Einstein went to) and a PhD in mathematics from Pázmány Péter University in Budapest.
+For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (Albert Einstein's alma mater) and a PhD in mathematics from Pázmány Péter University in Budapest.
 The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
 It wasn't a typical parental pressure situation though.
 von Neumann and his father brainstormed options and together decided on chemical engineering.<sup>1</sup>
 </p>
 
 <p>
-He dodged the "do what makes you money or do what you're passionate about" situation by doing both at the same time.
+He seems to have dodged the classic "do what makes you money or do what you're passionate about" situation by doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.<sup>1</sup>
@@ -93,7 +94,7 @@ He then completed his Habilitation, which is like a European postdoc, thereby qu
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
 A Privatdozent is like a lecturer/professor.
-He was "the youngest person ever elected Privatdozent in the university's history in any subject"<sup>1</sup> at the University.
+He was "the youngest person ever elected Privatdozent in the university's history in any subject"<sup>1</sup>.
 "He [then] began writing nearly one major mathematics paper per month."<sup>1</sup>
 </p>
 
@@ -123,18 +124,14 @@ The store was called "Bamberger's". It sold clothes and stuff.<sup>14</sup>
 </p>
 
 <p>
-I used to live and work in Central New Jersey, not far from Princeton, New Jersey.
+I used to live and work in Central New Jersey, not far from Princeton.
 I used to love visiting Princeton; thinking about the history, seeing the historic places, and just the town overall.
+It's a beautiful town.
 </p>
 
 <p>
-I remember once, when I was driving, seeing a sign for Stellarator Road.
+I remember once, when I was driving around Princeton, seeing a sign for Stellarator Road.
 "Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.<sup>29</sup>
-
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor<sup>28</sup></div>
-</div>
 
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
@@ -143,12 +140,22 @@ The stellarator was invented by American scientist Lyman Spitzer in 1951. Much o
 </blockquote>
 
 <p>
-I'd heard of the Stellarator and so when I saw the road name, I thought something like "that's pretty cool" .
+I'd (vaugely) heard of the Stellarator and so when I saw the road name I thought something like "oh that's super cool".
+</p>
+
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
+  <div style="font-size: 16px; font-style: italic;">The design of a Stellerator reactor<sup>28</sup></div>
+</div>
+
+<p>
 The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.<sup>24</sup>
 </p>
 
+<hr/>
+
 <p>
-It's a beautiful town with a nice university campus.
+Princeton is a beautiful town with a nice university campus.
 Many of the campus buildings are in gray stone in a "Collegiate Gothic" architectural style.<sup>30</sup>
 
 <div align="center">
@@ -156,14 +163,13 @@ Many of the campus buildings are in gray stone in a "Collegiate Gothic" architec
   <div style="font-size: 16px; font-style: italic;">Firestone Library, the largest library on campus:<sup>31</sup></div>
 </div>
 
-Holder Hall and tower of Rockefeller College:
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
   <div style="font-size: 16px; font-style: italic;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
 </div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Washington_Road_Elm_Allée.jpg" />
+  <img src="https://bradleyculley.github.io/images/Princeton_Washington_Road.jpg" />
   <div style="font-size: 16px; font-style: italic;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
 </div>
 </p>
