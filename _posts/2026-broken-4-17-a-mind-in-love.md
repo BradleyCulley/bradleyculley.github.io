@@ -656,25 +656,25 @@ He was boisterous and gregarious. He liked to throw parties. --TODO add citation
 I can imagine him tailgating at a football game...a quintessentially American pastime.
 </p>
 
+<h4>4. Militaristic</h4>
 <p>
-4. Militaristic
 He participated in and strenghtend the American military-industrial complex.
 Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
-<p>
-5. Technocratic and techno-optimistic, sometimes to a fault
-</p>
+<h4>5. Technocratic and techno-optimistic, sometimes to a fault</h4>
+
+<hr/>
 
 <p>
 Conversely, he suited America well.
-He helped America win WWII. Via pioneering work on intercontinental ballistic missiles, he helped position America to win the Cold War.
+He helped America win WWII. Later, he helped position America to win the Cold War via pioneering work on intercontinental ballistic missiles.
 He contributed greatly to American scholarship and to many American institutions.
 </p>
 
 <p>
 Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
-Doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
+It doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
 </p>
 
 <hr/>
@@ -714,13 +714,12 @@ Logically-minded as always, he said "So long as there is the possibility of eter
 <p>
 He also saw the effects of Soviet-era communism kicking off next door.
 Ukraine, which borders Hungary, joined the USSR in 1922 while he was still living in Hungary.
-In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930 (https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union).
+In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930⁵⁰.
 </p>
 
 <blockquote>
 Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism. During a Senate committee hearing he described his political ideology as 'violently anti-communist, and much more militaristic than the norm'.¹
 </blockquote>
->
 
 <p>He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
@@ -754,24 +753,26 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 
 ------------------------------------------
 
-<p>
-
-> "To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
-> I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject"
+<blockquote>
+To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
+I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
 -von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in *1945*, page 236. I believe this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what he'd think of ChatGPT.
-<p>
+</blockquote>
 
 ------------------------------------------
 
 <p>
 
-> "In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures."
-
+<blockquote>
+In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/>
 -Clay Bair Jr., in Life Magazine, 25 February 1957
+</blockquote>
 
+<p>
 That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/AI superintelligence, in *1956*!
 </p>
+
 ------------------------------------------
 
 <p>
@@ -814,6 +815,7 @@ That it was Turing-complete means it had the ability to do really any arbitrary 
 
 <p>
 von Neumann can't be easily characterized monofactorially, but this description is pretty good:
+</p>
 
 <blockquote>
 The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
@@ -821,10 +823,11 @@ The unifying theme in von Neumann’s life and work—abundantly demonstrated by
 "Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer."²
 </blockquote>
 
+<p>
 A mind in love with the truth.
 </p>
 
-<p>
+<hr/>
 
 <h4>The Silliman Lectures</h4>
 
@@ -913,6 +916,7 @@ Sources:
 ⁴⁷: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
 ⁴⁸: https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole <br/>
 ⁴⁹: Whitman, M. von N. (2012). The Martian’s daughter: A memoir. University of Michigan Press. <br/>
+⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
 
 
 
