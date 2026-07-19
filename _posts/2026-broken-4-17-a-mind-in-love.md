@@ -838,17 +838,20 @@ Each lecture course would be published in a series as a memorial to Mrs Silliman
 > Von Neumann was invited to deliver the Silliman Lectures on _The Computer and the Brain_ in the spring of 1956⁶
 
 <p>
-The notes for the Silliman Lectures form the basis for Neumann's final book, also named [The Computer and the Brain](https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116).
+The notes for the Silliman Lectures form the basis for Neumann's final book, published posthumously, and also named <i>The Computer and the Brain</i>⁴¹.
 </p>
 
-<p>In 1955, a tumor was discovered near von Neumann's collarbone.
+<p>
+In 1955, a tumor was discovered near von Neumann's collarbone.
 Cancer was then found elsewhere in his body.
 In the spring of 1956, he checked into Walter Reed National Military Medical Center as a cancer patient
-He continued to work from his hospital room, including consulting with top military officials.³</p>
+He continued to work from his hospital room, including consulting with top military officials.³
+</p>
 
-<p>von Neumann took with him to Walter Reed the manuscript he was preparing for the Silliman Lectures.
+<p>
+von Neumann took with him to the hospital the manuscript he was preparing for the Silliman Lectures.
 It was his singular professional focus during his final days.⁶
-It was during that hospital visit at Walter Reed that von Neumann passed away, from bone cancer, in early 1957.</p>
+It was during that hospital visit, at Walter Reed National Military Medical Center, that von Neumann passed away—from bone cancer—in early 1957.
 <p>
 
 <blockquote>
@@ -918,6 +921,7 @@ Sources:
 ⁴⁸: https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole <br/>
 ⁴⁹: Whitman, M. von N. (2012). The Martian’s daughter: A memoir. University of Michigan Press. <br/>
 ⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
+⁵⁰:  <br/>
 
 
 
