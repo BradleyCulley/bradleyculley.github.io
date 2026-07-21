@@ -274,11 +274,12 @@ Add to pure heart is your dojo the point about even having a period of time wher
 
 TODO: image of coal miners/miners: https://en.wikipedia.org/wiki/File:FIRST_SHIFT_OF_MINERS_AT_THE_VIRGINIA-POCAHONTAS_COAL_COMPANY_MINE_%5E4_NEAR_RICHLANDS,_VIRGINIA,_LEAVING_THE_ELEVATOR...._-_NARA_-_556393_tweaked.jpg
 
-TODO: the pure heart times in one's life serve as a refuge to which to return mentally. 
+TODO: the times of the pure heart in one's life serve as a refuge to which to return mentally. 
 It's said that what doesn't kill you makes you stronger, but that's not actually true.
-What doesn't kill you makes you weaker. It leaves pain in your memory.
-It's the good times, the experiences in tune with your real self, that are good and that make you stronger.
-They have a strengthening effect for the rest of your life.
+What doesn't kill you makes you weaker.
+
+Pain leaves pain in your memory. Pain begets more pain.
+It's the good times, the experiences in tune with your real self, that make you stronger; at the time and for the rest of your life.
 
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
 http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
