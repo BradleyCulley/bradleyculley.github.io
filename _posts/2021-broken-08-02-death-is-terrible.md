@@ -59,6 +59,13 @@ But here they are, alive and well, my dad doing an ironic face. Jokes, my mom se
 So I don't laugh at the woman who visits her husband's grave and talks to him from time to time maybe on the anniversary of his death. It's not hard to understand. And if I'm struggling with the ontological nature of who you're talking to, that's fine. That's not what it's all about. It's about human beings being human.
 - Carl Sagan
 
+TODO: the worst deaths are the deaths of people, like Wil Smith, who during their life already "figured it out", so to speak.
+Someone who was as good of a person as it's possible to be.
+It's hard to reason with a death like that.
+Years ago, I watched a short film about an 87 (TODO check the age) year old man who had built (himself) a really nice home (multiple homes, actually) on a large property in the forest in California, and run a business from there.
+He'd been a great husband and father, and was now widowed.
+One of the comments on the film said that people like him should, instead of dying, get to go back to the beginning of life and live another full life.
+
 https://wright-beard.com/tribute/details/898/Jeremy-Sands/condolences.html
 
 https://x.com/afshineemrani/status/2072346876268171293?s=20
