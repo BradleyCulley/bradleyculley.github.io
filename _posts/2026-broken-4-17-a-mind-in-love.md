@@ -36,8 +36,8 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
 One prominent researcher used Dante's phrase "a mind in love" (see the above quote) to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
-Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.
-</blockquote>--TODO cite from the actual article: https://www.jefftietz.com/new-blog-avenue/2015/5/21/from-santiagos-brain-rolling-stone
+Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.⁵¹
+</blockquote>
 
 <hr/>
 
@@ -673,9 +673,14 @@ He contributed greatly to American scholarship and to many American institutions
 </p>
 
 <p>
-Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.
+Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.⁵²
 It doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
 </p>
+
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Medal-of-Freedom.jpg" />
+    <div style="font-size: 16px; font-style: italic;">von Neumann receiving the Presidential Medal of Freedom from President Dwight Eisenhower⁵²</div>
+</div>
 
 <hr/>
 
@@ -921,7 +926,9 @@ Sources:
 ⁴⁸: https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole <br/>
 ⁴⁹: Whitman, M. von N. (2012). The Martian’s daughter: A memoir. University of Michigan Press. <br/>
 ⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
-⁵⁰:  <br/>
+⁵¹: Tietz, J. (2011, December 8). Santiago’s brain. Rolling Stone, (1145 100), 78–87. <br/>
+⁵²: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
+<br/>
 
 
 
@@ -933,8 +940,6 @@ Sources:
 
 
 To consider keeping:
-
-The photo and a note from here about receiving the Medal of Freedom from Eisenhower: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/
 
 <p>Year ago, in the introduction to a college textbook for a course I took on Buddhism,
 there was a description of a person (a historian, as I recall) looking at a Buddha statue.
