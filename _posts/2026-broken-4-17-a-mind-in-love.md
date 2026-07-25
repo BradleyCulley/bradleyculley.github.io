@@ -35,7 +35,7 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
-One prominent researcher used Dante's phrase "a mind in love" (see the above quote) to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
+One prominent researcher used Dante's phrase "a mind in love" [see the quote above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.⁵¹
 </blockquote>
 
@@ -160,18 +160,24 @@ Many of the campus buildings are in gray stone in a "Collegiate Gothic" architec
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
-  <div style="font-size: 14px;">Firestone Library, the largest library on campus:<sup>31</sup></div>
+  <div style="font-size: 13px;">Firestone Library, the largest library on campus:<sup>31</sup></div>
 </div>
+
+<br/><br/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Rockefeller_College.jpg" />
-  <div style="font-size: 14px;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
+  <div style="font-size: 13px;">Holder Hall and tower of Rockefeller College<sup>32</sup></div>
 </div>
+
+<br/><br/>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Princeton_Washington_Road.jpg" />
-  <div style="font-size: 14px;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
+  <div style="font-size: 13px;">"The eastern side of the Washington Road Elm Allée, one of the entrances to the campus"<sup>33</sup></div>
 </div>
+
+<br/>
 
 <p>
 One time when I lived in central New Jersey, my dad traveled from out of state to meet me, and we met in Princeton. 
@@ -191,7 +197,7 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
 </p>
 
 <p>
-After meeting at the house, we walked over to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
+After meeting at the house, we walked to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
 On the same trip, my dad and I visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
 </p>
 
@@ -221,14 +227,14 @@ In the book, von Neumann takes an affable yet professional tone with most people
 </p>
 
 <p>
-With Gödel, he gets right into it.
+With Gödel, he gets right to it.
 After minimal pleasantries, he dives into the math they're discussing.
 To me, von Neumann's tone with Gödel shows both great friendship and great respect.
 With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a notable designation.
 </p>
 
 <p>
-Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally just math.
+Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally mathematical symbols.
 </p>
 
 <p>
@@ -260,7 +266,7 @@ More photos I took in the Institute Woods that day:
 <hr/>
 
 <p>
-One time in college, I went to a panel at which alums talked about their experiences.
+One time in college, I went to a panel at which alums talked about their life experiences.
 One of the alums was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
 
@@ -440,7 +446,7 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 </blockquote>
 
 <p>
-von Neumann publicized (although didn't actually invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
+von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
 It's called The von Neumann Architecture.<sup>34</sup>
 
 The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup> 
@@ -641,7 +647,7 @@ Many considered him an excellent chairman of committees, deferring rather easily
 <p>
 <h4>3. Extroverted</h4>
 <p>
-He was boisterous and gregarious. He liked to throw parties. --TODO add citation
+He was boisterous and gregarious. He liked parties.
 </p>
 
 <blockquote>
@@ -736,7 +742,7 @@ What would the world be like if we had more von Neumanns, or all von Neumanns? B
 
 ------------------------------------------
 <p>
-From <i>Selected Letter</i>:
+From <i>Selected Letters</i>:
 
 <blockquote>
 Throughout much of his career, he led a double life: as an intellectual leader in the ivory tower of pure mathematics and as a man of action, in constant demand as an advisor, consultant and decision-maker to what is sometimes called the military-industrial complex of the United States. My own belief is that these two aspects of his double life, his wide-ranging activities as well as his strictly intellectual pursuits, were motivated by two profound convictions. The first was the overriding responsibility that each of us has to make full use of whatever intellectual capabilities we were endowed with. He had the scientist's passion for learning and discovery for its own sake and the genius's ego-driven concern for the significance and durability of his own contributions. The second was the critical importance of an environment of political freedom for the pursuit of the first, and for the welfare of mankind in general.
@@ -749,12 +755,11 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 
 ------------------------------------------
 
-<p>
-
+<blockquote>
 > "Oh, France won't matter."
 
--von Neumann's prewar thoughts on World War II (lol)
-</p>
+-von Neumann's prewar thoughts on World War II
+</blockquote> --TODO add citation with page number
 
 ------------------------------------------
 
@@ -784,24 +789,29 @@ That's von Neumann on artificial general intelligence and even AI takeoff/intell
 von Neumann developed early computers specifically with the goal of building artificial general intelligence.
 He was thinking about these things in the 1930s, and even discussed them with Alan Turing.
 
-> Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
- Turing’s first published paper: “In his [1934] paper ‘Almost periodic functions in a group,’ J. 
- v. Neumann has used independently the ideas of left and right periodicity. I shall now show 
- that these are equivalent.” Such a demonstration of Turing’s power of proof must have 
- caught von Neumann’s attention, for in 1937 he wrote a letter in support of a Princeton 
- fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although 
- it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
+<blockquote>
+Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
+Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. 
+v. Neumann has used independently the ideas of left and right periodicity. I shall now show 
+that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, 
+for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although 
+it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
+</blockquote>
 
-> (The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the 
-first name on a list of Princeton luminaries that included “Weyl, Courant, Hardy, Einstein, 
-Lefschetz, as well as hosts of smaller fry.”)¹⁰
-
-</p>
+<blockquote>
+(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the 
+first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, 
+Lefschetz, as well as hosts of smaller fry.")¹⁰
+</blockquote>
 
 <p>
 He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
 
 The first of those, the ENIAC - is pictured below. Robert Oppenheimer stands next to von Neumann.
+
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Oppenheimer-and-von-Neumann.webp" />
+</div>
 https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of
 
 About ENIAC:
@@ -813,9 +823,9 @@ https://physicsworld.com/wp-content/uploads/2012/12/PW-2012-12-review-Campbell-K
 </p>
 
 <p>
-In other words, the ENIAC was the first real computer.
+In other words, the ENIAC was arguably the first real computer.
 It fundamentally did everything a modern day computer does, and used the von Neumann Architecture.
-That it was Turing-complete means it had the ability to do really any arbitrary computation, bounded only by hardware-level constraints.
+That it was Turing-complete, meaning it had the ability to do any arbitrary computation, bounded only by hardware limitations.
 </p>
 
 <p>
