@@ -422,15 +422,48 @@ He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
 
-von Neumann was on the absolute ground-floor of the development of the modern computer.
+von Neumann was on the ground-floor of the development of the modern computer. He was also a contemporary of Alan Turing, with whom he interacted professionally.
 
-von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
 <blockquote>
-ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all. ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.<sup>12</sup>
+Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
+Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. 
+v. Neumann has used independently the ideas of left and right periodicity. I shall now show 
+that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, 
+for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although 
+it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
 </blockquote>
 
 <blockquote>
-Although the Ballistic Research Laboratory was the sponsor of ENIAC, one year into this three-year project John von Neumann, a mathematician working on the hydrogen bomb at Los Alamos National Laboratory, became aware of the ENIAC. In December 1945, the ENIAC was used to calculate thermonuclear reactions using equations. The data was used to support research on building a hydrogen bomb.<sup>12</sup>
+(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the 
+first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, 
+Lefschetz, as well as hosts of smaller fry.")¹⁰
+</blockquote>
+
+<p>
+He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
+
+The first of those, the ENIAC, is pictured below. Dr. Robert Oppenheimer stands next to von Neumann.
+</p>
+
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Oppenheimer-and-von-Neumann.webp" /><sup>53</sup>
+</div>
+
+About ENIAC:
+<blockquote>
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer,
+completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all.
+ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.<sup>12</sup>
+</blockquote>
+
+<p>
+In other words, the ENIAC was arguably the first real computer.
+</p>
+
+von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
+
+<blockquote>
+During the Second World War, Von Neumann was a consultant to the Manhattan Project at Los Alamos, and was heavily involved in the intensive mathematical calculations needed to design the atomic bomb. In 1944 this need for calculating power led him to the ENIAC, a clumsy electronic behemoth built by the University of Pennsylvania for the US Army’s Ballistics Research Laboratory. Von Neumann collaborated with the designers of the ENIAC to produce a more effective design, which we now know as the stored-program computer – the blueprint for the post-war computer revolution.
 </blockquote>
 
 <blockquote>
@@ -499,7 +532,6 @@ Open-source computing:
 <blockquote>
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
-
 
 He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity is perhaps the single most spoken-about and pressing topic on people's minds these days.
 <blockquote>
@@ -772,8 +804,6 @@ I need not tell you that I shall be very gladly at your disposal at any time whe
 
 ------------------------------------------
 
-<p>
-
 <blockquote>
 In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/>
 -Clay Bair Jr., in Life Magazine, 25 February 1957
@@ -784,49 +814,6 @@ That's von Neumann on artificial general intelligence and even AI takeoff/intell
 </p>
 
 ------------------------------------------
-
-<p>
-von Neumann developed early computers specifically with the goal of building artificial general intelligence.
-He was thinking about these things in the 1930s, and even discussed them with Alan Turing.
-
-<blockquote>
-Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
-Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. 
-v. Neumann has used independently the ideas of left and right periodicity. I shall now show 
-that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, 
-for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although 
-it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
-</blockquote>
-
-<blockquote>
-(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the 
-first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, 
-Lefschetz, as well as hosts of smaller fry.")¹⁰
-</blockquote>
-
-<p>
-He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
-
-The first of those, the ENIAC - is pictured below. Robert Oppenheimer stands next to von Neumann.
-
-<div align="center">
-    <img src="https://bradleyculley.github.io/images/Oppenheimer-and-von-Neumann.webp" />
-</div>
-https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of
-
-About ENIAC:
-> ENIAC  was the first programmable, electronic, general-purpose digital computer, completed in 1945.
- There were other computers that had combinations of these features, but the ENIAC had all of them in one computer.
- It was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.¹²
-
-https://physicsworld.com/wp-content/uploads/2012/12/PW-2012-12-review-Campbell-Kelly-1.jpg
-</p>
-
-<p>
-In other words, the ENIAC was arguably the first real computer.
-It fundamentally did everything a modern day computer does, and used the von Neumann Architecture.
-That it was Turing-complete, meaning it had the ability to do any arbitrary computation, bounded only by hardware limitations.
-</p>
 
 <p>
 von Neumann can't be easily characterized monofactorially, but this description is pretty good:
@@ -938,6 +925,8 @@ Sources:
 ⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
 ⁵¹: Tietz, J. (2011, December 8). Santiago’s brain. Rolling Stone, (1145 100), 78–87. <br/>
 ⁵²: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
+⁵³: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
+⁵⁴: https://physicsworld.com/a/von-neumanns-computer/ <br/>
 <br/>
 
 
