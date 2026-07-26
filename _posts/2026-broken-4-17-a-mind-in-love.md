@@ -337,7 +337,7 @@ Major themes of his life include mathematics, politics, the military, physics, a
 
 In each of those, he was world-changingly successful. Some examples:
 <h3>Mathematics</h3>
-<p>He founded did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
+<p>He was a fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
 <blockquote>
 By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
