@@ -256,13 +256,13 @@ This is a photo I took that day, of some of the Institute buildings, taken from 
 
 <p>
 More photos I took in the Institute Woods that day:
+</p>
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_1.jpg" />
 </div>
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpg" />
 </div>
-</p>
 
 <hr/>
 
