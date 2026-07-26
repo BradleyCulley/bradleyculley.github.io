@@ -357,14 +357,14 @@ And so he was a key part of—it would not be hyperbole to say—saving the worl
 
 <h3>Physics</h3>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
-That's in part because physics is a more popular in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
-In terms of scale, see the note at the end of this section stating that the scale of his work in physics (which, as you can see, is wildly prolific within the standards of mere mortals) was not nearly as prolific as was the scale of his work in mathematics.
+That's in part because physics is a more squarely in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+In terms of scale, see the note at the end of this section stating that the scale of his work in physics (which, as you can see, is immense) was diminutive in comparison with his work in mathematics.
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
 </blockquote>
 
-<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328-pages in one of it's latest editions, of which he's the sole author<sup>35</sup>.
+<i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328 pages in one of its editions, and he's the sole author<sup>35</sup>.
 
 <blockquote>
 Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.<sup>1</sup>
@@ -426,12 +426,8 @@ He co-founded computerized weather forecasting!
 von Neumann was on the ground-floor of the development of the modern computer. He was also a contemporary of Alan Turing, with whom he interacted professionally.
 
 <blockquote>
-Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in 
-Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. 
-v. Neumann has used independently the ideas of left and right periodicity. I shall now show 
-that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, 
-for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although 
-it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
+Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
+I shall now show that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
 </blockquote>
 
 <blockquote>
@@ -443,7 +439,7 @@ Lefschetz, as well as hosts of smaller fry.")¹⁰
 <p>
 He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
 
-The first of those, the ENIAC, is pictured below. Dr. Robert Oppenheimer stands next to von Neumann.
+The first of those, the ENIAC, is pictured below. J. Robert Oppenheimer stands next to von Neumann.
 </p>
 
 <div align="center">
