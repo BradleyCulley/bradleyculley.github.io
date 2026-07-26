@@ -234,7 +234,7 @@ With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a 
 </p>
 
 <p>
-Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel are literally mathematical symbols.
+Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel is purely mathematical symbols.
 </p>
 
 <p>
@@ -247,11 +247,12 @@ The tonal difference with Gödel is one of my absolute favorite things from <i>S
 Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
 As with when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
+</p>
+
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
     <div style="font-size: 14px;">You can kind of feel the intelligence and serenity emanating from the IAS</div>
 </div>
-</p>
 
 <p>
 More photos I took in the Institute Woods that day:
