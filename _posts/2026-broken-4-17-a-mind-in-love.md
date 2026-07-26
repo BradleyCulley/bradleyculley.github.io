@@ -57,7 +57,7 @@ He grew up studying at least 7 languages, and could speak that many as an adult.
 </blockquote>
 
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/a_young_John_von_Neumann.jpg" />
+    <img src="https://bradleyculley.github.io/images/vonneumann-child.jpg" /><sup>22</sup>
 </div>
 
 <p>
@@ -249,7 +249,7 @@ As with when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
-    <div style="font-size: 14px;">You can kind of feel the serenity and intelligence emanating from the IAS</div>
+    <div style="font-size: 14px;">You can kind of feel the intelligence and serenity emanating from the IAS</div>
 </div>
 </p>
 
@@ -498,7 +498,7 @@ As if that were not enough, some of his primary areas of focus in computing incl
 And he was successful in both.
 </p>
 
-Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating the use and impact of computers in scientific discovery.
+Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating that.
 <blockquote>
 Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.<sup>1</sup>
 </blockquote>
@@ -788,10 +788,10 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 ------------------------------------------
 
 <blockquote>
-> "Oh, France won't matter."
+Oh, France won't matter.
 
--von Neumann's prewar thoughts on World War II
-</blockquote> --TODO add citation with page number
+-von Neumann's prewar thoughts on World War II<sup>55</sup>
+</blockquote>
 
 ------------------------------------------
 
@@ -799,7 +799,8 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
 I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
--von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in *1945*, page 236. I believe this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what he'd think of ChatGPT.
+-von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in *1945*, page 236.<br/>
+I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what he'd think of ChatGPT.
 </blockquote>
 
 ------------------------------------------
@@ -927,6 +928,7 @@ Sources:
 ⁵²: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
 ⁵³: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
 ⁵⁴: https://physicsworld.com/a/von-neumanns-computer/ <br/>
+⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
 <br/>
 
 
