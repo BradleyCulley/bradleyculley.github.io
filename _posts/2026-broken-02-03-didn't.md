@@ -28,7 +28,7 @@ Me with a magnifying glass as a kid
     <li>A lack of "Net neutrality" (remember that?) didn't torpedo an openly accessible internet</li> --TODO
     <li>Neither television, films, social media, the internet, nor certain genres of music have made people dumber or increased crime. IQ has been increasing ("the Flynn effect"), and crime decreasing, steadily, for years (TODO: decades?).</li> --TODO add citations
     <li>ISIS didn't take over the Middle East, or even Iraq and Syria as their name aspirationally implies</li>
-    <li>Artificial intelligence didn't take everyone's jobs within 6 months of the release of ChatGPT. Self-driving cars replaced neither truck drivers nor taxi drivers. ChatGPT didn't take everyone's jobs over many subsequent 6-month windows since then. ChatGPT didn't replace the need for computer programmers, nor radiologists, as notable public intellectuals have predicted. "PhD-level" models can't spell the word "blueberry".</li>
+    <li>Artificial intelligence didn't take everyone's jobs within 6 months of the release of ChatGPT. Self-driving cars replaced neither truck drivers nor taxi drivers. ChatGPT didn't take everyone's jobs over many subsequent 6-month windows since then. ChatGPT didn't replace the need for computer programmers, nor radiologists, as notable public intellectuals have predicted. "PhD-level" models can't accurately spell the word "blueberry".</li>
 </ul>
 <br/>
 
