@@ -286,6 +286,7 @@ I still think about that sometimes. It sounds awesome.
 <p>
 von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
+TODO: add things about profound giftedness, which Santiago Gonzales has and which von Neumann quite possibly had as well.
 
 <blockquote>
 Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:<br/>
