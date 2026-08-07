@@ -71,7 +71,7 @@ By the age of 19, von Neumann had published two major mathematical papers, the s
 </blockquote>
 
 <p>
-Georg Cantor is an immensely famous mathematician who co-founded the field of Set Theory, a deep and highly important branch of mathematics.<sup>43</sup> 
+Georg Cantor is an immensely famous mathematician who co-founded the field of Set Theory.<sup>43</sup> 
 von Neumann's definition of ordinal numbers is the standard definition still used to this day.<sup>27</sup>
 </p>
 
@@ -83,7 +83,7 @@ von Neumann and his father brainstormed options and together decided on chemical
 </p>
 
 <p>
-He seems to have dodged the classic "do what makes you money or do what you're passionate about" situation by doing both at the same time.
+He dodged the problem of "do what makes you money or do what you're passionate about" situation by doing both at the same time.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.<sup>1</sup>
