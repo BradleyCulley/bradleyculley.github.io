@@ -228,6 +228,9 @@ In the book, von Neumann takes an affable yet professional tone with most people
 <p>
 With Gödel, he gets right to it.
 After minimal pleasantries, he dives into the math they're discussing.
+
+TODO: include a blockquote of an example of that from the book
+
 To me, von Neumann's tone with Gödel shows both great friendship and great respect.
 With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a notable designation.
 </p>

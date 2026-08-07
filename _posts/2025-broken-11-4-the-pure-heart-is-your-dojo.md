@@ -268,6 +268,23 @@ hey have become associated with the causes of the factions, as instruments of pr
 
 TODO: Add much of your pain is self-chosen to the pure heart essay
 
+TODO: talk about the essay "How to fix your entire life in one day", by Dan Koe: https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1.
+That essay clarified something that I'd been sort of subconsciously aware of, and which I experienced in my own life, in part of 2009.
+It clarified the idea that a good way to change your behavior is to change your identity. Perhaps the only way, actually.
+I haven't read Koe's whole essay (TODO, read the whole essay then delete this note), but something I'd add is that you can change your identity by first changing what you do.
+
+I once read a story about a guy who wanted to get in better physical shape.
+What he did first was drive to the gym and just sit in the parking lot for a few minutes, then drive home.
+No actual exercise (at first).
+The way I heard it explained is that it helped him become "the kind of guy who goes to the gym (literally)".
+After enough of the habit, your actual <i>identity</i> incorporates the habit.
+Beyond something that you do, it becomes something that you <i>are</i>.
+
+On a kind of funny note, I once saw someone ask why El Chapo didn't stop running drugs at a certain point.
+He was very rich, so why not retire?
+Someone answered that that's because being a drug lord wasn't just what he did, it's who he was.
+
+
 Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
 
 Add to pure heart is your dojo the point about even having a period of time where you had the pure heart will help you immensely in the future. In part because you know you can get back to it in part because you know you did it you went through it and did it and you're capable of it, and in part because it's just kind of a mental and emotional positive space you can always go to.
