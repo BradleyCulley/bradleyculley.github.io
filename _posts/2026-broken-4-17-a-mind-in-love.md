@@ -23,7 +23,7 @@ to where its matter lives the longest,<br/>
 just so the mind, thus seized, achieves desire,<br/>
 a movement of the spirit never resting<br/>
 as long as it enjoys the thing it loves.<br/><br/>
--Canto 18 of <i>Purgatorio</i>, Dante's Divine Comedy<sup>42</sup>
+-Canto 18 of <i>Purgatorio</i>, from The Divine Comedy by Dante<sup>42</sup>
 </blockquote>
 
 <hr/>
@@ -36,14 +36,14 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
 One prominent researcher used Dante's phrase "a mind in love" [see the quote above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
-Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.⁵¹
+Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.<sup>51</sup>
 </blockquote>
 
 <hr/>
 
 <p>
 <blockquote>
-Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.¹
+Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -77,16 +77,16 @@ von Neumann's definition of ordinal numbers is the standard definition still use
 
 <p>
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (Albert Einstein's alma mater) and a PhD in mathematics from Pázmány Péter University in Budapest.
-The chemical engineering degree was undertaken under the advice of his father, a pragmatically-minded banker.
+The chemical engineering degree was undertaken upon the advice of his father, a pragmatically-minded banker.
 It wasn't a typical parental pressure situation though.
 von Neumann and his father brainstormed options and together decided on chemical engineering.<sup>1</sup>
 </p>
 
 <p>
-He dodged the problem of "do what makes you money or do what you're passionate about" situation by doing both at the same time.
+He dodged "do what makes you money or do what you're passionate about" by doing both at the same time.
 He completed both degrees in 1926.
-He received his PhD in mathematics Summa Cum Laude, with minors in both experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, thereby qualifying himself to be a university professor.<sup>1</sup>
+He received his PhD in mathematics Summa Cum Laude, with minors in experimental physics and chemistry.
+He then completed his Habilitation, which is like a European postdoc, which qualifyied him to be a university professor.<sup>1</sup>
 </p>
 
 <hr/>
@@ -119,24 +119,23 @@ Research is never contracted or directed. It is left to each individual research
 <p>
 A not-so-well-known fact about the IAS is that it's completely separate from Princeton University.
 While there are collaborations and programs that informally link the two, and they're in the same town, it's a completely separate institution.
-The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, NJ.
+The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, New Jersey.
 The store was called "Bamberger's". It sold clothes and stuff.<sup>14</sup>
 </p>
 
 <p>
 I used to live and work in Central New Jersey, not far from Princeton.
-I used to love visiting Princeton; thinking about the history, seeing the historic places, and just the town overall.
-It's a beautiful town.
+I loved visiting Princeton: thinking about the history, seeing the historic places, and just the town overall.
+It's a really nice town.
 </p>
 
 <p>
-I remember once, when I was driving around Princeton, seeing a sign for Stellarator Road.
+I remember once, when driving in Princeton, seeing a sign for a road named Stellarator Road.
 "Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.<sup>29</sup>
 
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
-...
-The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.<sup>29</sup>
+...The stellarator was invented by American scientist Lyman Spitzer in 1951. Much of its early development was carried out by Spitzer's team at what became the Princeton Plasma Physics Laboratory (PPPL). Spitzer's Model A began operation in 1953 and demonstrated plasma confinement.<sup>29</sup>
 </blockquote>
 
 <p>
@@ -156,7 +155,7 @@ The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, 
 
 <p>
 Princeton is a beautiful town with a nice university campus.
-Many of the campus buildings are in gray stone in a "Collegiate Gothic" architectural style.<sup>30</sup>
+Many buildings on campus are in gray stone in a "Collegiate Gothic" architectural style.<sup>30</sup>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
@@ -180,7 +179,7 @@ Many of the campus buildings are in gray stone in a "Collegiate Gothic" architec
 <br/>
 
 <p>
-One time when I lived in central New Jersey, my dad traveled from out of state to meet me, and we met in Princeton. 
+One time when I lived in central New Jersey, my dad traveled from out of state to meet me. We met in Princeton. 
 I asked for us to rendevous at John von Neumann's house.
 I said it a bit tongue-in-cheek, as though we were meeting at an old friend's house.
 And we did: we met at John von Neumann's house.
@@ -198,7 +197,7 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
 
 <p>
 After meeting at the house, we walked to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
-On the same trip, my dad and I visited the Institute for Advanced study. We walked along the trails in the Institute Woods, which are open to the public.
+On the same trip, we visited the Institute for Advanced study. We walked on the trails in the Institute Woods, which are open to the public.
 </p>
 
 <p>
@@ -216,7 +215,7 @@ Lingering on Kurt Gödel for a minute:
 Kurt Friedrich Gödel...was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century (at a time when Bertrand Russell, Alfred North Whitehead, and David Hilbert were using logic and set theory to investigate the foundations of mathematics), building on earlier work by Frege, Richard Dedekind, and Georg Cantor.
 </blockquote> 
 
-In 2021, I bought a copy of a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
+In 2021, I bought a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
