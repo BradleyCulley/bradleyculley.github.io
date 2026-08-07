@@ -237,6 +237,8 @@ With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a 
 
 <p>
 Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel is purely mathematical symbols.
+
+TODO: add an image or two I took of a page/pages in the book.
 </p>
 
 <p>
