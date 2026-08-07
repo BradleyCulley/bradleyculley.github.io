@@ -144,7 +144,7 @@ I'd (vaugely) heard of the Stellarator and so when I saw the road name I thought
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 14px;">The design of a Stellerator reactor<sup>28</sup></div>
+  <div style="font-size: 12px;">The design of a Stellerator reactor<sup>28</sup></div>
 </div>
 
 <p>
@@ -242,7 +242,7 @@ TODO: add an image or two I took of a page/pages in the book with mathematical s
 </p>
 
 <p>
-The tonal difference with Gödel is one of my absolute favorite things from <i>Selected Letters</i>. 
+The tonal difference with Gödel is one of my absolute favorite things about <i>Selected Letters</i>. 
 </p>
 
 <hr/>
@@ -250,12 +250,12 @@ The tonal difference with Gödel is one of my absolute favorite things from <i>S
 <p>
 Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
 As with when my father visited, my friend and I went to the Institute Woods.
-This is a photo I took that day, of some of the Institute buildings, taken from the walking trails in the Institute Woods:
+This is a photo I took that day, of some IAS buildings, taken from the walking trails in the Institute Woods:
 </p>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
-    <div style="font-size: 14px;">You can kind of feel the intelligence and serenity emanating from the IAS</div>
+    <div style="font-size: 12px;">You can kind of feel the intelligence and serenity emanating from the IAS</div>
 </div>
 
 <p>
@@ -277,14 +277,14 @@ One of the alums was (or had recently been, I can't remember) a fellow at the IA
 
 <p>
 As mentioned above, IAS fellows don't have any specific required professional duties whatsoever.
-The alum said something like that although you could technically do nothing all day, the <i>environment itself</i> of the IAS makes you want to do great work.
+The alum said something like that although you could technically do nothing all day, the environment itself of the IAS makes you want to do great work.
 I still think about that sometimes. It sounds awesome.
 </p>
 
 <hr/>
 
 <p>
-von Neumann's memory was prodigious. 
+von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 
 <blockquote>
@@ -305,17 +305,17 @@ A Princeton Professor of Byzantine History once said that he would only attend o
 </blockquote>
 
 <blockquote>
-You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.<br/>
+You know, Herb, Johnny can do calculations in his head ten times as fast as I can. And I can do them ten times as fast as you can, so you can see how impressive Johnny is.<br/><br/>
 -Enrico Fermi (Nobel Prize in Physics, 1938)<sup>17</sup>
 </blockquote>
 
 <blockquote>
-One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.<br/>
+One had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch.<br/><br/>
 -Eugene Wigner (Nobel Prize in Physics, 1963) speaking about von Neumann's brain<sup>17</sup>
 </blockquote>
 
 <blockquote>
-I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.<br/>
+I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.<br/><br/>
 -Eugene Wigner (Nobel Prize in Physics, 1963)<sup>20</sup>
 </blockquote>
 
@@ -323,7 +323,7 @@ I have known a great many intelligent people in my life. I knew Max Planck, Max 
 There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
 I came to a certain theorem, and I said it is not proved and it may be difficult. 
 von Neumann didn’t say anything but after five minutes he raised his hand. 
-When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.<br/>
+When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.<br/><br/>
 -George Pólya<sup>17</sup>
 </blockquote>
 
@@ -332,8 +332,8 @@ When I called on him he went to the blackboard and proceeded to write down the p
 <p>
 von Neumann was extremely professionally productive. 
 He made seminal scientific discoveries across multiple disciplines.
-He did deeply influential work in geopolitics and with the US military in particular, including a key role in winning World War II.
-That's a rare combination: elite scientific work and elite public sector work.
+He did deeply influential work in geopolitics and with the US military in particular, including playing a key role in winning World War II.
+That's a rare combination: elite scientific impact and elite public sector impact.
 </p>
 
 <p>
@@ -341,7 +341,7 @@ Major themes of his life include mathematics, politics, the military, physics, a
 
 In each of those, he was world-changingly successful. Some examples:
 <h3>Mathematics</h3>
-<p>He was a fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
+<p>von Neumann was a fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
 <blockquote>
 By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
@@ -356,13 +356,13 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
 He was instrumental in the design of the second atomic bomb.<sup>13</sup>
-And so he was a key part of—it would not be hyperbole to say—saving the world from Nazism.
 </p>
 
 <h3>Physics</h3>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
-That's in part because physics is a more squarely in the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
-In terms of scale, see the note at the end of this section stating that the scale of his work in physics (which, as you can see, is immense) was diminutive in comparison with his work in mathematics.
+That's in part because physics is a more part of the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
+And as you'll see, the scale of his work in physics was immense.
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
@@ -379,15 +379,15 @@ Von Neumann's proof inaugurated a line of research that ultimately led, through 
 </blockquote>
 
 <blockquote>
-In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere.[218] Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!³⁶], this interpretation never gained acceptance among the majority of physicists.<sup>1</sup>
-</blockquote>
-
-<blockquote>
-Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.<sup>1</sup>
+In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere. Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!<sup>36</sup>], this interpretation never gained acceptance among the majority of physicists.<sup>1</sup>
 </blockquote>
 
 <blockquote>
 The density matrix was introduced, with different motivations, by von Neumann and by Lev Landau. The motivation that inspired Landau was the impossibility of describing a subsystem of a composite quantum system by a state vector. On the other hand, von Neumann introduced the density matrix in order to develop both quantum statistical mechanics and a theory of quantum measurements. He introduced the expression now known as von Neumann entropy by arguing that a probabilistic combination of pure states is analogous to a mixture of ideal gases. Von Neumann first published on the topic in 1927. His argument was built upon earlier work by Albert Einstein and Leo Szilard.<sup>37</sup>
+</blockquote>
+
+<blockquote>
+Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -410,9 +410,9 @@ Quantum logic remains in use among logicians and interests are expanding through
 During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.<sup>1</sup>
 </blockquote>
 
-Note the "While not as prolific in physics as he was in mathematics"<sup>1</sup> part here:
+Note the "While not as prolific in physics as he was in mathematics"<sup>1</sup> part here (!):
 <blockquote>
-While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.<sup>1</sup>
+While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's [a 2020 Nobel Prize winner in physics!] twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.<sup>1</sup>
 </blockquote>
 
 <h3>Meteorology</h3>
