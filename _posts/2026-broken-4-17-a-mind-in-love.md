@@ -973,10 +973,10 @@ Sources:
 
 
 Maybe include this about the stamp created for him: https://postalmuseum.si.edu/object/npm_2005.2021.29
+Maybe include this 
 
 
-
-To consider keeping:
+Consider including a photo that's here of von Neumann and Feynmann: https://physicstoday.aip.org/features/memories-of-feynman
 
 <p>Year ago, in the introduction to a college textbook for a course I took on Buddhism,
 there was a description of a person (a historian, as I recall) looking at a Buddha statue.
