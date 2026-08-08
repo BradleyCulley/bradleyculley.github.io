@@ -488,7 +488,7 @@ Numbers are to be represented in binary notation. He estimates 27 binary digits 
 <p>
 He was involved in the von Neumann Architecture in 1945. 1945!
 As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
-And he was successful in both.
+He was successful in both.
 </p>
 
 Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating that.
@@ -496,12 +496,19 @@ Scientific Computing: using computers to help do science. This is pretty much th
 Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.<sup>1</sup>
 </blockquote>
 
+<p>
+From the perspective of the 21st century, the following is quite an understatement:
+</p>
 <blockquote>
 From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems.<sup>1</sup>
 </blockquote>
 
 <p>
-He invented Merge Sort in 1945.<sup>1</sup>
+These days virtually all science is computationally-enabled, if not computationally-driven, and driven by AI in particular.
+</p>
+
+<p>
+von Neumann invented Merge Sort in 1945.<sup>1</sup>
 Merge sort is half of the standard sorting algorithm implementation (Timsort) used in billions of software systems worldwide.<sup>23</sup>  
 </p>
 
@@ -526,7 +533,7 @@ Open-source computing:
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
 
-He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity is perhaps the single most spoken-about and pressing topic on people's minds these days.
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity ("is AI going to replace all jobs?", "when will AI replace all jobs?") is perhaps the single most discussed topic in today's world.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.<sup>18</sup>
 </blockquote>
@@ -535,91 +542,96 @@ The first person to use the concept of a "singularity" in the technological cont
 He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
-<p>
-The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own, straightforwardly-named, Wikipedia page: [List of things named after John von Neumann](https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann) <sup>4</sup>.<br/>
+<hr/>
 
-This is the list, which is still a subset of his total body of work<sup>4</sup>:<br/>
-Birkhoff–von Neumann algorithm<br/>
-Birkhoff–von Neumann theorem<br/>
-Birkhoff–von Neumann decomposition<br/> 
-Dirac–von Neumann axioms<br/>
-Koopman–von Neumann classical mechanics<br/>
-Schatten–von Neumann norm<br/>
-Stone–von Neumann theorem<br/>
-Taylor–von Neumann–Sedov blast wave<br/>
-von Neumann algebra<br/>
-Abelian von Neumann algebra<br/>
-Enveloping von Neumann algebra<br/>
-Finite-dimensional von Neumann algebra<br/>
-von Neumann architecture<br/>
-von Neumann bicommutant theorem<br/>
-von Neumann bounded set<br/>
-Von Neumann bottleneck<br/>
-von Neumann cardinal assignment<br/>
-von Neumann cellular automaton<br/>
-von Neumann conjecture<br/>
-von Neumann constant<br/>
-Computer virus<br/>
-Murray–von Neumann coupling constant<br/>
-Jordan–von Neumann constant<br/>
-Density matrix<br/>
-Direct integral<br/>
-von Neumann's elephant<br/>
-von Neumann entropy<br/>
-von Neumann entanglement entropy<br/>
-von Neumann equation<br/>
-von Neumann extractor<br/>
-von Neumann-Wigner interpretation<br/>
-von Neumann–Wigner theorem<br/>
-von Neumann measurement scheme<br/>
-von Neumann mutual information<br/>
-von Neumann machines<br/>
-Von Neumann's mean ergodic theorem<br/>
-von Neumann neighborhood<br/>
-von Neumann ordinal<br/>
-von Neumann paradox<br/>
-von Neumann probe<br/>
-von Neumann programming languages<br/>
-von Neumann regular ring<br/>
-von Neumann spectral theorem<br/>
-von Neumann stability analysis<br/>
-von Neumann universal constructor<br/>
-von Neumann universe<br/>
-von Neumann–Bernays–Gödel set theory<br/>
-von Neumann–Morgenstern utility theorem<br/>
-von Neumann's inequality<br/>
-Monte Carlo method<br/>
-Quantum statistical mechanics<br/>
-Quantum mutual information<br/>
-Continuous geometry<br/>
-Game theory<br/>
-Minimax theorem<br/>
-Quantum logic<br/>
-Hilbert's fifth problem<br/>
-Commutation theorem<br/>
-Hyperfinite type II factor<br/>
-Stochastic computing<br/>
-Ultrastrong topology<br/>
-Self-replication<br/>
-von Neumann's theorem<br/>
-von Neumann's trace inequality<br/>
-Weyl–von Neumann theorem<br/>
-Wigner-Von Neumann bound state in the continuum<br/>
-Wold–von Neumann decomposition<br/>
-Zel'dovich–von Neumann–Döring detonation model<br/>
-von Neumann spike<br/>
-22824 von Neumann (a minor planet)<br/>
-IEEE John von Neumann Medal<br/>
-John von Neumann Award<br/>
-John von Neumann Center (JVNC) at Princeton University (1985-1990), part of the Consortium for Scientific Computing<br/>
-John von Neumann Computer Society<br/>
-John von Neumann Environmental Research Institute of the Pacific<br/>
-John von Neumann Lecture<br/>
-von Neumann (crater)<br/>
-John von Neumann (sculpture)<br/>
-John von Neumann Theory Prize<br/>
-John von Neumann University<br/>
+<p>
+The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own Wikipedia article: <a href="https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann" target="_blank">List of things named after John von Neumann</a><sup>4</sup>.<br/>
+
+This is the list, which is still but a subset of his total body of work<sup>4</sup>:<br/>
 </p>
+
+<ul>
+    <li>Birkhoff–von Neumann algorithm</li><br/>
+    <li>Birkhoff–von Neumann theorem</li><br/>
+    <li>Birkhoff–von Neumann decomposition</li><br/> 
+    <li>Dirac–von Neumann axioms</li><br/>
+    <li>Koopman–von Neumann classical mechanics</li><br/>
+    <li>Schatten–von Neumann norm</li><br/>
+    <li>Stone–von Neumann theorem</li><br/>
+    <li>Taylor–von Neumann–Sedov blast wave</li><br/>
+    <li>von Neumann algebra</li><br/>
+    <li>Abelian von Neumann algebra</li><br/>
+    <li>Enveloping von Neumann algebra</li><br/>
+    <li>Finite-dimensional von Neumann algebra</li><br/>
+    <li>von Neumann architecture</li><br/>
+    <li>von Neumann bicommutant theorem</li><br/>
+    <li>von Neumann bounded set</li><br/>
+    <li>Von Neumann bottleneck</li><br/>
+    <li>von Neumann cardinal assignment</li><br/>
+    <li>von Neumann cellular automaton</li><br/>
+    <li>von Neumann conjecture</li><br/>
+    <li>von Neumann constant</li><br/>
+    <li>Computer virus</li><br/>
+    <li>Murray–von Neumann coupling constant</li><br/>
+    <li>Jordan–von Neumann constant</li><br/>
+    <li>Density matrix</li><br/>
+    <li>Direct integral</li><br/>
+    <li>von Neumann's elephant</li><br/>
+    <li>von Neumann entropy</li><br/>
+    <li>von Neumann entanglement entropy</li><br/>
+    <li>von Neumann equation</li><br/>
+    <li>von Neumann extractor</li><br/>
+    <li>von Neumann-Wigner interpretation</li><br/>
+    <li>von Neumann–Wigner theorem</li><br/>
+    <li>von Neumann measurement scheme</li><br/>
+    <li>von Neumann mutual information</li><br/>
+    <li>von Neumann machines</li><br/>
+    <li>Von Neumann's mean ergodic theorem</li><br/>
+    <li>von Neumann neighborhood</li><br/>
+    <li>von Neumann ordinal</li><br/>
+    <li>von Neumann paradox</li><br/>
+    <li>von Neumann probe</li><br/>
+    <li>von Neumann programming languages</li><br/>
+    <li>von Neumann regular ring</li><br/>
+    <li>von Neumann spectral theorem</li><br/>
+    <li>von Neumann stability analysis</li><br/>
+    <li>von Neumann universal constructor</li><br/>
+    <li>von Neumann universe</li><br/>
+    <li>von Neumann–Bernays–Gödel set theory</li><br/>
+    <li>von Neumann–Morgenstern utility theorem</li><br/>
+    <li>von Neumann's inequality</li><br/>
+    <li>Monte Carlo method</li><br/>
+    <li>Quantum statistical mechanics</li><br/>
+    <li>Quantum mutual information</li><br/>
+    <li>Continuous geometry</li><br/>
+    <li>Game theory</li><br/>
+    <li>Minimax theorem</li><br/>
+    <li>Quantum logic</li><br/>
+    <li>Hilbert's fifth problem</li><br/>
+    <li>Commutation theorem</li><br/>
+    <li>Hyperfinite type II factor</li><br/>
+    <li>Stochastic computing</li><br/>
+    <li>Ultrastrong topology</li><br/>
+    <li>Self-replication</li><br/>
+    <li>von Neumann's theorem</li><br/>
+    <li>von Neumann's trace inequality</li><br/>
+    <li>Weyl–von Neumann theorem</li><br/>
+    <li>Wigner-Von Neumann bound state in the continuum</li><br/>
+    <li>Wold–von Neumann decomposition</li><br/>
+    <li>Zel'dovich–von Neumann–Döring detonation model</li><br/>
+    <li>von Neumann spike</li><br/>
+    <li>22824 von Neumann (a minor planet)</li><br/>
+    <li>IEEE John von Neumann Medal</li><br/>
+    <li>John von Neumann Award</li><br/>
+    <li>John von Neumann Center (JVNC) at Princeton University (1985-1990), part of the Consortium for Scientific Computing</li><br/>
+    <li>John von Neumann Computer Society</li><br/>
+    <li>John von Neumann Environmental Research Institute of the Pacific</li><br/>
+    <li>John von Neumann Lecture</li><br/>
+    <li>von Neumann (crater)</li><br/>
+    <li>John von Neumann (sculpture)</li><br/>
+    <li>John von Neumann Theory Prize</li><br/>
+    <li>John von Neumann University</li><br/>
+</ul>
 
 <p>
 von Neumann's many other professional contributions include the fruits of his informal collaborations with other luminaries, as well as his classified military work (that's therefore not public), including on the Manhattan project.
@@ -629,35 +641,43 @@ von Neumann's many other professional contributions include the fruits of his in
 
 <p>
 Personality-wise, he was social and boisterous.
-Kurt Gödel, a famous mathematician who also worked at the Institute for Advanced Study around the same time, was a bit socially awkward. 
-For example, Gödel told the judge in his citizenship hearing that he'd found a constitutional loophole that could let The United States become a dictatorship ([Gödel's Loophole](https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole))<sup>48</sup>.
-The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with nerds by then, and shooed Gödel along through the hearing.
+Contrast that with Kurt Gödel, was at least somewhat socially awkward. 
+For example, when Gödel was at the court hearing for becoming a US Citizen, he told the judge that he'd found a constitutional loophole that could let The United States become a dictatorship <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole" target="_blank">Gödel's Loophole</a><sup>48</sup>.
+The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with eccentric people by then, and just moved Gödel along through the process.
 </p>
 
 <p>
-von Neumann loved parties, loud music, and off-color jokes.
-He was a fun dude.
+von Neumann loved parties, loud music, and off-color jokes. TODO: add citation
 </p>
 
 <p>
-I read somewhere that America suited him better than it suited most of the other luminaries who fled Europe around the time of WWII.
+I read somewhere that America suited von Neumann better than it suited most of the other luminaries who fled Europe around the time of WWII.
 That seems true. It also seems true that, reciprocally, he suited America.
 </p>
 
 <p>
+The following are some of the ways in which there was a match been von Neumann and America:
+
 <h4>1. Patriotic</h4>
 <p>
 von Neumann was an extremely patriotic American.
-"Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age."<sup>1</sup>
-Note that lieutenant is the lowest rank among officers.
-He was a world-famous mathematician, ready to go through boot camp (Officer Candidate School), and he was dead serious.
-Escaping both communism and the Holocaust were probably the motivating factors.
 </p>
 
+<blockquote>
+Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age.<sup>1</sup>
+</blockquote>
+
 <p>
+Lieutenant is the lowest rank among officers: an entry-level job.
+He was a world-famous mathematician with the same job as Albert Einstein, ready to go through boot camp (Officer Candidate School), and he was dead serious.
+The reason is probably that he escaped both communism and the Holocaust.
+</p>
+
 <h4>2. A folksy sense of humor</h4>
+
+<p>
 He was serious about his work, yet lighthearted and playful in his outlook on life.
-He had a folksy sense of human: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".<sup>1</sup>
+He had a folksy sense of humor: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".<sup>1</sup>
 </p>
 
 <h4>3. Low-key and folksy overall, but locked in when it was "prime time"</h4>
@@ -694,13 +714,16 @@ Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
 <h4>5. Technocratic and techno-optimistic, sometimes to a fault</h4>
+<p>
+Computers, science, bombs, etc.
+</p>
 
 <hr/>
 
 <p>
-Conversely, he suited America well.
+Conversely, von Neumann suited America well.
 He helped America win WWII. Later, he helped position America to win the Cold War via pioneering work on intercontinental ballistic missiles.
-He contributed greatly to American scholarship and to many American institutions.
+He contributed greatly to American scholarship and American institutions.
 </p>
 
 <p>
@@ -710,7 +733,7 @@ It doesn't get much more "well-suited" to America than the Presidential Medal of
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Medal-of-Freedom.jpg" />
-    <div style="font-size: 16px; font-style: italic;">von Neumann receiving the Presidential Medal of Freedom from President Dwight Eisenhower⁵²</div>
+    <div style="font-size: 12px;">von Neumann receiving the Presidential Medal of Freedom from President Dwight Eisenhower<sup>52</sup></div>
 </div>
 
 <hr/>
@@ -721,11 +744,14 @@ He was a great leader, in both academic and military contexts.
 
 <p>
 He was a good husband and father, yet was once divorced.
-His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir"<sup>49</sup>:
+His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Martian's Daughter: A Memoir"<sup>49</sup>.
 "The Martians" (Hungarian: "A marslakók") were a group of prominent scientists (mostly, but not exclusively, physicists and mathematicians) of Hungarian Jewish descent who emigrated from Europe to the United States in the early half of the 20th century."<sup>16</sup>
 </p>
 
-The term "Martian" comes via Leo Szilard, himself most famous for conceiving the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
+<p>
+The term "Martian" comes via Leo Szilard, who's most famous for having conceived the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
+</p>
+
 <blockquote>
 The universe is vast, containing myriads of stars ... likely to have planets circling around them. ... The simplest living things will multiply, evolve by natural selection and become more complicated till eventually active, thinking creatures will emerge. ... Yearning for fresh worlds ... they should spread out all over the Galaxy. These highly exceptional and talented people could hardly overlook such a beautiful place as our Earth. – "And so," Fermi came to his overwhelming question, "if all this has been happening, they should have arrived here by now, so where are they?" – It was Leo Szilard, a man with an impish sense of humor, who supplied the perfect reply to the Fermi Paradox: "They are among us," he said, "but they call themselves Hungarians."¹⁶
 </blockquote>
@@ -733,16 +759,15 @@ The universe is vast, containing myriads of stars ... likely to have planets cir
 <p>
 Marina is, as her father was, intellectually brilliant and highly successful.
 She graduated at the top of her class at Radcliff (now Harvard), received a PhD from Colombia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
-"[Marina] wrote that he was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
-In her memoir, she speaks highly of her father, who by all accounts was about as good and as supportive of a father as one could hope for.
+"[Marina] wrote that [her father] was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
+In her memoir, she speaks highly of her father, who by all accounts was a good father.
 </p> 
 
 <p>
-von Neumann was ethnically and culturally Jewish.
-He was, however, more or less religiously agnostic.
-He was one of long line of areligious jewish intellectual titans.
+von Neumann was ethnically and culturally Jewish, but more or less religiously agnostic.
+He was one of long line of areligious Jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
-Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹
+Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judiasm doesn't have a concept of damnation.)
 </p>
 
 <p>He escaped Hungary before The Holocaust, so defeating Nazism was personal.</p>
@@ -750,38 +775,42 @@ Logically-minded as always, he said "So long as there is the possibility of eter
 <p>
 He also saw the effects of Soviet-era communism kicking off next door.
 Ukraine, which borders Hungary, joined the USSR in 1922 while he was still living in Hungary.
-In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930⁵⁰.
+In fact, nearly all the Union Republics of the Soviet Union had joined the USSR by the time von Neumann left for America in 1930<sup>50</sup>.
 </p>
 
 <blockquote>
-Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism. During a Senate committee hearing he described his political ideology as 'violently anti-communist, and much more militaristic than the norm'.¹
+Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism. During a Senate committee hearing he described his political ideology as 'violently anti-communist, and much more militaristic than the norm'.<sup>1</sup>
 </blockquote>
 
-<p>He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
+<p>
+He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
-One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It’s so boring."<sup>46</sup></p>
+One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It’s so boring."<sup>46</sup>
+</p>
 
-<p>I think it's the variety within von Neumann's traits that makes him so fascinating.
+<p>
+I think it's the variety of von Neumann's traits that makes him so fascinating.
 What a fascinatingly complex individual.
-What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?</p>
+What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?
+</p>
 
 ------------------------------------------
 <p>
 From <i>Selected Letters</i>:
+</p>
 
 <blockquote>
 Throughout much of his career, he led a double life: as an intellectual leader in the ivory tower of pure mathematics and as a man of action, in constant demand as an advisor, consultant and decision-maker to what is sometimes called the military-industrial complex of the United States. My own belief is that these two aspects of his double life, his wide-ranging activities as well as his strictly intellectual pursuits, were motivated by two profound convictions. The first was the overriding responsibility that each of us has to make full use of whatever intellectual capabilities we were endowed with. He had the scientist's passion for learning and discovery for its own sake and the genius's ego-driven concern for the significance and durability of his own contributions. The second was the critical importance of an environment of political freedom for the pursuit of the first, and for the welfare of mankind in general.
 I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
-In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.
-</blockquote>
+In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.<br/>
 
 -Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.
-</p>
+</blockquote>
 
 ------------------------------------------
 
 <blockquote>
-Oh, France won't matter.
+Oh, France won't matter.<br/>
 
 -von Neumann's prewar thoughts on World War II<sup>55</sup>
 </blockquote>
@@ -792,8 +821,8 @@ Oh, France won't matter.
 To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
 I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
--von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in *1945*, page 236.<br/>
-I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what he'd think of ChatGPT.
+-von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
+I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what von Neumann would think of ChatGPT.
 </blockquote>
 
 ------------------------------------------
@@ -804,7 +833,7 @@ In principle, he reasoned, there was no reason why some day a machine might not 
 </blockquote>
 
 <p>
-That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/AI superintelligence, in *1956*!
+That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/AI superintelligence, in <i>1956</i>!
 </p>
 
 ------------------------------------------
@@ -827,11 +856,15 @@ A mind in love with the truth.
 
 <h4>The Silliman Lectures</h4>
 
-> The Silliman Memorial Lectures, in honour of Hepsa Ely Silliman, are held at Yale University. They were funded by a legacy of 1883 left to the President and Fellows of Yale College. The College was requested to establish an annual course of lectures:
-_... to illustrate the presence and providence, the wisdom and goodness of God, as manifested in the natural and moral world._
+<blockquote>
+The Silliman Memorial Lectures, in honour of Hepsa Ely Silliman, are held at Yale University. They were funded by a legacy of 1883 left to the President and Fellows of Yale College. The College was requested to establish an annual course of lectures:
+<i>... to illustrate the presence and providence, the wisdom and goodness of God, as manifested in the natural and moral world.</i>
 Each lecture course would be published in a series as a memorial to Mrs Silliman.⁶
+</blockquote>
 
-> Von Neumann was invited to deliver the Silliman Lectures on _The Computer and the Brain_ in the spring of 1956⁶
+<blockquote>
+Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956⁶
+</blockquote>
 
 <p>
 The notes for the Silliman Lectures form the basis for Neumann's final book, published posthumously, and also named <i>The Computer and the Brain</i>⁴¹.
