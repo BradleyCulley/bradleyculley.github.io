@@ -456,21 +456,15 @@ ENIAC was Turing-complete and able to solve "a large class of numerical problems
 </blockquote>
 
 <p>
-In other words, the ENIAC was arguably the first real computer.
+In other words, the argument can be made that ENIAC was the first real computer. von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
 </p>
-
-von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
 
 <blockquote>
 During the Second World War, Von Neumann was a consultant to the Manhattan Project at Los Alamos, and was heavily involved in the intensive mathematical calculations needed to design the atomic bomb. In 1944 this need for calculating power led him to the ENIAC, a clumsy electronic behemoth built by the University of Pennsylvania for the US Army’s Ballistics Research Laboratory. Von Neumann collaborated with the designers of the ENIAC to produce a more effective design, which we now know as the stored-program computer – the blueprint for the post-war computer revolution.
 </blockquote>
 
-<blockquote>
-By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used...<sup>1</sup>
-</blockquote>
-
 <p>
-von Neumann consulted on the EDVAC project, which was a successor to the ENIAC computer:
+von Neumann also consulted on the EDVAC project, which was a successor to the ENIAC computer:
 </p>
 
 <blockquote>
