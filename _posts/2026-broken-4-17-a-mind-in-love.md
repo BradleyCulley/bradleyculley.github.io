@@ -972,7 +972,7 @@ Sources:
 
 
 
-
+Maybe include this about the stamp created for him: https://postalmuseum.si.edu/object/npm_2005.2021.29
 
 
 
