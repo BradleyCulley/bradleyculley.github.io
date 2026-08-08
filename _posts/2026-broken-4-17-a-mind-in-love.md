@@ -436,9 +436,7 @@ I shall now show that these are equivalent." Such a demonstration of Turing’s 
 </blockquote>
 
 <blockquote>
-(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the 
-first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, 
-Lefschetz, as well as hosts of smaller fry.")¹⁰
+(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, Lefschetz, as well as hosts of smaller fry.")¹⁰
 </blockquote>
 
 <p>
@@ -453,8 +451,7 @@ The first of those, the ENIAC, is pictured below. J. Robert Oppenheimer stands n
 
 About ENIAC:
 <blockquote>
-ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer,
-completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all.
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. pOther computers had some of these features, but ENIAC was the first to have them all.
 ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.<sup>12</sup>
 </blockquote>
 
