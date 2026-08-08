@@ -197,7 +197,16 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
 
 <p>
 After meeting at the house, we walked to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
-On the same trip, we visited the Institute for Advanced study. We walked on the trails in the Institute Woods, which are open to the public.
+</p>
+
+This is a photo of Einstein and von Neumann:
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Einstein-and-von-Neumann.jpg" />
+    <div style="font-size: 12px;">von Neumann is in the back row, just to the person to the left of Einstein<sup>56</sup></div>
+</div>
+
+<p>
+On the same trip, my dad and I visited the Institute for Advanced study. We walked on the trails in the Institute Woods, which are open to the public.
 </p>
 
 <p>
@@ -955,6 +964,7 @@ Sources:
 ⁵³: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
 ⁵⁴: https://physicsworld.com/a/von-neumanns-computer/ <br/>
 ⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
+⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 <br/>
 
 
