@@ -295,21 +295,20 @@ I still think about that sometimes. It sounds awesome.
 <p>
 von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
-TODO: add things about profound giftedness, which Santiago Gonzales has and which von Neumann quite possibly had as well.
 
-In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago was determined to be what's known as "profoundly gifted", a formal psychological designation (I avoid saying "diagnosis" here because it seems far from a disease, perhaps as far as can be, even).
+In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I avoid called it a "diagnosis" because it seems far from a disease or disorder).
 It seems to be that von Neumann would be considered profoundly gifted as well.
-This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:
+This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:<br/>
 
-1. Ability to see things from a variety of perspectives
-2. Advanced language skills
-3. Critical of self and others
-4. Early and rapid learning
-5. Intellectual curiosity
-6. Overexcitability
-7. Perfectionism
-8. Persistence
-9. Quirky and/or keen sense of humor
+1. Ability to see things from a variety of perspectives<br/>
+2. Advanced language skills<br/>
+3. Critical of self and others<br/>
+4. Early and rapid learning<br/>
+5. Intellectual curiosity<br/>
+6. Overexcitability<br/>
+7. Perfectionism<br/>
+8. Persistence<br/>
+9. Quirky and/or keen sense of humor<br/>
 10. Strong empathy and sense of justice<sup>57</sup>
 
 <blockquote>

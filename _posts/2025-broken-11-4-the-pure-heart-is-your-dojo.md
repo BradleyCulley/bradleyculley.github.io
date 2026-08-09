@@ -125,7 +125,7 @@ And yet the earlier you start being a decent person, the stronger the effect.
 
 2. Unassuming
 
-I once read that the single biggest external marker of a decent person is being _unassuming_ --TODO cite Chris Ebbert post about that
+I once read the opinion that the single biggest external marker of a decent person is being _unassuming_ --TODO cite Chris Ebbert post about that
 We've all met people like this. They don't take themselves too seriously; they have an aura of transparency and solidity.
 Every plumber I've ever met was like this. The pure heart.
 
