@@ -116,13 +116,12 @@ You can never hope to get it right all the time, but what you can hope to do is 
  
 Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't stop eating for a while, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 
-Thinking of virtue as being a monk 
 When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
 This is especially true for young people, for whom the message is most critical.
-Most people have zero interest in being a monk and will never be a monk.
+Most people have zero interest in being a monk.
 
-The lives of the famous saints in various religions, pretty much all of them sound, to be blunt, not particularly fun, especially if you're like 14 years old.
-And yet the earlier you start being a decent person, the stronger is the effect.
+The lives of the famous saints in various religions, pretty much all of them, sound, to be blunt, not particularly fun, especially if you're like 14 years old.
+And yet the earlier you start being a decent person, the stronger the effect.
 
 2. Unassuming
 
