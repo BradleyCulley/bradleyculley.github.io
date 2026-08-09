@@ -36,10 +36,6 @@ These aphorisms often involved "leadership", which was in vogue in the early 200
 Think the school principal on stage in the auditorium, or the baseball coach above the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
 </p>
 
-<p>
-It sounds like a platitude—"be good"—but it goes deeper than that.
-</p>
-
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
 <blockquote>
