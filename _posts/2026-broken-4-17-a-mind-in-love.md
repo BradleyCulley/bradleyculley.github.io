@@ -297,6 +297,21 @@ von Neumann's intellectual abilities were prodigious.
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 TODO: add things about profound giftedness, which Santiago Gonzales has and which von Neumann quite possibly had as well.
 
+In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago was determined to be what's known as "profoundly gifted", a formal psychological designation (I avoid saying "diagnosis" here because it seems far from a disease, perhaps as far as can be, even).
+It seems to be that von Neumann would likely be considered profoundly gifted as well.
+This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:
+
+1. Ability to see things from a variety of perspectives
+2. Advanced language skills
+3. Critical of self and others
+4. Early and rapid learning
+5. Intellectual curiosity
+6. Overexcitability
+7. Perfectionism
+8. Persistence
+9. Quirky and/or keen sense of humor
+10. Strong empathy and sense of justice<sup>57</sup>
+
 <blockquote>
 Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:<br/>
 One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation.
@@ -965,6 +980,7 @@ Sources:
 ⁵⁴: https://physicsworld.com/a/von-neumanns-computer/ <br/>
 ⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
 ⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
+⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
 <br/>
 
 
