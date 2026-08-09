@@ -10,10 +10,21 @@ Talk about theodicy
 
 Include this video from Elliot - Rachel Grimes: bloodroot: https://www.youtube.com/watch?v=g3RR1Wg_DCE
 
-Maybe talk about Heiddegerian Factity, Gerworfenheit, and Dasein 
+Maybe talk about Heiddegerian Factity, Gerworfenheit, and Dasein
 
 Talk about Kurt Vonnegut and his writings. In particular, first, his experience in Dresden and his sentence about the bone dust mixed into the ground there.
 And second, his mention of the marathon runner, dead from old age on a stretcher in a hospital.
+
+These lines from People Watching by Sam Fender:
+
+<blockquote>
+I used to feel so invincible
+I used to feel there was a world worth dreamin' of
+Back in the Gasworks, screamin' the song
+Just the beauty of youth would quell my aching heart
+Oh, I feel so dark rememberin'
+Oh, my heart, I feel so dark rememberin'
+</blockquote>
 
 Why do we not teach this in schools?
 Forget church, forget fairly tales, teach the world as it is - both the good (the potential in life) and the bad (the world is rudderless, theodicy ain't real).
