@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" />
-</div> -- TODO add citation: https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg
+</div> --TODO add citation: https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg
 <div align="center">
-Charles Ponzi
+Charles Ponzi, namesake of the Ponzi Scheme --TODO: add citation
 </div>
 <br>
 <div align="center">
@@ -16,7 +16,29 @@ Charles Ponzi
 
 ---
 
-TODO: put the background about the priest, etc. first
+<p>
+In college, I trained with a Japanese Buddhist priest.
+He used to tell me, over and over, "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
+As I recall, he would usually say it Japanese, then in English right after.
+A "dojo" is a traditional Japanese place of mental and physical training: a place of refuge and strength.
+The idea of the quotation is that being a decent person is the final and most important protection you have against the storms of life.
+</p>
+
+<p>
+He conveyed that saying, "jikishin kore dojo" - "the pure heart is your dojo" with a deliberate solumness.
+As I recall, he would often say it in Japanese first, and then in English.
+As a 19/20-year-old kid, I sort of wrote it off.
+</p>
+
+<p>
+I saw "jikishin kore dojo" as another vague aphorism wielded by an adult in my life.
+These aphorisms often involved "leadership", which was in vogue in the early 2000s.
+Think the school principal on stage in the auditorium, or the baseball coach above the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
+</p>
+
+<p>
+It sounds like a platitude—"be good"—but it goes deeper than that.
+</p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
@@ -69,18 +91,6 @@ The Future Buddha preached the Doctrine to him, subdued him, made him self-denyi
 Having admonished the ogre to be heedful, the youth departed from the forest, and at the mouth of the forest told his story to human beings; then went his way.
 </blockquote> -https://ia601406.us.archive.org/30/items/Birdsfrogsandmirrors/JosephCampbell%20-%20The%20Hero%20With%20a%20Thousand%20Faces%20Commemorative%20Edition.pdf
 maybe change to get quote from here? https://themythologyproject.com/prince-five-weapons/?utm_source=chatgpt.com
-
-<p>
-In college, I trained with a Japanese Buddhist priest.
-He used to tell me, over and over, "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
-As I recall, he would usually say it Japanese, then in English right after.
-A "dojo" is a traditional Japanese place of mental and physical training: a place of refuge and strength.
-The idea of the quotation is that being a decent person is the final and most important protection against the storms of life.
-</p>
-
-<p>
-It sounds like a platitude — "be good" — but it goes deeper than that.
-</p>
 
 <hr/>
 
@@ -233,15 +243,6 @@ That fits with "jikishin kore dojo", because it's about controlling the inputs (
 <p>
 I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
 He had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard University.
-</p>
-
-<p>
-He conveyed that saying, "jikishin kore dojo" - "the pure heart is your dojo" with careful seriousness, many times.
-He would, as I recall, generally say it in Japanese first and then in English, ensuring that I understood.
-At the time, it didn't stick much in my psyche.
-I saw it as another of the vague aphorisms sometimes wielded by the adults in my life.
-These aphorisms often involved "leadership", which was in particularly vogue in my social milieu in the early 2000s.
-Think the school principal on stage in the auditorium, or the baseball coach addressing us in the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
 </p>
 
 <p>
