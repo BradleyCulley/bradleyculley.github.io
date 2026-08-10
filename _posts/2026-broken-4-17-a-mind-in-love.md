@@ -228,6 +228,7 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
+    <div style="font-size: 12px;">my copy of <i>Selected Letters</i></div>
 </div>
 
 <p>
