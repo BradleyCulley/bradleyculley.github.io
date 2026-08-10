@@ -231,7 +231,7 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
 </div>
 
 <p>
-In the book, von Neumann takes an affable yet professional tone with most people with whom he corresponds.
+In the book, von Neumann takes an affable yet professional tone with many of those with whom he corresponds.
 </p>
 
 <p>
@@ -239,7 +239,7 @@ With Gödel, he gets right to it.
 After minimal pleasantries, he dives into the math they're discussing.
 
 To me, von Neumann's tone with Gödel shows great friendship and great respect.
-With the latter, it seems von Neumann saw Gödel as a true intellectual peer; a notable designation.
+With the latter, it seems von Neumann saw Gödel as an intellectual peer; a notable designation.
 </p>
 
 <p>
@@ -247,7 +247,7 @@ Like many of the letters in <i>Selected Letters</i>, much of the content of the 
 </p>
 
 <p>
-The tonal difference with Gödel is one of my absolute favorite things about <i>Selected Letters</i>. 
+The tonal difference with Gödel is one of my favorite things about <i>Selected Letters</i>. 
 </p>
 
 <hr/>
