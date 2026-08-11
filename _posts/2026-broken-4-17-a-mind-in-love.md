@@ -41,6 +41,8 @@ Another researcher wrote that, for the gifted, love of learning is "not a matter
 
 <hr/>
 
+<h3>Early Life</h3>
+
 <p>
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.<sup>1</sup>
@@ -77,13 +79,12 @@ von Neumann's definition of ordinal numbers is the standard definition still use
 
 <p>
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (Albert Einstein's alma mater) and a PhD in mathematics from Pázmány Péter University in Budapest.
-The chemical engineering degree was undertaken upon the advice of his father, a pragmatically-minded banker.
-It wasn't a typical parental pressure situation though.
-von Neumann and his father brainstormed options and together decided on chemical engineering.<sup>1</sup>
+His dad, a pragmatically-minded banker, recommended the chemical engineering degree.
+It wasn't a typical parental pressure situation though: von Neumann and his father brainstormed options and together decided on chemical engineering<sup>1</sup>.
 </p>
 
 <p>
-He dodged "do what makes you money or do what you're passionate about" by doing both at the same time.
+It seems he dodged "do what makes you money or do what you're passionate about" by doing both.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, which qualifyied him to be a university professor.<sup>1</sup>
@@ -100,8 +101,14 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
-Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
-He remained a professor at the Institute for Advanced Study for the rest of his life.<sup>44</sup>
+Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS), which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
+Incidentally, tenured professor at the IAS was also Albert Einstein's job for the last 12 years of Einstein's life.
+</p>
+
+<p>
+In fact, Einstein and von Neumann were two of the first four people hired by the IAS<sup>59</sup>.
+The four were John von Neumann, Kurt Gödel, Hermann Weyl, and Albert Einstein<sup>59</sup>.
+von Neumann remained a professor at the Institute for Advanced Study for the rest of his life<sup>44</sup>.
 </p>
 
 <hr/>
@@ -202,7 +209,7 @@ After meeting at the house, we walked to Kurt Gödel's house, which is right nea
 This is a photo of Einstein and von Neumann:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Einstein-and-von-Neumann.jpg" />
-    <div style="font-size: 12px;">von Neumann is in the back row, just to the person to the left of Einstein<sup>56</sup></div>
+    <div style="font-size: 12px;">von Neumann is in the back row, just to the left of the person to the left of Einstein<sup>56</sup></div>
 </div>
 
 <p>
@@ -967,5 +974,6 @@ Sources:
 ⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
 ⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 ⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
-⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge
+⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge <br/>
+⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein
 <br/>
