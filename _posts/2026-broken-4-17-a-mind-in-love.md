@@ -355,9 +355,19 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 <h3>Politics and the military</h3>
 <p>
 He did critical work on the Manhattan project.
-Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive. 
-He was instrumental in the design of the second atomic bomb.<sup>13</sup>
+Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
+He was instrumental in the design of the second atomic bomb, and therefore, to winning World War II.<sup>13</sup>
 </p>
+
+<blockquote>
+Von Neumann made his principal contribution to the atomic bomb in the concept and design of the explosive lenses that were needed to compress the plutonium core of the Fat Man weapon that was later dropped on Nagasaki. While von Neumann did not originate the "implosion" concept, he was one of its most persistent proponents, encouraging its continued development against the instincts of many of his colleagues, who felt such a design to be unworkable. He also eventually came up with the idea of using more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly".<br/>
+
+When it turned out that there would not be enough uranium-235 to make more than one bomb and also that plutonium-239 could not be used in the Thin man bomb, the implosive lens project was greatly expanded and von Neumann's idea was implemented. Implosion was the only method that could be used with the plutonium-239 that was available from the Hanford Site. He established the design of the explosive lenses required, but there remained concerns about "edge effects" and imperfections in the explosives. His calculations showed that implosion would work if it did not depart by more than 5% from spherical symmetry. After a series of failed attempts with models, this was achieved by George Kistiakowsky, and the construction of the Trinity bomb was completed in July 1945.<sup>1</sup>
+</blockquote>
+
+<blockquote>
+For his wartime services, von Neumann was awarded the Navy Distinguished Civilian Service Award in July 1946, and the Medal for Merit in October 1946.<sup>1</sup>
+</blockquote>
 
 <h3>Physics</h3>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
@@ -957,8 +967,5 @@ Sources:
 ⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
 ⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 ⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
+⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge
 <br/>
-
-
-
-Consider including a photo that's here of von Neumann and Feynmann: https://physicstoday.aip.org/features/memories-of-feynman
