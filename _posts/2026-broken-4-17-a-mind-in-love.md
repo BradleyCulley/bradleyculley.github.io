@@ -231,26 +231,6 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
     <div style="font-size: 12px;">my copy of <i>Selected Letters</i></div>
 </div>
 
-<p>
-In the book, von Neumann takes an affable yet professional tone with many of those with whom he corresponds.
-</p>
-
-<p>
-With Gödel, he gets right to it.
-After minimal pleasantries, he dives into the math they're discussing.
-
-To me, von Neumann's tone with Gödel shows great friendship and great respect.
-With the latter, it seems von Neumann saw Gödel as an intellectual peer; a notable designation.
-</p>
-
-<p>
-Like many of the letters in <i>Selected Letters</i>, much of the content of the letters to Gödel is purely mathematical symbols.
-</p>
-
-<p>
-The tonal difference with Gödel is one of my favorite things about <i>Selected Letters</i>. 
-</p>
-
 <hr/>
 
 <p>
@@ -293,8 +273,8 @@ I still think about that sometimes. It sounds awesome.
 von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 
-In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I avoid called it a "diagnosis" because it seems far from a disease or disorder).
-It seems to be that von Neumann would be considered profoundly gifted as well.
+In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I hesitate to call it a "diagnosis" because it seems far from a disease or disorder).
+It seems to me that von Neumann was profoundly gifted as well.
 This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:<br/>
 
 1. Ability to see things from a variety of perspectives<br/>
@@ -667,7 +647,7 @@ The judge, who'd previously run Albert Einstein's citizenship hearing, was appar
 </p>
 
 <p>
-von Neumann loved parties, loud music, and off-color jokes. TODO: add citation
+von Neumann loved parties, loud music, and off-color jokes<sup>1</sup>.
 </p>
 
 <p>
@@ -981,21 +961,4 @@ Sources:
 
 
 
-
-
-
-Maybe include this about the stamp created for him: https://postalmuseum.si.edu/object/npm_2005.2021.29
-Maybe include this 
-
-
 Consider including a photo that's here of von Neumann and Feynmann: https://physicstoday.aip.org/features/memories-of-feynman
-
-<p>Year ago, in the introduction to a college textbook for a course I took on Buddhism,
-there was a description of a person (a historian, as I recall) looking at a Buddha statue.
-The person remarked that, within thousands of years of very checkered human history, here is an idealogy (Buddhism)
-that's unequivocally something of which we humans can be proud.</p>
-
-<p>
-In a world largely centered on negativity, I feel similarly about von Neumann's worldview and achievements: his life and work, both personal and professional.
-</p>
-
