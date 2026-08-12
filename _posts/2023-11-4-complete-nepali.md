@@ -62,7 +62,7 @@ Schmidt's book is particularly excellent. It's available here: <a href="https://
 <hr/>
 
 <p>
-I was greatly aided, especially after the study abroad program, by speaking with native speakers. They humored my struggles.
+I was greatly aided, especially after the study abroad program, by speaking with native speakers.
 </p>
 
 <p>
