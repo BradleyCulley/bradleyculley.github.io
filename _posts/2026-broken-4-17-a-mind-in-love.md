@@ -102,7 +102,7 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
 Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS), which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
-Incidentally, tenured professor at the IAS was also Albert Einstein's job for the last 12 years of Einstein's life.
+Tenured professor at the IAS was also Albert Einstein's job for the last 12 years of Einstein's life<sup>59</sup>.
 </p>
 
 <p>
@@ -114,7 +114,7 @@ von Neumann remained a professor at the Institute for Advanced Study for the res
 <hr/>
 
 <p>
-The Institute for Advanced Study (IAS) is an interesting institution. 
+The Institute for Advanced Study (IAS) is an interesting place. 
 
 <blockquote>
 [The] guiding principle in founding the institute was the pursuit of knowledge for its own sake. 
