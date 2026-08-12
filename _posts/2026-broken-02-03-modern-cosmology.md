@@ -34,8 +34,8 @@ The professor, Dr. Marek Demiański, is a renowned cosmologist, so we learned fr
 
 <p>
 Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a cosmological investigation device that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to better understand the early universe<sup>3</sup>.
-In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. Anisotropies just means variations. In this case, variations in the temperature of the CMBR depending on which part of the sky one looks at. This is an image (from a different satellite) showing these types of variations:
-TODO add this image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WMAP_2010.png/960px-WMAP_2010.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
+In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. Anisotropies just means variations. In this case, variations in the temperature of the CMBR depending on which part of the sky one looks at. This is an image, produced by the Planck satellite, showing those variations:
+TODO add this image: https://en.wikipedia.org/wiki/Cosmic_microwave_background#/media/File:Cosmic_Microwave_Background_(CMB).jpeg
 </p>
 
 ____________________________________
