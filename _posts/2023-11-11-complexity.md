@@ -31,7 +31,7 @@ Everything from semi-funky relationships to remembering to get an oil change.<br
 I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
 It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
 In Japanese culture, there's a popular idea of "Subtraction thinking" ([https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com](https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com)).
-In other words, <i>eliminate the problem, rather than adding a solution to the problem</i>. A big difference.<br/><br/>
+In other words, <i>eliminate the problem, rather than adding a solution to the problem</i>.<br/><br/>
 4. Complexity removal "shortcuts",  like going "off-grid" in an RV in a national park.
 Being off-grid an RV in a national park means that you'll going to have to figure out your showering situation.
 A gravity-fed shower you hang from a tree branch, for example.
