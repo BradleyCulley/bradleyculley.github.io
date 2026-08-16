@@ -25,6 +25,8 @@
     He worked on the book, at least in part, while knowing he had cancer.
 </p>
 
+<hr/>
+
 <p>
 Sagan displayed a profound inquisitiveness from an early age.
 </p>
@@ -38,11 +40,11 @@ Sagan displayed a profound inquisitiveness from an early age.
 <p>
     <i>The City of Grief</i> speaks to Sagan's experience interacting with the public.
     He put out an open request, via Parade Magazine, for responses from the public to his ideas on skepticism and scientific inquiry.
-    What surprised Sagan the most was how many of the responses were indicative of a person in significant emotional, psychological, and just overall "life" distress.
+    What surprised Sagan the most was how many of the responses were indicative of a person in significant emotional, psychological, and just overall life distress.
 </p>
 
 <p>
-    Moving in the circles of high academia had perhaps sheltered him.
+    Moving in the circles of high academia had perhaps sheltered Sagan.
 </p>
 
 <p>
