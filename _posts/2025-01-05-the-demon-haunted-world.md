@@ -1,5 +1,4 @@
-## <div align="center">The Demon-Haunted World<div>
-<div style="font-size: 25px; font-weight: bold;" align="center">by Carl Sagan</div><br/>
+## <div align="center">The Demon-Haunted World, by Carl Sagan<div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/The_Demon-Haunted_World.jpg" />
