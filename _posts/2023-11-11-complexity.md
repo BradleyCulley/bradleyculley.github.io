@@ -60,7 +60,7 @@ Low diathesis. I don’t blame the average American for their own structural vic
 Years ago, I saw an interview with a man who was seeking help in life, for himself and his 3 children. I certainly felt for him and his situation.
 Yet after a moment the thought came to mind: if you weren't 100% sure you could provide for your first child, why did you have the first child? Surely not a second? And a third?
 
-Also years ago, I read a short essay by a man who had adopted a child when he was around 50 years old.
+Also years ago, I read an online post by a man who had adopted a child when he was around 50 years old.
 By that time, he was established in his career - as an MD/PhD oncologist, as it happened.
 He was also settled into his romantic relationship with his partner. He was in excellent shape financially.<br/><br/>
 In fact, he gave up one of his two roles: research or clinical medicine (I don't recall which) in order to spend more time with his child.
