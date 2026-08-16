@@ -191,7 +191,6 @@ Roger Penrose won 2021 Nobel Prize in physics, as it so happens. But my understa
 A few years later, while I was also working at a restaurant, I ended up tutoring (for the SAT and ACT) the son of the chair of the astronomy department at Cornell University. I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
 </li>
 
-
 <li>
 Despite all the research efforts directed at this, we still have no idea "where the universe comes from".
 Or, put another way, "why it exists"/"why there's something rather than absolutely nothing". 
