@@ -28,7 +28,7 @@ It's finding a good real estate agent, researching the neighborhood, home inspec
 2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
 Everything from semi-unpleasant relationships to remembering to get an oil change.<br/><br/>
 3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
-I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
+I've never done drugs, but they seem to often add massive life complexity.
 It would be interesting to couch things that way when talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
 In Japanese culture, there's a popular idea of "Subtraction thinking" ([https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com](https://www.ilii.jp/ili-zine/book/20240919-2.html?utm_source=chatgpt.com)).
 In other words, <i>eliminate the problem, rather than adding a solution to the problem</i>.<br/><br/>
