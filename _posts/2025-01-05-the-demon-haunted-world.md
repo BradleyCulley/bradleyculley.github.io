@@ -90,8 +90,8 @@ as cited on page 179 of the book¹
 <hr/>
 
 <p>
-    Getting arrested for a cause is perhaps emblematic of Sagan more generally.
-    He was an Ivy League professor. He was associated at various times with UChicago, Harvard, and Cornell
+    Getting arrested for a cause is perhaps emblematic of the breadth of Sagan's life and work.
+    He was an Ivy League professor. He was associated at various times with UChicago, Harvard, and Cornell.
     He did cutting-edge astrophysics research, published over 600 scientific publications and more than 20 books, and even wrote a Pulitzer Prize-winning book.
     He was also a deeply successful mainstream popular culture figure. He wrote the novel for the highly successful Hugo Award-winning film <i>Contact</i>, and created and hosted the wildly popular TV show <i>Cosmos</i>, which won two Emmy awards and a Peabody Award.
 </p>

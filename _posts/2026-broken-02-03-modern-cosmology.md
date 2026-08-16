@@ -14,7 +14,7 @@ An Introduction to Modern Cosmology 2nd Edition, by Andrew Liddle<sup>1</sup>
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
 </div>
 <div align="center">
-Me in the 90s
+Me in the '90s
 </div>
 
 <br/>
@@ -57,7 +57,7 @@ There are also these two reactions in the book:
 and
 
 <blockquote>
-p+e− ←→ n + νe <br/><br/>
+p + e− ←→ n + νe <br/><br/>
 -page 139⁴
 </blockquote>
 
@@ -88,7 +88,7 @@ https://cdn.sci.esa.int/.../1567216028060-ESA_Planck... (note where it says "for
 
 <p>
 This is of course a model, and as I understand some of the details are contested. But my understanding from taking the class, and learning elsewhere, is that the overall picture is pretty well-accepted.
-The reason it's hard to know for sure is that we can't observe the early universe. But, there are some workaround, like the Cosmic Microwave Background Radiation. Particle accelerators are another way to investigate the early universe.
+The reason it's hard to know for sure is that we can't observe the early universe. But, there are some workaround like the Cosmic Microwave Background Radiation and particle accelerators.
 </p>
 
 ____________________________________
@@ -136,7 +136,7 @@ In particular, he claims that there are ringlike structures in the CMBR that are
 
 Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
 
-Memorably, the professor taught us about this theory during the only time we had class outdoors, on the science quad lawn.
+Memorably, Professor Demianski taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
 
 Roger Penrose won 2021 Nobel Prize in physics, as it so happens. But my understanding is that the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted.
 
