@@ -14,10 +14,7 @@ Reasoning:
     Further evidence, in both humans and AIs, is what in AI is called "transfer learning".<br/><br/>
     "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task."
     -[https://machinelearningmastery.com/transfer-learning-for-deep-learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning)<br/><br/>
-    Humans do transfer learning too! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor.<br/><br/>
-    A background in engineering helps with becoming a lawyer, even.
-    My father is a lawyer. He said people with STEM degrees (engineering, mathematics, medicine, etc.) did very well in law school.
-    In fact, they generally did better than people with "pre-law" degrees.<br/><br/>
+    Humans do transfer learning too! It's easier for an engineer to become a doctor, than it is for a random person to become a doctor. Likewise for an engineer becoming a lawyer, even.<br/><br/>
     Professor Yann LeCun makes the distinction between artificial general intelligence (AGI) and "human-level intelligence".
     LeCun is the head of AI at Facebook/Meta, and a Turing Award laureate (equivalent to the Nobel Prize in computer science) for his foundational work on AI.<br/><br/>
     _LeCun says human intelligence is actually quite narrow._
@@ -25,7 +22,7 @@ Reasoning:
     That's illustrated in the header image above.<br/><br/>
 
 2. **As far as the jobs humans have, those jobs have already been optimized around the parts of the computational universe (the Ruliad) that machines can't handle.**<br/><br/>
-   People have long predicted that technological innovations, such as automobiles, would on balance destroy jobs. Spoiler: they haven't. In fact, as we've automated more, there's been more work available to be done. This is known as Jevons Paradox, named after an observation made by the English economist William Stanley Jevons in 1865. -[https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). To quote:
+   People have long predicted that technological innovations, such as automobiles, would on balance destroy jobs. The reality is that they haven't. In fact, as we've automated more, there's been more work available to be done. This is known as Jevons Paradox, named after an observation made by the British economist William Stanley Jevons in 1865. -[https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). To quote:
 
 > British economist William Stanley Jevons first presented his eponymous paradox in his 1865 book, “The Coal Question,” where he noted that more efficient steam engines had not led to a decrease in the use of coal in British factories as many believed, but increased the use as the fossil fuel became cheaper and more engines and factories were built.<br/><br/> “Efficiency can backfire by making a resource so cheap that everyone uses it more,” Piao summarizes, noting that British coal consumption tripled by 1900.
 
