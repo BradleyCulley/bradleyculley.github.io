@@ -359,7 +359,7 @@ By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of 
 In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.<sup>13</sup>
 </blockquote>
 
-<h3>Politics and the military</h3>
+<h3>Politics and the Military</h3>
 <p>
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
