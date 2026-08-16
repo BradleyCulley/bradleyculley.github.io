@@ -9,7 +9,7 @@
 
 Reasoning:
 1. The key idea of this essay is: <b>I think the different jobs people do are not very computationally distinct.</b><br/><br/>
-    Being a lawyer versus being a construction worker versus being an engineer.<br/><br/>
+    For example, being a lawyer versus being a construction worker versus being an engineer.<br/><br/>
     They seem quite distinct. That's because, within the space of all possible computations, we're "zoomed in" on the kinds of computations that a human can get paid to do.<br/><br/>
     Further evidence, in both humans and AIs, is what in AI is called "transfer learning".<br/><br/>
     "Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task."
