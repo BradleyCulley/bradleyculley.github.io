@@ -26,7 +26,7 @@ That's only after the fact, though. In the midst of it, they're high complexity 
 One doesn't just buy a home. 
 It's finding a good real estate agent, researching the neighborhood, home inspections, radon, termites, smoke alarms, mold, interest rates, mortgage applications, credit lines, debt-to-income ratios, resale potential, market trends, neighbors, HVAC, water drainage slopes, water infiltration, structural issues, "Buyers are Liars & Sellers are Too!" ([tinyurl.com/5n6vey23](http://tinyurl.com/5n6vey23)), price and tax history, zoning, HOAs, ADUs, flood zones, liens, water potability, earnest money, attorneys, title searches, closing companies, boundary surveys, moving vans, and so on.<br/><br/>
 2. The mind underestimates its current level of complexity. If one actually writes down all the thing one's "managing" at a given time, it tends to be a surprisingly long list.
-Everything from semi-funky relationships to remembering to get an oil change.<br/><br/>
+Everything from semi-troubling relationships to remembering to get an oil change.<br/><br/>
 3. The mind takes on new complexity as a way to distract from existing complexity. Drugs are a good example.
 I've never done drugs or alcohol, but they seem to immediately add massive life complexity.
 It would be interesting to couch things in that way talking to kids about drugs. Might be more effective than a moralizing approach.<br/><br/>
