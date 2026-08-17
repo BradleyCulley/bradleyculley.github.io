@@ -494,7 +494,7 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 </blockquote>
 
 <p>
-von Neumann chronicled (although he didn't invent) the internal organizational architecture used in the EDVAC, which is still the architecture used in almost all computers today.
+von Neumann chronicled (although didn't invent) the internal organizational architecture used in the EDVAC, which is still the architecture used in almost all computers today.
 It's called the von Neumann architecture.<sup>34</sup>
 
 The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
