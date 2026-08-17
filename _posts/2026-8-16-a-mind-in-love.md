@@ -722,15 +722,11 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 -Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.
 </blockquote>
 
-<hr/>
-
 <blockquote>
 Oh, France won't matter.<br/>
 
 -von Neumann's prewar thoughts on World War II<sup>55</sup>
 </blockquote>
-
-------------------------------------------
 
 <blockquote>
 To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
@@ -739,8 +735,6 @@ I need not tell you that I shall be very gladly at your disposal at any time whe
 -von Neumann to Commodore Louis L. Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
 I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what von Neumann would think of ChatGPT.
 </blockquote>
-
-------------------------------------------
 
 <blockquote>
 In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/>
@@ -751,7 +745,7 @@ In principle, he reasoned, there was no reason why some day a machine might not 
 That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/superintelligence, in <i>1956</i>!
 </p>
 
-------------------------------------------
+<hr/>
 
 <p>
 von Neumann can't be easily characterized monofactorially, but this description is pretty good:
