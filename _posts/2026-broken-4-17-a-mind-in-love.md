@@ -1,4 +1,4 @@
-# <div align="center">A Mind in Love<div>
+# <div align="center">A Mind in Love</div>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/JohnvonNeumann.gif" />
@@ -35,15 +35,14 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
-One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yield an almost sensual ecstasy."
-Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.<sup>51</sup>
+One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yield an almost sensual ecstasy.
+Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive."<sup>51</sup>
 </blockquote>
 
 <hr/>
 
 <h3>Early Life</h3>
 
-<p>
 <blockquote>
 Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hungary), on December 28, 1903, to a wealthy, non-observant Jewish family. His birth name was Neumann János Lajos. In Hungarian, the family name comes first, and his given names are equivalent to John Louis in English.<sup>1</sup>
 </blockquote>
@@ -79,7 +78,7 @@ von Neumann's definition of ordinal numbers is the standard definition still use
 
 <p>
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (Albert Einstein's alma mater) and a PhD in mathematics from Pázmány Péter University in Budapest.
-His dad, a pragmatically-minded banker, recommended the chemical engineering degree.
+His dad, a pragmatically minded banker, recommended the chemical engineering degree.
 It wasn't a typical parental pressure situation though: von Neumann and his father brainstormed options and together decided on chemical engineering<sup>1</sup>.
 </p>
 
@@ -87,7 +86,7 @@ It wasn't a typical parental pressure situation though: von Neumann and his fath
 It seems he dodged "do what makes you money or do what you're passionate about" by doing both.
 He completed both degrees in 1926.
 He received his PhD in mathematics summa cum laude, with minors in experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc and qualified him to be a university professor.<sup>1</sup>
+He then completed his Habilitation, which is like a European postdoc. His Habilitation qualified him to be a university professor.<sup>1</sup>
 </p>
 
 <hr/>
@@ -126,7 +125,7 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
 I skipped around in the book and didn't read all of it, but it was good.
 Among other things, it was interesting to see how polite and socially dexterous he was.
 It was also interesting to see how he adjusted his communication style when speaking with people in administrative roles versus when speaking with mathematicians and scientists.
-I recall that he was more "to-the-point" when speaking with mathematicians and scientists, dispensing a bit with the pleasantries.
+I recall that he was more "to the point" when speaking with mathematicians and scientists, dispensing a bit with the pleasantries.
 I think it was fewer pleasantries in a positive way; rather like how one talks with an old friend.
 </p>
 
@@ -246,7 +245,7 @@ You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/Gen
 
 <p>
 Another time, years later, I visited a friend who lived near the IAS.
-As with when my father visited, my friend and I went to the Institute Woods.
+Just as when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some IAS buildings, taken from the walking trails in the Institute Woods:
 </p>
 
@@ -273,7 +272,7 @@ One of the alums was (or had recently been, I don't remember) a fellow at the IA
 
 <p>
 As mentioned above, IAS fellows don't have any specific required professional duties whatsoever.
-The alum said something like that although you could technically do nothing all day, the environment itself of the IAS makes you want to do great work.
+The alum said something like this: although you could technically do nothing all day, the environment itself of the IAS makes you want to do great work.
 I still think about that sometimes. It sounds awesome.
 </p>
 
@@ -283,7 +282,7 @@ I still think about that sometimes. It sounds awesome.
 von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 
-In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I hesitate to call it a "diagnosis" because it seems far from a disease or disorder).
+In the article I mentioned above, about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I hesitate to call it a "diagnosis" because it doesn't seem like a disease or disorder).
 It seems to me that von Neumann was profoundly gifted as well.
 This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:<br/>
 
@@ -312,7 +311,7 @@ He knew Hungarian, French, German and English fluently, and maintained a convers
 </blockquote>
 
 <blockquote>
-A Princeton Professor of Byzantine History once said that he would only attend one of von Neumann’s famous parties if von Neumann promised not to bring up the subject of Byzantine history, because many thought the professor to be the world’s foremost expert on the subject, and he did not want anyone to know that that title might actually belong to von Neumann.<sup>47</sup>
+A Princeton Professor of Byzantine History once said that he would only attend one of von Neumann's famous parties if von Neumann promised not to bring up the subject of Byzantine history, because many thought the professor to be the world's foremost expert on the subject, and he did not want anyone to know that that title might actually belong to von Neumann.<sup>47</sup>
 </blockquote>
 
 <blockquote>
@@ -343,6 +342,8 @@ That's a rare combination: elite scientific impact and elite political impact.
 Major themes of his life include mathematics, politics, the military, physics, and computing.
 
 In each of those, he was world-changingly successful. Some examples:
+</p>
+
 <h3>Mathematics</h3>
 <p>von Neumann was fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
@@ -375,7 +376,7 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
 That's in part because physics has a greater presence in the public consciousness than mathematics does (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
-And as you'll see, the scale (and importance) of his work in physics was immense.
+And as you'll see, the scale and importance of his work in physics were immense.
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
@@ -435,8 +436,8 @@ He co-founded computerized weather forecasting!
 von Neumann was on the ground floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
 
 <blockquote>
-Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
-I shall now show that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.<sup>10</sup>
+Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing's first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
+I shall now show that these are equivalent." Such a demonstration of Turing's power of proof must have caught von Neumann's attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.<sup>10</sup>
 </blockquote>
 
 <blockquote>
@@ -464,7 +465,7 @@ In other words, the argument can be made that ENIAC was the first real computer.
 </p>
 
 <blockquote>
-During the Second World War, Von Neumann was a consultant to the Manhattan Project at Los Alamos, and was heavily involved in the intensive mathematical calculations needed to design the atomic bomb. In 1944 this need for calculating power led him to the ENIAC, a clumsy electronic behemoth built by the University of Pennsylvania for the US Army’s Ballistics Research Laboratory. Von Neumann collaborated with the designers of the ENIAC to produce a more effective design, which we now know as the stored-program computer – the blueprint for the post-war computer revolution.
+During the Second World War, Von Neumann was a consultant to the Manhattan Project at Los Alamos, and was heavily involved in the intensive mathematical calculations needed to design the atomic bomb. In 1944 this need for calculating power led him to the ENIAC, a clumsy electronic behemoth built by the University of Pennsylvania for the US Army's Ballistics Research Laboratory. Von Neumann collaborated with the designers of the ENIAC to produce a more effective design, which we now know as the stored-program computer – the blueprint for the post-war computer revolution.
 </blockquote>
 
 <p>
@@ -476,7 +477,7 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 </blockquote>
 
 <p>
-von Neumann chronicled (although he didn't invent) the internal organizational architecture used in the EDVAC, which is the architecture still used in almost all computers today.
+von Neumann chronicled (although he didn't invent) the internal organizational architecture used in the EDVAC, which is still the architecture used in almost all computers today.
 It's called the von Neumann architecture.<sup>34</sup>
 
 The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
@@ -523,7 +524,7 @@ He created the field of cellular automata through his rigorous mathematical trea
 </blockquote>
 
 <p>
-Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.<sup>13</sup>
+von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.<sup>13</sup>
 </p>
 
 <blockquote>
@@ -588,7 +589,6 @@ He had a folksy sense of humor: "Quite independently of his liking for abstract 
 Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.<sup>1</sup>
 </blockquote>
 
-<p>
 <h4>4. Extroverted</h4>
 <p>
 He was boisterous and gregarious. He liked parties.
@@ -684,7 +684,7 @@ Von Neumann entered government service primarily because he felt that, if freedo
 <p>
 He was conscientious in almost all areas of his life, yet was arrested multiple times for reckless driving (including for reading a book while driving).
 Driving was apparently too boring.
-One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It’s so boring."<sup>46</sup>
+One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. It's so boring."<sup>46</sup>
 </p>
 
 <p>
@@ -742,8 +742,8 @@ von Neumann can't be easily characterized monofactorially, but this description 
 </p>
 
 <blockquote>
-The unifying theme in von Neumann’s life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
-"Johnny’s most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level," wrote Klari [von Neumann's wife] after his death.
+The unifying theme in von Neumann's life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
+"Johnny's most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level," wrote Klari [von Neumann's wife] after his death.
 "Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer."²
 </blockquote>
 
@@ -780,7 +780,7 @@ He continued to work from his hospital room, including by consulting with top mi
 von Neumann took with him to the hospital the manuscript he was preparing for the Silliman Lectures.
 It was his singular professional focus during his final days.⁶
 It was during that hospital visit, at Walter Reed National Military Medical Center, that von Neumann passed away—from bone cancer—in early 1957.
-<p>
+</p>
 
 <blockquote>
 Towards the end, as cancer got hold of him and just before he received in 1956 a Medal of Freedom from President Dwight Eisenhower for his technical contributions to national defence, von Neumann asked in an article in Fortune magazine, "Can we survive technology?"
@@ -825,7 +825,6 @@ Sources:<br/>
 ²²: https://www.ias.edu/von-neumann <br/>
 ²³: https://en.wikipedia.org/wiki/Timsort <br/>
 ²⁴: https://www.pppl.gov/ <br/>
-²⁵: https://en.wikipedia.org/wiki/Stellarator <br/>
 ²⁶: https://performativebafflement.substack.com/p/john-von-neumann <br/>
 ²⁷: https://mathworld.wolfram.com/OrdinalNumber.html <br/>
 ²⁸: By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371 <br/>
@@ -848,17 +847,14 @@ Sources:<br/>
 ⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
 ⁴⁶: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
 ⁴⁷: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
-⁴⁸: https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole <br/>
-⁴⁹: Whitman, M. von N. (2012). The Martian’s daughter: A memoir. University of Michigan Press. <br/>
+⁴⁹: Whitman, M. von N. (2012). The Martian's daughter: A memoir. University of Michigan Press. <br/>
 ⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
-⁵¹: Tietz, J. (2011, December 8). Santiago’s brain. Rolling Stone, (1145 100), 78–87. <br/>
+⁵¹: Tietz, J. (2011, December 8). Santiago's brain. Rolling Stone, (1145 100), 78–87. <br/>
 ⁵²: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
 ⁵³: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
-⁵⁴: https://physicsworld.com/a/von-neumanns-computer/ <br/>
 ⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
 ⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 ⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
-⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge <br/>
 ⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
 ⁶⁰: https://eu.36kr.com/en/p/3646189182848648
 <br/>
