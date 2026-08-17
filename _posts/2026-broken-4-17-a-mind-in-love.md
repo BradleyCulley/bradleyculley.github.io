@@ -166,7 +166,7 @@ The name "stellarator" refers to stars because fusion mostly occurs in stars suc
 
 <p>
 I'd (vaugely) heard of the Stellarator (I think I thought it was a particle accelerator) and so when I saw the road name I was like "oh that's super cool".
-Physics doesn't have a lot of surface area in the everyday world, so to speak, so it was nice.
+Physics doesn't have a lot of visibility in the everyday world, so to speak, so it was nice to see.
 </p>
 
 <div align="center">
@@ -261,13 +261,14 @@ More photos I took in the Institute Woods that day:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_1.jpg" />
 </div>
+<br/>
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpg" />
 </div>
 
 <p>
 One time in college, I went to a panel at which alums talked about their life experiences.
-One of the alums was (or had recently been, I can't remember) a fellow at the IAS, doing theoretical physics research.
+One of the alums was (or had recently been, I don't remember) a fellow at the IAS, doing theoretical physics research.
 </p>
 
 <p>
@@ -798,7 +799,9 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
     <div style="font-size: 16px; font-style: italic;">⁵</div>
 </div>
 
-Sources:
+<br/><br/>
+
+Sources:<br/>
 ¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source) <br/>
 ²: https://www.ams.org/notices/200706/tx070600724p.pdf <br/>
 ³: https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html <br/>
