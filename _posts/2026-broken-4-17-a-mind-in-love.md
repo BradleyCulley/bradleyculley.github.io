@@ -35,7 +35,7 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
-One prominent researcher used Dante's phrase "a mind in love" [see the quote above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
+One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.<sup>51</sup>
 </blockquote>
 
@@ -101,7 +101,7 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
-Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study (IAS), which is in the same town as Princeton University (the town is named Princeton).<sup>14</sup>
+Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University.<sup>14</sup>
 Tenured professor at the IAS was also Albert Einstein's job for the last 12 years of Einstein's life<sup>59</sup>.
 </p>
 
@@ -109,6 +109,25 @@ Tenured professor at the IAS was also Albert Einstein's job for the last 12 year
 In fact, Einstein and von Neumann were two of the first four people hired by the IAS<sup>59</sup>.
 The four were John von Neumann, Kurt Gödel, Hermann Weyl, and Albert Einstein<sup>59</sup>.
 von Neumann remained a professor at the Institute for Advanced Study for the rest of his life<sup>44</sup>.
+</p>
+
+<hr/>
+
+<p>
+In 2021, I bought a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
+</p>
+
+<div align="center">
+    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
+    <div style="font-size: 12px;">my copy of <i>Selected Letters</i></div>
+</div>
+
+<p>
+I skipped around in the book and didn't read all of it, but it was good.
+Among other things, it was interesting to see how polite and socially dexterous he was.
+It was also interesting to see how he adjusted his communication style when speaking with people in administrative roles versus when speaking with mathematicians and scientists.
+I recall that he was more "to-the-point" when speaking with mathematicians and scientists, dispensing a bit with the pleasantries.
+I think it was fewer pleasantries in a positive way; rather like how one talks with an old friend.
 </p>
 
 <hr/>
@@ -124,21 +143,21 @@ Research is never contracted or directed. It is left to each individual research
 </blockquote>
 
 <p>
-A not-so-well-known fact about the IAS is that it's completely separate from Princeton University.
-While there are collaborations and programs that informally link the two, and they're in the same town, it's a completely separate institution.
+Interestingly, the IAS is completely separate from Princeton University.
+While there are collaborations and programs that informally link the two, and they're in the same town (the town is named Princeton), it's a completely separate institution.
 The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, New Jersey.
-The store was called "Bamberger's". It sold clothes and stuff.<sup>14</sup>
+The store was called "Bamberger's". It sold clothes and such.<sup>14</sup>
 </p>
 
 <p>
 I used to live and work in Central New Jersey, not far from Princeton.
 I loved visiting Princeton: thinking about the history, seeing the historic places, and just the town overall.
-It's a really nice town.
 </p>
 
 <p>
 I remember once, when driving in Princeton, seeing a sign for a road named Stellarator Road.
-"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically-confined.<sup>29</sup>
+"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically confined.<sup>29</sup>
+</p>
 
 <blockquote>
 The name "stellarator" refers to stars because fusion mostly occurs in stars such as the Sun.
@@ -146,7 +165,8 @@ The name "stellarator" refers to stars because fusion mostly occurs in stars suc
 </blockquote>
 
 <p>
-I'd (vaugely) heard of the Stellarator and so when I saw the road name I thought something like "oh that's super cool".
+I'd (vaugely) heard of the Stellarator (I think I thought it was a particle accelerator) and so when I saw the road name I was like "oh that's super cool".
+Physics doesn't have a lot of surface area in the everyday world, so to speak, so it was nice.
 </p>
 
 <div align="center">
@@ -187,7 +207,7 @@ Many buildings on campus are in gray stone in a "Collegiate Gothic" architectura
 
 <p>
 One time when I lived in central New Jersey, my dad traveled from out of state to meet me. We met in Princeton. 
-I asked for us to rendevous at John von Neumann's house.
+I asked for us to rendezvous at John von Neumann's house.
 I said it a bit tongue-in-cheek, as though we were meeting at an old friend's house.
 And we did: we met at John von Neumann's house.
 </p>
@@ -203,13 +223,13 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
 </p>
 
 <p>
-After meeting at the house, we walked to Kurt Gödel's house, which is right nearby. Albert Einstein's house is nearby too.
+After meeting at the house, we walked to Kurt Gödel's house (Kurt Gödel was a very famous mathematician), which is right nearby. Albert Einstein's house is nearby too.
 </p>
 
 This is a photo of Einstein and von Neumann:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Einstein-and-von-Neumann.jpg" />
-    <div style="font-size: 12px;">von Neumann is in the back row, just to the left of the person to the left of Einstein<sup>56</sup></div>
+    <div style="font-size: 13px;">von Neumann is in the back row, just to the left of the pillar<sup>56</sup></div>
 </div>
 
 <p>
@@ -225,30 +245,14 @@ You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/Gen
 <hr/>
 
 <p>
-Lingering on Kurt Gödel for a minute:
-
-<blockquote>
-Kurt Friedrich Gödel...was a logician, mathematician, and philosopher. Considered along with Aristotle and Gottlob Frege to be one of the most significant logicians in history, Gödel profoundly influenced scientific and philosophical thinking in the 20th century (at a time when Bertrand Russell, Alfred North Whitehead, and David Hilbert were using logic and set theory to investigate the foundations of mathematics), building on earlier work by Frege, Richard Dedekind, and Georg Cantor.
-</blockquote> 
-
-In 2021, I bought a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
-
-<div align="center">
-    <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
-    <div style="font-size: 12px;">my copy of <i>Selected Letters</i></div>
-</div>
-
-<hr/>
-
-<p>
-Getting back to the Institute for Advanced Study: another time, years later, I visited a friend who lived near the IAS.
+Another time, years later, I visited a friend who lived near the IAS.
 As with when my father visited, my friend and I went to the Institute Woods.
 This is a photo I took that day, of some IAS buildings, taken from the walking trails in the Institute Woods:
 </p>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_from_IAS_Woods.jpg" />
-    <div style="font-size: 12px;">You can kind of feel the intelligence and serenity emanating from the IAS</div>
+    <div style="font-size: 13px;">You can kind of feel intelligence and serenity emanating from the IAS</div>
 </div>
 
 <p>
@@ -260,8 +264,6 @@ More photos I took in the Institute Woods that day:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpg" />
 </div>
-
-<hr/>
 
 <p>
 One time in college, I went to a panel at which alums talked about their life experiences.
@@ -327,21 +329,13 @@ I have known a great many intelligent people in my life. I knew Max Planck, Max 
 -Eugene Wigner (Nobel Prize in Physics, 1963)<sup>20</sup>
 </blockquote>
 
-<blockquote>
-There was a seminar for advanced students in Zürich that I was teaching and von Neumann was in the class.
-I came to a certain theorem, and I said it is not proved and it may be difficult. 
-von Neumann didn’t say anything but after five minutes he raised his hand. 
-When I called on him he went to the blackboard and proceeded to write down the proof. After that I was afraid of von Neumann.<br/><br/>
--George Pólya<sup>17</sup>
-</blockquote>
-
 <hr/>
 
 <p>
 von Neumann was extremely professionally productive. 
 He made seminal scientific discoveries across multiple disciplines.
 He did deeply influential work in geopolitics and with the US military in particular, including playing a key role in winning World War II.
-That's a rare combination: elite scientific impact and elite public sector impact.
+That's a rare combination: elite scientific impact and elite political impact.
 </p>
 
 <p>
@@ -363,7 +357,7 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 <p>
 He did critical work on the Manhattan project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
-He was instrumental in the design of the second atomic bomb, and therefore, to winning World War II.<sup>13</sup>
+He was instrumental in the design of the second atomic bomb, and therefore, in winning World War II.<sup>13</sup>
 </p>
 
 <blockquote>
@@ -380,7 +374,7 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
 That's in part because physics is a more part of the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
-And as you'll see, the scale of his work in physics was immense.
+And as you'll see, the scale (and importance) of his work in physics was immense.
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
@@ -401,15 +395,7 @@ In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann d
 </blockquote>
 
 <blockquote>
-The density matrix was introduced, with different motivations, by von Neumann and by Lev Landau. The motivation that inspired Landau was the impossibility of describing a subsystem of a composite quantum system by a state vector. On the other hand, von Neumann introduced the density matrix in order to develop both quantum statistical mechanics and a theory of quantum measurements. He introduced the expression now known as von Neumann entropy by arguing that a probabilistic combination of pure states is analogous to a mixture of ideal gases. Von Neumann first published on the topic in 1927. His argument was built upon earlier work by Albert Einstein and Leo Szilard.<sup>37</sup>
-</blockquote>
-
-<blockquote>
 Quantum information theory is largely concerned with the interpretation and uses of von Neumann entropy, a cornerstone in the former's development; the Shannon entropy applies to classical information theory.<sup>1</sup>
-</blockquote>
-
-<blockquote>
-The formalism of density operators and matrices was introduced by von Neumann in 1927 and independently, but less systematically by Lev Landau and Felix Bloch in 1927 and 1946 respectively. The density matrix allows the representation of probabilistic mixtures of quantum states (mixed states) in contrast to wavefunctions, which can only represent pure states.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -445,15 +431,15 @@ He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
 
-von Neumann was on the ground-floor of the development of the modern computer. He was also a contemporary of Alan Turing, with whom he interacted professionally.
+von Neumann was on the ground-floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
 
 <blockquote>
 Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
-I shall now show that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.¹⁰
+I shall now show that these are equivalent." Such a demonstration of Turing’s power of proof must have caught von Neumann’s attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.<sup>10</sup>
 </blockquote>
 
 <blockquote>
-(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, Lefschetz, as well as hosts of smaller fry.")¹⁰
+(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, Lefschetz, as well as hosts of smaller fry.")<sup>10</sup>
 </blockquote>
 
 <p>
@@ -468,7 +454,7 @@ The first of those, the ENIAC, is pictured below. J. Robert Oppenheimer stands n
 
 About ENIAC:
 <blockquote>
-ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. pOther computers had some of these features, but ENIAC was the first to have them all.
+ENIAC (Electronic Numerical Integrator and Computer) was the first programmable, electronic, general-purpose digital computer, completed in 1945. Other computers had some of these features, but ENIAC was the first to have them all.
 ENIAC was Turing-complete and able to solve "a large class of numerical problems" through reprogramming.<sup>12</sup>
 </blockquote>
 
@@ -492,36 +478,30 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
 It's called The von Neumann Architecture.<sup>34</sup>
 
-The name is ironic, because von Neumann basically just wrote up notes on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup> 
-The write-up he did was a paper titled "First Draft of a Report on the EDVAC".
+The name is ironic, because von Neumann just wrote up notes/a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
+Also von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote were] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
+However, it's worth noting he was "in the room", so to speak: he was part of the discussions on the EDVAC.
 </p>
-
-<blockquote>
-The Von Neumann architecture consists of a single, shared memory for programs and data, a single bus for memory access, an arithmetic unit, and a program control unit.<sup>11</sup>
-...
-Numbers are to be represented in binary notation. He estimates 27 binary digits (he did not use the term "bit," which was coined by Claude Shannon in 1948 [note: three years later!]) would be sufficient (yielding 8 decimal place accuracy) but rounds up to 30-bit numbers with a sign bit and a bit to distinguish numbers from orders, resulting in a 32-bit word he calls a minor cycle. Two's complement arithmetic is to be used, simplifying subtraction. For multiplication and division, he proposes placing the binary point after the sign bit, which means all numbers are treated as being between −1 and +1[a] and therefore computation problems must be scaled accordingly.<sup>40</sup>
-</blockquote>
 
 <p>
-He was involved in the von Neumann Architecture in 1945. 1945!
+He wrote the notes in 1945. 1945!
 As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
-He was successful in both.
 </p>
 
-Scientific Computing: using computers to help do science. This is pretty much the core of how science is done these days, and AI is only accelerating that.
+von Neumann did deeply important work in scientific computing: using computers to help do science.
 <blockquote>
 Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.<sup>1</sup>
 </blockquote>
 
 <p>
-From the perspective of the 21st century, the following is quite an understatement:
+From the perspective of the 21st century, the following is an understatement:
 </p>
 <blockquote>
 From this work von Neumann realized that computation was not just a tool to brute force the solution to a problem numerically, but could also provide insight for solving problems analytically, and that there was an enormous variety of scientific and engineering problems towards which computers would be useful, most significant of which were nonlinear problems.<sup>1</sup>
 </blockquote>
 
 <p>
-These days virtually all science is computationally-enabled, if not computationally-driven, and driven by AI in particular.
+These days much of scientific discovery is computationally-enabled, if not computationally-driven, and driven by AI in particular.
 </p>
 
 <p>
@@ -550,7 +530,7 @@ Open-source computing:
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
 
-He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity ("is AI going to replace all jobs?", "when will AI replace all jobs?") is perhaps the single most discussed topic in today's world.
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity (AI replacing all jobs) is perhaps the single most discussed topic in today's world.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.<sup>18</sup>
 </blockquote>
@@ -565,20 +545,10 @@ He came up with the idea of the technological singularity in the <i>1950s</i>!
 The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own Wikipedia article: <a href="https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann" target="_blank">List of things named after John von Neumann</a><sup>4</sup>.<br/>
 </p>
 
-<p>
-von Neumann's many other professional contributions include the fruits of his informal collaborations with other luminaries, as well as his classified military work (that's therefore not public), including on the Manhattan project.
-</p>
-
 <hr/>
 
 <p>
 Personality-wise, he was social and boisterous.
-Contrast that with Kurt Gödel, was at least somewhat socially awkward. 
-For example, when Gödel was at the court hearing for becoming a US Citizen, he told the judge that he'd found a constitutional loophole that could let The United States become a dictatorship <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_Loophole" target="_blank">Gödel's Loophole</a><sup>48</sup>.
-The judge, who'd previously run Albert Einstein's citizenship hearing, was apparently familiar with eccentric people by then, and just moved Gödel along through the process.
-</p>
-
-<p>
 von Neumann loved parties, loud music, and off-color jokes<sup>1</sup>.
 </p>
 
@@ -588,11 +558,11 @@ That seems true. It also seems true that, reciprocally, he suited America.
 </p>
 
 <p>
-The following are some of the ways in which there was a match been von Neumann and America:
+The following are some of the ways in which there was a match between von Neumann and America:
 
 <h4>1. Patriotic</h4>
 <p>
-von Neumann was an extremely patriotic American.
+von Neumann was a very patriotic American.
 </p>
 
 <blockquote>
