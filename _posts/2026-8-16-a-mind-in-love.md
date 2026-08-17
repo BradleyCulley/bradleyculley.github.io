@@ -375,7 +375,7 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 <h3>Politics and the Military</h3>
 <p>
 He did critical work on the Manhattan Project.
-Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
+Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive.<sup>1</sup> 
 He was instrumental in the design of the second atomic bomb and therefore in winning World War II.<sup>13</sup>
 </p>
 
@@ -396,7 +396,7 @@ In terms of scale, see the note at the end of this section stating that the scal
 And as you'll see, the scale and importance of his work in physics were immense.
 
 <blockquote>
-Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i><sup>1</sup>.
+Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i>.<sup>1</sup>
 </blockquote>
 
 <i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328 pages in one of its editions, and he's the sole author<sup>35</sup>.
