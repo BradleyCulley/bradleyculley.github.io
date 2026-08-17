@@ -583,16 +583,13 @@ He had a folksy sense of humor: "Quite independently of his liking for abstract 
 </p>
 
 <h4>3. Low-key and folksy overall, but locked in when it was "prime time"</h4>
-<p>
-He had a taste for power and influence, yet wielded both in a laid-back way.
-</p>
 
 <blockquote>
 Many considered him an excellent chairman of committees, deferring rather easily on personal or organizational matters but pressing on technical ones.<sup>1</sup>
 </blockquote>
 
 <p>
-<h4>3. Extroverted</h4>
+<h4>4. Extroverted</h4>
 <p>
 He was boisterous and gregarious. He liked parties.
 </p>
@@ -606,18 +603,18 @@ He was boisterous and gregarious. He liked parties.
 </blockquote>
 
 <p>
-I can imagine him tailgating at a football game...a quintessentially American pastime.
+I can imagine him tailgating at a football game and having a great time.
 </p>
 
-<h4>4. Militaristic</h4>
+<h4>5. Militaristic</h4>
 <p>
 He participated in and strenghtend the American military-industrial complex.
 Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
-<h4>5. Technocratic and techno-optimistic, sometimes to a fault</h4>
+<h4>6. Technocratic and techno-optimistic, sometimes to a fault</h4>
 <p>
-Computers, science, bombs, etc.
+Solving the world's problems with computers, science, bombs, etc.
 </p>
 
 <hr/>
