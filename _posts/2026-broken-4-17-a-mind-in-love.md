@@ -35,7 +35,7 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
-One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yeild an almost sensual ecstasy."
+One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yield an almost sensual ecstasy."
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive.<sup>51</sup>
 </blockquote>
 
@@ -87,7 +87,7 @@ It wasn't a typical parental pressure situation though: von Neumann and his fath
 It seems he dodged "do what makes you money or do what you're passionate about" by doing both.
 He completed both degrees in 1926.
 He received his PhD in mathematics Summa Cum Laude, with minors in experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, which qualifyied him to be a university professor.<sup>1</sup>
+He then completed his Habilitation, which is like a European postdoc, which qualified him to be a university professor.<sup>1</sup>
 </p>
 
 <hr/>
@@ -156,7 +156,7 @@ I loved visiting Princeton: thinking about the history, seeing the historic plac
 
 <p>
 I remember once, when driving in Princeton, seeing a sign for a road named Stellarator Road.
-"Stellerator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically confined.<sup>29</sup>
+"Stellarator" is the name of a kind of nuclear fusion reactor architecture in which plasma is magnetically confined.<sup>29</sup>
 </p>
 
 <blockquote>
@@ -165,13 +165,13 @@ The name "stellarator" refers to stars because fusion mostly occurs in stars suc
 </blockquote>
 
 <p>
-I'd (vaugely) heard of the Stellarator (I think I thought it was a particle accelerator) and so when I saw the road name I was like "oh that's super cool".
+I'd (vaguely) heard of the Stellarator (I think I thought it was a particle accelerator) and so when I saw the road name I was like "oh that's super cool".
 Physics doesn't have a lot of visibility in the everyday world, so to speak, so it was nice to see.
 </p>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 13px;">The design of a Stellerator reactor<sup>28</sup></div>
+  <img src="https://bradleyculley.github.io/images/Stellarator.jpg" />
+  <div style="font-size: 13px;">The design of a Stellarator reactor<sup>28</sup></div>
 </div>
 
 <p>
@@ -326,7 +326,7 @@ One had the impression of a perfect instrument whose gears were machined to mesh
 </blockquote>
 
 <blockquote>
-I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-Iaw; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.<br/><br/>
+I have known a great many intelligent people in my life. I knew Max Planck, Max von Laue, and [Werner] Heisenberg. Paul Dirac was my brother-in-law; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. And I have known many of the brightest younger scientists. But none of them had a mind as quick and acute as Jancsi von Neumann. I have often remarked this in the presence of those men, and no one ever disputed me.<br/><br/>
 -Eugene Wigner (Nobel Prize in Physics, 1963)<sup>20</sup>
 </blockquote>
 
@@ -344,7 +344,7 @@ Major themes of his life include mathematics, politics, the military, physics, a
 
 In each of those, he was world-changingly successful. Some examples:
 <h3>Mathematics</h3>
-<p>von Neumann was a fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
+<p>von Neumann was fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
 <blockquote>
 By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
@@ -373,7 +373,7 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 
 <h3>Physics</h3>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
-That's in part because physics is a more part of the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+That's in part because physics is more part of the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
 And as you'll see, the scale (and importance) of his work in physics was immense.
 
@@ -432,7 +432,7 @@ He co-founded computerized weather forecasting!
 
 <h3>Computing</h3>
 
-von Neumann was on the ground-floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
+von Neumann was on the ground floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
 
 <blockquote>
 Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing’s first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
@@ -440,7 +440,7 @@ I shall now show that these are equivalent." Such a demonstration of Turing’s 
 </blockquote>
 
 <blockquote>
-(The admiration was mutual. In a letter written home from Princeton, von Neumann’s is the first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, Lefschetz, as well as hosts of smaller fry.")<sup>10</sup>
+(The admiration was mutual. In a letter written home from Princeton, von Neumann's is the first name on a list of Princeton luminaries that included "Weyl, Courant, Hardy, Einstein, Lefschetz, as well as hosts of smaller fry.")<sup>10</sup>
 </blockquote>
 
 <p>
@@ -479,8 +479,8 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
 It's called The von Neumann Architecture.<sup>34</sup>
 
-The name is ironic, because von Neumann just wrote up notes/a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
-Also von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote were] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
+The name is ironic, because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
+Also, von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
 However, it's worth noting he was "in the room", so to speak: he was part of the discussions on the EDVAC.
 </p>
 
@@ -609,7 +609,7 @@ I can imagine him tailgating at a football game and having a great time.
 
 <h4>5. Militaristic</h4>
 <p>
-He participated in and strenghtend the American military-industrial complex.
+He participated in and strengthened the American military-industrial complex.
 Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
@@ -658,7 +658,7 @@ The universe is vast, containing myriads of stars ... likely to have planets cir
 
 <p>
 Marina is, as her father was, intellectually brilliant and highly successful.
-She graduated at the top of her class at Radcliff (now Harvard), received a PhD from Colombia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
+She graduated at the top of her class at Radcliffe (now Harvard), received a PhD from Columbia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
 "[Marina] wrote that [her father] was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
 In her memoir, she speaks highly of her father, who by all accounts was a good father.
 </p> 
@@ -667,10 +667,10 @@ In her memoir, she speaks highly of her father, who by all accounts was a good f
 von Neumann was ethnically and culturally Jewish, but more or less religiously agnostic.
 He was one of long line of areligious Jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
-Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judiasm doesn't have a concept of damnation.)
+Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judaism doesn't have a concept of damnation.)
 </p>
 
-<p>He escaped Hungary before The Holocaust, so defeating Nazism was personal.</p>
+<p>He escaped Hungary before the Holocaust, so defeating Nazism was personal.</p>
 
 <p>
 He also saw the effects of Soviet-era communism kicking off next door.
@@ -767,7 +767,7 @@ Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and 
 </blockquote>
 
 <p>
-The notes for the Silliman Lectures form the basis for Neumann's final book, published posthumously, and also named <i>The Computer and the Brain</i>⁴¹.
+The notes for the Silliman Lectures form the basis for von Neumann's final book, published posthumously, and also named <i>The Computer and the Brain</i>⁴¹.
 </p>
 
 <p>
@@ -811,7 +811,7 @@ Sources:<br/>
 ⁷: https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91 <br/>
 ⁸: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
 ⁹: https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman <br/>
-¹⁰: https://www.brown.edu/Research/Istrail_Lab/papers/Istrail-Marcus012912FINAL.pd <br/>
+¹⁰: http://repository.edulll.gr/edulll/retrieve/11419/3608_1.49_%CE%91%CE%9D_18_6_12.pdf (see the paper titled "Turing and von Neumann's Brains and their Computers", by Sorin Istrail and Solomon Marcus) <br/>
 ¹¹: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture <br/>
 ¹²: https://en.wikipedia.org/wiki/ENIAC <br/>
 ¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/ <br/>
