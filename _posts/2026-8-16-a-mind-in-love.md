@@ -213,13 +213,14 @@ And we did: we met at John von Neumann's house.
 
 <p>
 Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<sup>45</sup>:
+</p>
+
 <div align="center">
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/>
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Wescott-Road.jpeg" />
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Westcott-Road.jpeg" />
 </div>
-</p>
 
 <p>
 After meeting at the house, we walked to Kurt Gödel's house (Kurt Gödel was a very famous mathematician), which is right nearby. Albert Einstein's house is nearby too.
@@ -436,8 +437,8 @@ He co-founded computerized weather forecasting!
 von Neumann was on the ground floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
 
 <blockquote>
-Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing's first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity.
-I shall now show that these are equivalent." Such a demonstration of Turing's power of proof must have caught von Neumann's attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.<sup>10</sup>
+Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing's first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity. I shall now show that these are equivalent." 
+Such a demonstration of Turing's power of proof must have caught von Neumann's attention, for in 1937 he wrote a letter in support of a Princeton fellowship for Turing, and in 1938 offered Turing a position as his assistant which, although it paid $1,500 a year, Turing declined as the shadows of war lengthened in Europe.<sup>10</sup>
 </blockquote>
 
 <blockquote>
@@ -626,7 +627,7 @@ He contributed greatly to American scholarship and American institutions.
 </p>
 
 <p>
-Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.⁵²
+Near the end of his life, he received the Presidential Medal of Freedom from President Dwight Eisenhower.<sup>52</sup>
 It doesn't get much more "well-suited" to America than the Presidential Medal of Freedom.
 </p>
 
@@ -652,21 +653,21 @@ The term "Martian" comes via Leo Szilard, who is most famous for having conceive
 </p>
 
 <blockquote>
-The universe is vast, containing myriads of stars ... likely to have planets circling around them. ... The simplest living things will multiply, evolve by natural selection and become more complicated till eventually active, thinking creatures will emerge. ... Yearning for fresh worlds ... they should spread out all over the Galaxy. These highly exceptional and talented people could hardly overlook such a beautiful place as our Earth. – "And so," Fermi came to his overwhelming question, "if all this has been happening, they should have arrived here by now, so where are they?" – It was Leo Szilard, a man with an impish sense of humor, who supplied the perfect reply to the Fermi Paradox: "They are among us," he said, "but they call themselves Hungarians."¹⁶
+The universe is vast, containing myriads of stars ... likely to have planets circling around them. ... The simplest living things will multiply, evolve by natural selection and become more complicated till eventually active, thinking creatures will emerge. ... Yearning for fresh worlds ... they should spread out all over the Galaxy. These highly exceptional and talented people could hardly overlook such a beautiful place as our Earth. – "And so," Fermi came to his overwhelming question, "if all this has been happening, they should have arrived here by now, so where are they?" – It was Leo Szilard, a man with an impish sense of humor, who supplied the perfect reply to the Fermi Paradox: "They are among us," he said, "but they call themselves Hungarians."<sup>16</sup>
 </blockquote>
 
 <p>
 Marina is, as her father was, intellectually brilliant and highly successful.
-She graduated at the top of her class at Radcliffe (now Harvard), received a PhD from Columbia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.⁹
-"[Marina] wrote that [her father] was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."¹
+She graduated at the top of her class at Radcliffe (now Harvard), received a PhD from Columbia, became a successful industry executive, served as a presidential economic advisor, and since 1973 has been a Distinguished Public Service Professor of Economics at the University of Pittsburgh.<sup>9</sup>
+"[Marina] wrote that [her father] was very concerned with his legacy in two aspects: her life and the durability of his intellectual contributions to the world."<sup>1</sup>
 In her memoir, she speaks highly of her father, who by all accounts was a good father.
 </p> 
 
 <p>
 von Neumann was ethnically and culturally Jewish, but more or less religiously agnostic.
 He was one of a long line of areligious Jewish intellectual titans.
-On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
-Logically minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judaism doesn't have a concept of damnation.)
+On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.<sup>1</sup>
+Logically minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."<sup>1</sup> (Judaism doesn't have a concept of damnation.)
 </p>
 
 <p>He escaped Hungary before the Holocaust, so defeating Nazism was personal.</p>
