@@ -722,7 +722,7 @@ Throughout much of his career, he led a double life: as an intellectual leader i
 I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
 In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.<br/>
 
--Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.
+-Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.<sup>61</sup>
 </blockquote>
 
 <blockquote>
