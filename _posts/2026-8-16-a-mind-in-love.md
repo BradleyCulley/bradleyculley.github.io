@@ -589,7 +589,7 @@ Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to 
 </blockquote>
 
 <p>
-Lieutenant is the lowest rank among officers: an entry-level job.
+Second lieutenant is the lowest rank among officers: an entry-level job.
 He was a world-famous mathematician with the same job as Albert Einstein, ready to go through boot camp (Officer Candidate School), and he was dead serious.
 The reason is probably that he escaped both communism and the Holocaust.
 </p>
@@ -714,7 +714,7 @@ What would the world be like if we had more von Neumanns, or all von Neumanns? B
 <hr/>
 
 <p>
-From <i>Selected Letters</i>:
+Thoughts on von Neumann, from his daughter, in <i>Selected Letters</i>:
 </p>
 
 <blockquote>
@@ -869,5 +869,6 @@ Sources:<br/>
 <sup>56</sup>: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 <sup>57</sup>: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
 <sup>59</sup>: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
-<sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648
+<sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648 <br/>
+<sup>61</sup>: Miklós Rédei. (2017). John von Neumann: Selected letters. AMS.
 <br/>
