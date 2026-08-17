@@ -54,7 +54,7 @@ Von Neumann was born in Budapest, Kingdom of Hungary (then part of Austria-Hunga
 </p>
 
 <p>
-He grew up studying at least 7 languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].<sup>26</sup>
+He grew up studying at least seven languages, and could speak that many as an adult. By the time he was 8 years old, von Neumann was versed in both differential and integral calculus [...].<sup>26</sup>
 </p>
 </blockquote>
 
@@ -86,7 +86,7 @@ It wasn't a typical parental pressure situation though: von Neumann and his fath
 <p>
 It seems he dodged "do what makes you money or do what you're passionate about" by doing both.
 He completed both degrees in 1926.
-He received his PhD in mathematics Summa Cum Laude, with minors in experimental physics and chemistry.
+He received his PhD in mathematics summa cum laude, with minors in experimental physics and chemistry.
 He then completed his Habilitation, which is like a European postdoc, which qualified him to be a university professor.<sup>1</sup>
 </p>
 
@@ -356,7 +356,7 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 
 <h3>Politics and the Military</h3>
 <p>
-He did critical work on the Manhattan project.
+He did critical work on the Manhattan Project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
 He was instrumental in the design of the second atomic bomb, and therefore, in winning World War II.<sup>13</sup>
 </p>
@@ -477,16 +477,16 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 
 <p>
 von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
-It's called The von Neumann Architecture.<sup>34</sup>
+It's called the von Neumann Architecture.<sup>34</sup>
 
-The name is ironic, because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
+The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
 Also, von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
 However, it's worth noting he was "in the room", so to speak: he was part of the discussions on the EDVAC.
 </p>
 
 <p>
 He wrote the notes in 1945. 1945!
-As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (The Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
+As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (the Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
 </p>
 
 von Neumann did deeply important work in scientific computing: using computers to help do science.
@@ -567,7 +567,7 @@ von Neumann was a very patriotic American.
 </p>
 
 <blockquote>
-Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age.<sup>1</sup>
+Von Neumann became a naturalized U.S. citizen in 1937, and immediately tried to become a lieutenant [actually second lieutenant<sup>60</sup>] in the U.S. Army's Officers Reserve Corps. He passed the exams but was rejected because of his age.<sup>1</sup>
 </blockquote>
 
 <p>
@@ -861,4 +861,5 @@ Sources:<br/>
 ⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
 ⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge <br/>
 ⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein
+⁶⁰: https://eu.36kr.com/en/p/3646189182848648
 <br/>
