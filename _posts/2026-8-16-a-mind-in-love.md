@@ -240,6 +240,8 @@ This is a photo of Einstein and von Neumann:
     <div style="font-size: 13px;">von Neumann is in the back row, just to the left of the pillar<sup>56</sup></div>
 </div>
 
+<br/><br/>
+
 <p>
 On the same trip, my dad and I visited the Institute for Advanced Study. We walked on the trails in the Institute Woods, which are open to the public.
 </p>
