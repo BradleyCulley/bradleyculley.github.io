@@ -649,7 +649,7 @@ His daughter, Marina von Neumann Whitman, wrote a memoir in 2012, titled "The Ma
 </p>
 
 <p>
-The term "Martian" comes via Leo Szilard, who's most famous for having conceived the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
+The term "Martian" comes via Leo Szilard, who is most famous for having conceived the nuclear chain reaction (a.k.a. nuclear weapons), and who was himself Hungarian:<sup>15,16</sup>
 </p>
 
 <blockquote>
@@ -665,7 +665,7 @@ In her memoir, she speaks highly of her father, who by all accounts was a good f
 
 <p>
 von Neumann was ethnically and culturally Jewish, but more or less religiously agnostic.
-He was one of long line of areligious Jewish intellectual titans.
+He was one of a long line of areligious Jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
 Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judaism doesn't have a concept of damnation.)
 </p>
@@ -721,7 +721,7 @@ Oh, France won't matter.<br/>
 To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
 I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
--von Neumann to Commodore Louis L Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
+-von Neumann to Commodore Louis L. Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
 I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what von Neumann would think of ChatGPT.
 </blockquote>
 
@@ -763,18 +763,18 @@ Each lecture course would be published in a series as a memorial to Mrs Silliman
 </blockquote>
 
 <blockquote>
-Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956⁶
+Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956.⁶
 </blockquote>
 
 <p>
-The notes for the Silliman Lectures form the basis for von Neumann's final book, published posthumously, and also named <i>The Computer and the Brain</i>⁴¹.
+The notes for the Silliman Lectures form the basis for von Neumann's final book, published posthumously and also named <i>The Computer and the Brain</i>⁴¹.
 </p>
 
 <p>
 In 1955, a tumor was discovered near von Neumann's collarbone.
 Cancer was then found elsewhere in his body.
-In the spring of 1956, he checked into Walter Reed National Military Medical Center as a cancer patient
-He continued to work from his hospital room, including consulting with top military officials.³
+In the spring of 1956, he checked into Walter Reed National Military Medical Center as a cancer patient.
+He continued to work from his hospital room, including by consulting with top military officials.³
 </p>
 
 <p>
@@ -792,7 +792,7 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
 "We can specify only the human qualities required," he wrote, "patience, flexibility, intelligence."⁸
 </blockquote>
 
-<p>Rest in peace Dr. von Neumann. We have the watch.</p>
+<p>Rest in peace, Dr. von Neumann. We have the watch.</p>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/John_von_neumann_tomb.jpeg" />
