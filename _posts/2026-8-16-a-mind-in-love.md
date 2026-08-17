@@ -81,7 +81,7 @@ von Neumann's definition of ordinal numbers is the standard definition still use
 <p>
 For his university schooling, von Neumann simultaneously undertook a degree in chemical engineering from ETH Zurich (Albert Einstein's alma mater) and a PhD in mathematics from Pázmány Péter University in Budapest.
 His dad, a pragmatically minded banker, recommended the chemical engineering degree.
-It wasn't a typical parental pressure situation though: von Neumann and his father brainstormed options and together decided on chemical engineering<sup>1</sup>.
+It wasn't a typical parental pressure situation though: von Neumann and his father brainstormed options and together decided on chemical engineering.<sup>1</sup>
 </p>
 
 <p>
@@ -96,20 +96,20 @@ He then completed his Habilitation, which is like a European postdoc. His Habili
 <p>
 After his schooling, he became a "Privatdozent" at the University of Berlin.
 A Privatdozent is like a lecturer/professor.
-He was "the youngest person ever elected Privatdozent in the university's history in any subject"<sup>1</sup>.
+He was "the youngest person ever elected Privatdozent in the university's history in any subject".<sup>1</sup>
 "He [then] began writing nearly one major mathematics paper per month."<sup>1</sup>
 </p>
 
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
 Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University.<sup>14</sup>
-Incidentally, von Neumann had the same job as Albert Einstein. Albert Einstein was a tenured professor at the IAS for the last 12 years of his (Einstein's) life<sup>59</sup>.
+Incidentally, von Neumann had the same job as Albert Einstein. Albert Einstein was a tenured professor at the IAS for the last 12 years of his (Einstein's) life.<sup>59</sup>
 </p>
 
 <p>
-In fact, Einstein and von Neumann were two of the first four people hired by the IAS<sup>59</sup>.
-The four were John von Neumann, Kurt Gödel, Hermann Weyl, and Albert Einstein<sup>59</sup>.
-von Neumann remained a professor at the Institute for Advanced Study for the rest of his life<sup>44</sup>.
+In fact, Einstein and von Neumann were two of the first four people hired by the IAS.<sup>59</sup>
+The four were John von Neumann, Kurt Gödel, Hermann Weyl, and Albert Einstein.<sup>59</sup>
+von Neumann remained a professor at the Institute for Advanced Study for the rest of his life.<sup>44</sup>
 </p>
 
 <hr/>
