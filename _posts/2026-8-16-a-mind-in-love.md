@@ -130,7 +130,7 @@ I skipped around in the book and didn't read all of it, but it was great.
 It was interesting to see how polite and socially dexterous von Neumann was.
 It was also interesting how he adjusted his communication style when speaking with people in administrative roles versus when speaking with mathematicians and scientists.
 I recall that he was more "to the point" when speaking with mathematicians and scientists, dispensing a bit with the pleasantries.
-I think of it as fewer pleasantries in a genial way; rather like how one talks with an old friend.
+I think of it as fewer pleasantries in a genial way, rather like how one talks with an old friend.
 </p>
 
 <hr/>
