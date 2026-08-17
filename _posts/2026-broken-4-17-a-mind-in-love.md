@@ -146,7 +146,7 @@ Research is never contracted or directed. It is left to each individual research
 Interestingly, the IAS is completely separate from Princeton University.
 While there are collaborations and programs that informally link the two, and they're in the same town (the town is named Princeton), it's a completely separate institution.
 The IAS was created kind of "out of nowhere" with funding from a brother and sister—Louis Bamberger and Caroline Bamberger Fuld—who owned a department store in Newark, New Jersey.
-The store was called "Bamberger's". It sold clothes and such.<sup>14</sup>
+The store was called "Bamberger's." It sold clothes and such.<sup>14</sup>
 </p>
 
 <p>
@@ -237,7 +237,7 @@ On the same trip, my dad and I visited the Institute for Advanced Study. We walk
 </p>
 
 <p>
-There's a walking tour of Princeton called "From Genius to Genius".<sup>21</sup>
+There's a walking tour of Princeton called "From Genius to Genius."<sup>21</sup>
 The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann<sup>21</sup>.
 You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
 </p>
@@ -358,11 +358,11 @@ In his 20s, he revolutionized set theory, ergodic theory and continuous geometry
 <p>
 He did critical work on the Manhattan Project.
 Von Neumann became a leading authority on the mathematics of shaped charges, explosive charges shaped to focus the effect of the energy of an explosive<sup>1</sup>. 
-He was instrumental in the design of the second atomic bomb, and therefore, in winning World War II.<sup>13</sup>
+He was instrumental in the design of the second atomic bomb and therefore in winning World War II.<sup>13</sup>
 </p>
 
 <blockquote>
-Von Neumann made his principal contribution to the atomic bomb in the concept and design of the explosive lenses that were needed to compress the plutonium core of the Fat Man weapon that was later dropped on Nagasaki. While von Neumann did not originate the "implosion" concept, he was one of its most persistent proponents, encouraging its continued development against the instincts of many of his colleagues, who felt such a design to be unworkable. He also eventually came up with the idea of using more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly".<br/>
+Von Neumann made his principal contribution to the atomic bomb in the concept and design of the explosive lenses that were needed to compress the plutonium core of the Fat Man weapon that was later dropped on Nagasaki. While von Neumann did not originate the "implosion" concept, he was one of its most persistent proponents, encouraging its continued development against the instincts of many of his colleagues, who felt such a design to be unworkable. He also eventually came up with the idea of using more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly."<br/>
 
 When it turned out that there would not be enough uranium-235 to make more than one bomb and also that plutonium-239 could not be used in the Thin man bomb, the implosive lens project was greatly expanded and von Neumann's idea was implemented. Implosion was the only method that could be used with the plutonium-239 that was available from the Hanford Site. He established the design of the explosive lenses required, but there remained concerns about "edge effects" and imperfections in the explosives. His calculations showed that implosion would work if it did not depart by more than 5% from spherical symmetry. After a series of failed attempts with models, this was achieved by George Kistiakowsky, and the construction of the Trinity bomb was completed in July 1945.<sup>1</sup>
 </blockquote>
@@ -444,7 +444,7 @@ I shall now show that these are equivalent." Such a demonstration of Turing’s 
 </blockquote>
 
 <p>
-He was working heavily on computation in the 1940s, including via working on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
+He was working heavily on computation in the 1940s, including work on the design and construction of computers such as ENIAC, EDVAC, and the IAS machine.
 
 The first of those, the ENIAC, is pictured below. J. Robert Oppenheimer stands next to von Neumann.
 </p>
@@ -460,7 +460,7 @@ ENIAC was Turing-complete and able to solve "a large class of numerical problems
 </blockquote>
 
 <p>
-In other words, the argument can be made that ENIAC was the first real computer. von Neumann was one of the chief developers of the ENIAC computer<sup>12</sup>:
+In other words, the argument can be made that ENIAC was the first real computer. von Neumann was one of the chief developers of the ENIAC<sup>12</sup>:
 </p>
 
 <blockquote>
@@ -468,7 +468,7 @@ During the Second World War, Von Neumann was a consultant to the Manhattan Proje
 </blockquote>
 
 <p>
-von Neumann also consulted on the EDVAC project, which was a successor to the ENIAC computer:
+von Neumann also consulted on the EDVAC project, which was a successor to the ENIAC:
 </p>
 
 <blockquote>
@@ -476,7 +476,7 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 </blockquote>
 
 <p>
-von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
+von Neumann chronicled (although he didn't invent) the internal organizational architecture used in the EDVAC, which is the architecture still used in almost all computers today.
 It's called the von Neumann architecture.<sup>34</sup>
 
 The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
@@ -502,16 +502,16 @@ From this work von Neumann realized that computation was not just a tool to brut
 </blockquote>
 
 <p>
-These days much of scientific discovery is computationally-enabled, if not computationally-driven, and driven by AI in particular.
+These days much of scientific discovery is computationally enabled, if not computationally driven, and driven by AI in particular.
 </p>
 
 <p>
-von Neumann invented Merge Sort in 1945.<sup>1</sup>
+von Neumann invented a (very) famous sorting algorithm named "merge sort" in 1945.<sup>1</sup>
 Merge sort is half of the standard sorting algorithm implementation (Timsort) used in billions of software systems worldwide.<sup>23</sup>  
 </p>
 
 <p>
-He invented stochastic computing and pioneered computational complexity theory (big O notation!).
+He invented stochastic computing and pioneered computational complexity theory (Big O notation!).
 <blockquote>
 Stochastic computing was introduced by von Neumann in 1953 and could not be implemented until advances in computing of the 1960s. Around 1950 he was also among the first to talk about the time complexity of computations, which eventually evolved into the field of computational complexity theory.<sup>1</sup>
 </blockquote>
@@ -526,7 +526,6 @@ He created the field of cellular automata through his rigorous mathematical trea
 Von Neumann also proposed the concept of a "learning machine" that could improve its performance over time by learning from its experiences, which led to machine learning.<sup>13</sup>
 </p>
 
-Open-source computing:
 <blockquote>
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
@@ -733,7 +732,7 @@ In principle, he reasoned, there was no reason why some day a machine might not 
 </blockquote>
 
 <p>
-That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/AI superintelligence, in <i>1956</i>!
+That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/superintelligence, in <i>1956</i>!
 </p>
 
 ------------------------------------------
@@ -860,6 +859,6 @@ Sources:<br/>
 ⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
 ⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
 ⁵⁸: https://en.wikipedia.org/wiki/Shaped_charge <br/>
-⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein
+⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
 ⁶⁰: https://eu.36kr.com/en/p/3646189182848648
 <br/>
