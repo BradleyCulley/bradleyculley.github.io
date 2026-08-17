@@ -265,6 +265,8 @@ This is a photo I took that day, of some IAS buildings, taken from the walking t
     <div style="font-size: 13px;">You can kind of feel intelligence and serenity emanating from the IAS</div>
 </div>
 
+<br/>
+
 <p>
 More photos I took in the Institute Woods that day:
 </p>
