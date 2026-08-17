@@ -248,7 +248,7 @@ On the same trip, my dad and I visited the Institute for Advanced Study. We walk
 
 <p>
 There's a walking tour of Princeton called "From Genius to Genius."<sup>21</sup>
-The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann<sup>21</sup>.
+The tour stops at the homes of famous people who used to live in Princeton, including Einstein, von Neumann, Gödel, and Thomas Mann.<sup>21</sup>
 You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html" target="_blank">link</a>.
 </p>
 
@@ -277,6 +277,8 @@ More photos I took in the Institute Woods that day:
 <div align="center">
     <img src="https://bradleyculley.github.io/images/IAS_Woods_2.jpg" />
 </div>
+
+<br/>
 
 <p>
 One time in college, I went to a panel at which alums talked about their life experiences.
