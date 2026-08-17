@@ -115,7 +115,7 @@ von Neumann remained a professor at the Institute for Advanced Study for the res
 <hr/>
 
 <p>
-In 2021, I bought a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>
+In 2021, I bought a book of some of von Neumann's correspondences: <i>John von Neumann: Selected Letters, edited by Miklós Rédei</i>.
 </p>
 
 <div align="center">
