@@ -257,7 +257,7 @@ You can check it out here: <a href="https://sites.math.rutgers.edu/~zeilberg/Gen
 <p>
 Another time, years later, I visited a friend who lived near the IAS.
 Just as when my father visited, my friend and I went to the Institute Woods.
-This is a photo I took that day, of some IAS buildings, taken from the walking trails in the Institute Woods:
+This is a photo I took that day of some IAS buildings, taken from the walking trails in the Institute Woods:
 </p>
 
 <div align="center">
@@ -440,7 +440,7 @@ While not as prolific in physics as he was in mathematics, he nevertheless made 
 
 <h3>Meteorology</h3>
 
-That's right: meteorology!
+That's right: meteorology!<br/>
 
 <blockquote>
 By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as <i>Numerical Integration of the Barotropic Vorticity Equation</i>. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.<sup>1</sup>
