@@ -446,7 +446,7 @@ That's right: meteorology!<br/>
 By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as <i>Numerical Integration of the Barotropic Vorticity Equation</i>. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.<sup>1</sup>
 </blockquote>
 
-He co-founded computerized weather forecasting!
+He co-founded computerized weather forecasting!<br/><br/>
 
 <h3>Computing</h3>
 
