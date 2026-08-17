@@ -532,7 +532,7 @@ von Neumann also proposed the concept of a "learning machine" that could improve
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
 
-He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence¹⁸. The technological singularity (AI replacing all jobs) is perhaps the single most discussed topic in today's world.
+He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence<sup>18</sup>. The technological singularity (AI replacing all jobs) is perhaps the single most discussed topic in today's world.
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.<sup>18</sup>
 </blockquote>
@@ -745,7 +745,7 @@ von Neumann can't be easily characterized monofactorially, but this description 
 <blockquote>
 The unifying theme in von Neumann's life and work—abundantly demonstrated by his correspondence—was an insatiable urge to be absorbing information and solving problems all the time.
 "Johnny's most characteristic trait was his boundless curiosity about everything and anything, his compulsive ambition to know, to understand any problem, no matter on what level," wrote Klari [von Neumann's wife] after his death.
-"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer."²
+"Anything that would tickle his curiosity with a question mark, he could not leave alone; he would sulk, pout, and be generally impossible until, at least to his own satisfaction, he had found the right answer."<sup>2</sup>
 </blockquote>
 
 <p>
@@ -759,27 +759,27 @@ A mind in love with the truth.
 <blockquote>
 The Silliman Memorial Lectures, in honour of Hepsa Ely Silliman, are held at Yale University. They were funded by a legacy of 1883 left to the President and Fellows of Yale College. The College was requested to establish an annual course of lectures:
 <i>... to illustrate the presence and providence, the wisdom and goodness of God, as manifested in the natural and moral world.</i>
-Each lecture course would be published in a series as a memorial to Mrs Silliman.⁶
+Each lecture course would be published in a series as a memorial to Mrs Silliman.<sup>6</sup>
 </blockquote>
 
 <blockquote>
-Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956.⁶
+Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956.<sup>6</sup>
 </blockquote>
 
 <p>
-The notes for the Silliman Lectures form the basis for von Neumann's final book, published posthumously and also named <i>The Computer and the Brain</i>⁴¹.
+The notes for the Silliman Lectures form the basis for von Neumann's final book, published posthumously and also named <i>The Computer and the Brain</i><sup>41</sup>.
 </p>
 
 <p>
 In 1955, a tumor was discovered near von Neumann's collarbone.
 Cancer was then found elsewhere in his body.
 In the spring of 1956, he checked into Walter Reed National Military Medical Center as a cancer patient.
-He continued to work from his hospital room, including by consulting with top military officials.³
+He continued to work from his hospital room, including by consulting with top military officials.<sup>3</sup>
 </p>
 
 <p>
 von Neumann took with him to the hospital the manuscript he was preparing for the Silliman Lectures.
-It was his singular professional focus during his final days.⁶
+It was his singular professional focus during his final days.<sup>6</sup>
 It was during that hospital visit, at Walter Reed National Military Medical Center, that von Neumann passed away—from bone cancer—in early 1957.
 </p>
 
@@ -789,14 +789,14 @@ The article was naturally preoccupied with the destructive potential of more pow
 But it presciently noted the climatic impact of rising carbon-dioxide emissions, too.
 Von Neumann favoured introducing new geo-engineering technologies, which he thought would unite nations more than the threat of nuclear war.
 Yet he accepted that there was no "complete recipe" for avoiding human extinction by technological means.
-"We can specify only the human qualities required," he wrote, "patience, flexibility, intelligence."⁸
+"We can specify only the human qualities required," he wrote, "patience, flexibility, intelligence."<sup>8</sup>
 </blockquote>
 
 <p>Rest in peace, Dr. von Neumann. We have the watch.</p>
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/John_von_neumann_tomb.jpeg" />
-    <div style="font-size: 16px; font-style: italic;">⁵</div>
+    <div style="font-size: 16px; font-style: italic;"><sup>5</sup></div>
 </div>
 
 <br/><br/>
