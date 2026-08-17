@@ -87,7 +87,7 @@ It wasn't a typical parental pressure situation though: von Neumann and his fath
 It seems he dodged "do what makes you money or do what you're passionate about" by doing both.
 He completed both degrees in 1926.
 He received his PhD in mathematics summa cum laude, with minors in experimental physics and chemistry.
-He then completed his Habilitation, which is like a European postdoc, which qualified him to be a university professor.<sup>1</sup>
+He then completed his Habilitation, which is like a European postdoc and qualified him to be a university professor.<sup>1</sup>
 </p>
 
 <hr/>
@@ -102,7 +102,7 @@ He was "the youngest person ever elected Privatdozent in the university's histor
 <p>
 von Neumann worked for a few years as a lecturer for universities in Germany, then took a role as a visiting lecturer at Princeton University in the United States.<sup>1</sup>
 Shortly afterward, he accepted a position as a tenured professor at the Institute for Advanced Study, which is in the same town as Princeton University.<sup>14</sup>
-Tenured professor at the IAS was also Albert Einstein's job for the last 12 years of Einstein's life<sup>59</sup>.
+Incidentally, von Neumann had the same job as Albert Einstein. Albert Einstein was a tenured professor at the IAS for the last 12 years of his (Einstein's) life<sup>59</sup>.
 </p>
 
 <p>
@@ -233,7 +233,7 @@ This is a photo of Einstein and von Neumann:
 </div>
 
 <p>
-On the same trip, my dad and I visited the Institute for Advanced study. We walked on the trails in the Institute Woods, which are open to the public.
+On the same trip, my dad and I visited the Institute for Advanced Study. We walked on the trails in the Institute Woods, which are open to the public.
 </p>
 
 <p>
@@ -373,7 +373,7 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 
 <h3>Physics</h3>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
-That's in part because physics is more part of the public consciousness than is mathematics (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
+That's in part because physics has a greater presence in the public consciousness than mathematics does (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
 And as you'll see, the scale (and importance) of his work in physics was immense.
 
@@ -477,7 +477,7 @@ Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored
 
 <p>
 von Neumann publicized (although didn't invent) the internal organizational architecture used in EDVAC, which is the architecture still used in almost all computers today.
-It's called the von Neumann Architecture.<sup>34</sup>
+It's called the von Neumann architecture.<sup>34</sup>
 
 The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
 Also, von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
@@ -580,7 +580,7 @@ The reason is probably that he escaped both communism and the Holocaust.
 
 <p>
 He was serious about his work, yet lighthearted and playful in his outlook on life.
-He had a folksy sense of humor: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor".<sup>1</sup>
+He had a folksy sense of humor: "Quite independently of his liking for abstract wit, he had a strong appreciation (one might say almost a hunger) for the more earthy type of comedy and humor."<sup>1</sup>
 </p>
 
 <h4>3. Low-key and folksy overall, but locked in when it was "prime time"</h4>
@@ -667,7 +667,7 @@ In her memoir, she speaks highly of her father, who by all accounts was a good f
 von Neumann was ethnically and culturally Jewish, but more or less religiously agnostic.
 He was one of a long line of areligious Jewish intellectual titans.
 On his deathbed, he literally opted for Pascal's Wager, converted to the Roman Catholic faith, and received the Roman Catholic last rites.¹
-Logically-minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judaism doesn't have a concept of damnation.)
+Logically minded as always, he said "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."¹ (Judaism doesn't have a concept of damnation.)
 </p>
 
 <p>He escaped Hungary before the Holocaust, so defeating Nazism was personal.</p>
