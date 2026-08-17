@@ -548,7 +548,10 @@ von Neumann also proposed the concept of a "learning machine" that could improve
 About the 75th most impressive thing von Neumann did was create open-source computing. Some of the early computing vendors he consulted to attempted to make his architectural innovations proprietary. He fought back legally and won in a three-year federal trial, creating the industry precedent that core IT innovations belonged to society, not individual firms.<sup>13</sup>
 </blockquote>
 
+<p>
 He invented the concept of a "technological singularity": a point at which machine intelligence surpasses human intelligence<sup>18</sup>. The technological singularity (AI replacing all jobs) is perhaps the single most discussed topic in today's world.
+</p>
+
 <blockquote>
 The first person to use the concept of a "singularity" in the technological context was the 20th-century Hungarian-American mathematician John von Neumann. Stanislaw Ulam reports in 1958 an earlier discussion with von Neumann "centered on the accelerating progress of technology and changes in the mode of human life, which gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue". Subsequent authors have echoed this viewpoint.<sup>18</sup>
 </blockquote>
@@ -557,8 +560,6 @@ The first person to use the concept of a "singularity" in the technological cont
 He came up with the idea of the technological singularity in the <i>1950s</i>!
 </p>
 
-<hr/>
-
 <p>
 The list of things named after John von Neumann is sufficiently voluminous so as to warrant its own Wikipedia article: <a href="https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann" target="_blank">List of things named after John von Neumann</a><sup>4</sup>.<br/>
 </p>
@@ -566,17 +567,17 @@ The list of things named after John von Neumann is sufficiently voluminous so as
 <hr/>
 
 <p>
-Personality-wise, he was social and boisterous.
-von Neumann loved parties, loud music, and off-color jokes<sup>1</sup>.
+Personality-wise, von Neumann was social and boisterous.
+He loved parties, loud music, and off-color jokes.<sup>1</sup>
 </p>
 
 <p>
 I read somewhere that America suited von Neumann better than it suited most of the other luminaries who fled Europe around the time of WWII.
-That seems true. It also seems true that, reciprocally, he suited America.
+That seems true. It also seems true that he suited America well.
 </p>
 
 <p>
-The following are some of the ways in which there was a match between von Neumann and America:
+The following are some ways in which there was a match between von Neumann and America:
 
 <h4>1. Patriotic</h4>
 <p>
