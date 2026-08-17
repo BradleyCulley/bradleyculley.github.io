@@ -802,60 +802,60 @@ Yet he accepted that there was no "complete recipe" for avoiding human extinctio
 <br/><br/>
 
 Sources:<br/>
-¹: https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source) <br/>
-²: https://www.ams.org/notices/200706/tx070600724p.pdf <br/>
-³: https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html <br/>
-⁴: https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann <br/>
-⁵: https://en.wikipedia.org/wiki/File:John_von_neumann_tomb_2004.jpg <br/>
-⁶: https://mathshistory.st-andrews.ac.uk/Extras/Von_Neumann_Silliman <br/>
-⁷: https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91 <br/>
-⁸: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
-⁹: https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman <br/>
-¹⁰: http://repository.edulll.gr/edulll/retrieve/11419/3608_1.49_%CE%91%CE%9D_18_6_12.pdf (see the paper titled "Turing and von Neumann's Brains and their Computers", by Sorin Istrail and Solomon Marcus) <br/>
-¹¹: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture <br/>
-¹²: https://en.wikipedia.org/wiki/ENIAC <br/>
-¹³: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/ <br/>
-¹⁴: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study <br/>
-¹⁵: https://en.wikipedia.org/wiki/Leo_Szilard <br/>
-¹⁶: https://en.wikipedia.org/wiki/The_Martians_(scientists) <br/>
-¹⁷: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb <br/>
-¹⁸: https://en.wikipedia.org/wiki/Technological_singularity <br/>
-¹⁹: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif <br/>
-²⁰: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my <br/>
-²¹: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html <br/>
-²²: https://www.ias.edu/von-neumann <br/>
-²³: https://en.wikipedia.org/wiki/Timsort <br/>
-²⁴: https://www.pppl.gov/ <br/>
-²⁶: https://performativebafflement.substack.com/p/john-von-neumann <br/>
-²⁷: https://mathworld.wolfram.com/OrdinalNumber.html <br/>
-²⁸: By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371 <br/>
-²⁹: https://en.wikipedia.org/wiki/Stellarator <br/>
-³⁰: https://en.wikipedia.org/wiki/Princeton_University <br/>
-³¹: By Photo: Andreas Praefcke - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2238823 <br/>
-³²: By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329 <br/>
-³³: By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849 <br/>
-³⁴: https://en.wikipedia.org/wiki/Von_Neumann_architecture <br/>
-³⁵: https://press.princeton.edu/books/hardcover/9780691178561/ <br/>
-³⁶: https://en.wikipedia.org/wiki/Eugene_Wigner <br/>
-³⁷: https://en.wikipedia.org/wiki/Von_Neumann_entropy <br/>
-³⁸: https://en.wikipedia.org/wiki/Quantum_logic <br/>
-³⁹: https://en.wikipedia.org/wiki/EDVAC <br/>
-⁴⁰: https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC <br/>
-⁴¹: https://en.wikipedia.org/wiki/The_Computer_and_the_Brain <br/>
-⁴²: https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg <br/>
-⁴³: https://en.wikipedia.org/wiki/Georg_Cantor <br/>
-⁴⁴: https://www.lindahall.org/about/news/scientist-of-the-day/john-von-neumann/ <br/>
-⁴⁵: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
-⁴⁶: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
-⁴⁷: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
-⁴⁹: Whitman, M. von N. (2012). The Martian's daughter: A memoir. University of Michigan Press. <br/>
-⁵⁰: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
-⁵¹: Tietz, J. (2011, December 8). Santiago's brain. Rolling Stone, (1145 100), 78–87. <br/>
-⁵²: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
-⁵³: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
-⁵⁵: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
-⁵⁶: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
-⁵⁷: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
-⁵⁹: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
-⁶⁰: https://eu.36kr.com/en/p/3646189182848648
+<sup>1</sup> : https://en.wikipedia.org/wiki/John_von_Neumann (source of information and quotations that are not cited as being from a different source) <br/>
+<sup>2</sup> : https://www.ams.org/notices/200706/tx070600724p.pdf <br/>
+<sup>3</sup> : https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html <br/>
+<sup>4</sup> : https://en.wikipedia.org/wiki/List_of_things_named_after_John_von_Neumann <br/>
+<sup>5</sup> : https://en.wikipedia.org/wiki/File:John_von_neumann_tomb_2004.jpg <br/>
+<sup>6</sup> : https://mathshistory.st-andrews.ac.uk/Extras/Von_Neumann_Silliman <br/>
+<sup>7</sup> : https://en.wikipedia.org/wiki/G%C3%A1bor_Szeg%C5%91 <br/>
+<sup>8</sup> : https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
+<sup>9</sup> : https://en.wikipedia.org/wiki/Marina_von_Neumann_Whitman <br/>
+<sup>10</sup>: http://repository.edulll.gr/edulll/retrieve/11419/3608_1.49_%CE%91%CE%9D_18_6_12.pdf (see the paper titled "Turing and von Neumann's Brains and their Computers", by Sorin Istrail and Solomon Marcus) <br/>
+<sup>11</sup>: https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture <br/>
+<sup>12</sup>: https://en.wikipedia.org/wiki/ENIAC <br/>
+<sup>13</sup>: https://www.startribune.com/the-man-behind-major-advances-in-atomic-energy-open-source-ai-and-game-theory/600267304/ <br/>
+<sup>14</sup>: https://en.wikipedia.org/wiki/Institute_for_Advanced_Study <br/>
+<sup>15</sup>: https://en.wikipedia.org/wiki/Leo_Szilard <br/>
+<sup>16</sup>: https://en.wikipedia.org/wiki/The_Martians_(scientists) <br/>
+<sup>17</sup>: https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb <br/>
+<sup>18</sup>: https://en.wikipedia.org/wiki/Technological_singularity <br/>
+<sup>19</sup>: https://en.wikipedia.org/wiki/John_von_Neumann#/media/File:JohnvonNeumann-LosAlamos.gif <br/>
+<sup>20</sup>: https://www.goodreads.com/quotes/10039869-i-have-known-a-great-many-intelligent-people-in-my <br/>
+<sup>21</sup>: https://sites.math.rutgers.edu/~zeilberg/GeniusRoute.html <br/>
+<sup>22</sup>: https://www.ias.edu/von-neumann <br/>
+<sup>23</sup>: https://en.wikipedia.org/wiki/Timsort <br/>
+<sup>24</sup>: https://www.pppl.gov/ <br/>
+<sup>26</sup>: https://performativebafflement.substack.com/p/john-von-neumann <br/>
+<sup>27</sup>: https://mathworld.wolfram.com/OrdinalNumber.html <br/>
+<sup>28</sup>: By Max-Planck Institut für Plasmaphysik - Max-Planck Institut für Plasmaphysik, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=24388371 <br/>
+<sup>29</sup>: https://en.wikipedia.org/wiki/Stellarator <br/>
+<sup>30</sup>: https://en.wikipedia.org/wiki/Princeton_University <br/>
+<sup>31</sup>: By Photo: Andreas Praefcke - Self-photographed, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2238823 <br/>
+<sup>32</sup>: By popejon2 from Paddington, Australia - Princeton, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24659329 <br/>
+<sup>33</sup>: By Christina Keddie - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40901849 <br/>
+<sup>34</sup>: https://en.wikipedia.org/wiki/Von_Neumann_architecture <br/>
+<sup>35</sup>: https://press.princeton.edu/books/hardcover/9780691178561/ <br/>
+<sup>36</sup>: https://en.wikipedia.org/wiki/Eugene_Wigner <br/>
+<sup>37</sup>: https://en.wikipedia.org/wiki/Von_Neumann_entropy <br/>
+<sup>38</sup>: https://en.wikipedia.org/wiki/Quantum_logic <br/>
+<sup>39</sup>: https://en.wikipedia.org/wiki/EDVAC <br/>
+<sup>40</sup>: https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC <br/>
+<sup>41</sup>: https://en.wikipedia.org/wiki/The_Computer_and_the_Brain <br/>
+<sup>42</sup>: https://dante.princeton.edu/cgi-bin/dante/DispPoemByTitle.pl?LINE=19-75&SECT=xviii.&TITLE=Purg <br/>
+<sup>43</sup>: https://en.wikipedia.org/wiki/Georg_Cantor <br/>
+<sup>44</sup>: https://www.lindahall.org/about/news/scientist-of-the-day/john-von-neumann/ <br/>
+<sup>45</sup>: https://twitter.com/Ananyo/status/1722282580018692417 <br/>
+<sup>46</sup>: https://www.goodreads.com/quotes/341086-i-d-hate-to-die-twice-it-s-so-boring <br/>
+<sup>47</sup>: https://www.freaktakes.com/p/john-von-neumann-a-strange-kind-of <br/>
+<sup>49</sup>: Whitman, M. von N. (2012). The Martian's daughter: A memoir. University of Michigan Press. <br/>
+<sup>50</sup>: https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union <br/>
+<sup>51</sup>: Tietz, J. (2011, December 8). Santiago's brain. Rolling Stone, (1145 100), 78–87. <br/>
+<sup>52</sup>: https://physicsworld.com/a/brilliant-polymath-troubled-person-how-john-von-neumann-shaped-our-world/ <br/>
+<sup>53</sup>: https://ananyo.substack.com/p/oppie-and-johnny-best-frenemies-of <br/>
+<sup>55</sup>: https://stem.elearning.unipd.it/pluginfile.php/512097/mod_resource/content/0/John%20von%20Neumann%20-%20Wikipedia%20copy.pdf (page 5) <br/>
+<sup>56</sup>: https://albert.ias.edu/entities/archivalmaterial/ee5cb268-94ef-48e9-a231-b7b819fb7f84 <br/>
+<sup>57</sup>: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
+<sup>59</sup>: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
+<sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648
 <br/>
