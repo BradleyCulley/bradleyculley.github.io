@@ -123,12 +123,14 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
     <div style="font-size: 13px;">my copy of <i>Selected Letters</i></div>
 </div>
 
+<br/>
+
 <p>
-I skipped around in the book and didn't read all of it, but it was good.
-Among other things, it was interesting to see how polite and socially dexterous he was.
-It was also interesting to see how he adjusted his communication style when speaking with people in administrative roles versus when speaking with mathematicians and scientists.
+I skipped around in the book and didn't read all of it, but it was great.
+It was interesting to see how polite and socially dexterous von Neumann was.
+It was also interesting how he adjusted his communication style when speaking with people in administrative roles versus when speaking with mathematicians and scientists.
 I recall that he was more "to the point" when speaking with mathematicians and scientists, dispensing a bit with the pleasantries.
-I think it was fewer pleasantries in a positive way; rather like how one talks with an old friend.
+I think of it as fewer pleasantries in a genial way; rather like how one talks with an old friend.
 </p>
 
 <hr/>
