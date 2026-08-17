@@ -191,7 +191,7 @@ Many buildings on campus are in gray stone in a "Collegiate Gothic" architectura
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Firestone_Library_Princeton_front.jpg" />
-  <div style="font-size: 13px;">Firestone Library, the largest library on campus:<sup>31</sup></div>
+  <div style="font-size: 13px;">Firestone Library, the largest library on campus<sup>31</sup></div>
 </div>
 
 <br/><br/>
@@ -218,13 +218,13 @@ And we did: we met at John von Neumann's house.
 </p>
 
 <p>
-Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<sup>45</sup>:
+Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road:<sup>45</sup>
 </p>
 
 <div align="center">
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/>
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/>
-  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/>
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-1.jpeg" /><br/><br/>
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-3.jpeg" /><br/><br/>
+  <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Westcott-Road.jpeg" />
 </div>
 
