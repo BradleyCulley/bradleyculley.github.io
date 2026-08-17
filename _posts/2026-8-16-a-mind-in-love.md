@@ -177,6 +177,8 @@ Physics doesn't have a lot of visibility in the everyday world, so to speak, so 
   <div style="font-size: 13px;">The design of a Stellarator reactor<sup>28</sup></div>
 </div>
 
+<br/>
+
 <p>
 The address of the Princeton Plasma Physics Laboratory is 100 Stellarator Road, Princeton, NJ.<sup>24</sup>
 </p>
@@ -225,6 +227,8 @@ Here it is—John von Neumann's former home in Princeton, at 26 Westcott Road<su
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/von-Neumann-house-5.jpeg" /><br/>
   <img style="height: 50vh;" src="https://bradleyculley.github.io/images/26-Westcott-Road.jpeg" />
 </div>
+
+<br/>
 
 <p>
 After meeting at the house, we walked to Kurt Gödel's house (Kurt Gödel was a very famous mathematician), which is right nearby. Albert Einstein's house is nearby too.
