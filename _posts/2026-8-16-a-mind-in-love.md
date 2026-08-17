@@ -708,7 +708,8 @@ What a fascinatingly complex individual.
 What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?
 </p>
 
-------------------------------------------
+<hr/>
+
 <p>
 From <i>Selected Letters</i>:
 </p>
@@ -721,7 +722,7 @@ In the 1940s and 1950s, he was equally convinced that the threat to civilization
 -Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.
 </blockquote>
 
-------------------------------------------
+<hr/>
 
 <blockquote>
 Oh, France won't matter.<br/>
