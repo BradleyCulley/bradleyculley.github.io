@@ -119,7 +119,7 @@ In 2021, I bought a book of some of von Neumann's correspondences: <i>John von N
 
 <div align="center">
     <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/John_von_Neumann_Selected_Letters.jpeg" />
-    <div style="font-size: 12px;">my copy of <i>Selected Letters</i></div>
+    <div style="font-size: 13px;">my copy of <i>Selected Letters</i></div>
 </div>
 
 <p>
@@ -171,7 +171,7 @@ Physics doesn't have a lot of visibility in the everyday world, so to speak, so 
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Stellerator.jpg" />
-  <div style="font-size: 12px;">The design of a Stellerator reactor<sup>28</sup></div>
+  <div style="font-size: 13px;">The design of a Stellerator reactor<sup>28</sup></div>
 </div>
 
 <p>
@@ -633,7 +633,7 @@ It doesn't get much more "well-suited" to America than the Presidential Medal of
 
 <div align="center">
     <img src="https://bradleyculley.github.io/images/Medal-of-Freedom.jpg" />
-    <div style="font-size: 12px;">von Neumann receiving the Presidential Medal of Freedom from President Dwight Eisenhower<sup>52</sup></div>
+    <div style="font-size: 13px;">von Neumann receiving the Presidential Medal of Freedom from President Dwight Eisenhower<sup>52</sup></div>
 </div>
 
 <hr/>
