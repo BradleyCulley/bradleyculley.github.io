@@ -299,6 +299,7 @@ In the article I mentioned above, about the intellectually gifted student named 
 It seems to me that von Neumann was profoundly gifted as well.
 This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:<br/>
 
+<blockquote>
 1. Ability to see things from a variety of perspectives<br/>
 2. Advanced language skills<br/>
 3. Critical of self and others<br/>
@@ -309,6 +310,7 @@ This is a list of "ten common characteristics of profoundly gifted students"<sup
 8. Persistence<br/>
 9. Quirky and/or keen sense of humor<br/>
 10. Strong empathy and sense of justice<sup>57</sup>
+</blockquote>
 
 <blockquote>
 Von Neumann was also noted for his eidetic memory, particularly of the symbolic kind. Herman Goldstine writes:<br/>
