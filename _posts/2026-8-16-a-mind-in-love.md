@@ -388,21 +388,21 @@ Gödel announced his first incompleteness theorem at a roundtable discussion ses
 Lattice theory:
 </p>
 <blockquote>
-Between 1935 and 1937, von Neumann worked on lattice theory, the theory of partially ordered sets in which every two elements have a greatest lower bound and a least upper bound. As Garrett Birkhoff wrote, "John von Neumann's brilliant mind blazed over lattice theory like a meteor".
+Between 1935 and 1937, von Neumann worked on lattice theory, the theory of partially ordered sets in which every two elements have a greatest lower bound and a least upper bound. As Garrett Birkhoff wrote, "John von Neumann's brilliant mind blazed over lattice theory like a meteor".<sup>1</sup>
 </blockquote>
 
 <p>
 Ergodic theory:
 </p>
 <blockquote>
-Of the 1932 papers on ergodic theory, Paul Halmos wrote that even "if von Neumann had never done anything else, they would have been sufficient to guarantee him mathematical immortality".
+Of the 1932 papers on ergodic theory, Paul Halmos wrote that even "if von Neumann had never done anything else, they would have been sufficient to guarantee him mathematical immortality".<sup>1</sup>
 </blockquote>
 
 <p>
 Operator theory:
 </p>
 <blockquote>
-His work on operator theory led to his most profound invention in pure mathematics, the study of von Neumann algebras and in general of operator algebras.
+His work on operator theory led to his most profound invention in pure mathematics, the study of von Neumann algebras and in general of operator algebras.<sup>1</sup>
 </blockquote>
 
 <h3>Politics and the Military</h3>
