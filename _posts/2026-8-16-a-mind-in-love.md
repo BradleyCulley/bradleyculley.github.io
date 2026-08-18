@@ -29,7 +29,7 @@ as long as it enjoys the thing it loves.<br/><br/>
 <hr/>
 
 <p>
-Years ago, I read an article in Rolling Stone magazine about an intellectually gifted young man named Santiago Gonzales.
+Years ago, I read an article in Rolling Stone magazine about an intellectually gifted young man named <a href="https://www.youtube.com/watch?v=DBXZWB_dNsw" target="_blank">Santiago Gonzales</a>.
 When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 </p>
 
