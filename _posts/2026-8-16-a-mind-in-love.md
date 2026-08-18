@@ -796,7 +796,7 @@ von Neumann considering Artificial General Intelligence in 1957:
 </p>
 
 <blockquote>
-In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/><>br/>
+In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/><br/>
 -Clay Bair Jr., in Life Magazine, 25 February 1957
 </blockquote>
 
