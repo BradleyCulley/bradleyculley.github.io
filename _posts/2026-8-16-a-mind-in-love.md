@@ -169,7 +169,7 @@ The name "stellarator" refers to stars because fusion mostly occurs in stars suc
 
 <p>
 I'd (vaguely) heard of the Stellarator (I think I thought it was a particle accelerator) and so when I saw the road name I was like "oh that's super cool".
-Physics doesn't have a lot of visibility in the everyday world, so to speak, so it was nice to see.
+Physics doesn't have a lot of visibility in the everyday world, so it was nice to see.
 </p>
 
 <div align="center">
