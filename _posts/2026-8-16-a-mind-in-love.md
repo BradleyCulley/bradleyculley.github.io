@@ -297,8 +297,8 @@ I still think about that sometimes. It sounds awesome.
 von Neumann's intellectual abilities were prodigious. 
 He may have had the best memory of anyone who's ever lived about whom there's a definitive historical record.
 
-In the article I mentioned above about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal psychological designation (I hesitate to call it a "diagnosis" because it doesn't seem like a disease or disorder).
-It seems to me that von Neumann was profoundly gifted as well.
+In the article I mentioned above about the intellectually gifted student named Santiago Gonzales, it's mentioned that Santiago is "profoundly gifted", a formal designation<sup>62</sup> (I hesitate to call it a "diagnosis" because it doesn't seem like a disease or disorder).
+It seems to me that von Neumann was profoundly gifted too.
 This is a list of "ten common characteristics of profoundly gifted students"<sup>57</sup>:<br/>
 
 <blockquote>
@@ -870,5 +870,6 @@ Sources:<br/>
 <sup>57</sup>: https://www.davidsonacademy.unr.edu/blog/gifted-student-characteristics/ <br/>
 <sup>59</sup>: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
 <sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648 <br/>
-<sup>61</sup>: Miklós Rédei. (2017). John von Neumann: Selected letters. AMS.
+<sup>61</sup>: Miklós Rédei. (2017). John von Neumann: Selected letters. AMS. <br/>
+<sup>62</sup>: https://www.davidsongifted.org/gifted-blog/iq-and-educational-needs/
 <br/>
