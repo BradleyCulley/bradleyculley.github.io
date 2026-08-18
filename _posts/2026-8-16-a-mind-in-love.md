@@ -368,8 +368,41 @@ In each of those, he was world-changingly successful. Some examples:
 By 1928, when he wrote "The Theory of Parlor Games," which contained a proof of the famous Minimax Theorem, von Neumann had become a wunderkind. Described as the seminal paper on game theory, "The Theory of Parlor Games" concerned two-person zero-sum games (where the gain of one participant is the loss of the other).<sup>22</sup>
 </blockquote>
 
+<p>
+von Neumann did work on set theory that established a solid foundation of mathematics itself:
+</p>
+
 <blockquote>
-In his 20s, he revolutionized set theory, ergodic theory and continuous geometry — all major disciplines of theoretical mathematics.<sup>13</sup>
+At the beginning of the 20th century, efforts to base mathematics on naive set theory suffered a setback due to Russell's paradox (on the set of all sets that do not belong to themselves). The problem of an adequate axiomatization of set theory was resolved implicitly about twenty years later by Ernst Zermelo and Abraham Fraenkel. Zermelo–Fraenkel set theory provided a series of principles that allowed for the construction of the sets used in the everyday practice of mathematics, but did not explicitly exclude the possibility of the existence of a set that belongs to itself. In his 1925 doctoral thesis, von Neumann demonstrated two techniques to exclude such sets—the axiom of foundation and the notion of class.<sup>1</sup>
+</blockquote>
+
+<p>
+von Neumann was the first person to recognize the significance of Gödel's first incompleteness theorem, and independently disocovered Gödel's second incompleteness theorem.
+Gödel incompleteness theorems are earth-shatteringly famous and important results in the foundations of mathematics itself.
+</p>
+<blockquote>
+Gödel announced his first incompleteness theorem at a roundtable discussion session on the third day of the conference. The announcement drew little attention apart from that of von Neumann, who pulled Gödel aside for a conversation. Later that year, working independently with knowledge of the first incompleteness theorem, von Neumann obtained a proof of the second incompleteness theorem, which he announced to Gödel in a letter dated November 20, 1930.[30] Gödel had independently obtained the second incompleteness theorem and included it in his submitted manuscript, which was received by Monatshefte für Mathematik on November 17, 1930.<sup>63</sup>
+</blockquote>
+
+<p>
+Lattice theory:
+</p>
+<blockquote>
+Between 1935 and 1937, von Neumann worked on lattice theory, the theory of partially ordered sets in which every two elements have a greatest lower bound and a least upper bound. As Garrett Birkhoff wrote, "John von Neumann's brilliant mind blazed over lattice theory like a meteor".
+</blockquote>
+
+<p>
+Ergodic theory:
+</p>
+<blockquote>
+Of the 1932 papers on ergodic theory, Paul Halmos wrote that even "if von Neumann had never done anything else, they would have been sufficient to guarantee him mathematical immortality".
+</blockquote>
+
+<p>
+Operator theory:
+</p>
+<blockquote>
+His work on operator theory led to his most profound invention in pure mathematics, the study of von Neumann algebras and in general of operator algebras.
 </blockquote>
 
 <h3>Politics and the Military</h3>
@@ -390,16 +423,20 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 </blockquote>
 
 <h3>Physics</h3>
+<p>
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
 That's in part because physics has a greater presence in the public consciousness than mathematics does (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
-And the scale and importance of his work in physics were immense.<br/>
+And the scale and importance of his work in physics were immense.
+</p>
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i>.<sup>1</sup>
 </blockquote>
 
+<p>
 <i>Mathematical Foundations of Quantum Mechanics</i> was a full book, at 328 pages in one of its editions, and he's the sole author<sup>35</sup>.
+</p>
 
 <blockquote>
 Von Neumann's abstract treatment permitted him to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables", as in classical statistical mechanics.<sup>1</sup>
@@ -407,10 +444,6 @@ Von Neumann's abstract treatment permitted him to confront the foundational issu
 
 <blockquote>
 Von Neumann's proof inaugurated a line of research that ultimately led, through Bell's theorem and the experiments of Alain Aspect in 1982, to the demonstration that quantum physics either requires a notion of reality substantially different from that of classical physics, or must include nonlocality in apparent violation of special relativity.<sup>1</sup>
-</blockquote>
-
-<blockquote>
-In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter. He argued that the mathematics of quantum mechanics allows the collapse of the wave function to be placed at any position in the causal chain from the measurement device to the "subjective consciousness" of the human observer. In other words, while the line between observer and observed could be drawn in different places, the theory only makes sense if an observer exists somewhere. Although the idea of consciousness causing collapse was accepted by Eugene Wigner [a Nobel laureate physicist!<sup>36</sup>], this interpretation never gained acceptance among the majority of physicists.<sup>1</sup>
 </blockquote>
 
 <blockquote>
@@ -433,24 +466,33 @@ Quantum logic remains in use among logicians and interests are expanding through
 During WWII, von Neumann made fundamental contributions in the field of fluid dynamics, including the classic flow solution to blast waves now called Taylor–von Neumann–Sedov blast wave after three scientists who devised it independently, and the co-discovery (independently by Yakov Borisovich Zel'dovich and Werner Döring) of the ZND detonation model of explosives.<sup>1</sup>
 </blockquote>
 
+<p>
 Note the "While not as prolific in physics as he was in mathematics"<sup>1</sup> part here (!):
+</p>
+
 <blockquote>
 While not as prolific in physics as he was in mathematics, he nevertheless made several other notable contributions. His pioneering papers with Subrahmanyan Chandrasekhar on the statistics of a fluctuating gravitational field generated by randomly distributed stars were considered a tour de force. In this paper they developed a theory of two-body relaxation and used the Holtsmark distribution to model the dynamics of stellar systems. He wrote several other unpublished manuscripts on topics in stellar structure, some of which were included in Chandrasekhar's other works. In earlier work led by Oswald Veblen von Neumann helped develop basic ideas involving spinors that would lead to Roger Penrose's [a 2020 Nobel Prize winner in physics!] twistor theory. Much of this was done in seminars conducted at the IAS during the 1930s. From this work he wrote a paper with A. H. Taub and Veblen extending the Dirac equation to projective relativity, with a key focus on maintaining invariance with regards to coordinate, spin, and gauge transformations, as a part of early research into potential theories of quantum gravity in the 1930s.<sup>1</sup>
 </blockquote>
 
 <h3>Meteorology</h3>
 
+<p>
 That's right: meteorology!<br/>
+</p>
 
 <blockquote>
 By 1950 von Neumann and Charney wrote the world's first climate modelling software, and used it to perform the world's first numerical weather forecasts on the ENIAC computer that von Neumann had arranged to be used; von Neumann and his team published the results as <i>Numerical Integration of the Barotropic Vorticity Equation</i>. Together they played a leading role in efforts to integrate sea-air exchanges of energy and moisture into the study of climate.<sup>1</sup>
 </blockquote>
 
-He co-founded computerized weather forecasting!<br/><br/>
+<p>
+He co-founded computerized weather forecasting!
+</p>
 
 <h3>Computing</h3>
 
+<p>
 von Neumann was on the ground floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
+</p>
 
 <blockquote>
 Shortly after, in 1935, von Neumann finds his way into the first line of the first sentence in Turing's first published paper: "In his [1934] paper 'Almost periodic functions in a group,' J. v. Neumann has used independently the ideas of left and right periodicity. I shall now show that these are equivalent." 
@@ -498,7 +540,10 @@ von Neumann chronicled (although didn't invent) the internal organizational arch
 It's called the von Neumann architecture.<sup>34</sup>
 
 The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
-Also, von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
+</p>
+
+<p>
+von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
 However, it's worth noting he was "in the room", so to speak: he was part of the discussions on the EDVAC.
 </p>
 
@@ -507,7 +552,10 @@ He wrote the notes in 1945. 1945!
 As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (the Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
 </p>
 
+<p>
 von Neumann did deeply important work in scientific computing: using computers to help do science.
+</p>
+
 <blockquote>
 Considered to be possibly "the most influential researcher in scientific computing of all time", von Neumann made several contributions to the field, both technically and administratively.<sup>1</sup>
 </blockquote>
@@ -621,7 +669,7 @@ He was boisterous and gregarious. He liked parties.
 </blockquote>
 
 <p>
-I can imagine him tailgating at a football game and having a great time.
+I can imagine him tailgating at a football game.
 </p>
 
 <h4>5. Militaristic</h4>
@@ -656,7 +704,7 @@ It doesn't get much more "well-suited" to America than the Presidential Medal of
 <hr/>
 
 <p>
-He was a great leader, in both academic and military contexts.
+von Neumann was a great leader, in both academic and military contexts.
 </p>
 
 <p>
@@ -722,8 +770,12 @@ Throughout much of his career, he led a double life: as an intellectual leader i
 I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
 In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.<br/>
 
--Professor Marina von Neumann Whitman, economist and von Neumann's daughter. Pages xv–xvi.<sup>61</sup>
+-Professor Marina von Neumann Whitman, economist and John von Neumann's daughter. Pages xv–xvi.<sup>61</sup>
 </blockquote>
+
+<p>
+More quotes from <i>Selected Letters</i>:
+</p>
 
 <blockquote>
 Oh, France won't matter.<br/>
@@ -736,11 +788,15 @@ To conclude, I would like to mention that the importance of accelerating approxi
 I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
 -von Neumann to Commodore Louis L. Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
-I believe it was this computer: https://en.wikipedia.org/wiki/IAS_machine. I wonder what von Neumann would think of ChatGPT.
+I believe it was this computer: [en.wikipedia.org/wiki/IAS_machine](https://en.wikipedia.org/wiki/IAS_machine). I wonder what he would think of ChatGPT.
 </blockquote>
 
+<p>
+von Neumann considering Artificial General Intelligence in 1957:
+</p>
+
 <blockquote>
-In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/>
+In principle, he reasoned, there was no reason why some day a machine might not be built which not only could perform most of the functions of the human brain but could actually reproduce itself, i.e., create more supermachines like it. He proposed to present this paper at Yale, where he had been invited to give the 1956 Silliman Lectures.<br/><>br/>
 -Clay Bair Jr., in Life Magazine, 25 February 1957
 </blockquote>
 
@@ -871,5 +927,6 @@ Sources:<br/>
 <sup>59</sup>: https://en.wikipedia.org/wiki/Albert_Einstein <br/>
 <sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648 <br/>
 <sup>61</sup>: Miklós Rédei. (2017). John von Neumann: Selected letters. AMS. <br/>
-<sup>62</sup>: https://www.davidsongifted.org/gifted-blog/iq-and-educational-needs/
+<sup>62</sup>: https://www.davidsongifted.org/gifted-blog/iq-and-educational-needs/ <br/>
+<sup>63</sup>: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
 <br/>
