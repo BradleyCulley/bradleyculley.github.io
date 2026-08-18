@@ -393,7 +393,7 @@ For his wartime services, von Neumann was awarded the Navy Distinguished Civilia
 Here I'll give a fuller picture of von Neumann's work in physics, rather than just a sampling.
 That's in part because physics has a greater presence in the public consciousness than mathematics does (Einstein is universally famous, Grothendieck is not), and in part for a contrastive sense of scale.
 In terms of scale, see the note at the end of this section stating that the scale of his work in physics was much smaller than the scale of his work in mathematics.
-And as you'll see, the scale and importance of his work in physics were immense.
+And the scale and importance of his work in physics were immense.<br/>
 
 <blockquote>
 Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, in his influential 1932 work <i>Mathematical Foundations of Quantum Mechanics</i>.<sup>1</sup>
