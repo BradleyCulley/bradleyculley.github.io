@@ -95,7 +95,7 @@ Two economic theories explain this paradox:<br/>
           </a>
         </div>
         <br/><br/>
-        I'm pretty sure that thing could change a faucet if it were programmed to make the correct movement.
+        I'm pretty sure that thing could change a faucet if it were programmed to make the correct movements.
         Sensors and actuators aren't the limiting factor: software is.<br/><br/>
         As it goes for computer programming, so it goes for plumbing and carpentry.
         <br/><br/>
