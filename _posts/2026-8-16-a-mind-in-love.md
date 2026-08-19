@@ -35,7 +35,7 @@ When I think of Dr. John von Neumann, I'm reminded of a quote from that article:
 
 <blockquote>
 Santiago also had a quality shared by many exceptionally gifted kids: a compulsive drive to learn.
-One prominent researcher used Dante's phrase "a mind in love" [see the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yield an almost sensual ecstasy.
+One prominent researcher used Dante's phrase "a mind in love" [I believe based on the quoted passage above] to describe the intensity of the feeling; it was a "burning desire" whose gratification would yield an almost sensual ecstasy.
 Another researcher wrote that, for the gifted, love of learning is "not a matter of degree, but a different quality of experiencing: vivid, absorbing, penetrating, encompassing, complex, commanding — a way of being quiveringly alive."<sup>51</sup>
 </blockquote>
 
