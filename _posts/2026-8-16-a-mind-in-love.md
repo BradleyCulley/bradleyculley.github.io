@@ -488,7 +488,7 @@ By 1950 von Neumann and Charney wrote the world's first climate modelling softwa
 He co-founded computerized weather forecasting!
 </p>
 
-<h4>Computing</h4>
+<h4>Computing:</h4>
 
 <p>
 von Neumann was on the ground floor of the development of the modern computer. He was a contemporary of Alan Turing, with whom he interacted professionally.
@@ -614,7 +614,7 @@ The list of things named after John von Neumann is sufficiently voluminous so as
 
 <hr/>
 
-<h3>Personality:</h3>
+<h3>Personality</h3>
 
 <p>
 Personality-wise, von Neumann was social and boisterous.
