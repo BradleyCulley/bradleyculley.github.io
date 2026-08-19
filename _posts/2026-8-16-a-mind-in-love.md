@@ -58,7 +58,8 @@ He grew up studying at least seven languages, and could speak that many as an ad
 </blockquote>
 
 <div align="center">
-    <img src="https://bradleyculley.github.io/images/vonneumann-child.jpg" /><br/><sup>22</sup>
+    <img src="https://bradleyculley.github.io/images/vonneumann-child.jpg" />
+    <div style="font-size: 16px; font-style: italic;">A young von Neumann<sup>22</sup></div>
 </div>
 
 <br/>
