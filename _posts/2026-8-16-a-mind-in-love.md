@@ -418,6 +418,11 @@ Von Neumann made his principal contribution to the atomic bomb in the concept an
 When it turned out that there would not be enough uranium-235 to make more than one bomb and also that plutonium-239 could not be used in the Thin man bomb, the implosive lens project was greatly expanded and von Neumann's idea was implemented. Implosion was the only method that could be used with the plutonium-239 that was available from the Hanford Site. He established the design of the explosive lenses required, but there remained concerns about "edge effects" and imperfections in the explosives. His calculations showed that implosion would work if it did not depart by more than 5% from spherical symmetry. After a series of failed attempts with models, this was achieved by George Kistiakowsky, and the construction of the Trinity bomb was completed in July 1945.<sup>1</sup>
 </blockquote>
 
+<div align="center">
+    <img src="https://bradleyculley.github.io/images/Vonneumann-at-Los-Alamos.jpg" />
+    <div style="font-size: 13px;">"Von Neumann's wartime Los Alamos ID badge photo"<sup>1, source: 64</sup></div>
+</div>
+
 <blockquote>
 For his wartime services, von Neumann was awarded the Navy Distinguished Civilian Service Award in July 1946, and the Medal for Merit in October 1946.<sup>1</sup>
 </blockquote>
@@ -528,28 +533,8 @@ During the Second World War, Von Neumann was a consultant to the Manhattan Proje
 </blockquote>
 
 <p>
-von Neumann also consulted on the EDVAC project, which was a successor to the ENIAC:
-</p>
-
-<blockquote>
-Unlike ENIAC, it was binary rather than decimal, and was designed to be a stored-program computer.<sup>39</sup>
-</blockquote>
-
-<p>
-von Neumann chronicled (although didn't invent) the internal organizational architecture used in the EDVAC, which is still the architecture used in almost all computers today.
-It's called the von Neumann architecture.<sup>34</sup>
-
-The name is ironic because von Neumann just wrote up his notes into a report on a design created by two other researchers: John Mauchly and J. Presper Eckert<sup>40</sup>.
-</p>
-
-<p>
-von Neumann wasn't trying to steal anyone's thunder: "[the report he wrote was] unfinished when his colleague Herman Goldstine circulated it, and bore only von Neumann's name (to the consternation of Eckert and Mauchly)."<sup>34</sup>
-However, it's worth noting he was "in the room", so to speak: he was part of the discussions on the EDVAC.
-</p>
-
-<p>
-He wrote the notes in 1945. 1945!
-As if that were not enough, some of his primary areas of focus in computing included wanting to save the world from fascism (the Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
+He was woking on the ENIAC in 1944!
+Some of his primary areas of focus in computing included wanting to save the world from fascism (the Manhattan Project) and (later) wanting to pioneer artificial intelligence.<sup>1,41</sup>
 </p>
 
 <p>
@@ -680,7 +665,7 @@ He participated in and strengthened the American military-industrial complex.
 Contrast that with Einstein's atom bomb regrets, for example.
 </p>
 
-<h4>6. Technocratic and techno-optimistic, sometimes to a fault</h4>
+<h4>6. Techno-optimistic</h4>
 <p>
 Solving the world's problems with computers, science, bombs, etc.
 </p>
@@ -758,7 +743,7 @@ One is reminded of Richard Feynman's famous last words: "I'd hate to die twice. 
 <p>
 I think it's the variety of von Neumann's traits that makes him so fascinating.
 What a fascinatingly complex individual.
-What would the world be like if we had more von Neumanns, or all von Neumanns? Better, worse, unimaginably different?
+What would the world be like if we had more von Neumanns, or all von Neumanns?
 </p>
 
 <hr/>
@@ -770,7 +755,7 @@ Thoughts on von Neumann, from his daughter, in <i>Selected Letters</i>:
 <blockquote>
 Throughout much of his career, he led a double life: as an intellectual leader in the ivory tower of pure mathematics and as a man of action, in constant demand as an advisor, consultant and decision-maker to what is sometimes called the military-industrial complex of the United States. My own belief is that these two aspects of his double life, his wide-ranging activities as well as his strictly intellectual pursuits, were motivated by two profound convictions. The first was the overriding responsibility that each of us has to make full use of whatever intellectual capabilities we were endowed with. He had the scientist's passion for learning and discovery for its own sake and the genius's ego-driven concern for the significance and durability of his own contributions. The second was the critical importance of an environment of political freedom for the pursuit of the first, and for the welfare of mankind in general.
 I'm convinced, in fact, that all his involvements with the halls of power were driven by his sense of the fragility of that freedom. By the beginning of the 1930s, if not even earlier, he became convinced that the lights of civilization would be snuffed out all over Europe by the spread of totalitarianism from the right: Nazism and Fascism. So he made an unequivocal commitment to his home in the new world and to fight to preserve and reestablish freedom from that new beachhead.
-In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.<br/>
+In the 1940s and 1950s, he was equally convinced that the threat to civilization now came from totalitarianism on the left, that is, Soviet Communism, and his commitment was just as unequivocal to fighting it with whatever weapons lay at hand, scientific and economic as well as military. It was a matter of utter indifference to him, I believe, whether the threat came from the right or from the left. What motivated both his intense involvement in the issues of the day and his uncompromisingly hardline attitude was his belief in the overriding importance of political freedom, his strong sense of its continuing fragility, and his conviction that it was in the United States, and the passionate defense of the United States, that its best hope lay.<br/><br/>
 
 -Professor Marina von Neumann Whitman, economist and John von Neumann's daughter. Pages xv–xvi.<sup>61</sup>
 </blockquote>
@@ -780,14 +765,14 @@ More quotes from <i>Selected Letters</i>:
 </p>
 
 <blockquote>
-Oh, France won't matter.<br/>
+Oh, France won't matter.<br/><br/>
 
 -von Neumann's prewar thoughts on World War II<sup>55</sup>
 </blockquote>
 
 <blockquote>
 To conclude, I would like to mention that the importance of accelerating approximating and computing mathematics by factors like 10,000 or more, lies not only in that one might thereby do in 10,000 times less time problems which one is now doing, or say 100 times more of them in 100 times less time, - but rather in that one will be able to handle problems which are considered completely unassailable at present.
-I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
+I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/><br/>
 
 -von Neumann to Commodore Louis L. Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
 I believe it was this computer: en.wikipedia.org/wiki/IAS_machine. I wonder what he would think of ChatGPT.
@@ -803,13 +788,13 @@ In principle, he reasoned, there was no reason why some day a machine might not 
 </blockquote>
 
 <p>
-That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/superintelligence, in 1956!
+That's von Neumann on artificial general intelligence and even AI superintelligence, in 1956!
 </p>
 
 <hr/>
 
 <p>
-von Neumann can't be easily characterized monofactorially, but this description is pretty good:
+von Neumann's mentality can't be easily characterized monofactorially, but this description is pretty good:
 </p>
 
 <blockquote>
@@ -826,11 +811,7 @@ A mind in love with the truth.
 
 <h4>The Silliman Lectures</h4>
 
-<blockquote>
-The Silliman Memorial Lectures, in honour of Hepsa Ely Silliman, are held at Yale University. They were funded by a legacy of 1883 left to the President and Fellows of Yale College. The College was requested to establish an annual course of lectures:
-<i>... to illustrate the presence and providence, the wisdom and goodness of God, as manifested in the natural and moral world.</i>
-Each lecture course would be published in a series as a memorial to Mrs Silliman.<sup>6</sup>
-</blockquote>
+The Silliman Memorial Lectures are an annual hosted lecture series at Yale University.<sup>6</sup>
 
 <blockquote>
 Von Neumann was invited to deliver the Silliman Lectures on <i>The Computer and the Brain</i> in the spring of 1956.<sup>6</sup>
@@ -930,5 +911,6 @@ Sources:<br/>
 <sup>60</sup>: https://eu.36kr.com/en/p/3646189182848648 <br/>
 <sup>61</sup>: Miklós Rédei. (2017). John von Neumann: Selected letters. AMS. <br/>
 <sup>62</sup>: https://www.davidsongifted.org/gifted-blog/iq-and-educational-needs/ <br/>
-<sup>63</sup>: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+<sup>63</sup>: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems <br/>
+<sup>64</sup>: By Los Alamos National Laboratory - https://about.lanl.gov/history-innovation/badges/, Attribution, https://commons.wikimedia.org/w/index.php?curid=133822688
 <br/>
