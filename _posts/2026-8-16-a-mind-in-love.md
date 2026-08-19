@@ -703,6 +703,8 @@ It doesn't get much more "well-suited" to America than the Presidential Medal of
 
 <hr/>
 
+
+
 <p>
 von Neumann was a great leader, in both academic and military contexts.
 </p>
