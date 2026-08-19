@@ -62,8 +62,6 @@ He grew up studying at least seven languages, and could speak that many as an ad
     <div style="font-size: 16px; font-style: italic;">A young von Neumann<sup>22</sup></div>
 </div>
 
-<br/>
-
 <p>
 At 15 years old, von Neumann so impressed the Hungarian mathematician Gábor Szegő with his mathematical abilities that Szegő cried tears of joy.<sup>7</sup>
 </p>
