@@ -803,7 +803,7 @@ In principle, he reasoned, there was no reason why some day a machine might not 
 </blockquote>
 
 <p>
-That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/superintelligence, in <i>1956</i>!
+That's von Neumann on artificial general intelligence and even AI takeoff/intelligence explosion/superintelligence, in 1956!
 </p>
 
 <hr/>
