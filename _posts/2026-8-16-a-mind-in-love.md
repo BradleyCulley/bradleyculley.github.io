@@ -790,7 +790,7 @@ To conclude, I would like to mention that the importance of accelerating approxi
 I need not tell you that I shall be very gladly at your disposal at any time when you want more specific details about this subject<br/>
 
 -von Neumann to Commodore Louis L. Strauss, on a proposal to build a computer in <i>1945</i>, page 236.<br/>
-I believe it was this computer: [en.wikipedia.org/wiki/IAS_machine](https://en.wikipedia.org/wiki/IAS_machine). I wonder what he would think of ChatGPT.
+I believe it was this computer: en.wikipedia.org/wiki/IAS_machine. I wonder what he would think of ChatGPT.
 </blockquote>
 
 <p>
