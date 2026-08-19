@@ -361,7 +361,7 @@ Major themes of his life include mathematics, politics, the military, physics, a
 In each of those, he was world-changingly successful. Some examples:
 </p>
 
-<h4>Mathematics</h4>
+<b><h4>Mathematics</h4></b>
 <p>von Neumann was fundamentally a mathematician by training and trade. He did deep work in multiple fields of mathematics. Perhaps most famously, he founded game theory<sup>22</sup>.
 
 <blockquote>
