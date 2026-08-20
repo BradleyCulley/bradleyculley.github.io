@@ -422,6 +422,8 @@ When it turned out that there would not be enough uranium-235 to make more than 
     <div style="font-size: 13px;">"Von Neumann's wartime Los Alamos ID badge photo"<sup>1, source: 64</sup></div>
 </div>
 
+<br/>
+
 <blockquote>
 For his wartime services, von Neumann was awarded the Navy Distinguished Civilian Service Award in July 1946, and the Medal for Merit in October 1946.<sup>1</sup>
 </blockquote>
