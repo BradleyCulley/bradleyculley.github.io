@@ -20,6 +20,9 @@ Their home was beautiful, inside and out, as was their entire estate.
 
 <p>
 Talk about the French Canadian guy and his wife, who were doing the remodeling, for whom I worked.
+Talk about the rude person in the hotel.
+Talk about the guys running the selling steaks door-to-door job, and the pool table they had.
+The one guy with the cigarettes and the "knock on wood" comment.
 </p>
 
 <hr/>
