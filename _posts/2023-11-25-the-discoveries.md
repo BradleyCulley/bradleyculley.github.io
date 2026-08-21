@@ -42,7 +42,7 @@ Some chapters I particularly liked, with the original scientific paper, author, 
     <li>
         <b>The Uncertainty Principle</b><br/>
         "On the Physical Content of Quantum Kinematics and Mechanics", Werner Heisenberg (1927)<br/>
-        Interesting fact: The Heisenberg uncertainty principle is the reason one can't predict the future (with 100% accuracy) using physics. When introduced in 1928, it settled the millenia-old philosophical debate over whether it's possible to use the past/present to predict the future. 
+        Interesting fact: The Heisenberg uncertainty principle is the reason one can't predict the future (with 100% accuracy) using physics. When introduced in 1928, it settled the millennia-old philosophical debate over whether it's possible to use the past/present to predict the future. 
     </li>
     <li>
         <b>The Chemical Bond</b>

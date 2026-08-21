@@ -20,7 +20,7 @@ Me in the '90s
 <br/>
 <p>
 I read this book in late 2010/early 2011. It for a course I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
-I bought the book before the course started to get a head start on things. I deeeefinitely didn't understand most of what was going on, but it was a good read.
+I bought the book before the course started to get a head start on things. I definitely didn't understand most of what was going on, but it was a good read.
 </p>
 
 <p>
@@ -42,7 +42,7 @@ TODO: also talk about homogeneity.
 
 ____________________________________
 
-The biggest thing that stuck with me was seeing the formula for a reaction like this:
+The biggest thing that stuck out was seeing the formula for a reaction like this:
 <blockquote>
 γ + γ ←→ p+¯p <br/><br/>
 -page 146⁴
@@ -103,9 +103,9 @@ Something wild is that protons, neutrons, and electrons formed within approximat
 https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html?utm_source=chatgpt.comm, https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
 <p>
-This is of course a model, and as I understand some of the details are contested. 
-However, my understanding from taking the class, and learning elsewhere, is that the overall picture is pretty well-accepted.
-The reason it's hard to know for sure is that we can't observe the early universe. There are some workaround though, like the Cosmic Microwave Background Radiation and particle accelerators.
+This is of course only a model, but my understanding from taking the class, and learning elsewhere, is that the overall picture is well-accepted.
+The reason it's hard to know for sure is that we can't observe the early universe. 
+There are some workarounds though, like particle accelerators and the Cosmic Microwave Background Radiation.
 </p>
 
 <p>
@@ -192,23 +192,31 @@ A few years later, while I was also working at a restaurant, I ended up tutoring
 </li>
 
 <li>
+<p>
 Despite all the research efforts directed at this, we still have no idea "where the universe comes from".
 Or, put another way, "why it exists"/"why there's something rather than absolutely nothing". 
 We can model the universe starting right after the Big Bang, but we don't know where this giant amount of energy, orderliness, and rules (physics) came from.
+</p>
 
+<p>
 It may be, as with the Cycles of Time, that the universe has always existed: it's age is infinite. 
 That changes the problem but there's still a related question: "why is there a universe that's always existed".
+</p>
 
+<p>
 A former coworker of mine did a degree in physics, specializing in quantum physics.
 When I asked him why he chose that degree, he said he wanted to know where all this energy came from.
+</p>
 
-Then he said something like that despite learning a lot about the details of matter and energy, he didn't get an answer.
+<p>
+Then he said something like that despite learning a lot about the details of matter and energy, he never got an answer.
+</p>
 </li>
 </ol>
 
 ________________________________________________
 
-Quote from 3rd edition of the book, discussing the "where did this thing come from?" situation:
+Quote from 3rd edition of the book, discussing "where did it all come from?":
 
 <blockquote>
 As you see, because the true a(t) is curving down, it must intersect with the x-axis, a = 0, at some time later than tmin. So, if the strong energy condition is obeyed, a homogeneous Universe must have had a zero scale factor at some time in the past more recent than H−1 0 before the present. This time is known as the Big Bang. At the time of the Big Bang, all the material in the Universe is crushed into a point of infinite density, and physical laws as we know them break down. For that reason, the Big Bang is also known as the initial singularity.
@@ -228,13 +236,11 @@ The question of whether our Universe really did experience a ‘Big Bang’ ther
 -pages 114 and 115 in the 3rd edition of the book
 </blockquote>
 
+<br/><br/>
+
 Sources:<br/>
 ¹: https://www.amazon.com/dp/0470848359<br/>
 ²: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
 ³: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
 ⁴: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
 TODO cite the third edition of the book
-
-
-TODO: talk about the different timelines: 1 second to form protons, neutrons, and electrons - https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html?utm_source=chatgpt.com
-

@@ -9,7 +9,7 @@ The two points I bought up in the group discussion:
 
     For the most powerful models - the ones people are worried about - we don't yet have mechanistic interpretability.
     One can't regulate one's way through an unsolved scientific problem.
-    As far as how to solve said scientific problem, I like Eliezer Yudkowsky's idea of trying to attract talent in fields such as string theory to instead work on mechanistic interpretability.
+    As far as how to solve said scientific problem, I like Eliezer Yudkowsky's idea of trying to attract talent in fields such as string theory to instead work on mechanistic interpretability. Neel Nanda is a great ambassador for mechanistic interpretability (in addition to being a luminary within the field).
 
 2. AI governance and alignment often seems to be grounded in a (Foucauldian) discourse that presupposes centralized control of AI.<br/><br/>
 
