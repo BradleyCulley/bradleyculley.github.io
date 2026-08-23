@@ -55,7 +55,7 @@
 </p>
 
 <p>
-    The family tradition was that if you sat in the chair, with the beam of light on your chest, you could ask yourself—quietly in your own mind—one question.
+    The family tradition was that if you sat in the chair with the beam of light on your chest, you could ask yourself one question—quietly in your own mind.
     You'd then receive a completely honest answer.
     Of course, nobody in the family believed in the supernatural.
     However, they reasoned that the ritual helped them focus somehow; to let quieter thoughts flow, perhaps.
