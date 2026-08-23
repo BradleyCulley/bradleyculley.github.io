@@ -59,7 +59,7 @@ I once saw someone remark upon a biographical film, about a man in his 80s who h
 
 <p>
 I'd like a total of <i>at least</i> 30 lifetimes, or so. Let's say a PhD, then teaching and original research, in each of so many fields: mathematics, history (a few times over, with different historical period and regional specalizations each time, for good coverage of world history), psychology, computing - and artificial intelligence specifically, religion, biology, philosophy, medicine, sociology, literature, and more.
-A few lifetimes for fluency in at least one language in each major language family. Let's say the Indo-European, Sino-Tibetan, Atlantic–Congo, Afroasiatic, Austronesian, and Dravidian language families to start⁶.
+A couple lifetimes for fluency in at least one language in each major language family, plus a deep reading of the associated great works of literature for each. Let's say the Indo-European, Sino-Tibetan, Atlantic–Congo, Afroasiatic, Austronesian, and Dravidian language families to start⁶.
 The rest for putting it all to use: developing vaccines, discovering mathematics, building businesses, exploring the universe - literally and through scientific discovery, speaking languages, connecting with people, building relationships.
 </p>
 
