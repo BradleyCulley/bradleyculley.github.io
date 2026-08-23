@@ -107,6 +107,7 @@ I think artificial intelligence can help solve this.
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁵
 <div style="text-align: center;">
     <img style="height: 75%; width: 100%;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
+    <div style="font-size: 16px; font-style: italic; text-align: center;">A hydra⁵</div>
 </div>
 </p>
 
