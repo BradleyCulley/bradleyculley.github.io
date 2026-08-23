@@ -49,7 +49,7 @@
 </p>
 
 <p>
-    In that hallway, across from the wall in which the porthole was embedded, there sat a brown wooden chair, with faded dowels forming the back supports, and pleasantly worn wooden armrests.
+    In that hallway, across from the wall in which the porthole was embedded, there sat a brown wooden chair, with faded dowels forming the back supports and pleasantly worn wooden armrests.
     On the day of a given equinox, a family member would sit in the chair.
     Then, sunlight would strike the mirror, stream through the porthole, and land just about in the center of the person's chest.
 </p>
