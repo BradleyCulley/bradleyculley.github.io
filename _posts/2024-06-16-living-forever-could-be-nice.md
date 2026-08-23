@@ -105,11 +105,12 @@ I think artificial intelligence can help solve this.
 
 <p>
 Hydras, the small freshwater sea creatures, are cellularly immortal.⁵
+</p>
+
 <div style="text-align: center;">
     <img style="height: 75%; width: 100%;" align="center" src="https://bradleyculley.github.io/images/Hydra.jpeg" />
     <div style="font-size: 16px; font-style: italic; text-align: center;">A hydra⁵</div>
 </div>
-</p>
 
 <p>
 Hydras do not die of old age, and in fact do not age at all.⁵
