@@ -123,15 +123,44 @@ The transcription factor "forkhead box O" (FoxO) has been identified as a critic
 </p>
 
 <p>
-So, Hydras prove it's possible. I think it'd be nice.
+About a year after I wrote the original version of this essay, scientists in China treated monkeys with human stem cells with elevated FoxO levels.⁸
+The study was published in the prestigious scientific journel <i>Cell</i>.⁸
+</p>
+
+<p>
+From an article about the study:⁹
+</p>
+<blockquote>
+<p>More than half of the tissues tested displayed a reversal of aging-related gene expression to a younger state.</p>
+
+<p>Machine learning-based biological aging clocks estimated that the treatment reversed the age of immature neurons by six to seven years, while oocytes were rejuvenated by about five years.</p>
+
+<p>"This represents the first demonstration that engineered human stem cells can produce sustained anti-aging effects in a primate model," the researchers emphasized.</p>
+
+<p>Further analysis showed that the therapeutic effect was largely driven by exosomes – microscopic particles released by SRCs. These exosomes preserved genomic integrity and significantly reduced organ degeneration when tested separately in aged mice. Laboratory experiments confirmed they could rejuvenate human neurons, liver, and ovarian cells.</p>
+</blockquote>
+
+<p>
+From another paper discussing the study in <i>Cell</i>:<sup>10</sup>
+</p>
+
+<blockquote>
+The study's implications are of high potential relevance, offering a glimpse into a future where aging is not a descent into frailty but a manageable condition.
+</blockquote>
+
+<p>
+So, Hydras—and now non-human primate studies—prove it's possible. I think it'd be nice.
 </p>
 
 <br/>
 Sources:<br/>
-¹: [https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted](https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted) <br/>
-²: [https://en.wikipedia.org/wiki/Longevity_escape_velocity](https://en.wikipedia.org/wiki/Longevity_escape_velocity) <br/>
-³: [https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf) <br/>
-⁴: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
-⁵: [https://en.wikipedia.org/wiki/Hydra_(genus)](https://en.wikipedia.org/wiki/Hydra_(genus)) <br/>
-⁶: [https://en.wikipedia.org/wiki/List_of_language_families](https://en.wikipedia.org/wiki/List_of_language_families) <br/>
-⁷: [https://michaelstoneteaching.com/notes-on-dying-3-death-poems/](https://michaelstoneteaching.com/notes-on-dying-3-death-poems/) <br/>
+<sup>1</sup>: [https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted](https://ourworldindata.org/life-expectancy-how-is-it-calculated-and-how-should-it-be-interpreted) <br/>
+<sup>2</sup>: [https://en.wikipedia.org/wiki/Longevity_escape_velocity](https://en.wikipedia.org/wiki/Longevity_escape_velocity) <br/>
+<sup>3</sup>: [https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf](https://gwern.net/doc/longevity/epigenetics/2019-fahy.pdf) <br/>
+<sup>4</sup>: [https://en.wikipedia.org/wiki/Hayflick_limit](https://en.wikipedia.org/wiki/Hayflick_limit) <br/>
+<sup>5</sup>: [https://en.wikipedia.org/wiki/Hydra_(genus)](https://en.wikipedia.org/wiki/Hydra_(genus)) <br/>
+<sup>6</sup>: [https://en.wikipedia.org/wiki/List_of_language_families](https://en.wikipedia.org/wiki/List_of_language_families) <br/>
+<sup>7</sup>: [https://michaelstoneteaching.com/notes-on-dying-3-death-poems/](https://michaelstoneteaching.com/notes-on-dying-3-death-poems/) <br/>
+<sup>8</sup>: Lei J, Xin Z, Liu N ... Senescence-resistant human mesenchymal progenitor cells counter aging in primates. Cell, 2025; 188, 5039-5061.e35 <br/>
+<sup>9</sup>: [https://qazinform.com/news/chinese-scientists-achieve-breakthrough-in-reversing-aging-in-primates-5327ca](https://qazinform.com/news/chinese-scientists-achieve-breakthrough-in-reversing-aging-in-primates-5327ca) <br/>
+<sup>10</sup>: Lin L, Xue Q, Melino G, Shi Y. Rewriting destiny-gene-hacked stem cells ignite a revolution against aging. Cell Death Dis. 2025 Aug 21;16(1):635. doi: 10.1038/s41419-025-07958-6. PMID: 40841512; PMCID: PMC12371100. <br/>
