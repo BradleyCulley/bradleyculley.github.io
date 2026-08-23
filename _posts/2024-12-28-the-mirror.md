@@ -38,7 +38,7 @@
 </p>
 
 <p>
-    Twice a year, at the vernal and autumnal equinoxes, the sun was positioned in the sky such that its rays struck the center of the mirror.
+    Twice a year, at a specific time of day on the vernal and autumnal equinoxes, the sun was positioned in the sky such that its rays struck the center of the mirror.
     When that happened, the mirror focused the light into the small glass porthole that was embedded in the back wall of the home.
 </p>
 
