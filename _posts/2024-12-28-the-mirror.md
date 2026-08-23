@@ -51,11 +51,11 @@
 <p>
     In that hallway, across from the wall in which the porthole was embedded, there sat a brown wooden chair, with faded dowels forming the back supports and pleasantly worn wooden armrests.
     On the day of a given equinox, a family member would sit in the chair.
-    Then, sunlight would strike the mirror, stream through the porthole, and land just about in the center of the person's chest.
+    Then, sunlight would strike the mirror, stream through the porthole, and land near the center of the person's chest.
 </p>
 
 <p>
-    The family tradition was that if you sat in the chair, with the beam of light on your chest, you could ask yourself - quietly in your own mind - one question.
+    The family tradition was that if you sat in the chair, with the beam of light on your chest, you could ask yourself—quietly in your own mind—one question.
     You'd then receive a completely honest answer.
     Of course, nobody in the family believed in the supernatural.
     However, they reasoned that the ritual helped them focus somehow; to let quieter thoughts flow, perhaps.
