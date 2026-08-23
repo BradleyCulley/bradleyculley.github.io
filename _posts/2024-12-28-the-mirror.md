@@ -74,7 +74,7 @@
 </p>
 
 <p>
-    After a minute or so, the light beamed through the porthole and struck the center of his chest.
+    After a minute or so, the light beamed through the porthole and landed near the center of his chest.
     He sat still and upright.
     With closed eyes, he asked himself: "Why is my friend Henry generally nice to me, but every so often injects some small-yet-piercing criticism of me?"
 </p>
@@ -89,12 +89,12 @@
 
 <p>
     After some time, he rose from the chair and walked outside to where the mirror stood.
-    He crouched in front of the mirror and peered intently at it - something he'd never done before.
+    He crouched in front of the mirror and peered intently at it, something he'd never done before.
 </p>
 
 <p>
     The intricacies of the golden-braided pattern of the mirror's frame looked like the burls of an oak tree.
-    As the sun continued upward in the sky and so downward in the mirror, he noticed something near the bottom of the mirror's gray reflective surface.
+    As the sun continued upward in the sky and so downward in the mirror, he noticed something near the bottom of the mirror's reflective gray surface.
     It was writing, etched in a neatly flowing golden script.
 </p>
 
