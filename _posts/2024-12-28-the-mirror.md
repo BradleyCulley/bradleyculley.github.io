@@ -62,7 +62,7 @@
 </p>
 
 <p>
-    That autumn, the parents had decided to sell the home in order to downsize to a smaller one, since both children were off to college.
+    One summer, the parents decided to sell the home. They wanted to downsize since both children had gone off to college.
     The autumnal equinox that year happened to be during a school break, a few weeks before the family was set to move.
     On the day of the equinox, everyone was busy packing, cooking, and socializing.
 </p>
@@ -70,7 +70,7 @@
 <p>
     A few minutes before the equinox, the son Evan began searching through the cardboard boxes in the foyer until he found the one containing the wooden chair.
     He lifted it from the box, pulled away the packing material, and carried it to the hallway.
-    In the hallway, he set the chair against the wall - across from the glass porthole - and sat down, waiting for the light to appear.
+    In the hallway, he set the chair against the wall—across from the glass porthole—and sat down, waiting for the light to appear.
 </p>
 
 <p>
