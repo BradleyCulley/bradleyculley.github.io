@@ -11,7 +11,7 @@
 
 <p>
     The Andersons lived on a 15-acre plot of land, not quite in the countryside and not quite in the city.
-    In the town, each home stood on a sizeable plot and had a long tree-lined driveway.
+    In the town, each home stood on a sizable plot and had a long tree-lined driveway.
     A well-mannered peacefulness reigned throughout.
 </p>
 

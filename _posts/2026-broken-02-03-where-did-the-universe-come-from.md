@@ -14,13 +14,13 @@ An Introduction to Modern Cosmology 2nd Edition, by Andrew Liddle<sup>1</sup>
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
 </div>
 <div align="center">
-Me in the '90s
+Me in the 1990s
 </div>
 
 <br/>
 <p>
-I read this book in late 2010/early 2011. It for a course I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
-I bought the book before the course started to get a head start on things. I definitely didn't understand most of what was going on, but it was a good read.
+I read this book in late 2010/early 2011. It was a textbook a course I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+I bought the book before the course started to get a head start on things. I didn't understand all of what was going on, but it was a good read.
 </p>
 
 <p>
@@ -28,13 +28,14 @@ As one Amazon reviewer remarked, "Good, but not an easy read."<sup>1</sup> (😂
 </p>
 
 <p>
-The course didn't follow the book closely. The course was great and was about the topics in the book, but the professor more went off of his own materials as I recall.
-The professor, Dr. Marek Demiański, is a renowned cosmologist, so we learned from someone with great knowledge of, and a great love for, the subject.
+The course didn't follow the book super precisely. The course was great and was about the topics in the book, but the professor usually went off of his own materials as I recall.
+The professor, Dr. Marek Demiański, is a renowned cosmologist. We learned from someone with great knowledge of, and a great love for, the subject.
 </p>
 
 <p>
-Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a cosmological investigation device that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to better understand the early universe<sup>3</sup>.
-In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. Anisotropies just means variations. In this case, variations in the temperature of the CMBR depending on which part of the sky one looks at. This is an image, produced by the Planck satellite, showing those variations:
+Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a cosmological investigational device that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to better understand the early universe<sup>3</sup>.
+In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. "Anisotropies" means "variations". In this case, variations in the temperature of the CMBR depending on which part of the sky one looks at.
+This is an image, produced by the Planck satellite, showing those variations:
 TODO add this image: https://en.wikipedia.org/wiki/Cosmic_microwave_background#/media/File:Cosmic_Microwave_Background_(CMB).jpeg
 
 TODO: also talk about homogeneity.
@@ -42,7 +43,7 @@ TODO: also talk about homogeneity.
 
 ____________________________________
 
-The biggest thing that stuck out was seeing the formula for a reaction like this:
+The biggest thing that stuck out to me from the book was seeing the formula for a reaction like this:
 <blockquote>
 γ + γ ←→ p+¯p <br/><br/>
 -page 146⁴
@@ -55,7 +56,7 @@ There are also these two reactions in the book:
 γ + γ ←→ e+ + e− <br/><br/>
 -page 140⁴
 </blockquote>
-When considered in the rightward direction, that shows two photons reacting to create an electron and a positron.
+In the rightward direction, that's two photons reacting to create an electron and a positron.
 
 and
 
@@ -66,27 +67,28 @@ p + e− ←→ n + νe <br/><br/>
 When considered in the rightward direction, that shows a proton and an electron react to create a neutron and an electron neutrino.
 
 <p>
-All these reactions are thought to have happened in the rightward direction at least to some degree in the early universe. The temperature of the universe was very high at that time.
+All these reactions are thought to have happened in the rightward direction at to at least some degree in the early universe. The temperature of the universe was very high at that time.
 </p>
 
 <p>
-So we can start with photons and get all three of electrons, protons, and neutrons.
-Electrons, protons, and neutrons, in turn, are sufficient ingredients to build any element in the periodic table.
-Everything from helium to calcium to gold.
-That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core picture.
+So we can start with photons and get all three of: electrons, protons, and neutrons.
+Electrons, protons, and neutrons, in turn, let you build any element in the periodic table.
+Everything from helium to gold.
+That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
 </p>
 
 <p>
-In other words, all matter was created from "light" (radiation, a superset of visible light).
-The fact that this was included matter-of-factly in the pages of a textbook kind of stopped me in my tracks mentally when I read it.
-This is known, accepted physics: the early universe was entirely radiation ("light").
-All the "stuff" was formed later.
+That is to say, all matter was created from "light" (radiation, a superset of visible light).
+The fact that this was included matter-of-factly in the pages of a textbook stopped me in my tracks a little.
+It's accepted physics: the early universe was entirely radiation ("light").
+All the "stuff" one can touch was formed later.
 </p>
 
 <p>
-As it happens, the equation describing the "exchange rate" of converting light (i.e. energy) into matter is the most famous equation of all time: e=mc<sup>2</sup>.
-You can rewrite it as m=e/c<sup>2</sup>, telling you how much energy you need to create a given amount of mass (note: a lot).
+As it happens, the equation describing the "exchange rate" of converting light (i.e. radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
 `e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
+You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. You need a lot of energy to create a tiny bit of mass.
+In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
 </p>
 
 <p>
