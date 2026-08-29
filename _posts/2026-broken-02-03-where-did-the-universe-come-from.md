@@ -17,7 +17,14 @@ An Introduction to Modern Cosmology 2nd Edition, by Andrew Liddle<sup>1</sup>
 Me in the 1990s
 </div>
 
-<br/>
+<br/><br/>
+
+<div class="width: 100%; text-align: center;">
+    <b>Where did the universe come from? The short answer is that nobody knows.</b>
+</div>
+
+<hr/>
+
 <p>
 I read this book in late 2010/early 2011. It was a textbook a course I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 I bought the book before the course started to get a head start on things. I didn't understand all of what was going on, but it was a good read.
