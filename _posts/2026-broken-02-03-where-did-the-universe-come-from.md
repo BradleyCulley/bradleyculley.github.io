@@ -51,7 +51,11 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 <p>
 In cosmology, you often see the phrase "homogeneous and isotropic". You can see that phrase in the final block quote in this essay, for example.
 "Isotropic" means "doesn't have any anisotropies": no variations based on the direction in which one looks.<sup>6</sup> If I look to the left, things look similar to how they look if I look to the right. 
-Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>
+Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup> More of it over here than over there.
+</p>
+
+<p>
+Is the universe homogeneous and isotropic-roughly the same in all directions and locations, when considered at a large scale? The answer is we don't know. It's actually quite a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
 </p>
 
 ____________________________________
