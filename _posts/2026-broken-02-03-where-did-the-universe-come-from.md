@@ -159,7 +159,7 @@ One could say "who cares?" when it comes to cosmology. There are important probl
 </p>
 
 <p>
-Coming at the topic from the other side, there are arguably things higher on the priority list to collectively agree to ignore: celebrity gossip and so on.
+Coming at the topic from the other side, there are arguably things higher on the priority list that we could collectively ignore: celebrity gossip and so on.
 </p>
 
 ____________________________________
