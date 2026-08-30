@@ -120,7 +120,7 @@
 </p>
 
 <p>
-When I inquired more, I realized he meant he'd done the work that allowed him to buy the house.
+When I inquired, I realized he meant he'd done the work that allowed him to buy the house.
 He'd built a life from scratch. I still think about him sometimes.
 </p>
 
