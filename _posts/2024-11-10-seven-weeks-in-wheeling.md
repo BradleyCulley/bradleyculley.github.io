@@ -121,7 +121,7 @@
 
 <p>
 When I inquired more, I realized he meant he'd done the work that allowed him to buy the house.
-He'd built a life from scratch through hard work. I still think about him sometimes.
+He'd built a life from scratch. I still think about him sometimes.
 </p>
 
 <br/>
