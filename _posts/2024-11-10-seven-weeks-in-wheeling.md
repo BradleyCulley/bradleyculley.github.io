@@ -116,12 +116,7 @@
 <br/>
 
 <p>
-    The owner of a car repair shop where I took my car, a great man, spent the better part of an hour telling me his life's story. He’d built the car repair business from the ground up and had a nice house nearby. He told me he'd built the house, which I took to mean he'd literally built the house himself by hand.
-</p>
-
-<p>
-When I inquired, I realized he meant he'd done the work that allowed him to buy the house.
-He'd built a life from scratch. I still think about him sometimes.
+    The owner of a car repair shop where I took my car, a great man, spent the better part of an hour telling me his life's story. He’d built the car repair business from the ground up and had a nice house nearby. I still think about him sometimes.
 </p>
 
 <br/>
