@@ -41,11 +41,17 @@ The professor, Dr. Marek Demiański, is a renowned cosmologist. We learned from 
 
 <p>
 Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a cosmological investigational device that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to better understand the early universe<sup>3</sup>.
-In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. "Anisotropies" means "variations". In this case, variations in the temperature of the CMBR depending on which part of the sky one looks at.
-This is an image, produced by the Planck satellite, showing those variations:
-TODO add this image: https://en.wikipedia.org/wiki/Cosmic_microwave_background#/media/File:Cosmic_Microwave_Background_(CMB).jpeg
+In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. "Anisotropies" means "variations that depend on the direction in which one looks"--TODO add citation. In this case, variations in the temperature of the CMBR depending on which direction in the sky one looks.--TODO add citation
+This is an image of the entire sky, produced by the Planck satellite, showing those variations:
+</p>
+<div align="center">
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Planck_CMBR.jpeg" /><sup>5</sup>
+</div>
 
-TODO: also talk about homogeneity.
+<p>
+In cosmology, you often see the phrase "homogeneous and isotropic". You can see that phrase in the final block quote in this essay, for example.
+"Isotropic" means "doesn't have any anisotropies": no variations based on the direction in which one looks.<sup>6</sup> If I look to the left, things look similar to how they look if I look to the right. 
+Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>
 </p>
 
 ____________________________________
@@ -177,7 +183,11 @@ The early universe had a very high level of structure/organization/evenness. Tec
 </li>
 
 <li>
-It has cooled off, gotten more disordered, and gotten more unevenly distributed over time.
+In fact, a big question I remember from the class and/or book was "where did <i>any</i> disorder come from?".
+It seems that the very early universe was <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
+One theory for how we got <i>any</i> disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness.
+The idea being that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
+In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
 </li>
 
 <li>
@@ -248,8 +258,10 @@ The question of whether our Universe really did experience a ‘Big Bang’ ther
 <br/><br/>
 
 Sources:<br/>
-¹: https://www.amazon.com/dp/0470848359<br/>
-²: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
-³: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
-⁴: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
+<sup>1</sup>: https://www.amazon.com/dp/0470848359<br/>
+<sup>2</sup>: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
+<sup>3</sup>: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
+<sup>4</sup>: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
+<sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a>
+<sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
 TODO cite the third edition of the book
