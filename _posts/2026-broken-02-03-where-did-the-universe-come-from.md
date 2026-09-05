@@ -20,32 +20,64 @@ Me in the 1990s
 <br/><br/>
 
 <div class="width: 100%; text-align: center;">
-    <b>Where did the universe come from? The short answer is that nobody knows.</b>
+    <b>Where did the universe come from? The short answer is nobody knows.</b>
 </div>
 
 <hr/>
 
 <p>
-I read this book in late 2010/early 2011. It was a textbook a course I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
-I bought the book before the course started to get a head start on things. I didn't understand all of what was going on, but it was a good read.
+The biggest thing that stuck out to me from <i>An Introduction to Modern Cosmology</i> was seeing the formula for a reaction like this:
+</p>
+
+<blockquote>
+γ + γ ←→ p+¯p <br/><br/>
+-page 146⁴
+</blockquote>
+
+<p>
+That reaction means two photons (`γ`) react to create a proton (`p`) and an anti-proton (`¯p`).
+It so happens that the universe ended up with a litle more matter (protons) than antimatter (anti-protons).
+And so there were protons left over, which are the protons we have today.
 </p>
 
 <p>
-As one Amazon reviewer remarked, "Good, but not an easy read."<sup>1</sup> (😂).
+The context is that the early universe was entirely radiation ("light")! At first, there was no physical matter one could touch.
+All matter was created from "light" (radiation, a superset of visible light), later on.
+The fact that this was included matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
 </p>
 
 <p>
-The course didn't follow the book super precisely. The course was great and was about the topics in the book, but the professor usually went off of his own materials as I recall.
-The professor, Dr. Marek Demiański, is a renowned cosmologist. We learned from someone with great knowledge of, and a great love for, the subject.
+I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
+It was a textbook for a class I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 </p>
 
 <p>
-Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a cosmological investigational device that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to better understand the early universe<sup>3</sup>.
+As one Amazon reviewer noted about the book, "Good, but not an easy read."<sup>1</sup> (😂).
+</p>
+
+<p>
+The course didn't entirely follow the book. The course was great, but the professor usually went off of his own materials as I recall.
+The professor, Dr. Marek Demiański, is a renowned cosmologist. We learned from someone extremely knowledgeable and with a great love for the subject.
+</p>
+
+<div align="center">
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Cosmology_Professor.jpg" />
+    <div align="center">
+        <sup>8</sup>
+    </div>
+</div>
+
+<p>
+Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
 In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. "Anisotropies" means "variations that depend on the direction in which one looks"--TODO add citation. In this case, variations in the temperature of the CMBR depending on which direction in the sky one looks.--TODO add citation
 This is an image of the entire sky, produced by the Planck satellite, showing those variations:
 </p>
+
 <div align="center">
-  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Planck_CMBR.jpeg" /><sup>5</sup>
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Planck_CMBR.jpeg" />
+    <div align="center">
+        <sup>5</sup>
+    </div>
 </div>
 
 <p>
@@ -55,25 +87,17 @@ Homogeneous means that something doesn't vary based on the <i>position</i> at wh
 </p>
 
 <p>
-Is the universe homogeneous and isotropic-roughly the same in all directions and locations, when considered at a large scale? The answer is we don't know. It's actually quite a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
+Is the universe homogeneous and isotropic-roughly the same in all directions and locations, when considered at a large scale? The answer is we don't know. It's a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
 </p>
 
 ____________________________________
-
-The biggest thing that stuck out to me from the book was seeing the formula for a reaction like this:
-<blockquote>
-γ + γ ←→ p+¯p <br/><br/>
--page 146⁴
-</blockquote>
-
-That reaction means two photons (`γ`) react to create a proton (`p`) and an anti-proton (`¯p`).
 
 There are also these two reactions in the book:
 <blockquote>
 γ + γ ←→ e+ + e− <br/><br/>
 -page 140⁴
 </blockquote>
-In the rightward direction, that's two photons reacting to create an electron and a positron.
+In the rightward direction, that's two photons react to create an electron and a positron.
 
 and
 
@@ -81,53 +105,56 @@ and
 p + e− ←→ n + νe <br/><br/>
 -page 139⁴
 </blockquote>
-When considered in the rightward direction, that shows a proton and an electron react to create a neutron and an electron neutrino.
+In the rightward direction, a proton and an electron react to create a neutron and an electron neutrino.
 
 <p>
-All these reactions are thought to have happened in the rightward direction at to at least some degree in the early universe. The temperature of the universe was very high at that time.
+Both of those reactions, and the first one mentioned above that creates protons, are thought to have happened in the rightward direction to some degree in the early universe.
 </p>
 
 <p>
-So we can start with photons and get all three of: electrons, protons, and neutrons.
-Electrons, protons, and neutrons, in turn, let you build any element in the periodic table.
-Everything from helium to gold.
+Why do those reactions matter?
+They matter because we can start with photons (radiation/light) and get all three of: electrons, protons, and neutrons.
+Electrons, protons, and neutrons let you build atoms.
 That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
 </p>
 
 <p>
-That is to say, all matter was created from "light" (radiation, a superset of visible light).
-The fact that this was included matter-of-factly in the pages of a textbook stopped me in my tracks a little.
-It's accepted physics: the early universe was entirely radiation ("light").
-All the "stuff" one can touch was formed later.
+As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
+`e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
+You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
 </p>
 
 <p>
-As it happens, the equation describing the "exchange rate" of converting light (i.e. radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
-`e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
-You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. You need a lot of energy to create a tiny bit of mass.
+`c` is a large number, so you need a lot of energy to create a little bit of mass.
 In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
 </p>
 
 <p>
-Below is a diagram showing formation of the universe over time (left to right). Note the gray band labeled with "Particles form".
+Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled with "Particles form".
 </p>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/diagram-of-the-history-of-the-universe.jpg" />
-</div> -TODO add citation: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
+    <div align="center">
+        <sup>7</sup>
+    </div>
+</div>
 
 <p>
-Something wild is that protons, neutrons, and electrons formed within approximately the first second after the Big Bang, but it took 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form atoms.    
+Something wild is that protons, neutrons, and electrons formed within approximately the first second after the Big Bang, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form atoms (e.g. hydrogen, helium, lithium, etc.). --TODO add citation
 </p> -TODO add citations: https://science.nasa.gov/universe/overview/?utm_source=chatgpt.com, 
 https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html?utm_source=chatgpt.comm, https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
 <p>
-This is of course only a model, but my understanding from taking the class, and learning elsewhere, is that the overall picture is well-accepted.
-The reason it's hard to know for sure is that we can't observe the early universe. 
-There are some workarounds though, like particle accelerators and the Cosmic Microwave Background Radiation.
+This overall picture is well-accepted by scientists.
+It's tricky to know exactly what happened in the early universe though, which perhaps makes the field particularly interesting.
+It's kind of like being a crime scene investigator, because you have to go off of the remnants of an event at a prior time.
+You have to be really smart to find ways to figure out what happened.
+The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
 </p>
 
 <p>
+
 You may have heard of antimatter.
 It turns out that almost equal amounts of matter and antimatter were created in the early universe, but there was ultimately slightly more matter, so that's what we have.
 Everything you see around you is a result of the slight excess of matter over antimatter.
@@ -143,6 +170,7 @@ The generation of excess matter leptons is known as "leptogenesis" and the gener
 <p>
 Interestingly, the criteria for baryogenesis was identified by the famous Solviet physicist and Nobel Peace prize winner Andrei Sakharov.
 The criteria are called the "Sakharov conditions". --TODO add citation
+He apparently had quite a few irons in the fire, so to speak.
 </p>
 
 This section of the book discusses baryogenesis:
@@ -268,4 +296,6 @@ Sources:<br/>
 <sup>4</sup>: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
 <sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a>
 <sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
+<sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
+<sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
 TODO cite the third edition of the book
