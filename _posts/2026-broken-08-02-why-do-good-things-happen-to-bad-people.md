@@ -5,9 +5,11 @@
 
 In Abrahamic religions such as Christianity and Judaism, there's this thing called "theodicy":
 "A theodicy (from Ancient Greek θεός theos, "god" and δίκη dikē, "justice"), meaning 'vindication of God', is an argument in the philosophy of religion that attempts to resolve the problem of evil, which arises when all power (omnipotence) and all goodness (omnibenevolence) are attributed to God simultaneously" -https://en.wikipedia.org/wiki/Theodicy
-In other words, to paraphrase the title of a famous book by Harold Kushner
-, why do bad things happen to good people?
+Childhood cancer, murder, torture.
+To paraphrase the title of a famous book by Harold Kushner, why do bad things happen to good people? --TODO add citation
+
 ------
+
 In Buddhism on the other hand, there's something called "Mentality-materiality". "Mentality" is the tendency of the mind to project its own mental states onto the world. 
 "Materiality" is the fact that the physical world is indifferent to you, your ideals, and your narratives.
 In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen. 
