@@ -154,72 +154,67 @@ The techniques scientists use to look back into the early universe include parti
 </p>
 
 <p>
-
-You may have heard of antimatter.
-It turns out that almost equal amounts of matter and antimatter were created in the early universe, but there was ultimately slightly more matter, so that's what we have.
-Everything you see around you is a result of the slight excess of matter over antimatter.
-</p> --TODO add citations
-
-<p>
+As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
 A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
-Protons and neutrons are part of a class of particles called "baryons". 
+Protons and neutrons are part of a class of particles called "baryons".
 Electrons are part of a class of particles called "leptons".
 The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
 </p> --TODO add citations
 
 <p>
-Interestingly, the criteria for baryogenesis was identified by the famous Solviet physicist and Nobel Peace prize winner Andrei Sakharov.
-The criteria are called the "Sakharov conditions". --TODO add citation
-He apparently had quite a few irons in the fire, so to speak.
-</p>
-
-This section of the book discusses baryogenesis:
-<blockquote>
-Although no established models exist, the overall picture of what is required is quite simple. Usually, the matter–anti-matter asymmetry is thought to have been created very early in the history of the Universe. When the mean photon energy was much higher than the baryon rest mass, kBT  mpc2, it was possible to create baryons and anti-baryons in thermal equilibrium, by reactions such as<br/><br/>
-
-γ + γ ←→ p +¯p , (A4.2)<br/><br/>
-
-where p¯ is an anti-proton. At these times one expects as many protons and anti-protons as photons of light. This is an ideal time to set about making a matter–anti-matter asymmetry; all one has to do is create one extra proton for every billion which exist, while leaving the anti-protons untouched. At this point the story becomes rather weak, because there is no established theory of how this might happen, but let’s suppose that there exists a heavy particle, which we will call X, with suitable baryon number violating decays which is also produced in the thermal bath. It and its anti-particle should initially also be present in the same number as protons. As the Universe cools, there is insufficient energy to generate these heavy particles via interactions, and those particles in existence begin to decay, generating the baryon number. This process need only have an efficiency such that for every billion X and X¯ particles that decay, a single baryon is preferentially created.<br/><br/>
-
--page 146 in the 3rd edition
-</blockquote>
-
-____________________________________
-
-<p>
-One could say "who cares?" when it comes to cosmology. There are important problems to be solved on earth. But I think it has a real value. It's the truth, after all.
-</p>
-
-<p>
-Coming at the topic from the other side, there are arguably things higher on the priority list that we could collectively ignore: celebrity gossip and so on.
+The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
+The conditions are called the "Sakharov conditions". --TODO add citation
+Dr. Sakharov had a few irons in the fire, so to speak.
 </p>
 
 ____________________________________
 
 <p>
-Some other memorable things from the class and/or the book:<br/>
+One could say "who cares?" when it comes to cosmology. There are practical problems here on earth. But I think it's worthwhile. It's the truth, after all.
+</p>
+
+<p>
+Coming at the topic from the other side, there are arguably more important things we could ignore, like celebrity gossip.
+</p>
+
+____________________________________
+
+<p>
+Some other memorable things from the class and/or book:<br/>
 <ol>
+
 <li>
-<p>The professor was really passionate about the subject. As mentioned, he did/does cosmology research. One of the great things about studying astronomy in college is that basically nobody involved, neither student not professor, is in it for the money. They're just really into space and physics and such. It was nice to be around that.</p>
+<p>
+The professor was really passionate about the subject. 
+As mentioned, he did/does cosmology research. 
+One of the great things about studying astronomy in college is that basically nobody involved, neither students not professors, is just in it for the money. 
+They're just really into physics and space and stuff.
+</p>
 
 <p>
 In that regard, there's one moment from class that I particularly remember.
-One day, just before starting to talk about a topic, Professor Demiański paused for a minute, and I sensed from him a moment of feeling a great satisfaction with life.
+One day, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
 My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
-I sensed a moment of the same from Professor Demiański.
 </p>
 </li>
 
 <li>
-The early universe had a very high level of structure/organization/evenness. Technical terms: "low entropy" (low disorder) and "isotropic" (highly evenly distributed). It was also very high temperature.
+The early universe had a high level of structure/organization/evenness. Homogeneous and isogtropic, and therefore low "entropy" (entropy is a measure of disorder). It was also very high temperature: trillions and trillions of degrees Celsius. --TODO add citation
 </li>
 
 <li>
-In fact, a big question I remember from the class and/or book was "where did <i>any</i> disorder come from?".
-It seems that the very early universe was <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
-One theory for how we got <i>any</i> disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness.
+<p>
+In fact, a big question from the class and/or book was "where did <i>any</i> disorder come from?".
+The very early universe seems to have been <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
+If that was the case, the question then becomes: how did we get "clumping" of matter later on?
+That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
+</p>
+
+<p>
+One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness. --TODO check and cite
 The idea being that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
 In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
+That was rather mind-blowing.
 </li>
 
 <li>
