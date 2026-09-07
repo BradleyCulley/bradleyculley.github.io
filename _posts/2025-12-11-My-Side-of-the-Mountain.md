@@ -1,5 +1,4 @@
-## <div align="center">My Side of the Mountain</div>
-<div style="font-size: 25px; font-weight: bold;" align="center"><br/>by Jean Craighead George</div>
+## <div align="center">My Side of the Mountain, by Jean Craighead George</div>
 
 <hr/>
 
