@@ -44,7 +44,7 @@ If'n you don't know by now<br/>
 </blockquote>
 
 <p>
-    There's also the opinion of a significance to the struggle being through the night: struggling through the psychological darkness.
+    Some people also think it's important that the struggle happened through the night,  struggling through the psychological darkness.
     In other words, we wrestle with theodicy: why bad things happen to good people.
 </p>
 
