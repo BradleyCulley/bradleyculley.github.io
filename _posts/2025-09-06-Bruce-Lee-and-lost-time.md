@@ -13,7 +13,7 @@ The truly great writer does not want to write: he wants the world to be a place 
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me, paraphrasing the quote above from author Henry Miller, "the first word every author puts to the page is 'pain'".¹¹
+My father, an English literature major in college, used to tell me, paraphrasing the above quote from author Henry Miller, "the first word every author puts to the page is 'pain'".¹¹
 </p>
 
 <p>
