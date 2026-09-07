@@ -25,7 +25,7 @@ In 1970, Bruce sustained a rather severe injury to his back. His doctors ordered
 
 <p>
     I got interested in Bruce Lee around 2008.
-    Of course Bruce Lee is so cool it was pretty easy to get interested.
+    Of course Bruce Lee is so cool it was pretty easy to get interested in him.
     In the summer of 2008, I bought a copy of <i>Tao of Jeet Kune Do</i>.
 </p>
 
