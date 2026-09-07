@@ -10,7 +10,7 @@ If'n you don't know by now<br/>
 <hr/>
 
 <p>
-In Abrahamic religions such as Christianity and Judaism, there's this thing called "theodicy":
+In Abrahamic religions like Christianity and Judaism, there's this thing called "theodicy":
 </p>
 
 <blockquote>
@@ -23,9 +23,9 @@ To paraphrase the title of a famous book by Harold Kushner, why do bad things ha
 ------
 
 <p>
-In Buddhism, there's this thing called "Mentality-materiality".<sup>3</sup>
+In Buddhism on the other hand, there's something called "Mentality-materiality".<sup>3</sup>
 "Mentality" is the tendency of the mind to project its own mental states onto the world. 
-"Materiality" is the fact that the physical world just exists: it's indifferent to you, your thoughts, your ideals, and your narratives.
+"Materiality" is the fact that the physical world just exists: the physical world is indifferent to you, your thoughts, your ideals, and your narratives.
 </p>
 
 <blockquote>
@@ -44,14 +44,15 @@ The Buddhism view is more that there isn't a "why".
 ------
 
 <p>
-In Christianity, there's the concept of "wrestling with angels". --TODO add citation
-In the book of Genesis, Jacob meets  and physically wrestles with an angel for an entire overnight period, eventually overcoming the angel.
+In Christianity, there's a concept of "wrestling with angels". --TODO add citation
+In the book of Genesis, Jacob meets and physically wrestles with an angel for an entire overnight period, eventually overcoming the angel.
 One interpretation is that the wrestling represents the psychology of a spiritual struggle.
 We wrestle with the idea of theodicy, with why bad things happen to good people.
 </p>
 
 <p>
 Buddhism has a total different view of things, a contrast I found fascinating when I began studying Buddhism over 18 years ago.
+I'm not saying one or the other is better, but rather that the contrast is interesting.
 Buddhism doesn't ask us to wrestle; it's more of a religion of letting go.
 There's even a specific Buddhist virtue for letting go: it's called Upekkhā, "the virtue of equanimity". --https://en.wikipedia.org/wiki/Upek%E1%B9%A3%C4%81
 In fact, some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop". --https://en.wikipedia.org/wiki/Upek%E1%B9%A3%C4%81
