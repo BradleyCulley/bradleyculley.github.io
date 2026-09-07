@@ -280,8 +280,15 @@ On a kind of funny note, I once saw someone ask why El Chapo didn't stop running
 He was very rich, so why not retire?
 Someone answered that that's because being a drug lord wasn't just what he did, it's who he was.
 
+---
 
-Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty
+Talk about how having a deep mission, a deep personal goal in life, makes problems tolerable.
+That is the premise of Man's Search for Meaning.
+For Viktor Frankl, the deep desire was the love of his wife, and that helped him survive Auschwitz and other concentration camps. 
+
+Mention the Bolstridge thing with her intense focus on any kind of academic dishonesty.
+(maybe this is elsewhere already): For me anyway, when I look back at life, I only deeply regret the moral mistakes, not the failures of achievement, missed opportunities, awkward situations, accidental mistakes, or even laziness.
+It's your moral mistakes that will haunt you.
 
 Add to pure heart is your dojo the point about even having a period of time where you had the pure heart will help you immensely in the future. In part because you know you can get back to it in part because you know you did it you went through it and did it and you're capable of it, and in part because it's just kind of a mental and emotional positive space you can always go to.
 

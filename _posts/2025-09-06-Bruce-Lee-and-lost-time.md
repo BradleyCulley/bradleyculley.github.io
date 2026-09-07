@@ -4,10 +4,16 @@
   <img src="https://bradleyculley.github.io/images/Bruce_Lee.jpg" />¹
 </div>
 
+<blockquote>
+The truly great writer does not want to write: he wants the world to be a place in which he can live the life of the imagination. The first quivering word he puts to paper is the word of the wounded angel: pain.<br/>
+
+― Henry Miller, Henry Miller on Writing¹³
+</blockquote>
+
 <hr/>
 
 <p>
-My father, an English literature major in college, used to tell me, paraphrasing the author Henry Miller, "the first word every author puts to the page is 'pain'".¹¹
+My father, an English literature major in college, used to tell me, paraphrasing the quote above from author Henry Miller, "the first word every author puts to the page is 'pain'".¹¹
 </p>
 
 <p>
@@ -203,3 +209,4 @@ Sources:<br/>
 ¹⁰: <a target="_blank" href="https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023">https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1193&context=etd2023</a><br/>
 ¹¹: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
 ¹²: <a target="_blank" href="https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg">https://en.wikipedia.org/wiki/File:Tao_of_Jeet_Kune_Do.jpg</a><br/>
+¹³: <a target="_blank" href="https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he">https://www.goodreads.com/quotes/8935685-the-truly-great-writer-does-not-want-to-write-he</a><br/>
