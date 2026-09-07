@@ -74,7 +74,10 @@ An example of a combat-oriented diagram³:<br/>
 <img src="https://bradleyculley.github.io/images/diagram-from-Tao-of-Jeet-Kune-Do.png" />
 </p><br/>
 
+<p>
 Some examples of the philosophical parts of the book:
+</p>
+
 <blockquote>
 The aim of art is to project an inner vision into the world, to state in aesthetic creation the deepest psychic and personal experiences of a human being. It is to enable those experiences to be intelligible and generally recognized within the total framework of an ideal world.³
 </blockquote>
@@ -82,9 +85,6 @@ The aim of art is to project an inner vision into the world, to state in aesthet
 <blockquote>
 Art is never decoration, embellishment; instead, it is work of enlightenment. Art, in other words, is a technique for acquiring liberty.³
 </blockquote>
-
-Beautifully-stated by Lee.
-</p>
 
 <hr/>
 
