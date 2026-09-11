@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
     Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
 </p>
 
+In Thai culture (heavily influenced by Buddhism), for example, there are concepts such as "jai yen" (TODO add Thai script word for it here), which literally means "cool heart". --TODO add citation https://www.christinebedenis.co/2014/06/20/thai-heart-language/
+Jai yen is often used in the form of a request, as "jai yen yen"
+
+TODO: remove
 <blockquote>
 It ain't no use to sit and wonder why, babe<br/>
 If'n you don't know by now<br/>
@@ -119,7 +123,8 @@ If you look too deeply everything breaks your heart. -https://www.goodreads.com/
 This situation is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
 This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed right in front of them.
 Another common case is the elderly married couple: one spouse dies of natural causes and the other dies, seemingly of heartbreak, a few days later.
-Sometimes the circle can't be squared, and that is the hole at the center of the universe.
+Sometimes the circle can't be squared: Mentality-and-materiality is way too real, you lost the wrestling match, and the stool definitely doesn't have enough legs.
+And that, unfortunately, is the hole at the center of the universe.
 </p>
 
 <hr/>
