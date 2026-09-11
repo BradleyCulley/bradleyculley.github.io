@@ -13,11 +13,11 @@
 <hr/>
 
 <p>
-In a college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne. The name of the class was "The Writing of Poetry". The series of paintings "Mont Sainte-Victoire". Mont Sainte-Victoire is a mountain ridge in the south of France.²
+In a college class in 2009, I wrote two poems in "response" to a painting within a series of paintings by Paul Cézanne. The name of the class was "The Writing of Poetry". The series of paintings is named "Mont Sainte-Victoire". Mont Sainte-Victoire is a mountain ridge in the south of France.²
 </p>
 
 <p>
-Below are the poems, with slight updates. The photo is one of the painting in the series. 
+Below are the poems, with slight updates. The photo is one of the paintings in the series. 
 </p>
 
 <hr/>
