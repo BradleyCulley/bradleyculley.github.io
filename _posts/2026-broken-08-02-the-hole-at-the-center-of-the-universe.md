@@ -2,13 +2,6 @@
 
 <br/>
 
-<blockquote>
-It ain't no use to sit and wonder why, babe<br/>
-If'n you don't know by now<br/>
-
--Bob Dylan, <i>Don't Think Twice, It's All Right </i><sup>8</sup>
-</blockquote>
-
 <hr/>
 
 <p>
@@ -59,21 +52,31 @@ If'n you don't know by now<br/>
 <p>
     In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
     In the book, Hagen describes a close friend of his who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
-    Hagen said the friend he lost was a great person who is greatly missed.
+    Hagen said the friend he lost was a great person, who is greatly missed.
     --TODO citation from the book for this section
 </p>
 
 <p>
-    He shared the story to say that there isn't necessarily a reason it happened; it simply happened, and that doesn't have to take away from the grief of the loss.
+    He shared the story to say that there isn't necessarily a reason it happened; it simply happened, and that doesn't take away from the grief of the loss.
     --TODO citation from the book for this section
 </p>
 
 <p>
     Buddhism doesn't ask us to wrestle; it's more of a religion of letting go.
-    I'm not saying one approach is better, but rather that the contrast is interesting.
     There's even a specific Buddhist virtue for letting go: Upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
     Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
 </p>
+
+<blockquote>
+It ain't no use to sit and wonder why, babe<br/>
+If'n you don't know by now<br/>
+
+-Bob Dylan, <i>Don't Think Twice, It's All Right </i><sup>8</sup>
+</blockquote>
+
+I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
+Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more psychologically satisfying to me.
+In Thai culture, there's a 
 
 <hr/>
 

@@ -97,5 +97,5 @@ When I shared an earlier version of this essay with my father, he told me of a p
 </p>
 
 <p>
-In the case of Harpswell, maybe it's somehow realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
+In the case of Harpswell, maybe it's realistic to look across the lonely vastness of the ocean and be filled with feelings of love.
 </p>
