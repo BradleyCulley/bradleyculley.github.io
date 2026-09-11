@@ -62,17 +62,11 @@ When we engage with someone and trust them, we are taking a risk."¹<br/><br/>
 </p>
 
 <p>
-Or whether to slow down and tie your shoes before you walk down the stairs.
-12,000 people die in stairway-related accidents every year.²
-Stairway accidents are the second leading cause of injury in the United States, second only to motor vehicle accidents.²
+Surprisingly-many decision paths lead to really bad outcomes: death, incapacitation, imprisonment.
 </p>
 
 <p>
-As with stairway accidents, surprisingly-many decision paths lead to really bad outcomes: death, incapacitation, imprisonment.
-</p>
-
-<p>
-There's also plain randomness: random crimes, random weather events, random diseases.
+There's also plain randomness: random crimes, random weather, random diseases.
 Non-smoker lung cancer, for example.
 </p>
 
@@ -81,7 +75,7 @@ Addiction, self-sabotage, fake friends.
 </p>
 
 <p>
-All cultures I'm aware of venerate the elderly as a general principle.
+All cultures I'm aware of venerate the elderly.
 Besides other reasons to venerate the elderly, an elderly person in good social standing has exhibited a certain technical skill just to get to old age.
 </p>
 
@@ -93,7 +87,7 @@ How to change a car tire would be <i>technê</i>.
 </p>
 
 <p>
-The Greek philosopher Socrates believed that <i>technê</i> - practical knowledge - is the most important kind of knowledge.³
+The Greek philosopher Socrates believed that <i>technê</i>—practical knowledge—is the most important kind of knowledge.³
 </p>
 
 <p>
