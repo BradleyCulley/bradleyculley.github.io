@@ -1,4 +1,4 @@
-## <div align="center">To Sit and Wonder Why</div>
+## <div align="center">The Hole at the Center of the Universe</div>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <p>
     In Christianity and Judaism, there's a concept of "wrestling with angels".<sup>10</sup>
-    In the biblical book of Genesis, Jacob meets and physically wrestles with an angel for an overnight period, eventually overcoming the angel.<sup>10</sup>
+    In the book of Genesis in the bible, Jacob meets and physically wrestles with an angel for an overnight period, eventually overcoming the angel.<sup>10</sup>
     One interpretation is that the wrestling represents the psychology of a spiritual struggle.<sup>7</sup>
 </p>
 
@@ -37,27 +37,44 @@
 </blockquote>
 
 <p>
-    Some people also think it's important that the struggle happened through the night,  struggling through the psychological darkness.
-    In other words, we wrestle with theodicy: why bad things happen to good people.
+    Some people think it's meaningful that the struggle happened through the night: struggling through the psychological darkness.
+    All of this is to say that we wrestle with theodicy: why bad things happen to good people.
 </p>
 
 <hr/>
 
 <p>
-    In Buddhism, there's something entirely different, called "Mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
+    In Buddhism, there's something pretty different, called "Mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
     "Mentality" is the tendency of the mind to project its own mental states onto the world.<sup>3</sup>
     "Materiality" is the idea that the physical world is indifferent to our thoughts, ideals, and narratives.<sup>3</sup>
 </p>
 
 <p>
+My favorite video artist created a great short film that explores the same idea.
+This is part of his writeup about the film, and below that is the film:
+</p>
+
+<blockquote>
+This film was intended as a brief reflection upon the idea of anthropomorphism in modern times, and its role in helping to create and sustain the comfortable notion that the world we live in is far from the seemingly bleak and reductionist viewpoint afforded by science.
+
+The wind represents the afterlife, a loving God, and other unseen forces created by the imagination and ignorance of man, both primitive and present-day.  It's within these moments that I would find myself reflecting on life, while simultaneously and unconsciously projecting my own human characteristics onto the landscape that lay before me.  I saw an aliveness that was more than the sum of its parts - the plants and insects, the animals of the land and sky, and something omnipresent that connected everything through an invisible thread.   But now, gone is the benevolence of nature, engineered to suit and support us.
+
+We are faced with the persistent misconception that what is natural is good, or best for us, and conversely, that whatever man makes is necessarily evil.
+
+People happily argue against modern medicine using computers that would not exist were it not for the same science that they ultimately oppose.  Young earth creationists drive to church in their cars, burning fossil fuels that are millions of years old.
+</blockquote>
+
+https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
+
+<p>
     In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
-    In the book, Hagen describes a close friend of his who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
-    Hagen said the friend he lost was a great person, who is greatly missed.
+    In the book, Hagen describes a close friend of his, who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
+    Hagen said the friend he lost was a great person who is greatly missed.
     --TODO citation from the book for this section
 </p>
 
 <p>
-    He shared the story to say that there isn't necessarily a reason it happened; it simply happened, and that doesn't take away from the grief of the loss.
+    He shared the story to say that there isn't necessarily a reason it happened; it just happened. There not being a reason doesn't take away from the grief of the loss, either.
     --TODO citation from the book for this section
 </p>
 
@@ -74,9 +91,29 @@ If'n you don't know by now<br/>
 -Bob Dylan, <i>Don't Think Twice, It's All Right </i><sup>8</sup>
 </blockquote>
 
+<p>
 I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
-Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more psychologically satisfying to me.
-In Thai culture, there's a 
+Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more satisfying to me. 
+</p>
+
+<p>
+So what's the hole at the center of the universe? It's basically when you lose the wrestling match and/or can't let go.
+A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
+</p>
+
+<div align="center">
+  <img style="width: 30vw;" src="https://bradleyculley.github.io/images/If-you-look-too-deeply.png" />
+</div> --TODO cite the video
+
+<blockquote>
+If you look too deeply everything breaks your heart. -https://www.goodreads.com/work/quotes/1606038-songs-of-enchantment
+</blockquote>
+
+<p>
+In other words, the divide between the world you wished for and the world you see is so severe that neither Buddhist Upekkhā ("the virtue of equanimity") nor Judeo-Christian wrestling fills the bill.
+This situation is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
+
+</p>
 
 <hr/>
 
