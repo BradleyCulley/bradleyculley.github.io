@@ -13,6 +13,10 @@
 </blockquote>
 
 <p>
+TODO: talk about the three legs of the stool of theodicy.
+</p>
+
+<p>
     To paraphrase from the title of a book by Rabbi Harold Kushner, why do bad things happen to good people?<sup>2</sup>
     Kushner wrote the book after his son Aaron died from a rare disease at age 14.<sup>9</sup>
 </p>
@@ -96,23 +100,26 @@ I don't think either wrestling with angels or letting go is better, but rather t
 Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more satisfying to me. 
 </p>
 
+<hr/>
+
 <p>
-So what's the hole at the center of the universe? It's basically when you lose the wrestling match and/or can't let go.
+But what about when the divide between the world as you wish it were and the world you experience is so severe that neither Buddhist Upekkhā ("the virtue of equanimity") nor Judeo-Christian wrestling really works.
 A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
 </p>
 
 <div align="center">
   <img style="width: 30vw;" src="https://bradleyculley.github.io/images/If-you-look-too-deeply.png" />
-</div> --TODO cite the video
+</div> --TODO cite the video: https://www.youtube.com/watch?v=9KOUEmZfa9s
 
 <blockquote>
 If you look too deeply everything breaks your heart. -https://www.goodreads.com/work/quotes/1606038-songs-of-enchantment
 </blockquote>
 
 <p>
-In other words, the divide between the world you wished for and the world you see is so severe that neither Buddhist Upekkhā ("the virtue of equanimity") nor Judeo-Christian wrestling fills the bill.
 This situation is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
-
+This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed right in front of them.
+Another common case is the elderly married couple: one spouse dies of natural causes and the other dies, seemingly of heartbreak, a few days later.
+Sometimes the circle can't be squared, and that is the hole at the center of the universe.
 </p>
 
 <hr/>
