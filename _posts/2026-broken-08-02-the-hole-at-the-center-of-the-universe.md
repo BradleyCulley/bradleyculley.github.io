@@ -109,9 +109,8 @@ A shot from another of that artist's videos shows a quote from the novel <i>Song
 
 <p>
 This is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
-This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed right in front of them.
-Another common case is the elderly married couple: one spouse dies of natural causes and the other dies a few days later, seemingly of heartbreak.
-Sometimes you can't square the circle: Mentality-and-materiality is way too real, you lost the wrestling match, and the stool totally doesn't have enough legs.
+This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed in front of them.
+Sometimes Mentality-and-materiality is way too real, you lost the wrestling match, and the stool definitely doesn't have enough legs.
 That, unfortunately, is the hole at the center of the universe.
 </p>
 
