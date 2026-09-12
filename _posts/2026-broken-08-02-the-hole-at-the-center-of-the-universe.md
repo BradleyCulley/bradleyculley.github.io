@@ -91,14 +91,6 @@ https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
 In Thai culture (heavily influenced by Buddhism), for example, there are concepts such as "jai yen" (TODO add Thai script word for it here), which literally means "cool heart". --TODO add citation https://www.christinebedenis.co/2014/06/20/thai-heart-language/
 Jai yen is often used in the form of a request, as "jai yen yen"
 
-TODO: remove
-<blockquote>
-It ain't no use to sit and wonder why, babe<br/>
-If'n you don't know by now<br/>
-
--Bob Dylan, <i>Don't Think Twice, It's All Right </i><sup>8</sup>
-</blockquote>
-
 <p>
 I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
 Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more satisfying to me. 
@@ -128,8 +120,6 @@ I used to feel so invincible
 I used to feel there was a world worth dreamin' of
 Back in the Gasworks, screamin' the song
 Just the beauty of youth would quell my aching heart
-Oh, I feel so dark rememberin'
-Oh, my heart, I feel so dark rememberin'
 </blockquote>
 
 <hr/>
