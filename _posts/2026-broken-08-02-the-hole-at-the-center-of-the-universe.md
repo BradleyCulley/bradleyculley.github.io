@@ -115,13 +115,6 @@ Sometimes you can't square the circle: Mentality-and-materiality is way too real
 That, unfortunately, is the hole at the center of the universe.
 </p>
 
-<blockquote>
-I used to feel so invincible
-I used to feel there was a world worth dreamin' of
-Back in the Gasworks, screamin' the song
-Just the beauty of youth would quell my aching heart
-</blockquote>
-
 <hr/>
 
 Sources:<br/>
