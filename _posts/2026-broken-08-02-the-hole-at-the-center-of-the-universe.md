@@ -107,7 +107,7 @@ Perhaps because I grew up in a Judeo-Christian cultural and religious context, w
 <hr/>
 
 <p>
-But what about when the divide between the world as you wish it were and the world you experience is so severe that neither Buddhist Upekkhā ("the virtue of equanimity") nor Judeo-Christian wrestling really works.
+But what about when the difference between the world as you wish it were and the actual world is so bad that neither Buddhist equanimity nor Judeo-Christian wrestling helps.
 A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
 </p>
 
@@ -115,17 +115,22 @@ A shot from another of that artist's videos shows a quote from the novel <i>Song
   <img style="width: 30vw;" src="https://bradleyculley.github.io/images/If-you-look-too-deeply.png" />
 </div> --TODO cite the video: https://www.youtube.com/watch?v=9KOUEmZfa9s
 
-<blockquote>
-If you look too deeply everything breaks your heart. -https://www.goodreads.com/work/quotes/1606038-songs-of-enchantment
-</blockquote>
-
 <p>
-This situation is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
+This is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
 This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed right in front of them.
-Another common case is the elderly married couple: one spouse dies of natural causes and the other dies, seemingly of heartbreak, a few days later.
-Sometimes the circle can't be squared: Mentality-and-materiality is way too real, you lost the wrestling match, and the stool definitely doesn't have enough legs.
-And that, unfortunately, is the hole at the center of the universe.
+Another common case is the elderly married couple: one spouse dies of natural causes and the other dies a few days later, seemingly of heartbreak.
+Sometimes you can't square the circle: Mentality-and-materiality is way too real, you lost the wrestling match, and the stool totally doesn't have enough legs.
+That, unfortunately, is the hole at the center of the universe.
 </p>
+
+<blockquote>
+I used to feel so invincible
+I used to feel there was a world worth dreamin' of
+Back in the Gasworks, screamin' the song
+Just the beauty of youth would quell my aching heart
+Oh, I feel so dark rememberin'
+Oh, my heart, I feel so dark rememberin'
+</blockquote>
 
 <hr/>
 
