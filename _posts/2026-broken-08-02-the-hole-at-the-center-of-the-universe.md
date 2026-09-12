@@ -99,7 +99,7 @@ Perhaps because I grew up in a Judeo-Christian cultural and religious context, w
 <hr/>
 
 <p>
-But what about when the difference between the world as you wish it were and the actual world is so bad that neither Buddhist equanimity nor Judeo-Christian wrestling helps.
+There's a problem though: when either the problem is so bad or the solutions just don't work.
 A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
 </p>
 
