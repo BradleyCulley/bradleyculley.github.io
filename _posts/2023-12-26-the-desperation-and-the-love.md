@@ -1,7 +1,5 @@
 ### The Desperation and The Love
 
-<p><b>The United States is characterized by a deep sense of both desperation and a sort of freewheeling love</b></p>
-
 <p>Last year, I was at the ticket counter of the Stockholm Arlanda Airport in Sweden.
 At one point, a man stepped up to speak with the ticket agent at a nearby counter.</p>
 
@@ -17,14 +15,18 @@ One can spend all day in Sweden without encountering someone acting frantic.</p>
 <p>I thought to myself "I bet he's American".
 Sure enough, he stepped up and spoke with the ticket agent in English, with an American accent.</p>
 
+<hr/>
+
+<p><b>In my opinion as someone born and raised here, the United States is characterized by a deep sense of both desperation and a sort of freewheeling love</b></p>
+
 <p>Someone I know, who's lived extensively in both Europe and the United States, once told me there's a sense of desperation among nearly everyone in the United States, even in wealthy neighborhoods.
 That's the desperation.</p>
 
 <p>What about the love?</p>
 
 <p>In mid-2022, I went to a gas station in Canton, Illinois.
-Canton is a small town that's exactly like every other small town near it in Central Illinois.
-It's flat, impeccable, and expansive.</p>
+Canton is a small town that's just like every other small town near it in Central Illinois.
+It's flat, expansive, and unremarkable.</p>
 
 <p>The card processing machines were broken.
 The gas station clerks were friendly and apologetic, but didn't seem the least bit worried.</p>
