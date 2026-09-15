@@ -4,7 +4,7 @@
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/An-Introduction-To-Modern-Cosmology.jpg" />
 </div>
 <div align="center">
-An Introduction to Modern Cosmology 2nd Edition, by Andrew Liddle<sup>1</sup>
+An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </div>
 
 <br/>
@@ -14,37 +14,12 @@ An Introduction to Modern Cosmology 2nd Edition, by Andrew Liddle<sup>1</sup>
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
 </div>
 <div align="center">
-Me in the 1990s
+Me in the '90s
 </div>
 
 <br/><br/>
 
-<div class="width: 100%; text-align: center;">
-    <b>Where did the universe come from? The short answer is nobody knows.</b>
-</div>
-
 <hr/>
-
-<p>
-The biggest thing that stuck out to me from <i>An Introduction to Modern Cosmology</i> was seeing the formula for a reaction like this:
-</p>
-
-<blockquote>
-γ + γ ←→ p+¯p <br/><br/>
--page 146⁴
-</blockquote>
-
-<p>
-That reaction means two photons (`γ`) react to create a proton (`p`) and an anti-proton (`¯p`).
-It so happens that the universe ended up with a litle more matter (protons) than antimatter (anti-protons).
-And so there were protons left over, which are the protons we have today.
-</p>
-
-<p>
-The context is that the early universe was entirely radiation ("light")! At first, there was no physical matter one could touch.
-All matter was created from "light" (radiation, a superset of visible light), later on.
-The fact that this was included matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
-</p>
 
 <p>
 I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
@@ -56,20 +31,52 @@ As one Amazon reviewer noted about the book, "Good, but not an easy read."<sup>1
 </p>
 
 <p>
-The course didn't entirely follow the book. The course was great, but the professor usually went off of his own materials as I recall.
-The professor, Dr. Marek Demiański, is a renowned cosmologist. We learned from someone extremely knowledgeable and with a great love for the subject.
+One of the biggest things that stuck with me from the book was seeing the formula for a reaction like this:
+</p>
+
+<blockquote>
+γ + γ ←→ p+¯p <br/><br/>
+-page 146⁴
+</blockquote>
+
+<p>
+Reading the reaction from left to right, that means two photons (`γ`) react to create a proton (`p`) and an anti-proton (`¯p`).
+It so happens that the universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
+</p>
+
+<p>
+The context is that the very early universe was entirely radiation ("light")! 
+At first, there was no physical matter one could touch.
+All matter we see today was created from the radiation.
+Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
+</p>
+
+<p>
+Of course the bigger question is: where did the radiation came from?
+In other words, what caused the Big Bang? What came before the Big Bang?
+The answer is nobody knows.
+The universe we can observe is 13.8 billion years old, which is an oddly specific number. --TODO add citation
+</p>
+
+<p>
+As I recall, the "ASTR 420 - Observational Cosmology" course didn't entirely follow the book. 
+Instead, the professor often used his own teaching materials.
+The professor, Dr. Marek Demiański, is a renowned cosmologist. He was very knowledgeable and loved the subject.
 </p>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Cosmology_Professor.jpg" />
     <div align="center">
-        <sup>8</sup>
+        Professor Demiański<sup>8</sup>
     </div>
 </div>
 
 <p>
-Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
-In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. "Anisotropies" means "variations that depend on the direction in which one looks"--TODO add citation. In this case, variations in the temperature of the CMBR depending on which direction in the sky one looks.--TODO add citation
+Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
+The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
+In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. 
+"Anisotropy" means "a variation that depends on the direction in which one looks"--TODO add citation. 
+In this case, a variation in the temperature of the Cosmic Microwave Background Radiation depending on which direction in the sky one looks.--TODO add citation
 This is an image of the entire sky, produced by the Planck satellite, showing those variations:
 </p>
 
@@ -81,16 +88,20 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 </div>
 
 <p>
-In cosmology, you often see the phrase "homogeneous and isotropic". You can see that phrase in the final block quote in this essay, for example.
-"Isotropic" means "doesn't have any anisotropies": no variations based on the direction in which one looks.<sup>6</sup> If I look to the left, things look similar to how they look if I look to the right. 
-Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup> More of it over here than over there.
+In cosmology, you often see the phrase "homogeneous and isotropic". 
+You can see that phrase in the final block quote included in this essay, for example.
+"Isotropic" means "doesn't have any anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
+If I look to the left, and then I look to the right, things look similar. 
+Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it over here than over there.
 </p>
 
 <p>
-Is the universe homogeneous and isotropic-roughly the same in all directions and locations, when considered at a large scale? The answer is we don't know. It's a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
+Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
+The answer is we don't know! 
+It's actually quote a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
 </p>
 
-____________________________________
+<br/>
 
 There are also these two reactions in the book:
 <blockquote>

@@ -111,7 +111,29 @@ A shot from another of that artist's videos shows a quote from the novel <i>Song
 This is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
 This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed in front of them.
 Sometimes Mentality-and-materiality is way too real, you lost the wrestling match, and the stool definitely doesn't have enough legs.
-That, unfortunately, is the hole at the center of the universe.
+That is the hole at the center of the universe.
+</p>
+
+<p>
+So what's the solution to the hole at the center of the universe?
+My father used to say that "the bible is a big book", meaning you can find a lot of different messages, stories, and ideas in it.
+In particular, elsewhere in the bible it says that God is love. --TODO: add citation
+I think that's the interpretation that squares the circle.
+</p>
+
+<p>
+God as love goes ahead and just replaces the stool of theodicy.
+TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
+I think it's obvious that love isn't available everywhere and all the time.
+Nor is love (as far as I know) able to literally alter the physical world; to direct atoms this way or that.
+</p>
+
+<p>
+With love, you don't get full-blown three-legs theodicy (which we pretty much already know isn't literally true), but you do get a sense of the world at least sometime being a good place, even a very good place, and the distinction depending on whether or not love is present.
+The nice thing about love versus the stool is that love is more within our control as humans.
+With theodicy we're trying to understand a fact about of the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't actually change.
+The idea is that theodicy (via whichever combination of legs of the stool) is a latent immutable property of the universe. 
+With love, though, you can go out and create more of it in your own life. <-closing sentence
 </p>
 
 <hr/>
