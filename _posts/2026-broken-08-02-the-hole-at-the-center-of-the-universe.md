@@ -124,16 +124,20 @@ I think that's the interpretation that squares the circle.
 <p>
 God as love goes ahead and just replaces the stool of theodicy.
 TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-I think it's obvious that love isn't available everywhere and all the time.
-Nor is love (as far as I know) able to literally alter the physical world; to direct atoms this way or that.
+While you could say that true love is omnibenevolent, I think it's true that love isn't available everywhere and all the time (omnipresent).
+Nor is love able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
-With love, you don't get full-blown three-legs theodicy (which we pretty much already know isn't literally true), but you do get a sense of the world at least sometime being a good place, even a very good place, and the distinction depending on whether or not love is present.
-The nice thing about love versus the stool is that love is more within our control as humans.
-With theodicy we're trying to understand a fact about of the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't actually change.
+So with love you don't get three-legs-of-the-stool theodicy (which we kind of already knew isn't true). 
+What you do get is a sense that the world is at least sometimes a good place, even a very good place, and a sense that the distinction between good and not good depends on whether love is present.
+The nice thing about love versus the stool is that love is within human control.
+With theodicy, on the other hand, we're trying to understand a fact about the universe that if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
+</p>
+
+<p>
 The idea is that theodicy (via whichever combination of legs of the stool) is a latent immutable property of the universe. 
-With love, though, you can go out and create more of it in your own life. <-closing sentence
+With love, though, you can go out and create more of it in your life. <-closing sentence
 </p>
 
 <hr/>
