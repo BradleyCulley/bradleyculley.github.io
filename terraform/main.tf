@@ -25,7 +25,8 @@ resource "null_resource" "lambda_package" {
 }
 
 resource "aws_iam_role" "lambda_exec" {
-  name = "${var.project_name}-lambda-role"
+  # use name_prefix to avoid collision if role already exists
+  name_prefix = "${var.project_name}-lambda-role-"
 
   assume_role_policy = jsonencode({
     Version = "2012-10-17"
