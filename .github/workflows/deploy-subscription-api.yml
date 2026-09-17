@@ -86,6 +86,26 @@ jobs:
                          -backend-config="key=terraform.tfstate" \
                          -backend-config="region=${AWS_REGION}"
 
+      - name: Import existing RDS into Terraform state if present
+        working-directory: terraform
+        env:
+          AWS_REGION: ${{ env.AWS_REGION }}
+        run: |
+          set -e
+          DB_IDENTIFIER="${var_db_identifier:-blog-subscribe-db}"
+          # check for existing RDS instance
+          if aws rds describe-db-instances --db-instance-identifier "$DB_IDENTIFIER" --region "$AWS_REGION" >/dev/null 2>&1; then
+            echo "RDS instance $DB_IDENTIFIER exists in AWS"
+            if terraform state list | grep -q "aws_db_instance.subscribers"; then
+              echo "RDS instance already tracked in state"
+            else
+              echo "Importing RDS instance into terraform state"
+              terraform import aws_db_instance.subscribers "$DB_IDENTIFIER"
+            fi
+          else
+            echo "No existing RDS instance named $DB_IDENTIFIER found; continuing"
+          fi
+
       - name: Terraform apply
         working-directory: terraform
         run: |
