@@ -117,28 +117,39 @@ That is the hole at the center of the universe.
 <p>
 So what's the solution to the hole at the center of the universe?
 My father used to say that "the bible is a big book", meaning you can find a lot of different messages, stories, and ideas in it.
-In particular, elsewhere in the bible it says that God is love. --TODO: add citation
-I think that's the interpretation that squares the circle.
+In particular, elsewhere in the bible it says that God is love --TODO: add citation.
+I'd say in particular, love between specific people. 
 </p>
 
 <p>
-God as love goes ahead and just replaces the stool of theodicy.
+A lot of people don't know the story of how the Buddha became enlightened.
+The story goes like this: TODO add as a paraphrase or a block quote
+
+It's common to think that the Buddha became enlightened because he did a lot of meditation.
+While the meditation was presumably part of the preparatory process, it was actually the love of a woman, so to speak, that made him enlightened.
+</p>
+
+<p>
+So god as love replaces the stool of theodicy.
 TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-While you could say that true love is omnibenevolent, I think it's true that love isn't available everywhere and all the time (omnipresent).
+While you could say that true love is omnibenevolent (completely good), I think it's obvious that love isn't available everywhere and all the time (omnipresent).
 Nor is love able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
 So with love you don't get three-legs-of-the-stool theodicy (which we kind of already knew isn't true). 
-What you do get is a sense that the world is at least sometimes a good place, even a very good place, and a sense that the distinction between good and not good depends on whether love is present.
-The nice thing about love versus the stool is that love is within human control.
-With theodicy, on the other hand, we're trying to understand a fact about the universe that if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
+What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether love is present.
+And the nice thing about love versus the stool is that love is within human control.
+With theodicy we're trying to understand a fact about the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
 </p>
 
 <p>
 The idea is that theodicy (via whichever combination of legs of the stool) is a latent immutable property of the universe. 
-With love, though, you can go out and create more of it in your life. <-closing sentence
+With love though, you can go out and create more of it in your life. <-closing sentence
 </p>
+
+TODO use the reference to Mackie here: https://alevelphilosophyandreligion.com/the-problem-of-evil/
+Use the stool reference here: https://www.karipatterson.com/the-shack/
 
 <hr/>
 

@@ -1,0 +1,10 @@
+{
+  "name": "blog-subscribe-lambda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stores new-post subscription emails in AWS RDS.",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}

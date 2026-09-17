@@ -1,4 +1,7 @@
-﻿_site
+_site/
+.bundle/
+.jekyll-cache/
+vendor/
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -10,3 +13,8 @@
 .idea
 out
 .DS_Store
+node_modules/
+aws/lambda/*.zip
+aws/lambda/package-lock.json
+terraform/.terraform/
+terraform/.terraform.lock.hcl

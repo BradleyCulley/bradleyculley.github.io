@@ -15,6 +15,8 @@ linkedin_username: "https://www.linkedin.com/in/brad-culley-93651992"
 #youtube_username: username
 #googleplus_username: +username
 
+subscription_api_url: "https://example.invalid/"
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################

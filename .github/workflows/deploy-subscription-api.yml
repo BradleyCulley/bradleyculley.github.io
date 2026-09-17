@@ -1,0 +1,77 @@
+name: Deploy blog subscription stack
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_REGION: "us-east-1"
+      SUBSCRIPTION_API_URL: ""
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.9.8
+
+      - name: Terraform init
+        working-directory: terraform
+        run: terraform init
+
+      - name: Terraform apply
+        working-directory: terraform
+        run: |
+          terraform apply -auto-approve \
+            -var="aws_region=${AWS_REGION}" \
+            -var="db_username=${{ secrets.RDS_USERNAME }}" \
+            -var="db_password=${{ secrets.RDS_PASSWORD }}"
+
+      - name: Capture Lambda Function URL
+        working-directory: terraform
+        run: echo "SUBSCRIPTION_API_URL=$(terraform output -raw api_url)" >> "$GITHUB_ENV"
+
+      - name: Write Jekyll runtime config
+        run: |
+          ruby - <<'RUBY'
+          require 'yaml'
+          config_path = File.expand_path('_config.yml')
+          config = File.exist?(config_path) ? (YAML.load_file(config_path) || {}) : {}
+          config['subscription_api_url'] = ENV.fetch('SUBSCRIPTION_API_URL', 'https://example.invalid/')
+          File.write('_config.generated.yml', config.to_yaml)
+          RUBY
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --config _config.yml,_config.generated.yml
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
