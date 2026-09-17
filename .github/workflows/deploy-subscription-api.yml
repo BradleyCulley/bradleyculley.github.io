@@ -31,7 +31,19 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Ensure Gemfile.lock supports Linux runners
+        run: |
+          set -e
+          if [ -f Gemfile.lock ]; then
+            bundle lock --add-platform x86_64-linux || true
+          else
+            bundle lock --add-platform x86_64-linux || true
+          fi
+
+      - name: Install Ruby gems
+        run: bundle install --jobs 4 --retry 3
 
       - name: Set up Terraform
         uses: hashicorp/setup-terraform@v3
