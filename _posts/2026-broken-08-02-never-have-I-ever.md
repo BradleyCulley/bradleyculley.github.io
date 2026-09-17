@@ -8,7 +8,7 @@
     In the philosophy of religion, there's this thing called "theodicy":
 </p>
 
-Never have I ever been, nor even will I ever become, a middle-aged guy who exercises via riding a nice-looking racing-style road bike with skinny tires and downward-curving handlebar handles on suburban roads while wearing a spandex body suit and occasionally getting hit by a car
+Never have I ever been, nor even will I ever become, a middle-aged guy who exercises via riding a nice-looking racing-style road bike with skinny tires and downward-curving handlebar handles on suburban roads while wearing a spandex body suit and occasionally getting hit by a car.
 
 <hr/>
 
