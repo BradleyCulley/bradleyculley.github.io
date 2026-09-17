@@ -65,6 +65,15 @@ jobs:
             fi
           fi
 
+      - name: Package Lambda function
+        working-directory: aws/lambda
+        run: |
+          set -e
+          npm ci --production
+          rm -f blog-subscribe.zip
+          zip -r blog-subscribe.zip . -x "*.md" "package-lock.json"
+          ls -l blog-subscribe.zip
+
       - name: Terraform init (with S3 backend)
         working-directory: terraform
         run: |
