@@ -50,9 +50,27 @@ jobs:
         with:
           terraform_version: 1.9.8
 
-      - name: Terraform init
+      - name: Ensure S3 state bucket exists
+        run: |
+          set -e
+          BUCKET="culley-blog-terraform-state"
+          if aws s3api head-bucket --bucket "$BUCKET" 2>/dev/null; then
+            echo "Bucket $BUCKET exists"
+          else
+            echo "Creating bucket $BUCKET in ${AWS_REGION}"
+            if [ "${AWS_REGION}" = "us-east-1" ]; then
+              aws s3api create-bucket --bucket "$BUCKET" --region "${AWS_REGION}" || true
+            else
+              aws s3api create-bucket --bucket "$BUCKET" --region "${AWS_REGION}" --create-bucket-configuration LocationConstraint=${AWS_REGION} || true
+            fi
+          fi
+
+      - name: Terraform init (with S3 backend)
         working-directory: terraform
-        run: terraform init
+        run: |
+          terraform init -backend-config="bucket=culley-blog-terraform-state" \
+                         -backend-config="key=terraform.tfstate" \
+                         -backend-config="region=${AWS_REGION}"
 
       - name: Terraform apply
         working-directory: terraform
