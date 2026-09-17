@@ -74,7 +74,7 @@ resource "aws_db_instance" "subscribers" {
   max_allocated_storage   = var.db_storage
   storage_type            = "gp2"
   engine                  = "postgres"
-  engine_version          = var.db_engine_version
+  engine_version          = length(var.db_engine_version) > 0 ? var.db_engine_version : null
   instance_class          = var.db_instance_class
   db_name                 = var.db_name
   username                = var.db_username

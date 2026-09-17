@@ -44,7 +44,7 @@ variable "db_storage" {
 variable "db_engine_version" {
   description = "PostgreSQL engine version for the RDS instance. Leave blank to use AWS default."
   type        = string
-  default     = "15.4"
+  default     = ""
 }
 
 variable "db_backup_retention" {
