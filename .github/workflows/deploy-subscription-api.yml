@@ -65,11 +65,16 @@ jobs:
             fi
           fi
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Package Lambda function
         working-directory: aws/lambda
         run: |
           set -e
-          npm ci --production
+          npm install --production --no-audit --no-fund
           rm -f blog-subscribe.zip
           zip -r blog-subscribe.zip . -x "*.md" "package-lock.json"
           ls -l blog-subscribe.zip
