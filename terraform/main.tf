@@ -3,25 +3,8 @@ provider "aws" {
 }
 
 locals {
-  lambda_source_dir = "${path.module}/../aws/lambda"
-  lambda_zip_path   = "${path.module}/.terraform/tmp/blog-subscribe.zip"
-}
-
-resource "null_resource" "lambda_package" {
-  triggers = {
-    source_hash = sha256(join("", [for path in fileset(local.lambda_source_dir, "**/*") : filesha256("${local.lambda_source_dir}/${path}")]))
-  }
-
-  provisioner "local-exec" {
-    command = <<-EOT
-      set -e
-      cd "${local.lambda_source_dir}"
-      mkdir -p "${path.module}/.terraform/tmp"
-      npm install --production --silent
-      rm -f "${local.lambda_zip_path}"
-      zip -r "${local.lambda_zip_path}" . -x "*.md" "package-lock.json"
-    EOT
-  }
+  # expect a pre-built zip at aws/lambda/blog-subscribe.zip (created by CI before terraform apply)
+  lambda_zip_path   = "${path.module}/../aws/lambda/blog-subscribe.zip"
 }
 
 resource "aws_iam_role" "lambda_exec" {
@@ -88,7 +71,7 @@ resource "aws_db_instance" "subscribers" {
 }
 
 resource "aws_lambda_function" "subscriber" {
-  depends_on = [null_resource.lambda_package]
+  # expects a prebuilt zip at aws/lambda/blog-subscribe.zip (created by CI before terraform apply)
 
   function_name = "${var.project_name}-api"
   role          = aws_iam_role.lambda_exec.arn
@@ -98,7 +81,7 @@ resource "aws_lambda_function" "subscriber" {
   timeout       = var.lambda_timeout
   filename      = local.lambda_zip_path
 
-  source_code_hash = null_resource.lambda_package.triggers["source_hash"]
+  source_code_hash = filebase64sha256(local.lambda_zip_path)
 
   environment {
     variables = {
