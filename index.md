@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 ---
 
+<!-- Subscription form temporarily disabled while backend setup is completed.
 <div class="subscribe-card">
   <h2>Subscribe for new posts</h2>
   <p>Get a note whenever a new post goes live.</p>
@@ -60,3 +61,4 @@ title: "Home"
     }
   });
 </script>
+-->
