@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: ""
 ---
 
 <!-- Subscription form temporarily disabled while backend setup is completed.
