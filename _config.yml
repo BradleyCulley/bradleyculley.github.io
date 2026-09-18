@@ -1,4 +1,4 @@
-title: ""
+title: "MLBWYA: Brad Culley's Blog"
 #author: "Brad Culley"
 description: "'Life is not a private affair.' ― Dan Millman" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -28,6 +28,8 @@ kramdown:
 
 plugins:
   - jekyll-sitemap
+
+header_pages: []
 
 titles_from_headings:
   strip_title: true
