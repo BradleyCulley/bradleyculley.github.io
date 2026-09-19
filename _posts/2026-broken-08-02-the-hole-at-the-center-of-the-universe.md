@@ -68,7 +68,19 @@ We are faced with the persistent misconception that what is natural is good, or 
 People happily argue against modern medicine using computers that would not exist were it not for the same science that they ultimately oppose.  Young earth creationists drive to church in their cars, burning fossil fuels that are millions of years old.
 </blockquote>
 
+<p>
+As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole sort of feeling, of the indifference and inscrutability of the physical world: "emptiness" (śūnyatā, Sanskrit: शून्यता). --TODO add citation: https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
+</p>
+
+<blockquote>
+Everything happens for a reason, and that reason is physics<br/>
+
+-Source unknown
+</blockquote>
+
 https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
+
+<hr/>
 
 <p>
     In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
@@ -78,7 +90,8 @@ https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
 </p>
 
 <p>
-    He shared the story to say that there isn't necessarily a reason it happened; it just happened. There not being a reason doesn't take away from the grief of the loss, either.
+    He shared the story to say that there isn't necessarily a reason it happened; it just happened. 
+    And that doesn't have to subtract from the grief of the loss.
     --TODO citation from the book for this section
 </p>
 
@@ -87,9 +100,6 @@ https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
     There's even a specific Buddhist virtue for letting go: Upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
     Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
 </p>
-
-In Thai culture (heavily influenced by Buddhism), for example, there are concepts such as "jai yen" (TODO add Thai script word for it here), which literally means "cool heart". --TODO add citation https://www.christinebedenis.co/2014/06/20/thai-heart-language/
-Jai yen is often used in the form of a request, as "jai yen yen"
 
 <p>
 I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
