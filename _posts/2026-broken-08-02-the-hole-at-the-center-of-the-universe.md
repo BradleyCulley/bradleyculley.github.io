@@ -41,14 +41,14 @@ TODO: talk about the three legs of the stool of theodicy.
 </blockquote>
 
 <p>
-    Some people think it's meaningful that the struggle happened through the night: struggling through the psychological darkness.
-    All of this is to say that we wrestle with theodicy: why bad things happen to good people.
+    Also, some people think it's meaningful that the struggle happened through the night: struggling through psychological darkness.
+    In summary, the idea is that we wrestle with theodicy: why do bad things happen to good people?
 </p>
 
 <hr/>
 
 <p>
-    In Buddhism, there's something pretty different, called "Mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
+    In Buddhism, there's something super different. It's called "Mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
     "Mentality" is the tendency of the mind to project its own mental states onto the world.<sup>3</sup>
     "Materiality" is the idea that the physical world is indifferent to our thoughts, ideals, and narratives.<sup>3</sup>
 </p>
@@ -68,8 +68,11 @@ We are faced with the persistent misconception that what is natural is good, or 
 People happily argue against modern medicine using computers that would not exist were it not for the same science that they ultimately oppose.  Young earth creationists drive to church in their cars, burning fossil fuels that are millions of years old.
 </blockquote>
 
+https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
+
 <p>
-As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole sort of feeling, of the indifference and inscrutability of the physical world: "emptiness" (śūnyatā, Sanskrit: शून्यता). --TODO add citation: https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81
+As is often the case in my experience, Buddhism has a specific (and evocative) term to describe this whole feeling: the indifference and inscrutability of the physical world.
+The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
 </p>
 
 <blockquote>
@@ -77,8 +80,6 @@ Everything happens for a reason, and that reason is physics<br/>
 
 -Source unknown
 </blockquote>
-
-https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
 
 <hr/>
 
@@ -90,26 +91,24 @@ https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
 </p>
 
 <p>
-    He shared the story to say that there isn't necessarily a reason it happened; it just happened. 
-    And that doesn't have to subtract from the grief of the loss.
-    --TODO citation from the book for this section
+    He shared the story to say there isn't necessarily a reason it happened; it just happened. 
+    And that doesn't have to subtract from the grief of the loss.--TODO citation from the book for this section
 </p>
 
 <p>
-    Buddhism doesn't ask us to wrestle; it's more of a religion of letting go.
-    There's even a specific Buddhist virtue for letting go: Upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
+    Buddhism doesn't want us to wrestle. It's more of a religion of letting go.
+    There's even a specific Buddhist virtue for letting go: upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
     Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
 </p>
 
 <p>
 I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
-Perhaps because I grew up in a Judeo-Christian cultural and religious context, wrestling with angels feel more natural and more satisfying to me. 
 </p>
 
 <hr/>
 
 <p>
-There's a problem though: when either the problem is so bad or the solutions just don't work.
+There's a problem though: what do you do when either the problem is so bad or the solutions don't work.
 A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
 </p>
 
@@ -118,43 +117,55 @@ A shot from another of that artist's videos shows a quote from the novel <i>Song
 </div> --TODO cite the video: https://www.youtube.com/watch?v=9KOUEmZfa9s
 
 <p>
-This is officially recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
-This is the classic case of a soldier on the front lines seeing their friend and fellow soldier killed in front of them.
-Sometimes Mentality-and-materiality is way too real, you lost the wrestling match, and the stool definitely doesn't have enough legs.
-That is the hole at the center of the universe.
+Think of the soldier on the front lines seeing their friend and fellow soldier killed by an artillery blast, right in front of them.
+Someone else could have been standing there, they could have built a deeper fortification, they could have called in airstikes.
+A wife dies from old age and the husband dies a week later, seemingly from heartbreak.
 </p>
 
 <p>
+Sometimes Mentality-and-materiality is all too real and the angel won the wrestling match.
+This is recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
+And it is the hole at the center of the universe.
+</p>
+
+<hr/>
+
+<p>
 So what's the solution to the hole at the center of the universe?
-My father used to say that "the bible is a big book", meaning you can find a lot of different messages, stories, and ideas in it.
+My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
 In particular, elsewhere in the bible it says that God is love --TODO: add citation.
-I'd say in particular, love between specific people. 
+I'd say in particular, love between people. 
 </p>
 
 <p>
 A lot of people don't know the story of how the Buddha became enlightened.
-The story goes like this: TODO add as a paraphrase or a block quote
+The story goes like this: ---TODO add as a paraphrase or a block quote
+</p>
 
-It's common to think that the Buddha became enlightened because he did a lot of meditation.
-While the meditation was presumably part of the preparatory process, it was actually the love of a woman, so to speak, that made him enlightened.
+<p>
+It's common to think that the Buddha became enlightened because he did lots of meditation.
+While the meditation kind of set him up for it, it was actually the love of a woman that enlightened him.
 </p>
 
 <p>
 So god as love replaces the stool of theodicy.
 TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-While you could say that true love is omnibenevolent (completely good), I think it's obvious that love isn't available everywhere and all the time (omnipresent).
+
+</p>
+
+<p>
+While you could say true love is omnibenevolent (completely good), I don't think love is available everywhere and all the time (omnipresent).
 Nor is love able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
-So with love you don't get three-legs-of-the-stool theodicy (which we kind of already knew isn't true). 
-What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether love is present.
-And the nice thing about love versus the stool is that love is within human control.
-With theodicy we're trying to understand a fact about the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
+So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
+What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether or not love is present.
 </p>
 
 <p>
-The idea is that theodicy (via whichever combination of legs of the stool) is a latent immutable property of the universe. 
+And a nice thing about love versus the stool is that love is within human control.
+With theodicy we're trying to understand a latent immutable property of the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
 With love though, you can go out and create more of it in your life. <-closing sentence
 </p>
 
@@ -174,3 +185,4 @@ Sources:<br/>
 <sup>8</sup>: https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3 <br/>
 <sup>9</sup>: https://www.college.columbia.edu/cct/issue/fall-2023/article/harold-s-kushner-%E2%80%9955-distinguished-rabbi-and-best-selling-author <br/>
 <sup>10</sup>: https://en.wikipedia.org/wiki/Jacob_wrestling_with_the_angel <br/>
+<sup>11</sup>: https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81 <br/>
