@@ -4,6 +4,11 @@
 
 <hr/>
 
+<div align="center">
+  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Jacob_Wrestling_With_The_Angel.jpg" />
+  <div style="font-size: 16px; font-style: italic;">Lutte de Jacob avec l'Ange (Jacob Wrestling with the Angel),<br/>by Eugène Delacroix (1861)<sup>12</sup></div>
+</div>
+
 <p>
     In the philosophy of religion, there's this thing called "theodicy":
 </p>
@@ -17,8 +22,8 @@ TODO: talk about the three legs of the stool of theodicy.
 </p>
 
 <p>
-    To paraphrase from the title of a book by Rabbi Harold Kushner, theodicy is about why do bad things happen to good people?<sup>2</sup>
-    Kushner wrote the book after his son Aaron died from a rare disease at age 14.<sup>9</sup>
+    To paraphrase from the title of a book by Rabbi Harold Kushner, theodicy is about why bad things happen to good people.<sup>2</sup>
+    Kushner wrote the book, <i>When Bad Things Happen to Good People</i>, after his son Aaron died from a rare disease at age 14.<sup>9</sup>
 </p>
 
 <blockquote>
@@ -54,8 +59,8 @@ TODO: talk about the three legs of the stool of theodicy.
 </p>
 
 <p>
-My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
-This is part of his writeup, and below that is the film:
+    My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
+    This is part of his writeup, and below that is the film:
 </p>
 
 <blockquote>
@@ -79,14 +84,16 @@ People happily argue against modern medicine using computers that would not exis
 </div>
 
 <p>
-As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
-The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
+    As is often the case, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
+    The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
 </p>
 
 <hr/>
 
 <p>
     In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
+    TODO: add a screenshot of the book order
+
     In the book, Hagen describes a close friend of his, who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
     Hagen said the friend he lost was a great person who is greatly missed.
     --TODO citation from the book for this section
@@ -104,7 +111,7 @@ The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</s
 </p>
 
 <p>
-I should say that I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
+    I should say that I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
 </p>
 
 <hr/>
@@ -188,3 +195,4 @@ Sources:<br/>
 <sup>9</sup>: https://www.college.columbia.edu/cct/issue/fall-2023/article/harold-s-kushner-%E2%80%9955-distinguished-rabbi-and-best-selling-author <br/>
 <sup>10</sup>: https://en.wikipedia.org/wiki/Jacob_wrestling_with_the_angel <br/>
 <sup>11</sup>: https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81 <br/>
+<sup>12</sup>: CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=386358 <br/>
