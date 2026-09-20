@@ -5,9 +5,11 @@
 <hr/>
 
 <div align="center">
-  <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Jacob_Wrestling_With_The_Angel.jpg" />
-  <div style="font-size: 16px; font-style: italic;">Lutte de Jacob avec l'Ange (Jacob Wrestling with the Angel),<br/>by Eugène Delacroix (1861)<sup>12</sup></div>
+  <img style="height: 600px;" src="https://bradleyculley.github.io/images/Jacob_Wrestling_With_The_Angel.jpg" />
+  <div style="font-size: 12px; font-style: italic;">Detail from the painting "Lutte de Jacob avec l'Ange" ("Jacob Wrestling with the Angel"),<br/>by Eugène Delacroix (1861)<sup>12</sup></div>
 </div>
+
+<br/>
 
 <p>
     In the philosophy of religion, there's this thing called "theodicy":
@@ -46,7 +48,7 @@ TODO: talk about the three legs of the stool of theodicy.
 </blockquote>
 
 <p>
-    Also, some people think it's meaningful that the struggle happened through the night: struggling through psychological darkness.
+    Also, some people think it's meaningful that the struggle happened through the night: a struggle through psychological darkness, so to speak.
     In summary, the idea is that we wrestle with theodicy: why do bad things happen to good people?
 </p>
 
@@ -117,22 +119,14 @@ People happily argue against modern medicine using computers that would not exis
 <hr/>
 
 <p>
-There's a problem though: what what about when problem is just too terrible?
-A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
-</p>
-
-<div align="center">
-  <img style="width: 30vw;" src="https://bradleyculley.github.io/images/If-you-look-too-deeply.png" />
-</div> --TODO cite the video: https://www.youtube.com/watch?v=9KOUEmZfa9s
-
-<p>
+But there's a problem though: what about when loss is just too terrible?
 Consider the soldier on the front lines seeing their friend killed by an artillery blast.
 Someone else could have been standing there, they could have built a deeper fortification.
 Or the story of a wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
 </p>
 
 <p>
-Sometimes Mentality-and-materiality is all too real and the angel wins the wrestling match.
+Sometimes mentality-and-materiality is way too real and the angel crushes you in the wrestling match.
 This is recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
 And that's the hole at the center of the universe.
 </p>
@@ -143,7 +137,7 @@ And that's the hole at the center of the universe.
 So what's the solution to the hole at the center of the universe?
 My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
 Elsewhere in the bible, in the Book of John, it says that "God is love". --TODO add citation (both places say it) https://www.biblegateway.com/passage/?search=1%20John%204%3A8&version=ESV, https://www.biblegateway.com/passage/?search=1%20John%204%3A16&version=NIV --TODO: add citation.
-In my interpretation, I'm thinking more specifically love between people. 
+In my interpretation, specifically love between people. 
 </p>
 
 <p>
@@ -152,8 +146,8 @@ The story goes like this: ---TODO add as a paraphrase or a block quote
 </p>
 
 <p>
-A lot of people think the Buddha became enlightened because he did lots of meditation.
-While the meditation kind of set him up for it, it was actually the love of a woman that enlightened him.
+A lot of people think the Buddha became enlightened because he meditated a lot.
+While the meditation kind of set him up, it was actually the love of a woman that enlightened him.
 </p>
 
 <p>
@@ -168,14 +162,14 @@ Love also isn't able to like move atoms around to change the course of history (
 </p>
 
 <p>
-So with love you don't get all three legs of the stool, but we kind of already knew that the three-legs version wasn't real. 
-What you do get is a sense that the world is at least sometimes a good place, depending on whether or not love is present.
+So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
+What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether or not love is present.
 </p>
 
 <p>
 A nice thing about love versus the stool is that love is within human control.
-With theodicy we're trying to figure out a latent immutable property of the universe that, even within theodicy's own intellectual framework, an individual human can't change.
-With love though, you can go out and create more of it in your life. <-closing sentence
+With theodicy we're trying to figure out a latent immutable property of the universe that, even within theodicy's own intellectual framework, humans can't change.
+With love, though, you can go out and create more of it in your life. <-closing sentence
 </p>
 
 TODO use the reference to Mackie here: https://alevelphilosophyandreligion.com/the-problem-of-evil/
