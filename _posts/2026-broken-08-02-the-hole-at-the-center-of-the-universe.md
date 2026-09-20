@@ -17,7 +17,7 @@ TODO: talk about the three legs of the stool of theodicy.
 </p>
 
 <p>
-    To paraphrase from the title of a book by Rabbi Harold Kushner, why do bad things happen to good people?<sup>2</sup>
+    To paraphrase from the title of a book by Rabbi Harold Kushner, theodicy is about why do bad things happen to good people?<sup>2</sup>
     Kushner wrote the book after his son Aaron died from a rare disease at age 14.<sup>9</sup>
 </p>
 
@@ -48,14 +48,14 @@ TODO: talk about the three legs of the stool of theodicy.
 <hr/>
 
 <p>
-    In Buddhism, there's something super different. It's called "Mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
+    In Buddhism, there's something super different: it's called "mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
     "Mentality" is the tendency of the mind to project its own mental states onto the world.<sup>3</sup>
     "Materiality" is the idea that the physical world is indifferent to our thoughts, ideals, and narratives.<sup>3</sup>
 </p>
 
 <p>
-My favorite video artist created a great short film that explores the same idea.
-This is part of his writeup about the film, and below that is the film:
+My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
+This is part of his writeup, and below that is the film:
 </p>
 
 <blockquote>
@@ -68,18 +68,20 @@ We are faced with the persistent misconception that what is natural is good, or 
 People happily argue against modern medicine using computers that would not exist were it not for the same science that they ultimately oppose.  Young earth creationists drive to church in their cars, burning fossil fuels that are millions of years old.
 </blockquote>
 
-https://www.youtube.com/watch?v=g3RR1Wg_DCE --TODO: embed this
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/watch?v=g3RR1Wg_DCE" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 <p>
-As is often the case in my experience, Buddhism has a specific (and evocative) term to describe this whole feeling: the indifference and inscrutability of the physical world.
+As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
 The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
 </p>
-
-<blockquote>
-Everything happens for a reason, and that reason is physics<br/>
-
--Source unknown
-</blockquote>
 
 <hr/>
 
@@ -102,13 +104,13 @@ Everything happens for a reason, and that reason is physics<br/>
 </p>
 
 <p>
-I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
+I should say that I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
 </p>
 
 <hr/>
 
 <p>
-There's a problem though: what do you do when either the problem is so bad or the solutions don't work.
+There's a problem though: what what about when problem is just too terrible?
 A shot from another of that artist's videos shows a quote from the novel <i>Song of Enchantment</i>, by Ben Okri: "If you look too deeply everything breaks your heart." --TODO cite the novel
 </p>
 
@@ -117,15 +119,15 @@ A shot from another of that artist's videos shows a quote from the novel <i>Song
 </div> --TODO cite the video: https://www.youtube.com/watch?v=9KOUEmZfa9s
 
 <p>
-Think of the soldier on the front lines seeing their friend and fellow soldier killed by an artillery blast, right in front of them.
-Someone else could have been standing there, they could have built a deeper fortification, they could have called in airstikes.
-A wife dies from old age and the husband dies a week later, seemingly from heartbreak.
+Consider the soldier on the front lines seeing their friend killed by an artillery blast.
+Someone else could have been standing there, they could have built a deeper fortification.
+Or the story of a wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
 </p>
 
 <p>
-Sometimes Mentality-and-materiality is all too real and the angel won the wrestling match.
+Sometimes Mentality-and-materiality is all too real and the angel wins the wrestling match.
 This is recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
-And it is the hole at the center of the universe.
+And that's the hole at the center of the universe.
 </p>
 
 <hr/>
@@ -133,8 +135,8 @@ And it is the hole at the center of the universe.
 <p>
 So what's the solution to the hole at the center of the universe?
 My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
-In particular, elsewhere in the bible it says that God is love --TODO: add citation.
-I'd say in particular, love between people. 
+Elsewhere in the bible, in the Book of John, it says that "God is love". --TODO add citation (both places say it) https://www.biblegateway.com/passage/?search=1%20John%204%3A8&version=ESV, https://www.biblegateway.com/passage/?search=1%20John%204%3A16&version=NIV --TODO: add citation.
+In my interpretation, I'm thinking more specifically love between people. 
 </p>
 
 <p>
@@ -143,29 +145,29 @@ The story goes like this: ---TODO add as a paraphrase or a block quote
 </p>
 
 <p>
-It's common to think that the Buddha became enlightened because he did lots of meditation.
+A lot of people think the Buddha became enlightened because he did lots of meditation.
 While the meditation kind of set him up for it, it was actually the love of a woman that enlightened him.
 </p>
 
 <p>
-So god as love replaces the stool of theodicy.
+So God as love replaces the stool of theodicy.
 TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
 
 </p>
 
 <p>
 While you could say true love is omnibenevolent (completely good), I don't think love is available everywhere and all the time (omnipresent).
-Nor is love able to like move atoms around to change the course of history (omnipotent).
+Love also isn't able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
-So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
-What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether or not love is present.
+So with love you don't get all three legs of the stool, but we kind of already knew that the three-legs version wasn't real. 
+What you do get is a sense that the world is at least sometimes a good place, depending on whether or not love is present.
 </p>
 
 <p>
-And a nice thing about love versus the stool is that love is within human control.
-With theodicy we're trying to understand a latent immutable property of the universe that, if you think about it, even within theodicy's own intellectual framework, an individual human can't change.
+A nice thing about love versus the stool is that love is within human control.
+With theodicy we're trying to figure out a latent immutable property of the universe that, even within theodicy's own intellectual framework, an individual human can't change.
 With love though, you can go out and create more of it in your life. <-closing sentence
 </p>
 
