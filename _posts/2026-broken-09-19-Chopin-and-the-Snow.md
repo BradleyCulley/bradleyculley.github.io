@@ -16,7 +16,7 @@ The title is "Chopin - Berceuse in D Flat Major Op. 57", which is the music in i
 <p>
     Around when I read the book, and mimetically inspired by Lee, I trained for thumbs-only push-ups:<br/>
     <video width="100%" controls>
-      <source src="/images/thumb-tip-push-ups.mp4" type="video/mp4">
+      <source src="/images/Chopin-film.mov" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </p>
