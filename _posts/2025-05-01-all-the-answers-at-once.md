@@ -1,7 +1,7 @@
 ### All the Answers, All At Once
 
 <div align="center">
-  <img style="height: 600px;" src="https://bradleyculley.github.io/images/seaweed-at-the-beach.jpg" />
+  <img style="height: 200px;" src="https://bradleyculley.github.io/images/seaweed-at-the-beach.jpg" />
 </div>
 
 <div style="text-align: center">
