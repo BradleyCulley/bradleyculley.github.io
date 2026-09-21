@@ -119,57 +119,78 @@ People happily argue against modern medicine using computers that would not exis
 <hr/>
 
 <p>
-But there's a problem though: what about when loss is just too terrible?
-Consider the soldier on the front lines seeing their friend killed by an artillery blast.
-Someone else could have been standing there, they could have built a deeper fortification.
-Or the story of a wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
+    But there's a problem though: what about when loss is just too much?
+    Consider the soldier seeing their friend killed by an artillery blast.
+    Or the wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
 </p>
 
 <p>
-Sometimes mentality-and-materiality is way too real and the angel crushes you in the wrestling match.
-This is recognized by psychologists as what's called "moral injury". --https://psycnet.apa.org/record/2026-35530-010
-And that's the hole at the center of the universe.
+    Sometimes mentality-and-materiality is all too real and the angel wins the wrestling match.
+    This is recognized by psychologists as what's called "moral injury".<sup>14</sup>
+    And that's the hole at the center of the universe.
 </p>
 
 <hr/>
 
 <p>
-So what's the solution to the hole at the center of the universe?
-My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
-Elsewhere in the bible, in the Book of John, it says that "God is love". --TODO add citation (both places say it) https://www.biblegateway.com/passage/?search=1%20John%204%3A8&version=ESV, https://www.biblegateway.com/passage/?search=1%20John%204%3A16&version=NIV --TODO: add citation.
-In my interpretation, specifically love between people. 
+    So what's the solution to the hole at the center of the universe?
+    My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
+    Elsewhere in the bible, in the Book of John, it says that "God is love". --TODO add citation (both places say it) https://www.biblegateway.com/passage/?search=1%20John%204%3A8&version=ESV, https://www.biblegateway.com/passage/?search=1%20John%204%3A16&version=NIV --TODO: add citation.
+    In my interpretation, specifically love between people. 
 </p>
 
 <p>
-A lot of people don't know the story of how the Buddha became enlightened.
-The story goes like this: ---TODO add as a paraphrase or a block quote
+    A lot of people don't know the story of how the Buddha became enlightened.
+    The story goes like this: a woman named Sujata wanted to make an offering to the guardian spirit of a banyan tree nearby.<sup>13</sup>
+    The tree happened to be where the Buddha was sitting and trying to become enlightened.<sup>13</sup>
+    Among other things, he tried fasting (not eating).
+    Sujata (via a report from her maid, Punna) thought Buddha was the tree spirit, so she prepared an offering of rice milk in a bowl and gave it to the Buddha.<sup>13</sup>
+</p>
+
+<blockquote>
+Delighted, Sujata dressed in her finest decorations and placed the milk-rice in a golden vessel worth one lakh. She approached Siddhartha with deep respect, still believing him to be the deity of the tree. She presented the golden bowl, saying, "May your desire come to completion as it has mine".
+
+<h4>The Influence on Siddhartha’s Path: Rejuvenation and the Middle Path</h4>
+
+It was this sacrifice that made Siddhartha change into an enlightened being and not just a seeker. He made several crucial turns by his reception and imbibition of the milk-rice:
+
+<ul>
+    <li>Ending Extreme Penance: The formal conclusion of his six years of self-torture was the taking of food. It was a confession that the body had to be nourished to help the mind in search of wisdom.</li>
+    <li>Physical Rejuvenation: The rice-milk (kheer) was savory, thick, and nutritious, and this gave him the needed energy to withstand the last spiritual battle to get enlightened. He might never have been able to persevere to the end of his meditation without this physical restoration.</li>
+    <li>Discovery of the Middle Path: It was during this time that his discovery of the Middle Path was made firm, the golden mean between the two extremes of the worldly sense of indulgence and the self-mortification he had recently renounced.</li>
+    <li>The Final Step: When Siddhartha had eaten the rice in forty-nine morsels, he bathed in the Niranjana River, and hurled the golden vessel into the river (which magically floated against the current), and walked to the Enlightenment Tree (Bodhi Tree). Empowered with this gift given by Sujata, he was sitting down, determined not to disturb his seat till he had acquired Perfect Self-Enlightenment.</li><sup>13</sup>
+</ul>
+</blockquote>
+
+A representation of Sujata giving the bowl of rice-milk to the Buddha, from a temple in Bhutan (near India):
+https://en.wikipedia.org/wiki/Sujata_(milkmaid)#/media/File:Sujata_in_Bhutan_Temple.jpg
+
+<p>
+    A lot of people think the Buddha became enlightened because he meditated a lot.
+    While the meditation set him up for it, it was the love of a woman, so to speak, that enlightened him.
 </p>
 
 <p>
-A lot of people think the Buddha became enlightened because he meditated a lot.
-While the meditation kind of set him up, it was actually the love of a woman that enlightened him.
-</p>
-
-<p>
-So God as love replaces the stool of theodicy.
-TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
+    So God as love replaces the stool of theodicy.
+    TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
 
 </p>
 
 <p>
-While you could say true love is omnibenevolent (completely good), I don't think love is available everywhere and all the time (omnipresent).
-Love also isn't able to like move atoms around to change the course of history (omnipotent).
+    You could say true love is omnibenevolent (completely good), but I don't think love is available everywhere and all the time (omnipresent).
+    People are, unfortunately, regularly tortured to death, for example. 
+    Love also isn't able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
-So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
-What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether or not love is present.
+    So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
+    What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether love is present.
 </p>
 
 <p>
-A nice thing about love versus the stool is that love is within human control.
-With theodicy we're trying to figure out a latent immutable property of the universe that, even within theodicy's own intellectual framework, humans can't change.
-With love, though, you can go out and create more of it in your life. <-closing sentence
+    A nice thing about love versus the stool is that love is within human control.
+    With theodicy we're trying to figure out a latent immutable property of the universe that, even within theodicy's own intellectual framework, humans can't change.
+    With love, though, you can go out and create more of it in your life. <-closing sentence
 </p>
 
 TODO use the reference to Mackie here: https://alevelphilosophyandreligion.com/the-problem-of-evil/
@@ -190,3 +211,5 @@ Sources:<br/>
 <sup>10</sup>: https://en.wikipedia.org/wiki/Jacob_wrestling_with_the_angel <br/>
 <sup>11</sup>: https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81 <br/>
 <sup>12</sup>: CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=386358 <br/>
+<sup>13</sup>: https://enlightenmentthangka.com/blogs/thangka/lady-sujata-and-the-fasting-buddha <br/>
+<sup>14</sup>: https://psycnet.apa.org/record/2026-35530-010 <br/>
