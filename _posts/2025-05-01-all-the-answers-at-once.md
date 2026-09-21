@@ -1,5 +1,9 @@
 ### All the Answers, All At Once
 
+<div align="center">
+  <img style="height: 600px;" src="https://bradleyculley.github.io/images/seaweed-at-the-beach.jpg" />
+</div>
+
 <div style="text-align: center">
 <br/>
 <i>A thought - from my own brain, not a quote from somewhere - I recently had when thinking about a past romantic partner:</i><br/><br/>
