@@ -1,6 +1,15 @@
 ## <div align="center">Where Did the Universe Come From?<div>
 
 <div align="center">
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
+</div>
+<div align="center">
+Me in the '90s
+</div>
+
+<br/><br/>
+
+<div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/An-Introduction-To-Modern-Cosmology.jpg" />
 </div>
 <div align="center">
@@ -9,15 +18,6 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <br/>
 <br/>
-
-<div align="center">
-  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
-</div>
-<div align="center">
-Me in the '90s
-</div>
-
-<br/><br/>
 
 <hr/>
 
@@ -55,13 +55,13 @@ Seeing this noted matter-of-factly in the pages of an astrophysics textbook stop
 Of course the bigger question is: where did the radiation came from?
 In other words, what caused the Big Bang? What came before the Big Bang?
 The answer is nobody knows.
-The universe we can observe is 13.8 billion years old, which is an oddly specific number. --TODO add citation
+The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number.
 </p>
 
 <p>
-As I recall, the "ASTR 420 - Observational Cosmology" course didn't entirely follow the book. 
-Instead, the professor often used his own teaching materials.
-The professor, Dr. Marek Demiański, is a renowned cosmologist. He was very knowledgeable and loved the subject.
+As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book very closely. 
+The professor usually used his own teaching materials instead.
+The professor, Dr. Marek Demiański, is a renowned cosmologist. He was knowledgeable and loved the subject.
 </p>
 
 <div align="center">
@@ -75,9 +75,13 @@ The professor, Dr. Marek Demiański, is a renowned cosmologist. He was very know
 Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
 The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
 In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. 
-"Anisotropy" means "a variation that depends on the direction in which one looks"--TODO add citation. 
-In this case, a variation in the temperature of the Cosmic Microwave Background Radiation depending on which direction in the sky one looks.--TODO add citation
-This is an image of the entire sky, produced by the Planck satellite, showing those variations:
+</p>
+
+<p>
+An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
+If I look to the left, and then I look to the right, things look different. 
+In this case, the quantity that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction (in the sky/universe) in which you look.--TODO add citation
+This is an image of the entire sky, produced by the Planck satellite, showing those variations:<sup>5</sup>
 </p>
 
 <div align="center">
@@ -88,11 +92,10 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 </div>
 
 <p>
-In cosmology, you often see the phrase "homogeneous and isotropic". 
-You can see that phrase in the final block quote included in this essay, for example.
-"Isotropic" means "doesn't have any anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
-If I look to the left, and then I look to the right, things look similar. 
-Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it over here than over there.
+    In cosmology, you often see the phrase "homogeneous and isotropic". 
+    You can see that phrase in the final block quote included in this essay, for example.
+    "Isotropic" means "doesn't have anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
+    Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it over here than over there.
 </p>
 
 <p>
@@ -304,4 +307,6 @@ Sources:<br/>
 <sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
 <sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
 <sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
+<sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
+<sup>10</sup>: https://en.wikipedia.org/wiki/Anisotropy
 TODO cite the third edition of the book
