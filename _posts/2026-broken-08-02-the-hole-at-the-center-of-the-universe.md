@@ -107,8 +107,10 @@ People happily argue against modern medicine using computers that would not exis
 
 <p>
     In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
-    TODO: add a screenshot of the book order
-
+    <div align="center">
+        <img style="height: 300px;" src="order-screenshot-Buddhism-Plain-and-Simple.png" />
+        <div style="font-size: 12px; font-style: italic;">Receipt from ordering the book on Amazon</div>
+    </div>
     In the book, Hagen describes a close friend of his, who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
     Hagen said the friend he lost was a great person who is greatly missed.
     --TODO citation from the book for this section
@@ -186,7 +188,7 @@ https://en.wikipedia.org/wiki/Sujata_(milkmaid)#/media/File:Sujata_in_Bhutan_Tem
 <p>
     So God as love replaces the stool of theodicy.
     TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-
+    It's not hard to see the love aspect in the quote above from Rabbi Harold Kushner about the story of <i>When Bad Things Happen to Good People</i>.
 </p>
 
 <p>
