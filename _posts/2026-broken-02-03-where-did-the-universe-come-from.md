@@ -99,43 +99,50 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 </p>
 
 <p>
-Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
-The answer is we don't know! 
-It's actually quote a hot topic of current scientific inquiry and debate. --todo add this citation: https://en.wikipedia.org/wiki/Cosmological_principle
+    Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
+    We don't know! 
+    It's actually quite a hot topic of current scientific inquiry and debate.<sup>11</sup>
 </p>
 
 <br/>
 
+<p>
 There are also these two reactions in the book:
+</p>
+
 <blockquote>
 γ + γ ←→ e+ + e− <br/><br/>
 -page 140⁴
 </blockquote>
-In the rightward direction, that's two photons react to create an electron and a positron.
 
-and
+<p>
+In the rightward direction, that's two photons react to create an electron and a positron. And this one:
+</p>
 
 <blockquote>
 p + e− ←→ n + νe <br/><br/>
 -page 139⁴
 </blockquote>
+
+<p>
 In the rightward direction, a proton and an electron react to create a neutron and an electron neutrino.
+</p>
 
 <p>
 Both of those reactions, and the first one mentioned above that creates protons, are thought to have happened in the rightward direction to some degree in the early universe.
 </p>
 
 <p>
-Why do those reactions matter?
-They matter because we can start with photons (radiation/light) and get all three of: electrons, protons, and neutrons.
-Electrons, protons, and neutrons let you build atoms.
-That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
+    Why do those reactions matter?
+    They matter because we can start with photons (radiation/light) and get all three of: electrons, protons, and neutrons.
+    Electrons, protons, and neutrons let you build atoms.
+    That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
 </p>
 
 <p>
-As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
-`e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
-You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
+    As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
+    `e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
+    You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
 </p>
 
 <p>
@@ -309,4 +316,5 @@ Sources:<br/>
 <sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
 <sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
 <sup>10</sup>: https://en.wikipedia.org/wiki/Anisotropy
+<sup>11</sup>:https://en.wikipedia.org/wiki/Cosmological_principle
 TODO cite the third edition of the book

@@ -20,7 +20,20 @@
 </blockquote>
 
 <p>
-TODO: talk about the three legs of the stool of theodicy.
+    Theodicy is said to have three pieces<sup>16</sup>:
+</p>
+<ol>
+    <li>"Omniscience". God is all-knowing.</li>
+    <li>"Omnipotence". God is all-powerful</li>
+    <li>"Omnibenevolence". God is all-good (perfectly good).</li>
+</ol>
+
+<p>
+    Some people explain the three pieces through a visual metaphor of a stool, with each leg of the stool being a different piece.
+    It looks like this:
+    <div align="center">
+        <img style="height: 300px;" src="https://bradleyculley.github.io/images/the-stool-of-theodicy.png" />
+    </div>
 </p>
 
 <p>
@@ -194,7 +207,7 @@ https://en.wikipedia.org/wiki/Sujata_(milkmaid)#/media/File:Sujata_in_Bhutan_Tem
 </p>
 
 TODO use the reference to Mackie here: https://alevelphilosophyandreligion.com/the-problem-of-evil/
-Use the stool reference here: https://www.karipatterson.com/the-shack/
+Use the stool reference here: https://www.karipatterson.com/the-shack/, and the three parts specifically explained here: https://www.studley.ai/study-sets/philosophy/philosophy-questions
 
 <hr/>
 
@@ -213,3 +226,5 @@ Sources:<br/>
 <sup>12</sup>: CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=386358 <br/>
 <sup>13</sup>: https://enlightenmentthangka.com/blogs/thangka/lady-sujata-and-the-fasting-buddha <br/>
 <sup>14</sup>: https://psycnet.apa.org/record/2026-35530-010 <br/>
+<sup>15</sup>: https://www.karipatterson.com/the-shack/ <br/>
+<sup>16</sup>: https://www.studley.ai/study-sets/philosophy/philosophy-questions <br/>
