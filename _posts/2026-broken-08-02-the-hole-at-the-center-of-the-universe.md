@@ -29,12 +29,13 @@
 </ol>
 
 <p>
-    Some people explain the three pieces through a visual metaphor of a stool, with each leg of the stool being a different piece.
+    Some people explain the three pieces of theodicy through a visual metaphor of a stool, with each leg of the stool being a different piece.
     It looks like this:
-    <div align="center">
-        <img style="height: 300px;" src="https://bradleyculley.github.io/images/the-stool-of-theodicy.png" />
-    </div>
 </p>
+
+<div align="center">
+    <img style="height: 300px;" src="https://bradleyculley.github.io/images/the-stool-of-theodicy.png" />
+</div>
 
 <p>
     To paraphrase from the title of a book by Rabbi Harold Kushner, theodicy is about why bad things happen to good people.<sup>2</sup>
@@ -75,18 +76,7 @@
 
 <p>
     My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
-    This is part of his writeup, and below that is the film:
 </p>
-
-<blockquote>
-This film was intended as a brief reflection upon the idea of anthropomorphism in modern times, and its role in helping to create and sustain the comfortable notion that the world we live in is far from the seemingly bleak and reductionist viewpoint afforded by science.
-
-The wind represents the afterlife, a loving God, and other unseen forces created by the imagination and ignorance of man, both primitive and present-day.  It's within these moments that I would find myself reflecting on life, while simultaneously and unconsciously projecting my own human characteristics onto the landscape that lay before me.  I saw an aliveness that was more than the sum of its parts - the plants and insects, the animals of the land and sky, and something omnipresent that connected everything through an invisible thread.   But now, gone is the benevolence of nature, engineered to suit and support us.
-
-We are faced with the persistent misconception that what is natural is good, or best for us, and conversely, that whatever man makes is necessarily evil.
-
-People happily argue against modern medicine using computers that would not exist were it not for the same science that they ultimately oppose.  Young earth creationists drive to church in their cars, burning fossil fuels that are millions of years old.
-</blockquote>
 
 <div class="video-container">
   <iframe 
@@ -101,6 +91,22 @@ People happily argue against modern medicine using computers that would not exis
 <p>
     As is often the case, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
     The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
+</p>
+
+<p>
+    Something that fascinates me about the materiality aspect of mentality-and-materiality is that there's this enormous sort of latent intelligence in the physical universe.
+    In particular, the physical world is largely described by these things called "partial differential equations".
+    
+
+    In college, I took a mathematics course called differential equations, which one takes after a year or more of studies in calculus.
+    We solved problems like this:
+    TODO add a visual here, a graph of a vector field or a differential equation maybe
+</p>
+
+<p>
+    One of the things the professor told us is that the course was limited to Ordinary Differential Equations.
+    Partial Differential Equations were a whole other echelon, that you usually wouldn't study unless you went to graduate school for mathematics.
+    
 </p>
 
 <hr/>
@@ -177,29 +183,33 @@ It was this sacrifice that made Siddhartha change into an enlightened being and 
 </ul>
 </blockquote>
 
-A representation of Sujata giving the bowl of rice-milk to the Buddha, from a temple in Bhutan (near India):
-https://en.wikipedia.org/wiki/Sujata_(milkmaid)#/media/File:Sujata_in_Bhutan_Temple.jpg
+Below is a representation of Sujata giving the bowl of rice-milk to the Buddha, from a temple in Bhutan (near India)<sup>17</sup>. Note how the Buddha is emaciated from not eating.
+<div align="center">
+    <img style="height: 300px;" src="Sujata_in_Bhutan_Temple.jpgg" />
+</div>
 
 <p>
     A lot of people think the Buddha became enlightened because he meditated a lot.
-    While the meditation set him up for it, it was the love of a woman, so to speak, that enlightened him.
+    While the meditation set him up for it, it was the love of a woman that enlightened him.
 </p>
+
+<hr/>
 
 <p>
     So God as love replaces the stool of theodicy.
     TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-    It's not hard to see the love aspect in the quote above from Rabbi Harold Kushner about the story of <i>When Bad Things Happen to Good People</i>.
+    It's not hard to see the love in Rabbi Harold Kushner's quote about his son, from hist story about writing <i>When Bad Things Happen to Good People</i>.
 </p>
 
 <p>
     You could say true love is omnibenevolent (completely good), but I don't think love is available everywhere and all the time (omnipresent).
-    People are, unfortunately, regularly tortured to death, for example. 
+    People are, unfortunately, sometimes tortured to death, for example. 
     Love also isn't able to like move atoms around to change the course of history (omnipotent).
 </p>
 
 <p>
     So with love you don't get all three legs of the stool, but we kind of already knew that wasn't real. 
-    What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether love is present.
+    What you do get is a sense that the world is at least sometimes a good place, or even a very good place, depending on whether or not love is present.
 </p>
 
 <p>
@@ -209,7 +219,7 @@ https://en.wikipedia.org/wiki/Sujata_(milkmaid)#/media/File:Sujata_in_Bhutan_Tem
 </p>
 
 TODO use the reference to Mackie here: https://alevelphilosophyandreligion.com/the-problem-of-evil/
-Use the stool reference here: https://www.karipatterson.com/the-shack/, and the three parts specifically explained here: https://www.studley.ai/study-sets/philosophy/philosophy-questions
+Use the stool reference here: https://www.karipatterson.com/the-shack/
 
 <hr/>
 
@@ -230,3 +240,4 @@ Sources:<br/>
 <sup>14</sup>: https://psycnet.apa.org/record/2026-35530-010 <br/>
 <sup>15</sup>: https://www.karipatterson.com/the-shack/ <br/>
 <sup>16</sup>: https://www.studley.ai/study-sets/philosophy/philosophy-questions <br/>
+<sup>17</sup>: By Prince Roy - Flick [1], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=72314909 <br/>
