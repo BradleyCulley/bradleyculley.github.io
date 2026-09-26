@@ -146,12 +146,12 @@ Both of those reactions, and the first one mentioned above that creates protons,
 </p>
 
 <p>
-`c` is a large number, so you need a lot of energy to create a little bit of mass.
-In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
+    `c` is a large number, so you need a lot of energy to create a little bit of mass.
+    In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
 </p>
 
 <p>
-Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled with "Particles form".
+    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled with "Particles form".
 </p>
 
 <div align="center">
@@ -170,80 +170,84 @@ https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html?utm_source=chat
 This overall picture is well-accepted by scientists.
 It's tricky to know exactly what happened in the early universe though, which perhaps makes the field particularly interesting.
 It's kind of like being a crime scene investigator, because you have to go off of the remnants of an event at a prior time.
+</p>
+
+<p>
 You have to be really smart to find ways to figure out what happened.
 The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
 </p>
 
 <p>
-As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
-A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
-Protons and neutrons are part of a class of particles called "baryons".
-Electrons are part of a class of particles called "leptons".
-The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
+    As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
+    A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
+    Protons and neutrons are part of a class of particles called "baryons".
+    Electrons are part of a class of particles called "leptons".
+    The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
 </p> --TODO add citations
 
 <p>
-The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
-The conditions are called the "Sakharov conditions". --TODO add citation
-Dr. Sakharov had a few irons in the fire, so to speak.
+    The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
+    The conditions are called the "Sakharov conditions". --TODO add citation
+    Dr. Sakharov had a few irons in the fire, so to speak.
 </p>
 
 ____________________________________
 
 <p>
-One could say "who cares?" when it comes to cosmology. There are practical problems here on earth. But I think it's worthwhile. It's the truth, after all.
+    One could say "who cares?" when it comes to cosmology. There are practical problems here on earth. But I think it's worthwhile. It's the truth, after all.
 </p>
 
 <p>
-Coming at the topic from the other side, there are arguably more important things we could ignore, like celebrity gossip.
+    Coming at the topic from the other side, there are arguably more important things we could ignore, like celebrity gossip.
 </p>
 
 ____________________________________
 
 <p>
-Some other memorable things from the class and/or book:<br/>
+    Some other memorable things from the class and/or book:<br/>
 <ol>
 
 <li>
 <p>
-The professor was really passionate about the subject. 
-As mentioned, he did/does cosmology research. 
-One of the great things about studying astronomy in college is that basically nobody involved, neither students not professors, is just in it for the money. 
-They're just really into physics and space and stuff.
+    The professor was really passionate about the subject. 
+    As mentioned, he did/does cosmology research. 
+    One of the great things about studying astronomy in college is that basically nobody involved, neither students not professors, is just in it for the money. 
+    They're just really into physics and space and stuff.
 </p>
 
 <p>
-In that regard, there's one moment from class that I particularly remember.
-One day, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
-My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
+    In that regard, there's one moment from class that I particularly remember.
+    One day, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
+    My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
 </p>
 </li>
 
 <li>
-The early universe had a high level of structure/organization/evenness. Homogeneous and isogtropic, and therefore low "entropy" (entropy is a measure of disorder). It was also very high temperature: trillions and trillions of degrees Celsius. --TODO add citation
+    The early universe had a high level of structure/organization/evenness. Homogeneous and isogtropic, and therefore low "entropy" (entropy is a measure of disorder). It was also very high temperature: trillions and trillions of degrees Celsius. --TODO add citation
 </li>
 
 <li>
 <p>
-In fact, a big question from the class and/or book was "where did <i>any</i> disorder come from?".
-The very early universe seems to have been <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
-If that was the case, the question then becomes: how did we get "clumping" of matter later on?
-That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
+    In fact, a big question from the class and/or book was "where did <i>any</i> disorder come from?".
+    The very early universe seems to have been <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
+    If that was the case, the question then becomes: how did we get "clumping" of matter later on?
+    That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
 </p>
 
 <p>
-One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness. --TODO check and cite
-The idea being that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
-In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
-That was rather mind-blowing.
+    One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness. --TODO check and cite
+    The idea being that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
+    In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
+    That was rather mind-blowing.
 </li>
 
 <li>
-Which begs the question? Where's this unevenness ("anisotropy) coming from. I remember one question we considered was basically why is there not perfect evenness? In that case we'd basically have a universe in equilibrium. Like a pencil balanced on its end. No clustering of atoms into stars, no galaxy clusters, etc. Just perfectly evenly distributed stuff.
+    Which begs the question? Where's this unevenness ("anisotropy) coming from. I remember one question we considered was basically why is there not perfect evenness? In that case we'd basically have a universe in equilibrium. Like a pencil balanced on its end. No clustering of atoms into stars, no galaxy clusters, etc. Just perfectly evenly distributed stuff.
 </li>
 
 <li>
-There is a theory that the origin of the unevenness in the universe is quantum fluctuations. In other words, the entire universe was once smaller than the size of the nucleus of a single atom. At those scales, quantum fluctuations are quite significant. Perhaps such fluctuations are what introduced the anisotropy. Per "observational" part of the name of the class, we can observe these anisotropies even today in the afterglow of the Big Bang (CMBR): e.g. https://w.astro.berkeley.edu/~mwhite/whatarecmb.html.
+    There is a theory that the origin of the unevenness in the universe is quantum fluctuations. In other words, the entire universe was once smaller than the size of the nucleus of a single atom. At those scales, quantum fluctuations are quite significant. Perhaps such fluctuations are what introduced the anisotropy. Per "observational" part of the name of the class, we can observe these anisotropies even today in the afterglow of the Big Bang (CMBR): e.g. https://w.astro.berkeley.edu/~mwhite/whatarecmb.html.
+    --TODO add citation for that
 </li>
 
 <li>
@@ -266,8 +270,8 @@ We can model the universe starting right after the Big Bang, but we don't know w
 </p>
 
 <p>
-It may be, as with the Cycles of Time, that the universe has always existed: it's age is infinite. 
-That changes the problem but there's still a related question: "why is there a universe that's always existed".
+It may be, like with the Cycles of Time, that the universe has always existed: it's age is infinite. 
+That changes the problem but there's kind of still the question: "why is there a universe that's always existed".
 </p>
 
 <p>
