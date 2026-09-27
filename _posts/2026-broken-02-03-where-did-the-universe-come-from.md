@@ -22,16 +22,16 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <hr/>
 
 <p>
-I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
-It was a textbook for a class I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+    I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
+    It was a textbook for a class I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 </p>
 
 <p>
-As one Amazon reviewer noted about the book, "Good, but not an easy read."<sup>1</sup> (😂).
+    As one Amazon reviewer noted about the book, "Good, but not an easy read."<sup>1</sup> (😂).
 </p>
 
 <p>
-One of the biggest things that stuck with me from the book was seeing the formula for a reaction like this:
+    One of the biggest things that stuck with me from the book was seeing the formula for a reaction like this:
 </p>
 
 <blockquote>
@@ -40,29 +40,29 @@ One of the biggest things that stuck with me from the book was seeing the formul
 </blockquote>
 
 <p>
-Reading the reaction from left to right, that means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
-The universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
+    Reading the reaction from left to right, that means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
+    The universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
 </p>
 
 <p>
-The context is that the very early universe was entirely radiation ("light")! 
-There wasn't any physical matter one could touch.
-All matter we see today was created from the radiation.
-Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
+    The context is that the very early universe was entirely radiation ("light")! 
+    There wasn't any physical matter one could touch.
+    All matter we see today was created from the radiation.
+    Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
 </p>
 
 <p>
-Of course the bigger question is where did the radiation come from?
-In other words, what caused the Big Bang? What came before the Big Bang?
-The answer is nobody knows.
-The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we don't know what created it.
+    Of course the bigger question is where did the radiation come from?
+    In other words, what caused the Big Bang? What came before the Big Bang?
+    The answer is nobody knows.
+    The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we don't know what created it.
 </p>
 
 <p>
-As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book closely. 
-The professor usually used his own teaching materials.
-The professor, Dr. Marek Demiański, is a renowned cosmologist.
-He was knowledgeable and loved the subject; it was a great class.
+    As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book closely. 
+    The professor usually used his own teaching materials.
+    The professor, Dr. Marek Demiański, is a renowned cosmologist.
+    He was knowledgeable and loved the subject; it was a great class.
 </p>
 
 <div align="center">
@@ -73,16 +73,16 @@ He was knowledgeable and loved the subject; it was a great class.
 </div>
 
 <p>
-Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
-The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
-In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. 
+    Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
+    The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
+    In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. 
 </p>
 
 <p>
-An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
-If I look to the left, and then I look to the right, things look different. 
-In this case, the quantity that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction (in the sky/universe) in which you look.--TODO add citation
-This is an image of the entire sky, produced by the Planck satellite, showing those variations:<sup>5</sup>
+    An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
+    If I look to the left, and then I look to the right, things look different. 
+    In this case, the quantity that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction (in the sky/universe) in which you look.--TODO add citation
+    This is an image of the entire sky, produced by the Planck satellite, showing those variations:<sup>5</sup>
 </p>
 
 <div align="center">
@@ -108,7 +108,7 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 <br/>
 
 <p>
-There are also these two reactions in the book:
+    There are also these two reactions in the book:
 </p>
 
 <blockquote>
@@ -117,7 +117,7 @@ There are also these two reactions in the book:
 </blockquote>
 
 <p>
-In the rightward direction, that's two photons react to create an electron and a positron. And this one:
+    In the rightward direction, that's two photons react to create an electron and a positron. And this one:
 </p>
 
 <blockquote>
@@ -126,11 +126,11 @@ p + e− ←→ n + νe <br/><br/>
 </blockquote>
 
 <p>
-In the rightward direction, a proton and an electron react to create a neutron and an electron neutrino.
+    In the rightward direction, a proton and an electron react to create a neutron and an electron neutrino.
 </p>
 
 <p>
-Both of those reactions, and the first one mentioned above that creates protons, are thought to have happened in the rightward direction to some degree in the early universe.
+    Both of those reactions, and the first one mentioned above that creates protons, are thought to have happened in the rightward direction to some degree in the early universe.
 </p>
 
 <p>
@@ -164,18 +164,19 @@ Both of those reactions, and the first one mentioned above that creates protons,
 
 <p>
 Something wild is that protons, neutrons, and electrons formed within approximately the first second after the Big Bang, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form atoms (e.g. hydrogen, helium, lithium, etc.). --TODO add citation
-</p> -TODO add citations: https://science.nasa.gov/universe/overview/, 
-https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html, https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
+</p> -TODO add citations: https://science.nasa.gov/universe/overview
+https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
+https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
 <p>
-The overall picture described above is well-accepted by scientists.
-It's tricky to know exactly what happened in the early universe though, which makes the field especially interesting.
-It's like being a crime scene investigator because you can only see the aftermath.
+    The overall picture described above is well-accepted by scientists.
+    It's tricky to know exactly what happened in the early universe though, which makes the field especially interesting.
+    It's like being a crime scene investigator because you can only see the aftermath.
 </p>
 
 <p>
-You have to be really smart to find ways to figure out what happened.
-The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
+    You have to be really smart to find ways to figure out what happened.
+    The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
 </p>
 
 <p>
@@ -265,9 +266,9 @@ A few years later, while I was also working at a restaurant, I ended up tutoring
 
 <li>
 <p>
-Despite all the research efforts directed at this, we still have no idea "where the universe comes from".
+Despite all the research efforts directed at this, we still have absolutely no idea where the universe came from.
 Or, put another way, "why it exists"/"why there's something rather than absolutely nothing". 
-We can model the universe starting right after the Big Bang, but we don't know where this giant amount of energy, orderliness, and rules (physics) came from.
+We can model the universe starting after the Big Bang, but we don't know where this massive amount of energy, orderliness, and rules (physics) came from.
 </p>
 
 <p>
@@ -278,17 +279,17 @@ That changes the problem but there's kind of still the question: "why is there a
 <p>
 A former coworker of mine did a degree in physics, specializing in quantum physics.
 When I asked him why he chose that degree, he said he wanted to know where all this energy came from.
+Then he said something like that he never got an answer.
 </p>
 
-<p>
-Then he said something like that despite learning a lot about the details of matter and energy, he never got an answer.
-</p>
 </li>
 </ol>
 
-________________________________________________
+<hr/>
 
+<p>
 Quote from 3rd edition of the book, discussing "where did it all come from?":
+</p>
 
 <blockquote>
 As you see, because the true a(t) is curving down, it must intersect with the x-axis, a = 0, at some time later than tmin. So, if the strong energy condition is obeyed, a homogeneous Universe must have had a zero scale factor at some time in the past more recent than H−1 0 before the present. This time is known as the Big Bang. At the time of the Big Bang, all the material in the Universe is crushed into a point of infinite density, and physical laws as we know them break down. For that reason, the Big Bang is also known as the initial singularity.
