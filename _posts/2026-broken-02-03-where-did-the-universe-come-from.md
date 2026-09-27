@@ -40,28 +40,29 @@ One of the biggest things that stuck with me from the book was seeing the formul
 </blockquote>
 
 <p>
-Reading the reaction from left to right, that means two photons (`γ`) react to create a proton (`p`) and an anti-proton (`¯p`).
-It so happens that the universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
+Reading the reaction from left to right, that means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
+The universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
 </p>
 
 <p>
 The context is that the very early universe was entirely radiation ("light")! 
-At first, there was no physical matter one could touch.
+There wasn't any physical matter one could touch.
 All matter we see today was created from the radiation.
 Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
 </p>
 
 <p>
-Of course the bigger question is: where did the radiation came from?
+Of course the bigger question is where did the radiation come from?
 In other words, what caused the Big Bang? What came before the Big Bang?
 The answer is nobody knows.
-The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number.
+The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we don't know what created it.
 </p>
 
 <p>
-As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book very closely. 
-The professor usually used his own teaching materials instead.
-The professor, Dr. Marek Demiański, is a renowned cosmologist. He was knowledgeable and loved the subject.
+As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book closely. 
+The professor usually used his own teaching materials.
+The professor, Dr. Marek Demiański, is a renowned cosmologist.
+He was knowledgeable and loved the subject; it was a great class.
 </p>
 
 <div align="center">
@@ -101,7 +102,7 @@ This is an image of the entire sky, produced by the Planck satellite, showing th
 <p>
     Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
     We don't know! 
-    It's actually quite a hot topic of current scientific inquiry and debate.<sup>11</sup>
+    It's a hot topic of current scientific inquiry and debate.<sup>11</sup>
 </p>
 
 <br/>
@@ -151,7 +152,7 @@ Both of those reactions, and the first one mentioned above that creates protons,
 </p>
 
 <p>
-    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled with "Particles form".
+    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled "Particles form".
 </p>
 
 <div align="center">
@@ -163,13 +164,13 @@ Both of those reactions, and the first one mentioned above that creates protons,
 
 <p>
 Something wild is that protons, neutrons, and electrons formed within approximately the first second after the Big Bang, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form atoms (e.g. hydrogen, helium, lithium, etc.). --TODO add citation
-</p> -TODO add citations: https://science.nasa.gov/universe/overview/?utm_source=chatgpt.com, 
-https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html?utm_source=chatgpt.comm, https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
+</p> -TODO add citations: https://science.nasa.gov/universe/overview/, 
+https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html, https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
 <p>
-This overall picture is well-accepted by scientists.
-It's tricky to know exactly what happened in the early universe though, which perhaps makes the field particularly interesting.
-It's kind of like being a crime scene investigator, because you have to go off of the remnants of an event at a prior time.
+The overall picture described above is well-accepted by scientists.
+It's tricky to know exactly what happened in the early universe though, which makes the field especially interesting.
+It's like being a crime scene investigator because you can only see the aftermath.
 </p>
 
 <p>
@@ -188,20 +189,20 @@ The techniques scientists use to look back into the early universe include parti
 <p>
     The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
     The conditions are called the "Sakharov conditions". --TODO add citation
-    Dr. Sakharov had a few irons in the fire, so to speak.
+    Dr. Sakharov apparently had a lot going on, so to speak.
 </p>
 
-____________________________________
+<hr/>
 
 <p>
     One could say "who cares?" when it comes to cosmology. There are practical problems here on earth. But I think it's worthwhile. It's the truth, after all.
 </p>
 
 <p>
-    Coming at the topic from the other side, there are arguably more important things we could ignore, like celebrity gossip.
+    Coming at the topic from the other side, there are more important things we could ignore, like celebrity gossip.
 </p>
 
-____________________________________
+<hr/>
 
 <p>
     Some other memorable things from the class and/or book:<br/>
@@ -209,15 +210,14 @@ ____________________________________
 
 <li>
 <p>
-    The professor was really passionate about the subject. 
-    As mentioned, he did/does cosmology research. 
-    One of the great things about studying astronomy in college is that basically nobody involved, neither students not professors, is just in it for the money. 
-    They're just really into physics and space and stuff.
+    As mentioned, Professor Demiański loved the subject. 
+    One of the great things about studying astronomy is that basically nobody involved, neither students not professors, is in it for the money. 
+    They're just really into physics and space and the universe and all.
 </p>
 
 <p>
-    In that regard, there's one moment from class that I particularly remember.
-    One day, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
+    In that regard, there was this one moment from class that I particularly remember.
+    One time, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
     My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
 </p>
 </li>
@@ -228,10 +228,11 @@ ____________________________________
 
 <li>
 <p>
-    In fact, a big question from the class and/or book was "where did <i>any</i> disorder come from?".
+    In fact, a question from the class and/or book was "where did <i>any</i> disorder come from?".
     The very early universe seems to have been <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
     If that was the case, the question then becomes: how did we get "clumping" of matter later on?
     That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
+    If it was <i>perfectly</i> orderly, there'd be nothing that would kind of pull it out of that perfect orderliness.
 </p>
 
 <p>
