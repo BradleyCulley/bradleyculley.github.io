@@ -20,24 +20,6 @@
 </blockquote>
 
 <p>
-    Theodicy is said to have three pieces<sup>16</sup>:
-</p>
-<ol>
-    <li>"Omniscience". God is all-knowing.</li>
-    <li>"Omnipotence". God is all-powerful</li>
-    <li>"Omnibenevolence". God is all-good (perfectly good).</li>
-</ol>
-
-<p>
-    Some people explain the three pieces of theodicy through a visual metaphor of a stool, with each leg of the stool being a different piece.
-    It looks like this:
-</p>
-
-<div align="center">
-    <img style="height: 300px;" src="https://bradleyculley.github.io/images/the-stool-of-theodicy.png" />
-</div>
-
-<p>
     To paraphrase from the title of a book by Rabbi Harold Kushner, theodicy is about why bad things happen to good people.<sup>2</sup>
     Kushner wrote the book, <i>When Bad Things Happen to Good People</i>, after his son Aaron died from a rare disease at age 14.<sup>9</sup>
 </p>
@@ -52,9 +34,30 @@
 <hr/>
 
 <p>
+    Theodicy is said to have three pieces<sup>16</sup>:
+</p>
+<ol>
+    <li>"Omniscience". God is all-knowing.</li>
+    <li>"Omnipotence". God is all-powerful</li>
+    <li>"Omnibenevolence". God is all-good (perfectly good).</li>
+</ol>
+
+<p>
+    Some people explain the three pieces of theodicy as being like the three legs of a stool:
+</p>
+
+<div align="center">
+    <img style="height: 300px;" src="https://bradleyculley.github.io/images/the-stool-of-theodicy.png" />
+    <div style="font-size: 12px; font-style: italic;">Theodicy visualized as a stool</div>
+</div>
+
+<hr/>
+
+<p>
     In Christianity and Judaism, there's a concept of "wrestling with angels".<sup>10</sup>
-    In the book of Genesis in the bible, Jacob meets and physically wrestles with an angel for an overnight period, eventually overcoming the angel.<sup>10</sup>
+    In the book of Genesis in the bible, Jacob meets and physically wrestles with an angel through an overnight period, eventually overcoming the angel.<sup>10</sup>
     One interpretation is that the wrestling represents the psychology of a spiritual struggle.<sup>7</sup>
+    You keep wrestling until you get some answers:
 </p>
 
 <blockquote>
@@ -62,14 +65,14 @@
 </blockquote>
 
 <p>
-    Also, some people think it's meaningful that the struggle happened through the night: a struggle through psychological darkness, so to speak.
-    In summary, the idea is that we wrestle with theodicy: why do bad things happen to good people?
+    Some people also think it's meaningful that the struggle happened through the night: struggling through psychological darkness, so to speak.
+    Theodicy is a classic thing that people wrestle with: why do bad things happen to good people?
 </p>
 
 <hr/>
 
 <p>
-    In Buddhism, there's something super different: it's called "mentality-and-materiality" (nāmarūpa, नामरूप in Sanskrit).<sup>6</sup>
+    In Buddhism, there's something super different: it's called "mentality-and-materiality" (nāmarūpa/नामरूप in Sanskrit).<sup>6</sup>
     "Mentality" is the tendency of the mind to project its own mental states onto the world.<sup>3</sup>
     "Materiality" is the idea that the physical world is indifferent to our thoughts, ideals, and narratives.<sup>3</sup>
 </p>
@@ -89,24 +92,22 @@
 </div>
 
 <p>
-    As is often the case, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
-    The term is "emptiness" (śūnyatā, Sanskrit: शून्यता).<sup>11</sup>
+    As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
+    The term is "emptiness" (śūnyatā/शून्यता in Sanskrit).<sup>11</sup>
 </p>
 
 <p>
-    Something that fascinates me about the materiality aspect of mentality-and-materiality is that there's this enormous sort of latent intelligence in the physical universe.
-    In particular, the physical world is largely described by these things called "partial differential equations".
-    
+    Something that fascinates me about the materiality part of mentality-and-materiality is that there's this enormous, indifferent, inscrutablee latent intelligence in the physical universe.
+    To give just one example, many processes in the physical world are described by these things called "partial differential equations".
+    For example, this is the famous --TODO add the schrodinger equation and navier-stokes equations and/or maxwell's equations here: https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation, https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations, https://en.wikipedia.org/wiki/Maxwell%27s_equations
+
 
     In college, I took a mathematics course called differential equations, which one takes after a year or more of studies in calculus.
-    We solved problems like this:
-    TODO add a visual here, a graph of a vector field or a differential equation maybe
 </p>
 
 <p>
     One of the things the professor told us is that the course was limited to Ordinary Differential Equations.
     Partial Differential Equations were a whole other echelon, that you usually wouldn't study unless you went to graduate school for mathematics.
-    
 </p>
 
 <hr/>
