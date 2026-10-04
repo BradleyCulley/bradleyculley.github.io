@@ -78,18 +78,25 @@
 </p>
 
 <p>
-    My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
+    In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
+    <div align="center">
+        <img style="height: 300px;" src="order-screenshot-Buddhism-Plain-and-Simple.png" />
+        <div style="font-size: 12px; font-style: italic;">Receipt from ordering the book on Amazon</div>
+    </div>
+    In the book, Hagen describes a close friend of his, who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
+    Hagen said the friend he lost was a great person who is greatly missed.
+    He shared the story to say there isn't necessarily a reason it happened; it just happened. 
+    And that doesn't subtract from the grief of the loss.
+    --TODO citations from the book for this section
 </p>
 
-<div class="video-container">
-  <iframe 
-    src="https://www.youtube.com/watch?v=g3RR1Wg_DCE" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-  </iframe>
-</div>
+<p>
+    Buddhism doesn't want us to wrestle. It's more of a religion of letting go.
+    There's even a specific Buddhist virtue for letting go: upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
+    Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
+</p>
+
+<hr/>
 
 <p>
     As is often the case in my experience, Buddhism has a specific and evocative term to describe this whole feeling: the indifference and inscrutability of the physical world.
@@ -97,10 +104,17 @@
 </p>
 
 <p>
+    Consider the soldier seeing their friend killed by an artillery blast.
+    Or the wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
+    Sometimes the angel wins the wrestling match.
+    This is recognized by psychologists as what's called "moral injury".<sup>14</sup>
+    And that's the hole at the center of the universe.
+</p>
+
+<p>
     Something that fascinates me about the materiality part of mentality-and-materiality is that there's this enormous, indifferent, inscrutablee latent intelligence in the physical universe.
     To give just one example, many processes in the physical world are described by these things called "partial differential equations".
     For example, this is the famous --TODO add the schrodinger equation and navier-stokes equations and/or maxwell's equations here: https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation, https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations, https://en.wikipedia.org/wiki/Maxwell%27s_equations
-
 
     In college, I took a mathematics course called differential equations, which one takes after a year or more of studies in calculus.
 </p>
@@ -110,30 +124,6 @@
     Partial Differential Equations were a whole other echelon, that you usually wouldn't study unless you went to graduate school for mathematics.
 </p>
 
-<hr/>
-
-<p>
-    In 2008, I read the book "Buddhism Plain and Simple", by Steve Hagen.
-    <div align="center">
-        <img style="height: 300px;" src="order-screenshot-Buddhism-Plain-and-Simple.png" />
-        <div style="font-size: 12px; font-style: italic;">Receipt from ordering the book on Amazon</div>
-    </div>
-    In the book, Hagen describes a close friend of his, who was relatively young and apparently healthy, walking over to a set of stairs, sitting down, and suddenly dying.
-    Hagen said the friend he lost was a great person who is greatly missed.
-    --TODO citation from the book for this section
-</p>
-
-<p>
-    He shared the story to say there isn't necessarily a reason it happened; it just happened. 
-    And that doesn't have to subtract from the grief of the loss.--TODO citation from the book for this section
-</p>
-
-<p>
-    Buddhism doesn't want us to wrestle. It's more of a religion of letting go.
-    There's even a specific Buddhist virtue for letting go: upekkhā (Sanskrit: उपेक्षा), "the virtue of equanimity".<sup>5</sup>
-    Some consider it the most important virtue of them all: "in the Seven Factors of [Buddhist] Awakening (bojjhanga), it is the ultimate characteristic to develop".<sup>5</sup>
-</p>
-
 <p>
     I should say that I don't think either wrestling with angels or letting go is better, but rather that the contrast is interesting.
 </p>
@@ -141,21 +131,7 @@
 <hr/>
 
 <p>
-    But there's a problem though: what about when loss is just too much?
-    Consider the soldier seeing their friend killed by an artillery blast.
-    Or the wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
-</p>
-
-<p>
-    Sometimes mentality-and-materiality is all too real and the angel wins the wrestling match.
-    This is recognized by psychologists as what's called "moral injury".<sup>14</sup>
-    And that's the hole at the center of the universe.
-</p>
-
-<hr/>
-
-<p>
-    So what's the solution to the hole at the center of the universe?
+    What's the solution to the hole at the center of the universe?
     My father used to say "the bible is a big book", meaning you can find a lot of different ideas in it.
     Elsewhere in the bible, in the Book of John, it says that "God is love". --TODO add citation (both places say it) https://www.biblegateway.com/passage/?search=1%20John%204%3A8&version=ESV, https://www.biblegateway.com/passage/?search=1%20John%204%3A16&version=NIV --TODO: add citation.
     In my interpretation, specifically love between people. 
@@ -165,8 +141,8 @@
     A lot of people don't know the story of how the Buddha became enlightened.
     The story goes like this: a woman named Sujata wanted to make an offering to the guardian spirit of a banyan tree nearby.<sup>13</sup>
     The tree happened to be where the Buddha was sitting and trying to become enlightened.<sup>13</sup>
-    Among other things, he tried fasting (not eating).
-    Sujata (via a report from her maid, Punna) thought Buddha was the tree spirit, so she prepared an offering of rice milk in a bowl and gave it to the Buddha.<sup>13</sup>
+    Among other things, he tried fasting.
+    Sujata (via a report from her maid, Punna) thought Buddha was the tree spirit, so she (Sujata) prepared an offering of rice milk in a bowl and gave it to the Buddha.<sup>13</sup>
 </p>
 
 <blockquote>
@@ -191,7 +167,7 @@ Below is a representation of Sujata giving the bowl of rice-milk to the Buddha, 
 
 <p>
     A lot of people think the Buddha became enlightened because he meditated a lot.
-    While the meditation set him up for it, it was the love of a woman that enlightened him.
+    While the meditation set him up for it, it was actually the love of a woman that enlightened him.
 </p>
 
 <hr/>
@@ -199,7 +175,7 @@ Below is a representation of Sujata giving the bowl of rice-milk to the Buddha, 
 <p>
     So God as love replaces the stool of theodicy.
     TODO add an image of the stool crossed out with a diagnonal line or a cross, and an arrow pointing to a heart to the left of the stool (i.e. love replaces the stool).
-    It's not hard to see the love in Rabbi Harold Kushner's quote about his son, from hist story about writing <i>When Bad Things Happen to Good People</i>.
+    It's also not hard to see the love in Rabbi Harold Kushner's quote about his son, from his story about writing <i>When Bad Things Happen to Good People</i>.
 </p>
 
 <p>
@@ -242,3 +218,20 @@ Sources:<br/>
 <sup>15</sup>: https://www.karipatterson.com/the-shack/ <br/>
 <sup>16</sup>: https://www.studley.ai/study-sets/philosophy/philosophy-questions <br/>
 <sup>17</sup>: By Prince Roy - Flick [1], CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=72314909 <br/>
+
+-----
+
+backup pieces:
+<p>
+    My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
+</p>
+
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/watch?v=g3RR1Wg_DCE" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
