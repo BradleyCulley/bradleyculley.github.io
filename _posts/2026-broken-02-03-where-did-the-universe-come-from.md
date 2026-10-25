@@ -31,7 +31,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </p>
 
 <p>
-    One of the biggest things that stuck with me from the book was seeing the formula for a reaction like this:
+    This formula from the book really struck me:
 </p>
 
 <blockquote>
@@ -40,29 +40,99 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </blockquote>
 
 <p>
-    Reading the reaction from left to right, that means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
-    The universe ended up with a litle more matter (protons) than antimatter (anti-protons), so there were protons left over, which are the protons we have today.
+    From left to right, it means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
 </p>
 
 <p>
     The context is that the very early universe was entirely radiation ("light")! 
-    There wasn't any physical matter one could touch.
-    All matter we see today was created from the radiation.
+    There wasn't any "stuff" (physical matter) one could touch.
+    All matter we see today was created from the initial radiation.
     Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
 </p>
 
 <p>
-    Of course the bigger question is where did the radiation come from?
-    In other words, what caused the Big Bang? What came before the Big Bang?
-    The answer is nobody knows.
-    The part of the universe we can see is 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we don't know what created it.
+    There are also these two reactions in the book:
+</p>
+
+<blockquote>
+γ + γ ←→ e+ + e− <br/><br/>
+-page 140⁴
+</blockquote>
+
+<p>
+    From left to right, that's two photons react to create an electron and a positron. And this one:
+</p>
+
+<blockquote>
+p + e− ←→ n + νe <br/><br/>
+-page 139⁴
+</blockquote>
+
+<p>
+    From left to right, a proton and an electron react to create a neutron and an electron neutrino.
 </p>
 
 <p>
-    As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book closely. 
+    All three reaction are thought to have happened in the rightward direction to some degree in the early universe.
+    A separate mechanism made the end up with a litle more matter (protons) than antimatter (anti-protons), so there were protons/neutrons/electron left over, which are the protons/neutrons/electron we have today. --TODO: add citation
+    Why do those reactions matter?
+    They matter because we can start with photons (radiation/"light") and get all three of: electrons, protons, and neutrons.
+</p>
+
+<p>
+    With electrons, protons, and neutrons you can build atoms.
+    And with atoms you can build everything we see around us.
+    That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
+</p>
+
+<hr/>
+
+<p>
+    As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
+    `e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
+    You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
+</p>
+
+<p>
+    `c` is a large number, so you need a lot of energy to create a little bit of mass.
+    In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
+</p>
+
+<p>
+    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band that says "Particles form".
+</p>
+
+<div align="center">
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/diagram-of-the-history-of-the-universe.jpg" />
+    <div align="center">
+        <sup>7</sup>
+    </div>
+</div>
+
+<p>
+Something wild is that protons, neutrons, and electrons formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, lithium, etc.)<sup>13</sup>.
+That's also where this thing called the "Cosmic Microwave Background Radiation" came from<sup>13</sup>:
+</p>
+
+<blockquote>
+Around 380,000 years after the big bang, the universe had cooled enough that atomic nuclei could capture electrons, a period astronomers call the epoch of recombination. This had two major effects on the cosmos. First, with most electrons now bound into atoms, there were no longer enough free ones to completely scatter light, and the cosmic fog cleared. The universe became transparent, and for the first time, light could freely travel over great distances. Second, the formation of these first atoms produced its own light. This glow, still detectable today, is called the cosmic microwave background. It is the oldest light we can observe in the universe.<sup>13</sup>
+</blockquote>
+
+<p>
+    But where did the radiation come from?
+    What came before the Big Bang?
+    Nobody knows.
+    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we have no idea what created it.
+</p>
+
+<hr/>
+
+<p>
+    As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book very closely.
     The professor usually used his own teaching materials.
+    It was a wonderful class.
     The professor, Dr. Marek Demiański, is a renowned cosmologist.
-    He was knowledgeable and loved the subject; it was a great class.
+    He was knowledgeable and loved the subject.
 </p>
 
 <div align="center">
@@ -74,8 +144,8 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
-    The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation (CMBR)—the afterglow of the Big Bang—in order to understand the early universe better<sup>3</sup>.
-    In particular, the Planck satellite measured what are called "anisotropies" in the CMBR. 
+    The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation to understand the early universe<sup>3</sup>.
+    In particular, the Planck satellite measured what are called "anisotropies" in the Cosmic Microwave Background Radiation. 
 </p>
 
 <p>
@@ -92,6 +162,8 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
     </div>
 </div>
 
+<hr/>
+
 <p>
     In cosmology, you often see the phrase "homogeneous and isotropic". 
     You can see that phrase in the final block quote included in this essay, for example.
@@ -102,74 +174,13 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <p>
     Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
     We don't know! 
-    It's a hot topic of current scientific inquiry and debate.<sup>11</sup>
+    It's actually hotely debated by astrophysicists to this day.<sup>11</sup>
 </p>
 
 <br/>
 
 <p>
-    There are also these two reactions in the book:
-</p>
-
-<blockquote>
-γ + γ ←→ e+ + e− <br/><br/>
--page 140⁴
-</blockquote>
-
-<p>
-    In the rightward direction, that's two photons react to create an electron and a positron. And this one:
-</p>
-
-<blockquote>
-p + e− ←→ n + νe <br/><br/>
--page 139⁴
-</blockquote>
-
-<p>
-    In the rightward direction, a proton and an electron react to create a neutron and an electron neutrino.
-</p>
-
-<p>
-    Both of those reactions, and the first one mentioned above that creates protons, are thought to have happened in the rightward direction to some degree in the early universe.
-</p>
-
-<p>
-    Why do those reactions matter?
-    They matter because we can start with photons (radiation/light) and get all three of: electrons, protons, and neutrons.
-    Electrons, protons, and neutrons let you build atoms.
-    That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
-</p>
-
-<p>
-    As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
-    `e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
-    You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
-</p>
-
-<p>
-    `c` is a large number, so you need a lot of energy to create a little bit of mass.
-    In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
-</p>
-
-<p>
-    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band labeled "Particles form".
-</p>
-
-<div align="center">
-  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/diagram-of-the-history-of-the-universe.jpg" />
-    <div align="center">
-        <sup>7</sup>
-    </div>
-</div>
-
-<p>
-Something wild is that protons, neutrons, and electrons formed within approximately the first second after the Big Bang, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form atoms (e.g. hydrogen, helium, lithium, etc.). --TODO add citation
-</p> -TODO add citations: https://science.nasa.gov/universe/overview
-https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
-https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
-
-<p>
-    The overall picture described above is well-accepted by scientists.
+    However, the overall picture described above is well-accepted by scientists.
     It's tricky to know exactly what happened in the early universe though, which makes the field especially interesting.
     It's like being a crime scene investigator because you can only see the aftermath.
 </p>
@@ -179,28 +190,16 @@ https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
     The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
 </p>
 
-<p>
-    As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
-    A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
-    Protons and neutrons are part of a class of particles called "baryons".
-    Electrons are part of a class of particles called "leptons".
-    The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
-</p> --TODO add citations
-
-<p>
-    The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
-    The conditions are called the "Sakharov conditions". --TODO add citation
-    Dr. Sakharov apparently had a lot going on, so to speak.
-</p>
-
 <hr/>
 
 <p>
-    One could say "who cares?" when it comes to cosmology. There are practical problems here on earth. But I think it's worthwhile. It's the truth, after all.
+    When it comes to cosmology, one could say "who cares?" 
+    There are plenty of practical problems here on Earth.
+    But I think it's worthwhile...it's the truth, after all!
 </p>
 
 <p>
-    Coming at the topic from the other side, there are more important things we could ignore, like celebrity gossip.
+    Also, there are other things that deserve to be ignored harder, like celebrity gossip.
 </p>
 
 <hr/>
@@ -211,64 +210,83 @@ https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
 <li>
 <p>
-    As mentioned, Professor Demiański loved the subject. 
-    One of the great things about studying astronomy is that basically nobody involved, neither students not professors, is in it for the money. 
-    They're just really into physics and space and the universe and all.
+    Professor Demiański loved the subject. 
+    One of the great things about studying astronomy is that basically nobody involved, neither students not professors, is just in it for the money. 
+    They're pretty much all really into physics and space and truth and the universe.
 </p>
 
 <p>
-    In that regard, there was this one moment from class that I particularly remember.
+    On that topic, there was this one moment from class that I particularly remember.
     One time, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
     My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
 </p>
 </li>
 
 <li>
-    The early universe had a high level of structure/organization/evenness. Homogeneous and isogtropic, and therefore low "entropy" (entropy is a measure of disorder). It was also very high temperature: trillions and trillions of degrees Celsius. --TODO add citation
-</li>
-
-<li>
 <p>
-    In fact, a question from the class and/or book was "where did <i>any</i> disorder come from?".
-    The very early universe seems to have been <i>perfectly</i> orderly, like a dozen eggs perfectly packed into an egg carton: the radiation was perfectly evenly distributed in space. --TODO check and cite
-    If that was the case, the question then becomes: how did we get "clumping" of matter later on?
-    That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
-    If it was <i>perfectly</i> orderly, there'd be nothing that would kind of pull it out of that perfect orderliness.
+    The early universe had an extremely high level of structure/organization/evenness.
+    Extremely homogeneous and isotropic, and therefore low "entropy" (entropy is a measure of disorder).
+    It was super high temperature: trillions and trillions of degrees Celsius. --TODO add citation
 </p>
 
 <p>
-    One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created the un-eveness. --TODO check and cite
-    The idea being that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
+    Tiny, extremely high-temperature, and superbly orderly. Why?! Where did it come from? 
+    Why so much energy? Why so well-organized?
+    Where did the rules themselves (the laws of physics) come from?
+    What, exactly, is going on here?
+</p>
+</li>
+
+<li>
+<p>
+    Another question from the class and/or book was "where did <i>any</i> disorder come from?".
+    The very early universe seems to have been not just fairly orderly, but actually <i>perfectly</i> orderly.
+    Like a dozen eggs perfectly evenly spaced in an egg carton, the radiation was perfectly evenly distributed in space. --TODO check and cite
+</p>
+
+<p>
+    If that was the case, how did we get "clumping" of matter later on?
+    That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
+    If it was <i>perfectly</i> orderly, there'd be nothing (e.g. gravity, electrostatic forces, magnetic forces) to deform it out of that perfect equilibrium.
+    Like a pencil balanced on its eraser on a windless day, it would just stay there. --TODO: maybe remove this
+</p>
+
+<p>
+    One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created some uneveness. --TODO check and cite
+    The idea is that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
     In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
-    That was rather mind-blowing.
+    Mind-blowing.
 </li>
 
 <li>
-    Which begs the question? Where's this unevenness ("anisotropy) coming from. I remember one question we considered was basically why is there not perfect evenness? In that case we'd basically have a universe in equilibrium. Like a pencil balanced on its end. No clustering of atoms into stars, no galaxy clusters, etc. Just perfectly evenly distributed stuff.
-</li>
+<p>
+Cycles of Time. 
+Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches. 
+I *think* a consequence of the theory is that the universe has been around forever.
+Good solution to "where did the universe come from?".
+</p>
 
-<li>
-    There is a theory that the origin of the unevenness in the universe is quantum fluctuations. In other words, the entire universe was once smaller than the size of the nucleus of a single atom. At those scales, quantum fluctuations are quite significant. Perhaps such fluctuations are what introduced the anisotropy. Per "observational" part of the name of the class, we can observe these anisotropies even today in the afterglow of the Big Bang (CMBR): e.g. https://w.astro.berkeley.edu/~mwhite/whatarecmb.html.
-    --TODO add citation for that
-</li>
-
-<li>
-Cycles of Time. Roger Penrose has a theory that the the universe goes through cycles of Big Bangs followed by Big Crunches. I *think* a consequence of the theory is that the universe has been around forever. Good solution to "where did the universe come from?".
-In particular, he claims that there are ringlike structures in the CMBR that are there because of the prior universe. Kind of like a bat signal from the prior version of the universe.
+<p>
+In particular, he claims that there are ringlike structures in the CMBR that are there because of the prior universe.
+A bat signal from the prior version of the universe.
 Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
+</p>
 
-Memorably, Professor Demianski taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
+<p>
+Professor Demianski taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
+It was right near the end of the semester, maybe even the final class of the semester.
+We sat on the green lawn on a spring day in Massachussets. 
 
-Roger Penrose won 2021 Nobel Prize in physics, as it so happens. But my understanding is that the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted.
-
-A few years later, while I was also working at a restaurant, I ended up tutoring (for the SAT and ACT) the son of the chair of the astronomy department at Cornell University. I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
+Note: the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted by scientists.
+A few years later, while I was also working at a restaurant, I ended up tutoring (for the SAT and ACT) the son of the chair of the astronomy department at Cornell University. 
+I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
+But the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
 </li>
 
 <li>
 <p>
 Despite all the research efforts directed at this, we still have absolutely no idea where the universe came from.
 Or, put another way, "why it exists"/"why there's something rather than absolutely nothing". 
-We can model the universe starting after the Big Bang, but we don't know where this massive amount of energy, orderliness, and rules (physics) came from.
 </p>
 
 <p>
@@ -279,7 +297,7 @@ That changes the problem but there's kind of still the question: "why is there a
 <p>
 A former coworker of mine did a degree in physics, specializing in quantum physics.
 When I asked him why he chose that degree, he said he wanted to know where all this energy came from.
-Then he said something like that he never got an answer.
+He said something like that he never got an answer.
 </p>
 
 </li>
@@ -288,7 +306,7 @@ Then he said something like that he never got an answer.
 <hr/>
 
 <p>
-Quote from 3rd edition of the book, discussing "where did it all come from?":
+From the 3rd edition of the book, discussing where it came from:
 </p>
 
 <blockquote>
@@ -322,5 +340,23 @@ Sources:<br/>
 <sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
 <sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
 <sup>10</sup>: https://en.wikipedia.org/wiki/Anisotropy
-<sup>11</sup>:https://en.wikipedia.org/wiki/Cosmological_principle
+<sup>11</sup>: https://en.wikipedia.org/wiki/Cosmological_principle
+<sup>12</sup>: https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
+<sup>13</sup>: https://science.nasa.gov/universe/overview
 TODO cite the third edition of the book
+
+TODO maybe talk about inflation and cite from here: https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
+
+<p>
+    As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
+    A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
+    Protons and neutrons are part of a class of particles called "baryons".
+    Electrons are part of a class of particles called "leptons".
+    The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
+</p> --TODO add citations
+
+<p>
+    The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
+    The conditions are called the "Sakharov conditions". --TODO add citation
+    Dr. Sakharov apparently had a lot of irons in the fire, it seems.
+</p>
