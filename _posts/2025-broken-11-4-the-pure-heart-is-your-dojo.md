@@ -18,26 +18,29 @@ Charles Ponzi, namesake of the Ponzi Scheme<sup>1,</sup><sup>2</sup>
 
 <p>
 In college, I trained with a Japanese Buddhist priest.
-He used to tell me, over and over, "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
-As I recall, he would usually say it Japanese, then in English right after.
-A "dojo" is a traditional Japanese place of mental and physical training: a place of refuge and strength.
-The idea of the quotation is that being a decent person is the final and most important protection you have against the storms of life.
+He used to tell me "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
 </p>
 
 <p>
-He conveyed that saying, "jikishin kore dojo" - "the pure heart is your dojo" with a deliberate solumness.
+A "dojo" is a traditional Japanese place for mental and physical training; a place of refuge and strength.
+The idea of the "the pure heart is your dojo" is that being a decent person is the final and best protection against the storms of life.
+</p>
+
+<p>
+He would say it with a deliberate solumness.
 As I recall, he would often say it in Japanese first, and then in English.
-As a 19/20-year-old kid, I sort of wrote it off.
+As a 19/20-year-old kid, I more or less ignored it.
 </p>
 
 <p>
-I saw "jikishin kore dojo" as another vague aphorism wielded by an adult in my life.
-These aphorisms often involved "leadership", which was in vogue in the early 2000s.
-Think the school principal on stage in the auditorium, or the baseball coach above the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
+I saw "the pure heart is your dojo" as another vague aphorism wielded by an adult in my life, uncalibrated to the specifices of my actual life, problems, and experience.
+The aphorisms often involved "leadership", which was in vogue in the early 2000s (and maybe still is).
+Think of the school principal on stage in the auditorium, or the baseball coach above the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
 </p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
+This is best illustrated with a story, which I read in the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell:
 <blockquote>
 The second story is of a different style. 
 It is told of a young prince who had just completed his military studies under a world-renowned teacher.
@@ -92,44 +95,64 @@ maybe change to get quote from here? https://themythologyproject.com/prince-five
 
 1. A caricature of virtue
 
+<p>
 I once saw an interview with a man who had spent many years in prison.
-When reflecting on his life, he said something like that he had done illegal things, but he'd never done something evil.
+When reflecting on his life, he said something like that he'd broken the law, but never done something evil.
+</p>
 
-A year after retiring from being a professor of astronomy, Professor Emeritus Mike Merritt was asked if had any regrets:
+<p>
+A year after retiring from a professorship in astronomy at the University of Nottingham, Professor Emeritus Mike Merritt was asked if he had any regrets.
 <blockquote>
+<p>
 Interviewer:<br/>
 Do you have any regrets? You said you've had quite a blessed career, you've been happy with your research, you've been happy with your path.
 Is there anything you wish you'd done, or wish you'd done better?
+</p>
 
+<p>
 Dr. Merritt:<br/>
 I mean yeah, you can always beat yourself up about things that you should have done differently, things that you shouldn't have said, things that you should have said.
+</p>
 
+<p>
 Interviewer:<br/>
 Go on then, that's what I want. 
+</p>
 
+<p>
 Dr. Merritt:<br/>
 But honestly, you know, you only get one shot at things, and I think I can honestly say that...of all the things I've done...I've never behaved maliciously.
-I've never done anything that was kind of "evil" in that sense of the word, which is as much as you can hope for.
-You can never hope to get it right all the time, but what you can hope to do is be a decent person and create an environment in which other people can be decent people as well. 
+I've never done anything that was kind of "evil" in that sense of the word, which is as much as you can hope for. 
+...
+</p>
 </blockquote>
 -https://www.youtube.com/watch?v=axN5sveQ06M (starting around 8:00 in the video)
  
-Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't stop eating for a while, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
+Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't fast for days, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 
+<p>
 When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
 This is especially true for young people, for whom the message is most critical.
-Most people have zero interest in being a monk.
+Most people have zero interest in being a monk, will never become a monk, and would hate it.
+</p>
 
-The lives of the famous saints in various religions, pretty much all of them, sound, to be blunt, not particularly fun, especially if you're like 14 years old.
-And yet the earlier you start being a decent person, the stronger the effect.
+<p>
+The lives of the famous saints in various religions — pretty much all of them — sound pretty awful to be honest, especially when you're like 14 years old.
+<p>
 
 2. Unassuming
 
-I once read the opinion that the single biggest external marker of a decent person is being _unassuming_ --TODO cite Chris Ebbert post about that
-We've all met people like this. They don't take themselves too seriously; they have an aura of transparency and solidity.
-Every plumber I've ever met was like this. The pure heart.
+<p>
+I once read that the single biggest marker of a decent person is being <i>unassuming</i> --TODO cite Chris Ebbert's post about that
+You've met people like this. 
+They don't take themselves super seriously.
+They radiate a down-to-earth transparency and solidity.
+That describes every plumber I've ever met.
+The pure heart.
+</p>
 
-These are generally the last people you'll find talking about their spirituality.
+<p>
+These are also generally the last people you'll find talking about their spirituality.
 
 Add the Devkota poem quote about the ascetic being a deserter
 <blockquote>
@@ -146,12 +169,11 @@ Talk about him losing his eye, working into his 80s, etc.
 3. The subtle change that is everything
 
 Many years ago, and also in college, I was, for a while, unsure of my own moral character.
-That feeling of uncertainty, which was quite unpleasant, led me to make a number of changes in my life.
-Around 8 months later, I remember feeling entirely different.
-I hadn't "figured it all out", but I had the right intentions and was doing the right things.
-I knew there was still much to do with respect to my missions in life, but it was more about intentionality and directionality.
+That feeling of uncertainty, which was quite unpleasant, led me to make a number of life changes.
+Around 8 months later, I felt completely different.
 
-I went to sleep at night, slept peacefully, and woke up, all within the containment of this knowledge.
+I hadn't "figured it all out", but I had the right intentions and the right trajectory.
+I slept peacefully and woke up completely un-conflicted.
 
 “When you're moving in the positive, your destination is the brightest star.”
 -https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-stevie-wonder-when-youre-moving-in-the-positive-your-destination-inspiring-quotes-by-one-of-the-best-selling-music-artists-of-all-time/articleshow/128786561.cms?from=mdr
@@ -171,43 +193,31 @@ His scheme ran for over a year before it collapsed, costing his "investors" $20 
 
 A few years ago, I was talking with someone about Charles Ponzi, then looked him up and saw that photo of him.
 
-I remember thinking something like "wow, he just <i>looks</i> like scum".
-More than anything else, you can feel the <i>uneasiness</i> in that photo.
+I remember thinking something like "he just <i>looks</i> like human scum".
+You can kind of feel the uneasiness in the photo.
 
-5. Also applies to institutions, cultures, and countries.
+5. Applies to institutions, cultures, and countries.
 There are some countries and cultures that have never really done anything crazy to anyone.
 Never invaded, conquered, or colonized.
-Thailand is a good example of this, and I think it permeates the culture in a positive way.
+Thailand is a good example of this. I think those good vibes permeate the culture.
 
-
-Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
+6. Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
 As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
 The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
 The ultimate "get everything taken from you" experience is of course death.
 
-6. Self-sabotage
+7. Self-sabotage
 
 If you don't, fundamentally, see yourself as a decent person, your mind will, in my opinion, use that fact against you.
-But the converse is also true, as in the story of Prince Five-Weapons.
+The converse is also true, as with Prince Five-Weapons.
 
 <blockquoute>
 Your mind has the ultimate tactical advantage over you<br/>
 -David Goggins
 </blockquoute>--TODO add citation.
 
-
-And the thing is, generally nobody has more control over you, than you.
+The thing is, generally nobody has more control over you, than you.
 Former CIA intelligence officer Andrew Bustamante recounted his experience - TODO fill in the detail of the story and add a citation.
-Former Navy SEAL and famous ultramarathon runner  said 
-
-
-7. One of my father's longtime friends used to work at a frozen yogurt shop.
-It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
-My father's friend said the other guy was cool - fine to work with and so on.
-Then one day, the other guy - the coworkers - was made the manager of the frozen yogurt shop.
-He instantly became an insufferable jerk.
-You could call this the "Star Wars" piece of the pure heart: not letting power, or abuse from others, or any of the storms of life, turn you into what you used to hate.
-There's great satisfaction in ending up in that position of power, and refusing to abuse it.
 
 8. For you 
 
@@ -215,7 +225,8 @@ Most of all, virtue is for <i>you</i>. Not for your priest, pastor, parent, chil
 
 ---
 
-Henry David Thoreau had a nice turn of phrase in this regard:
+Henry David Thoreau was an 1800s-era writer, naturalist, and activist.
+
 <blockquote>
  Thoreau died of tuberculosis in the town of his birth, Concord, Massachusetts aged 44. When his aunt Louisa asked him in his last weeks if he had made his peace with God, Thoreau responded: “I did not know we had ever quarreled.”
 </blockquote> -https://www.holyhill.ie/saints-and-heros/henry-thoreau/
@@ -228,8 +239,8 @@ His last words were, “Now comes good sailing.”
 </blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
 
 Offense: not to be dramatic, but this is kind of the "end goal" of a human life.
-People have wildly different definitions of virtue, but virtue is still their goal.
-Virtue is an awkward academic term, so you'll usually hear things phrased another way in everyday life.
+People have wildly different definitions of virtue, but virtue is their goal.
+Virtue is an awkward academic term, so you usually hear different words in everyday life.
 You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
 
 Add this somewhere in the essay: Buddhist ethics are intentionalist, meaning it's about what you've intended to do, even if you fail to achieve the intended outcome.
@@ -321,3 +332,11 @@ Sources:<br/>
 <sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
 
 
+
+7. One of my father's longtime friends used to work at a frozen yogurt shop.
+   It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
+   My father's friend said the other guy was cool - fine to work with and so on.
+   Then one day, the other guy - the coworkers - was made the manager of the frozen yogurt shop.
+   He instantly became an insufferable jerk.
+   You could call this the "Star Wars" piece of the pure heart: not letting power, or abuse from others, or any of the storms of life, turn you into what you used to hate.
+   There's great satisfaction in ending up in that position of power, and refusing to abuse it.
