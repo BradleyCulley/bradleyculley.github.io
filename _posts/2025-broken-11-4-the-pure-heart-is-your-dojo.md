@@ -270,7 +270,7 @@ From Thoreau:
 TODO: Perhaps end the essay with this quote from The Hero With a Thousand Faces:
 hey have become associated with the causes of the factions, as instruments of propaganda and self-congratulation. The universal triumph of the secular state has thrown all religious organizations into such a definitely secondary, and finally ineffectual, position that religious pantomime is hardly more today than a sanctimonious exercise for Sunday morning, whereas business ethics and patriotism stand for the remainder of the week. Such a monkey-holiness is not what the functioning world requires; rather, a transmutation of the whole social order is necessary, so that through every detail and act of secular life the vitalizing image of the universal god-man who is actually immanent and effective in all of us may be somehow made known to consciousness”
 
-“The modern hero, the modern individual who dares to heed the call and seek the mansion of that presence with whom it is our whole destiny to be atoned, cannot, indeed must not, wait for his community to cast off its slough of pride, fear, rationalized avarice, and sanctified misunderstanding. ‘Live,’ Nietzche says, ‘as though the day were here.’ It is not society that is to guide and save the creative hero, but precisely the reverse. And so every one of us shares the supreme ordeal– carries the cross of the redeemer– not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.”
+The modern hero, the modern individual who dares to heed the call and seek the mansion of that presence with whom it is our whole destiny to be atoned, cannot, indeed must not, wait for his community to cast off its slough of pride, fear, rationalized avarice, and sanctified misunderstanding. ‘Live,’ Nietzche says, ‘as though the day were here.’ It is not society that is to guide and save the creative hero, but precisely the reverse. And so every one of us shares the supreme ordeal– carries the cross of the redeemer– not in the bright moments of his tribe’s great victories, but in the silences of his personal despair.”
 </p>
 
 TODO: Add much of your pain is self-chosen to the pure heart essay
@@ -287,9 +287,9 @@ The way I heard it explained is that it helped him become "the kind of guy who g
 After enough of the habit, your actual <i>identity</i> incorporates the habit.
 Beyond something that you do, it becomes something that you <i>are</i>.
 
-On a kind of funny note, I once saw someone ask why El Chapo didn't stop running drugs at a certain point.
-He was very rich, so why not retire?
-Someone answered that that's because being a drug lord wasn't just what he did, it's who he was.
+On a kind of funny note, I once saw someone ask why El Chapo didn't stop running drugs after he got rich.
+Why not retire?
+Someone answered that it's because being a drug lord wasn't what El Chapo did, it's who he was.
 
 ---
 
