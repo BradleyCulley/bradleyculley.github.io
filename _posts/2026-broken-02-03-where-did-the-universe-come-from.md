@@ -23,7 +23,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
-    It was a textbook for a class I took at Williams College: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+    It was a textbook for a class I took in college: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 </p>
 
 <p>
@@ -132,7 +132,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
     The professor usually used his own teaching materials.
     It was a wonderful class.
     The professor, Dr. Marek Demiański, is a renowned cosmologist.
-    He was knowledgeable and loved the subject.
+    He was knowledgeable and an awesome professor.
 </p>
 
 <div align="center">
@@ -211,8 +211,8 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <li>
 <p>
     Professor Demiański loved the subject. 
-    One of the great things about studying astronomy is that basically nobody involved, neither students not professors, is just in it for the money. 
-    They're pretty much all really into physics and space and truth and the universe.
+    A great things about studying astronomy is that nobody involved, neither students nor professors, is in it for the money. 
+    They're just really into physics and space and stuff.
 </p>
 
 <p>
@@ -226,14 +226,26 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     The early universe had an extremely high level of structure/organization/evenness.
     Extremely homogeneous and isotropic, and therefore low "entropy" (entropy is a measure of disorder).
-    It was super high temperature: trillions and trillions of degrees Celsius. --TODO add citation
 </p>
 
 <p>
-    Tiny, extremely high-temperature, and superbly orderly. Why?! Where did it come from? 
-    Why so much energy? Why so well-organized?
+    It was also super hot.
+    Immediately after the big bang, the temperature of the universe was 10 billion times hotter than a trillion times a trillion degrees<sup>13</sup>.
+    One second later, the temperature was about 10 billion degrees.
+    In one second, it had colled by a trillion times a trillion degrees.
+</p>
+
+<p>
+    Tiny, super high-temperature, and super orderly.
+    But why?!
+    Where did it come from? 
+</p>
+
+<p>
+    Why so much energy?
+    Why so well-organized?
     Where did the rules themselves (the laws of physics) come from?
-    What, exactly, is going on here?
+    What's going on here?
 </p>
 </li>
 
@@ -343,7 +355,10 @@ Sources:<br/>
 <sup>11</sup>: https://en.wikipedia.org/wiki/Cosmological_principle
 <sup>12</sup>: https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
 <sup>13</sup>: https://science.nasa.gov/universe/overview
+<sup>14</sup>: https://lco.global/spacebook/cosmology/early-universe/
 TODO cite the third edition of the book
+
+This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
 
 TODO maybe talk about inflation and cite from here: https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
 
