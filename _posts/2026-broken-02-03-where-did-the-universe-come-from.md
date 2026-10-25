@@ -253,7 +253,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     Another question from the class and/or book was "where did <i>any</i> disorder come from?".
     The very early universe seems to have been not just fairly orderly, but actually <i>perfectly</i> orderly.
-    Like a dozen eggs perfectly evenly spaced in an egg carton, the radiation was perfectly evenly distributed in space. --TODO check and cite
+    Like a dozen eggs perfectly evenly spaced in an egg carton, the radiation was very evenly distributed in space. --TODO check and cite
 </p>
 
 <p>
@@ -264,10 +264,24 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 </p>
 
 <p>
-    One theory for how we got any disorder (anisotropy and inhomogeneity) is that quantum fluctations in the very early universe created some uneveness. --TODO check and cite
-    The idea is that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant.--TODO check and cite
-    In other words, everything in our current observable universe used to fit inside something like the volume of a single atom.--TODO check and cite 
-    Mind-blowing.
+    Physicists think that we got disorder (anisotropy and inhomogeneity) from quantum fluctations in the very early universe.
+    Those quantum fluctuations created some uneveness<sup>15</sup>.
+    The idea is that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant<sup>15</sup>.
+    
+<blockquote>
+<p>
+    At the very beginning, the Universe underwent a rapid inflation that lasted only until 0.00000000000000000000000000000001 seconds (10-32 seconds). After inflation the size of the Universe had increased by a factor of about 1030 (1 followed by 30 zeroes – an enormous number!). Minute, random quantum fluctuations in the structure of the Universe that were present at the moment when inflation started, were amplified up to cosmologically large scales during inflation. Now the Universe comprised significantly large regions with slightly different properties from one to the other: in particular, the density of matter was slightly larger in some regions of the Universe than it was in others.
+</p>
+
+<p>
+    The slightly denser regions eventually grew increasingly denser, as gravity caused them to draw more and more matter from the surroundings. These primordial fluctuations in the density of matter in the early Universe are the seeds of the rich network of cosmic structure – stars, galaxies, galaxy clusters – that we observe today.
+</p>
+        
+<sup>16</sup>
+</blockquote>
+
+
+    In other words, everything in our current observable universe used to around the size of a single atom (!).--TODO check and cite
 </li>
 
 <li>
@@ -356,11 +370,20 @@ Sources:<br/>
 <sup>12</sup>: https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
 <sup>13</sup>: https://science.nasa.gov/universe/overview
 <sup>14</sup>: https://lco.global/spacebook/cosmology/early-universe/
+<sup>15</sup>: https://ned.ipac.caltech.edu/level5/March03/Lineweaver/Lineweaver5.html
+<sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation
 TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
 
 TODO maybe talk about inflation and cite from here: https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
+
+TODO: write about this - and get a source for it:
+• Subatomic Size: At the start of inflation, the patch of space destined to become our observable universe was roughly \(10^{-27}\) meters across. That is trillions of times smaller than a proton, let alone an atom.
+• The Growth Spurt: In less than a trillionth of a trillionth of a trillionth of a second, inflation expanded this subatomic speck by a factor of about \(10^{26}\).
+• Post-Inflation Size: By the time inflation stopped, the observable universe had grown to roughly the size of a marble or a grapefruit.
+
+TODO: talk about how the whole universe was about 3m wide: https://cms.cern/physics/story-of-the-universe. About 9 feet wide: the size of a living room.
 
 <p>
     As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
