@@ -1,5 +1,9 @@
 ### Solved and Unsolved
 
+<div align="center">
+  <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
+</div>
+
 <p>
     <div style="text-align: center; font-weight: bold; font-size: 16px;">
         Some age-old problems are clearly unsolved<br/>

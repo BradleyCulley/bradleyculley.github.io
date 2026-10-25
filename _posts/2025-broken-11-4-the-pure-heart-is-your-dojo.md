@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" />
-</div> --TODO add citation: https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg
+</div>
 <div align="center">
-Charles Ponzi, namesake of the Ponzi Scheme --TODO: add citation
+Charles Ponzi, namesake of the Ponzi Scheme<sup>1,</sup><sup>2</sup>
 </div>
 <br>
 <div align="center">
@@ -304,3 +304,20 @@ It's the good times, the experiences in tune with your real self, that make you 
 http://shiseiryu.eu/?page_id=1790#1589320616170-cccf5d17-d65e
 http://ndbkk.shiseiryu.eu/index.php/jikishin-dojo/
 https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=35845&dataid=53662&FileName=The%20Hero%20with%20a%20Thousand%20Faces.pdf
+
+<br/><br/>
+
+Sources:<br/>
+<sup>1</sup>: By The original uploader was <a href="https://en.wikipedia.org/wiki/User:Mgreason" class="extiw" title="wikipedia:User:Mgreason">Mgreason</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" data-mw-original-href="//en.wikipedia.org" href="https://en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=67236353">Link</a><br/>
+<sup>2</sup>: https://en.wikipedia.org/wiki/Charles_Ponzi<br/>
+
+<sup>2</sup>: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
+<sup>3</sup>: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
+<sup>4</sup>: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
+<sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a>
+<sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
+<sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
+<sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
+<sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
+
+
