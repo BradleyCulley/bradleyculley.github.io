@@ -18,7 +18,7 @@ Charles Ponzi, namesake of the Ponzi Scheme<sup>1,</sup><sup>2</sup>
 
 <p>
 In college, I trained with a Japanese Buddhist priest.
-He used to tell me "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
+He used to say "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
 </p>
 
 <p>
@@ -27,32 +27,40 @@ The idea of the "the pure heart is your dojo" is that being a decent person is t
 </p>
 
 <p>
-He would say it with a deliberate solumness.
-As I recall, he would often say it in Japanese first, and then in English.
-As a 19/20-year-old kid, I more or less ignored it.
+He would say it to me with a deliberate solumness.
+As I recall, he would often say it in Japanese, and then in English.
 </p>
 
 <p>
-I saw "the pure heart is your dojo" as another vague aphorism wielded by an adult in my life, uncalibrated to the specifices of my actual life, problems, and experience.
-The aphorisms often involved "leadership", which was in vogue in the early 2000s (and maybe still is).
-Think of the school principal on stage in the auditorium, or the baseball coach above the dugout in the summer sun, sweating like a pig and talking about sportsmanship. 
+As a 19 and then 20-year-old kid, it didn't sink in too much.
+I saw "the pure heart is your dojo" as another vague aphorism wielded by an adult, untethered from details of my actual life.
+Think of the baseball coach above the dugout, sweating like a pig in the summer sun and talking about sportsmanship. 
 </p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
-This is best illustrated with a story, which I read in the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell:
+This is best illustrated with a story, which I read in the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell.
+The story is about a prince-Price Five-weapons, who fights an ogre in a forest one day.
+
 <blockquote>
+---
 The second story is of a different style. 
 It is told of a young prince who had just completed his military studies under a world-renowned teacher.
 Having received, as a symbol of his distinction, the title Prince Five-weapons, he accepted the five weapons that his teacher gave him, bowed, and, armed with the new weapons, struck out onto the road leading to the city of his father, the king.
 On the way he came to a certain forest.
 People at the mouth of the forest warned him. "Sir prince, do not enter this forest,1' they said; "an ogre lives here, named Sticky-hair; he kills every man he sees."
+--
+
 But the prince was confident and fearless as a maned lion. He entered the forest just the same. 
 When he reached the heart of it, the ogre showed himself. 
-The ogre had increased his stature to the height of a palm tree; he had created for himself a head as big as a summer house with bell-shaped pinnacle, eyes as big as alms bowls, two tusks as big as giant bulbs or buds; he had the beak of a hawk; his belly was covered with blotches; his hands and feet were dark green. "Where are you going?" he demanded.
+The ogre had increased his stature to the height of a palm tree; he had created for himself a head as big as a summer house with bell-shaped pinnacle, eyes as big as alms bowls, two tusks as big as giant bulbs or buds; he had the beak of a hawk; his belly was covered with blotches; his hands and feet were dark green. 
+"Where are you going?" he demanded.
 "Halt! You are my prey!" Prince Five-weapons answered without fear, but with great confidence in the arts and crafts that he had learned. 
 "Ogre," said he, "I knew what I was about when I entered this forest.
 You would do well to be careful about attacking me; for with an arrow steeped in poison will I pierce your flesh and fell you on the spot!
+
+---
+
 Having thus threatened the ogre, the young prince fitted to his bow an arrow steeped in deadly poison and let fly. 
 It stuck right in the ogre's hair. Then he let fly, one after another, fifty arrows. 
 All stuck right to the ogre's hair. 
@@ -77,13 +85,13 @@ As for the ogre, he thought: "This is some lion of a man, some man of noble birt
 For although he has been caught by an ogre like me, he appears neither to tremble nor to quake! 
 In all the time I have harried this road, I have never seen a single man to match him! 
 Why, pray, is he not afraid"?" Not daring to eat him, he asked: "Youth, why are you not afraid? Why are you not terrified with the fear of death?"
-"Ogre, why should I be afraid? for in one life one death is absolutely certain. What's more, I have in my belly a thunderbolt for weapon. 
+"Ogre, why should I be afraid? for in one life one death is absolutely certain. 
+What's more, I have in my belly a thunderbolt for weapon. 
 If you eat me, you will not be able to digest that weapon.
 It will tear your insides into tatters and fragments and will kill you. 
 In that case we'll both perish. That's why I'm not afraid!"
-Prince Five-weapons, the reader must know, was referring to
-the Weapon of Knowledge that was within him. Indeed, this
-young hero was none other than the Future Buddha, in an earlier incarnation. 
+Prince Five-weapons, the reader must know, was referring to  the Weapon of Knowledge that was within him. 
+Indeed, this young hero was none other than the Future Buddha, in an earlier incarnation. 
 "What this youth says is true," thought the ogre, terrified with the fear of death. 
 "From the body of this lion of a man, my stomach would not be able to digest a fragment of flesh even so small as a kidney bean. I'll let him go!" And he let Prince Five-weapons go. 
 The Future Buddha preached the Doctrine to him, subdued him, made him self-denying, and then transformed him into a spirit entitled to receive offerings in the forest. 
@@ -93,12 +101,7 @@ maybe change to get quote from here? https://themythologyproject.com/prince-five
 
 <hr/>
 
-1. A caricature of virtue
-
-<p>
-I once saw an interview with a man who had spent many years in prison.
-When reflecting on his life, he said something like that he'd broken the law, but never done something evil.
-</p>
+1. Ordinary Virtue
 
 <p>
 A year after retiring from a professorship in astronomy at the University of Nottingham, Professor Emeritus Mike Merritt was asked if he had any regrets.
@@ -110,7 +113,7 @@ Is there anything you wish you'd done, or wish you'd done better?
 </p>
 
 <p>
-Dr. Merritt:<br/>
+Professor Merritt:<br/>
 I mean yeah, you can always beat yourself up about things that you should have done differently, things that you shouldn't have said, things that you should have said.
 </p>
 
@@ -120,40 +123,37 @@ Go on then, that's what I want.
 </p>
 
 <p>
-Dr. Merritt:<br/>
+Professor Merritt:<br/>
 But honestly, you know, you only get one shot at things, and I think I can honestly say that...of all the things I've done...I've never behaved maliciously.
 I've never done anything that was kind of "evil" in that sense of the word, which is as much as you can hope for. 
 ...
 </p>
 </blockquote>
 -https://www.youtube.com/watch?v=axN5sveQ06M (starting around 8:00 in the video)
- 
-Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't fast for days, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 
 <p>
+Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't fast for days, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
 This is especially true for young people, for whom the message is most critical.
-Most people have zero interest in being a monk, will never become a monk, and would hate it.
+Most people have zero interest in being a monk, will never be a monk, and would hate it.
 </p>
 
 <p>
-The lives of the famous saints in various religions — pretty much all of them — sound pretty awful to be honest, especially when you're like 14 years old.
+The lives of the famous saints in various religions sound pretty awful to be honest, especially when you're like 14 years old.
 <p>
 
 2. Unassuming
 
 <p>
-I once read that the single biggest marker of a decent person is being <i>unassuming</i> --TODO cite Chris Ebbert's post about that
-You've met people like this. 
+I once read that the single biggest external sign of a decent person is being <i>unassuming</i> --TODO cite Chris Ebbert's post about that
 They don't take themselves super seriously.
-They radiate a down-to-earth transparency and solidity.
+They have a down-to-earth transparency and solidity.
 That describes every plumber I've ever met.
 The pure heart.
 </p>
 
 <p>
 These are also generally the last people you'll find talking about their spirituality.
-
 Add the Devkota poem quote about the ascetic being a deserter
 <blockquote>
 I see...the ascetic in his cave a deserter
@@ -162,22 +162,11 @@ I see...the ascetic in his cave a deserter
 
 "https://fixquotes.com/quotes/receiving-far-less-attention-are-the-working-117529.htm?utm_source=chatgpt.com" -John Lennon, TODO: add citation, and see if there's
 
-TODO: mabye add the story about Wendell on his last day of work, getting the logs to the yard, and include a photo of him.
-Or even just include a photo of him: the photo with Denis.
-Talk about him losing his eye, working into his 80s, etc.
-
 3. The subtle change that is everything
 
-Many years ago, and also in college, I was, for a while, unsure of my own moral character.
-That feeling of uncertainty, which was quite unpleasant, led me to make a number of life changes.
-Around 8 months later, I felt completely different.
-
-I hadn't "figured it all out", but I had the right intentions and the right trajectory.
-I slept peacefully and woke up completely un-conflicted.
-
-“When you're moving in the positive, your destination is the brightest star.”
--https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-stevie-wonder-when-youre-moving-in-the-positive-your-destination-inspiring-quotes-by-one-of-the-best-selling-music-artists-of-all-time/articleshow/128786561.cms?from=mdr
--Stevie Wonder
+The road from morally bad, or morally questionable, to morally good, can be gradual.
+But one day you wake up completely un-conflicted, and it's clear you're there.
+There might still be a lot to do, but your inner and outer selves are aligned.
 
 4. Charles Ponzi
 
@@ -191,33 +180,34 @@ While this type of fraudulent investment scheme was not invented by Ponzi, it be
 His scheme ran for over a year before it collapsed, costing his "investors" $20 million (equivalent to $237 million in 2024).
 </blockquote> -https://en.wikipedia.org/wiki/Charles_Ponzi
 
-A few years ago, I was talking with someone about Charles Ponzi, then looked him up and saw that photo of him.
-
-I remember thinking something like "he just <i>looks</i> like human scum".
-You can kind of feel the uneasiness in the photo.
+A few years ago, I was talking to someone about Charles Ponzi. We then looked him up and I saw that photo of him.
+I remember thinking something like "he just <i>looks</i> like human scum". You can feel the uneasiness in the photo.
 
 5. Applies to institutions, cultures, and countries.
 There are some countries and cultures that have never really done anything crazy to anyone.
-Never invaded, conquered, or colonized.
+Never invaded, conquered, or colonized anyone.
 Thailand is a good example of this. I think those good vibes permeate the culture.
 
-6. Defense and offense. Defense: as mentioned above, protecting you in your most difficult hours. 
-As the story of Prince Five-Weapons, being buffeted by the trials of the world. 
-The quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
-The ultimate "get everything taken from you" experience is of course death.
+6. Defense and Offense.
+
+Defense: as with Prince Five-weapons, protecting you in your most difficult hours. 
+Being knocked around by the trials of the world. 
+TODO: maybe add the quote from the sutras about the Buddha's eyes being like stars at the bottom of a well.
 
 7. Self-sabotage
 
-If you don't, fundamentally, see yourself as a decent person, your mind will, in my opinion, use that fact against you.
+If you don't see yourself as a decent person, your mind will, in my opinion, use that against you.
 The converse is also true, as with Prince Five-Weapons.
+
+<blockquote>
+"What a man thinks of himself, that it is which determines, or rather indicates, his fate."
+-https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-henry-david-thoreau-what-a-man-thinks-of-himself-that-it-is-which-determines-or-rather-indicates-/amp_articleshow/131915894.cms
+</blockquote>
 
 <blockquoute>
 Your mind has the ultimate tactical advantage over you<br/>
 -David Goggins
 </blockquoute>--TODO add citation.
-
-The thing is, generally nobody has more control over you, than you.
-Former CIA intelligence officer Andrew Bustamante recounted his experience - TODO fill in the detail of the story and add a citation.
 
 8. For you 
 
@@ -239,19 +229,16 @@ His last words were, “Now comes good sailing.”
 </blockquote> -https://thehouseilivein.me/2012/04/29/on-the-150th-anniversary-of-his-death-henry-david-thoreau/
 
 Offense: not to be dramatic, but this is kind of the "end goal" of a human life.
-People have wildly different definitions of virtue, but virtue is their goal.
-Virtue is an awkward academic term, so you usually hear different words in everyday life.
-You'll hear of the virtues themselves: "hard-working", "loyal", "generous", "family-oriented".
+People have wildly different definitions of virtue, but I think virtue is generally their goal.
+Virtue is an awkward term, so you usually hear it in everyday term: "hard-working", "loyal", "family-oriented".
 
 Add this somewhere in the essay: Buddhist ethics are intentionalist, meaning it's about what you've intended to do, even if you fail to achieve the intended outcome.
 That fits with "jikishin kore dojo", because it's about controlling the inputs (your own intentions), which is all you really control.
 
 <p>
-I trained for most of a year with that Buddhist priest, from the summer of 2008 through the spring of 2009. 
-He had grown up in a Buddhist temple family in Japan, become ordained, and held multiple degrees in Buddhist studies, including one degree from Harvard University.
-</p>
 
-<p>
+11. Guilt is Essential to Pain
+
 TODO: talk about how an essential element of an event being traumatic seems to be that one finds at least partial fault in oneself.
 If you are the victim of a random crime, for example, it's actually less likely to be traumatic.
 Talk about the idea of cathexis from Freud in that regard: you bring into yourself the thing you want to attack, and attack yourself by way of attacking the thing.
@@ -261,10 +248,6 @@ Talk about the idea of cathexis from Freud in that regard: you bring into yourse
 "The essence of greatness is the perception that virtue is enough."
 https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-perception-that-virtue-is
 </p>
-
-From Thoreau:
-"What a man thinks of himself, that it is which determines, or rather indicates, his fate." This quote is more than positive thinking or self-confidence. But Thoreau’s message goes much deeper. “The way you see yourself, that’s the direction of your life,” he says.
--https://timesofindia.indiatimes.com/life-style/books/features/quote-of-the-day-by-henry-david-thoreau-what-a-man-thinks-of-himself-that-it-is-which-determines-or-rather-indicates-/amp_articleshow/131915894.cms
 
 <p>
 TODO: Perhaps end the essay with this quote from The Hero With a Thousand Faces:
@@ -340,3 +323,8 @@ Sources:<br/>
    He instantly became an insufferable jerk.
    You could call this the "Star Wars" piece of the pure heart: not letting power, or abuse from others, or any of the storms of life, turn you into what you used to hate.
    There's great satisfaction in ending up in that position of power, and refusing to abuse it.
+
+
+TODO: mabye add the story about Wendell on his last day of work, getting the logs to the yard, and include a photo of him.
+Or even just include a photo of him: the photo with Denis.
+Talk about him losing his eye, working into his 80s, etc.
