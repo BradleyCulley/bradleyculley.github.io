@@ -37,6 +37,11 @@ I saw "the pure heart is your dojo" as another vague aphorism wielded by an adul
 Think of the baseball coach above the dugout, sweating like a pig in the summer sun and talking about sportsmanship. 
 </p>
 
+<p>
+It turns out I was wrong.
+The priest was hitting me with next-level truth...and maybe the most important fact it's possible to tell someone.
+</p>
+
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
 This is best illustrated with a story, which I read in the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell.
