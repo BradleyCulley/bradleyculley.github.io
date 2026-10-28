@@ -22,12 +22,11 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <hr/>
 
 <p>
-    I read <i>An Introduction to Modern Cosmology</i> in late 2010/early 2011. 
-    It was a textbook for a class I took in college: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+    <i>An Introduction to Modern Cosmology</i> was a textbook for a class I took in college in the spring of 2011: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 </p>
 
 <p>
-    As one Amazon reviewer noted about the book, "Good, but not an easy read."<sup>1</sup> (😂).
+    As one Amazon reviewer noted, "Good, but not an easy read."<sup>1</sup> (😂).
 </p>
 
 <p>
@@ -41,62 +40,46 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     From left to right, it means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
+    It's a reaction that happened mostly happened within the first second after the Big Bang<sup>17</sup>.
 </p>
 
 <p>
-    The context is that the very early universe was entirely radiation ("light")! 
-    There wasn't any "stuff" (physical matter) one could touch.
-    All matter we see today was created from the initial radiation.
-    Seeing this noted matter-of-factly in the pages of an astrophysics textbook stopped me in my tracks a little.
+    The context is that the very early universe was entirely radiation! 
+    There wasn't any physical "stuff" one could touch.
+    There are two other reactions listed in the book for creating neutrons (page 139) and electrons (page 140).
 </p>
 
 <p>
-    There are also these two reactions in the book:
-</p>
-
-<blockquote>
-γ + γ ←→ e+ + e− <br/><br/>
--page 140⁴
-</blockquote>
-
-<p>
-    From left to right, that's two photons react to create an electron and a positron. And this one:
-</p>
-
-<blockquote>
-p + e− ←→ n + νe <br/><br/>
--page 139⁴
-</blockquote>
-
-<p>
-    From left to right, a proton and an electron react to create a neutron and an electron neutrino.
-</p>
-
-<p>
-    All three reaction are thought to have happened in the rightward direction to some degree in the early universe.
-    A separate mechanism made the end up with a litle more matter (protons) than antimatter (anti-protons), so there were protons/neutrons/electron left over, which are the protons/neutrons/electron we have today. --TODO: add citation
+    A separate mechanism made things end up with a litle more matter (e.g. protons) than antimatter (e.g. anti-protons), so there were protons/neutrons/electron left over, which are the protons/neutrons/electron we have today. --TODO: add citation
     Why do those reactions matter?
-    They matter because we can start with photons (radiation/"light") and get all three of: electrons, protons, and neutrons.
+    They matter because you can start with radiation and get electrons, protons, and neutrons.
+    With electrons, protons, and neutrons, you can build atoms, and with atoms you can build everything we see around us.
 </p>
 
 <p>
-    With electrons, protons, and neutrons you can build atoms.
-    And with atoms you can build everything we see around us.
-    That's a minor simplification because it puts aside things like gluons, which "glue together" atomic nuclei, but it's the core idea.
+    Matter from light!
+    Seeing this noted matter-of-factly in the pages of an astrophysics textbook kind of stopped me in my tracks.
+</p>
+
+<p>
+    That's a minor simplification because it puts aside things like quarks, and gluons, which "glue together" atomic nuclei, but it's the core idea.
+    Pretty wild!
 </p>
 
 <hr/>
 
 <p>
     As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
-    `e` is energy, and `m` is mass, and `c` is just a number (the conversion factor).
+    `e` is energy, `m` is mass, and `c` is just a number (the conversion factor).
     You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
 </p>
 
 <p>
     `c` is a large number, so you need a lot of energy to create a little bit of mass.
-    In the reverse, you can convert a little bit of matter into energy, which is how nuclear weapons work.
+    In the reverse, you can convert a little bit of matter into a lot of energy, which is how nuclear weapons work.
 </p>
+
+<hr/>
 
 <p>
     Below is a diagram showing the formation of the universe over time (left to right). Note the gray band that says "Particles form".
@@ -110,19 +93,10 @@ p + e− ←→ n + νe <br/><br/>
 </div>
 
 <p>
-Something wild is that protons, neutrons, and electrons formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years (!) for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, lithium, etc.)<sup>13</sup>.
-That's also where this thing called the "Cosmic Microwave Background Radiation" came from<sup>13</sup>:
-</p>
-
-<blockquote>
-Around 380,000 years after the big bang, the universe had cooled enough that atomic nuclei could capture electrons, a period astronomers call the epoch of recombination. This had two major effects on the cosmos. First, with most electrons now bound into atoms, there were no longer enough free ones to completely scatter light, and the cosmic fog cleared. The universe became transparent, and for the first time, light could freely travel over great distances. Second, the formation of these first atoms produced its own light. This glow, still detectable today, is called the cosmic microwave background. It is the oldest light we can observe in the universe.<sup>13</sup>
-</blockquote>
-
-<p>
-    But where did the radiation come from?
+    But where did all the initial radiation come from?
     What came before the Big Bang?
     Nobody knows.
-    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we have no idea what created it.
+    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we have no idea what created it or where it came from.
 </p>
 
 <hr/>
@@ -132,7 +106,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
     The professor usually used his own teaching materials.
     It was a wonderful class.
     The professor, Dr. Marek Demiański, is a renowned cosmologist.
-    He was knowledgeable and an awesome professor.
+    He was very knowledgeable and a great professor.
 </p>
 
 <div align="center">
@@ -145,14 +119,30 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
     The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation to understand the early universe<sup>3</sup>.
-    In particular, the Planck satellite measured what are called "anisotropies" in the Cosmic Microwave Background Radiation. 
 </p>
 
 <p>
+    What's the Cosmic Microwave Background Radiation?
+    Well, something else wild is that protons, neutrons, and electrons formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
+    That's also where the "Cosmic Microwave Background Radiation" came from<sup>13</sup>:
+</p>
+
+<blockquote>
+Around 380,000 years after the big bang, the universe had cooled enough that atomic nuclei could capture electrons, a period astronomers call the epoch of recombination. This had two major effects on the cosmos. First, with most electrons now bound into atoms, there were no longer enough free ones to completely scatter light, and the cosmic fog cleared. The universe became transparent, and for the first time, light could freely travel over great distances. Second, the formation of these first atoms produced its own light. This glow, still detectable today, is called the cosmic microwave background. It is the oldest light we can observe in the universe.<sup>13</sup>
+</blockquote>
+
+<p>
+</p>
+
+<p>
+    In particular, the Planck satellite that Professor Demiański worked on measured what are called "anisotropies" in the Cosmic Microwave Background Radiation.
     An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
     If I look to the left, and then I look to the right, things look different. 
-    In this case, the quantity that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction (in the sky/universe) in which you look.--TODO add citation
-    This is an image of the entire sky, produced by the Planck satellite, showing those variations:<sup>5</sup>
+</p>
+
+<p>
+    In this case, the things that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction in the sky in which you look.--TODO add citation
+    This is an image of the entire sky, produced by the Planck satellite, showing those variations (indicated by the different colors):<sup>5</sup>
 </p>
 
 <div align="center">
@@ -168,38 +158,33 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
     In cosmology, you often see the phrase "homogeneous and isotropic". 
     You can see that phrase in the final block quote included in this essay, for example.
     "Isotropic" means "doesn't have anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
-    Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it over here than over there.
+    Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it "over there" than there is "right here", so to speak.
 </p>
 
 <p>
-    Is the universe homogeneous and isotropic (roughly the same in all directions and locations) on a large scale? 
+    On a large scale, is the universe homogeneous and isotropic (roughly the same in all positions and directions)? 
     We don't know! 
-    It's actually hotely debated by astrophysicists to this day.<sup>11</sup>
+    It's actually hotely debated by astrophysicists to this very day.<sup>11</sup>
 </p>
 
 <br/>
 
 <p>
-    However, the overall picture described above is well-accepted by scientists.
-    It's tricky to know exactly what happened in the early universe though, which makes the field especially interesting.
+    It's tricky to know exactly what happened in the early universe, which makes the field especially interesting.
     It's like being a crime scene investigator because you can only see the aftermath.
-</p>
-
-<p>
-    You have to be really smart to find ways to figure out what happened.
-    The techniques scientists use to look back into the early universe include particle accelerators and the examination of the Cosmic Microwave Background Radiation.
+    The techniques scientists use to look back into the early universe include looking at the Cosmic Microwave Background Radiation and using particle accelerators.
 </p>
 
 <hr/>
 
 <p>
     When it comes to cosmology, one could say "who cares?" 
-    There are plenty of practical problems here on Earth.
-    But I think it's worthwhile...it's the truth, after all!
+    There are tons of practical problems here on Earth.
+    But I think it's worthwhile; it's the truth, after all!
 </p>
 
 <p>
-    Also, there are other things that deserve to be ignored harder, like celebrity gossip.
+    Also, there are other things that we could ignore first, like celebrity gossip.
 </p>
 
 <hr/>
@@ -211,14 +196,15 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <li>
 <p>
     Professor Demiański loved the subject. 
-    A great things about studying astronomy is that nobody involved, neither students nor professors, is in it for the money. 
-    They're just really into physics and space and stuff.
+    One of the great things about studying astronomy is that nobody involved, neither students nor professors, is only in it for the money. 
+    They just really like physics and space and all.
 </p>
 
 <p>
-    On that topic, there was this one moment from class that I particularly remember.
-    One time, just before starting to talk about a topic, Professor Demiański paused for a minute and I sensed from him a moment of a great satisfaction with his work.
-    My father used to talk about how The Beatles would smile while they played music, because they were doing what they loved.
+    On that topic, there was this one particularly memorable moment from class.
+    One time, just before starting to lecture on a topic, Professor Demiański paused for a moment.
+    In that moment, I sensed from him a feeling of great satisfaction with his work.
+    My father used to talk about how The Beatles would smile sometime while they played because they were doing what they loved.
 </p>
 </li>
 
@@ -230,9 +216,13 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     It was also super hot.
-    Immediately after the big bang, the temperature of the universe was 10 billion times hotter than a trillion times a trillion degrees<sup>13</sup>.
+    Immediately after the big bang, the temperature of the universe was around 10 billion times hotter than a trillion times a trillion degrees<sup>13</sup>.
     One second later, the temperature was about 10 billion degrees.
-    In one second, it had colled by a trillion times a trillion degrees.
+    In one second, it had colled by a factor of about a trillion times a trillion.
+</p>
+
+<p>
+TODO: talk about the size of the universe - before and after inflation: the grape/beachball/room size, the post-inflation size, etc.
 </p>
 
 <p>
@@ -251,8 +241,8 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <li>
 <p>
-    Another question from the class and/or book was "where did <i>any</i> disorder come from?".
-    The very early universe seems to have been not just fairly orderly, but actually <i>perfectly</i> orderly.
+    Another question from the class and/or the book was "where did <i>any</i> disorder come from?".
+    The early universe seems to have been not just fairly orderly, but actually <i>perfectly</i> orderly.
     Like a dozen eggs perfectly evenly spaced in an egg carton, the radiation was very evenly distributed in space. --TODO check and cite
 </p>
 
@@ -280,39 +270,46 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <sup>16</sup>
 </blockquote>
 
-
-    In other words, everything in our current observable universe used to around the size of a single atom (!).--TODO check and cite
+In other words, everything in our current observable universe used to around the size of a single atom (!).--TODO check and cite
 </li>
 
 <li>
 <p>
 Cycles of Time. 
-Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches. 
-I *think* a consequence of the theory is that the universe has been around forever.
-Good solution to "where did the universe come from?".
+Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches.  --TODO link to the solved and unsolved essay here
+A consequence of the theory is that the universe has been around forever.
+It's a sort of solution to "where did the universe come from?".
 </p>
 
 <p>
-In particular, he claims that there are ringlike structures in the CMBR that are there because of the prior universe.
-A bat signal from the prior version of the universe.
+In particular, Sir Penrose claims that there are ringlike structures in the Cosmic Microwave Background Radiation that are there because of the prior universe.
+A sort of bat signal from the prior version of the universe.
 Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
 </p>
 
 <p>
 Professor Demianski taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
 It was right near the end of the semester, maybe even the final class of the semester.
-We sat on the green lawn on a spring day in Massachussets. 
+We sat on the green lawn on a spring day in Massachussets.
+A photo of that science quad:
+TODO: add a photo of the science quad here.
+</p>
 
+<p>
 Note: the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted by scientists.
-A few years later, while I was also working at a restaurant, I ended up tutoring (for the SAT and ACT) the son of the chair of the astronomy department at Cornell University. 
+A few years later, while I was also working at a restaurant, tutored the son of the chair of the astronomy department at a major university. 
 I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
-But the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
+</p>
+
+<p>
+That being said, the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
+</p>
 </li>
 
 <li>
 <p>
 Despite all the research efforts directed at this, we still have absolutely no idea where the universe came from.
-Or, put another way, "why it exists"/"why there's something rather than absolutely nothing". 
+Or, put another way, "why it exists"/"why there's something rather than nothing". 
 </p>
 
 <p>
@@ -321,9 +318,9 @@ That changes the problem but there's kind of still the question: "why is there a
 </p>
 
 <p>
-A former coworker of mine did a degree in physics, specializing in quantum physics.
-When I asked him why he chose that degree, he said he wanted to know where all this energy came from.
-He said something like that he never got an answer.
+A former coworker of mine did a bachelor's degree in physics, specializing in quantum physics.
+When I asked him why he decided to study that, he said he wanted to know where all this energy came from.
+Then he said something like that he never got an answer.
 </p>
 
 </li>
@@ -332,7 +329,7 @@ He said something like that he never got an answer.
 <hr/>
 
 <p>
-From the 3rd edition of the book, discussing where it came from:
+From the 3rd edition of the book, discussing "where did it all come from?":
 </p>
 
 <blockquote>
@@ -372,6 +369,7 @@ Sources:<br/>
 <sup>14</sup>: https://lco.global/spacebook/cosmology/early-universe/
 <sup>15</sup>: https://ned.ipac.caltech.edu/level5/March03/Lineweaver/Lineweaver5.html
 <sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation
+<sup>17</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html
 TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/

@@ -39,7 +39,7 @@ Think of the baseball coach above the dugout, sweating like a pig in the summer 
 
 <p>
 It turns out I was wrong.
-The priest was hitting me with next-level truth...and maybe the most important fact it's possible to tell someone.
+The priest was hitting me with next-level truth, and maybe the most important truth it's possible to tell someone.
 </p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
