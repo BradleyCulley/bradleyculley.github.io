@@ -275,34 +275,34 @@ In other words, everything in our current observable universe used to around the
 
 <li>
 <p>
-Cycles of Time. 
-Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches.  --TODO link to the solved and unsolved essay here
-A consequence of the theory is that the universe has been around forever.
-It's a sort of solution to "where did the universe come from?".
+    Cycles of Time. 
+    Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches.  --TODO link to the solved and unsolved essay here
+    A consequence of the theory is that the universe has been around forever.
+    It's a sort of solution to "where did the universe come from?".
 </p>
 
 <p>
-In particular, Sir Penrose claims that there are ringlike structures in the Cosmic Microwave Background Radiation that are there because of the prior universe.
-A sort of bat signal from the prior version of the universe.
-Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
+    In particular, Sir Penrose claims that there are ringlike structures in the Cosmic Microwave Background Radiation that are there because of the prior universe.
+    A sort of bat signal from the prior version of the universe.
+    Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
 </p>
 
 <p>
-Professor Demianski taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
-It was right near the end of the semester, maybe even the final class of the semester.
-We sat on the green lawn on a spring day in Massachussets.
-A photo of that science quad:
-TODO: add a photo of the science quad here.
+    Professor Demiański taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
+    It was right near the end of the semester, maybe even the final class of the semester.
+    We sat on the green lawn on a spring day in Massachussets.
+    A photo of that science quad:
+    TODO: add a photo of the science quad here.
 </p>
 
 <p>
-Note: the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted by scientists.
-A few years later, while I was also working at a restaurant, tutored the son of the chair of the astronomy department at a major university. 
-I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
+    Note: the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted by scientists.
+    A few years later, while I was also working at a restaurant, tutored the son of the chair of the astronomy department at a major university. 
+    I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
 </p>
 
 <p>
-That being said, the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
+    That being said, the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
 </p>
 </li>
 
