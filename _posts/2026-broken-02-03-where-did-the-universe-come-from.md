@@ -22,11 +22,12 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <hr/>
 
 <p>
-    <i>An Introduction to Modern Cosmology</i> was a textbook for a class I took in college in the spring of 2011: "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+    <i>An Introduction to Modern Cosmology</i> was a textbook for a class I took in my senior year of college, in the spring of 2011.
+    The class was called "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
 </p>
 
 <p>
-    As one Amazon reviewer noted, "Good, but not an easy read."<sup>1</sup> (😂).
+    As one Amazon reviewer said, "Good, but not an easy read."<sup>1</sup> (😂).
 </p>
 
 <p>
@@ -40,49 +41,40 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     From left to right, it means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
-    It's a reaction that happened mostly happened within the first second after the Big Bang<sup>17</sup>.
+    It's a reaction that mostly happened within the first second after the Big Bang<sup>17</sup>.
 </p>
 
 <p>
-    The context is that the very early universe was entirely radiation! 
+    The context is that the very early universe was entirely radiation!
     There wasn't any physical "stuff" one could touch.
     There are two other reactions listed in the book for creating neutrons (page 139) and electrons (page 140).
 </p>
 
 <p>
-    A separate mechanism made things end up with a litle more matter (e.g. protons) than antimatter (e.g. anti-protons), so there were protons/neutrons/electron left over, which are the protons/neutrons/electron we have today. --TODO: add citation
-    Why do those reactions matter?
-    They matter because you can start with radiation and get electrons, protons, and neutrons.
-    With electrons, protons, and neutrons, you can build atoms, and with atoms you can build everything we see around us.
+    A separate mechanism, called baryogenesis, that scientists still don't fully understand, made the universe have a litle more matter (e.g. protons) than antimatter (e.g. anti-protons), which is known as "baryonic asymmetry"<sup>18</sup>.
+    That means there were protons/neutrons/electron left over, which are the protons/neutrons/electron we see today<sup>18</sup>.
+    Interestingly, the criteria for baryogenesis were proposed by the Soviet physicist and Nobel Peace Prize laureate Andrei Sakharov, in 1967<sup>18</sup>.
 </p>
 
 <p>
-    Matter from light!
+    But back to the three reactions: why do those reactions matter?
+    They matter because you can start with radiation and end up with protons, electrons, and neutrons.
+    With protons, electrons, and neutrons, you can build atoms.
+    With atoms, you can build everything we see around us.
+</p>
+
+<p>
+    Matter from "light" (radiation)!
     Seeing this noted matter-of-factly in the pages of an astrophysics textbook kind of stopped me in my tracks.
 </p>
 
 <p>
-    That's a minor simplification because it puts aside things like quarks, and gluons, which "glue together" atomic nuclei, but it's the core idea.
+    That picture is a minor simplification because it puts aside some things like gluons, which "glue together" atomic nuclei, but it's the core idea.
     Pretty wild!
 </p>
 
-<hr/>
-
 <p>
-    As it happens, the equation describing the "exchange rate" of converting light (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
-    `e` is energy, `m` is mass, and `c` is just a number (the conversion factor).
-    You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy you need to create a given amount of mass. 
-</p>
-
-<p>
-    `c` is a large number, so you need a lot of energy to create a little bit of mass.
-    In the reverse, you can convert a little bit of matter into a lot of energy, which is how nuclear weapons work.
-</p>
-
-<hr/>
-
-<p>
-    Below is a diagram showing the formation of the universe over time (left to right). Note the gray band that says "Particles form".
+    Below is a diagram showing the formation of the universe over time, from the Big Bang on the left to the present day on the right. Note the gray band that says "Particles form".
 </p>
 
 <div align="center">
@@ -91,6 +83,23 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
         <sup>7</sup>
     </div>
 </div>
+
+<hr/>
+
+<p>
+    The equation describing the "exchange rate" for converting radiation (radiative energy) into matter is the most famous equation of all time: `e=mc<sup>2</sup>`.
+    `e` is energy, `m` is mass, and `c` is just a number (the conversion factor).
+    You can rewrite it as `m=e/c<sup>2</sup>`, telling you how much energy from radiation you need to create a certain amount (a certain mass) of physical matter. 
+</p>
+
+<p>
+    `c` is a large number, so you need a lot of energy to create a little mass.
+    The other way around, a little matter gives you a lot of energy, which is how nuclear weapons work.
+</p>
+
+<hr/>
+
+<p>
 
 <p>
     But where did all the initial radiation come from?
@@ -123,7 +132,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     What's the Cosmic Microwave Background Radiation?
-    Well, something else wild is that protons, neutrons, and electrons formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
+    Well, something else wild is that protons, neutrons, and electrons had formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
     That's also where the "Cosmic Microwave Background Radiation" came from<sup>13</sup>:
 </p>
 
@@ -370,6 +379,7 @@ Sources:<br/>
 <sup>15</sup>: https://ned.ipac.caltech.edu/level5/March03/Lineweaver/Lineweaver5.html
 <sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation
 <sup>17</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html
+<sup>18</sup>: https://en.wikipedia.org/wiki/Baryogenesis
 TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
