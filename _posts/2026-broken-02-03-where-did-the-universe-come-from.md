@@ -378,17 +378,3 @@ TODO: write about this - and get a source for it:
 • Post-Inflation Size: By the time inflation stopped, the observable universe had grown to roughly the size of a marble or a grapefruit.
 
 TODO: talk about how the whole universe was about 3m wide: https://cms.cern/physics/story-of-the-universe. About 9 feet wide: the size of a living room.
-
-<p>
-    As mentioned, everything you see around you is a result of the slight excess of matter versus antimatter.
-    A common theory is that there was an excess of electrons first, then later an excess of protons and neutrons. --TODO add citation
-    Protons and neutrons are part of a class of particles called "baryons".
-    Electrons are part of a class of particles called "leptons".
-    The generation of excess matter leptons is known as "leptogenesis" and the generation of excess matter baryons is called "baryogenesis".
-</p> --TODO add citations
-
-<p>
-    The conditions for baryogenesis were identified by the famous Solviet physicist and Nobel Peace prize winner Dr. Andrei Sakharov.
-    The conditions are called the "Sakharov conditions". --TODO add citation
-    Dr. Sakharov apparently had a lot of irons in the fire, it seems.
-</p>
