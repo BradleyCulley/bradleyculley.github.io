@@ -52,7 +52,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     But why do those reactions matter?
-    They matter because you can start with radiation and end up with protons, electrons, and neutrons.
+    They matter because they mean you can start with radiation and end up with protons, electrons, and neutrons.
     With protons, electrons, and neutrons, you can build atoms.
     With atoms, you can build everything we see around us.
 </p>
@@ -145,7 +145,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     In this case, the things that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction in the sky in which you look.--TODO add citation
-    This is an image of the entire sky, produced by the Planck satellite, showing those variations (indicated by the different colors):<sup>5</sup>
+    This is an image of the entire sky, produced by the Planck satellite, showing those variations (indicated by the color differences):<sup>5</sup>
 </p>
 
 <div align="center">
@@ -167,27 +167,22 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     On a large scale, is the universe homogeneous and isotropic (roughly the same in all positions and directions)? 
     We don't know! 
-    It's actually hotely debated by astrophysicists to this very day.<sup>11</sup>
+    It's hotly debated by astrophysicists to this very day.<sup>11</sup>
 </p>
-
-<br/>
 
 <p>
     It's tricky to know exactly what happened in the early universe, which makes the field especially interesting.
-    It's like being a crime scene investigator because you can only see the aftermath.
+    It's like being a crime scene investigator, because you can only see the aftermath.
     The techniques scientists use to look back into the early universe include looking at the Cosmic Microwave Background Radiation and using particle accelerators.
 </p>
 
 <hr/>
 
 <p>
-    When it comes to cosmology, one could say "who cares?" 
-    There are tons of practical problems here on Earth.
-    But I think it's worthwhile; it's the truth, after all!
-</p>
-
-<p>
-    Also, there are other things that we could ignore first, like celebrity gossip.
+    When it comes to cosmology, you could say "who cares?" 
+    There are lots of practical problems here on Earth.
+    But I think it's worthwhile. It's the truth, after all!
+    Also, there are other things we could ignore first, like celebrity gossip.
 </p>
 
 <hr/>
@@ -199,29 +194,28 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <li>
 <p>
     Professor Demiański loved the subject. 
-    One of the great things about studying astronomy is that nobody involved, neither students nor professors, is only in it for the money. 
-    They just really like physics and space and all.
+    One of the great things about studying astronomy is that pretty much nobody involved, neither students nor professors, is just in it for the money. 
+    They really like physics and space and such.
 </p>
 
 <p>
     On that topic, there was this one particularly memorable moment from class.
     One time, just before starting to lecture on a topic, Professor Demiański paused for a moment.
     In that moment, I sensed from him a feeling of great satisfaction with his work.
-    My father used to talk about how The Beatles would smile sometime while they played because they were doing what they loved.
+    My father used to talk about how The Beatles would smile sometime while they performed together, because they were doing what they loved.
 </p>
 </li>
 
 <li>
 <p>
     The early universe had an extremely high level of structure/organization/evenness.
-    Extremely homogeneous and isotropic, and therefore low "entropy" (entropy is a measure of disorder).
+    It was extremely homogeneous and isotropic.
 </p>
 
 <p>
     It was also super hot.
     Immediately after the big bang, the temperature of the universe was around 10 billion times hotter than a trillion times a trillion degrees<sup>13</sup>.
     One second later, the temperature was about 10 billion degrees.
-    In one second, it had colled by a factor of about a trillion times a trillion.
 </p>
 
 <p>
@@ -235,8 +229,6 @@ TODO: talk about the size of the universe - before and after inflation: the grap
 </p>
 
 <p>
-    Why so much energy?
-    Why so well-organized?
     Where did the rules themselves (the laws of physics) come from?
     What's going on here?
 </p>
@@ -311,8 +303,8 @@ In other words, everything in our current observable universe used to around the
 
 <li>
 <p>
-Despite all the research efforts directed at this, we still have absolutely no idea where the universe came from.
-Or, put another way, "why it exists"/"why there's something rather than nothing". 
+Despite all the research efforts directed at this, we have absolutely no idea where the universe came from.
+We don't know why there's something rather than nothing. 
 </p>
 
 <p>
@@ -332,7 +324,7 @@ Then he said something like that he never got an answer.
 <hr/>
 
 <p>
-From the 3rd edition of the book, discussing "where did it all come from?":
+From the book, discussing "where did the universe come from?":
 </p>
 
 <blockquote>
