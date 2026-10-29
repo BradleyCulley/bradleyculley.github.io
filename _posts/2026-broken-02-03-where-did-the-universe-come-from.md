@@ -51,13 +51,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </p>
 
 <p>
-    A separate mechanism, called baryogenesis, that scientists still don't fully understand, made the universe have a litle more matter (e.g. protons) than antimatter (e.g. anti-protons), which is known as "baryonic asymmetry"<sup>18</sup>.
-    That means there were protons/neutrons/electron left over, which are the protons/neutrons/electron we see today<sup>18</sup>.
-    Interestingly, the criteria for baryogenesis were proposed by the Soviet physicist and Nobel Peace Prize laureate Andrei Sakharov, in 1967<sup>18</sup>.
-</p>
-
-<p>
-    But back to the three reactions: why do those reactions matter?
+    But why do those reactions matter?
     They matter because you can start with radiation and end up with protons, electrons, and neutrons.
     With protons, electrons, and neutrons, you can build atoms.
     With atoms, you can build everything we see around us.
