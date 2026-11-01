@@ -1,4 +1,4 @@
-## <div align="center">The Hole at the Center of the Universe</div>
+## <div align="center">Never Have I Ever</div>
 
 <br/>
 
@@ -16,6 +16,10 @@ Never have I ever felt any off-the-shelf organized religion fully, perfectly, an
 Never have I ever been very much interested in computer hardware: microchips, CPUs, and so on.
 I've just been interested in the magic of software. 
 A writer who's interested in writing versus a pencil-maker who's interested in pencils.
+</p>
+
+<p>
+Never have I ever felt that the language, country, or religion in which I randomly happened to be born and grow up is necessarily the best of all possible options within each of those respective categories.
 </p>
 
 <hr/>
