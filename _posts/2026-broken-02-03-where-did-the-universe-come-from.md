@@ -94,12 +94,14 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <hr/>
 
 <p>
-
-<p>
     But where did all the initial radiation come from?
     What came before the Big Bang?
     Nobody knows.
-    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number, and we have no idea what created it or where it came from.
+</p>
+
+<p>
+    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number.
+    We have no idea what created it or where it came from.
 </p>
 
 <hr/>
@@ -138,14 +140,14 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 </p>
 
 <p>
-    In particular, the Planck satellite that Professor Demiański worked on measured what are called "anisotropies" in the Cosmic Microwave Background Radiation.
+    In particular, the Planck satellite that Professor Demiański worked on measured what are called "anisotropies" in the Cosmic Microwave Background Radiation<sup>3</sup>.
     An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
-    If I look to the left, and then I look to the right, things look different. 
+    If I look to the left, then I look to the right, things look different. 
 </p>
 
 <p>
-    In this case, the things that varied was the temperature of the Cosmic Microwave Background Radiation, depending on the direction in the sky in which you look.--TODO add citation
-    This is an image of the entire sky, produced by the Planck satellite, showing those variations (indicated by the color differences):<sup>5</sup>
+    In this case, the thing that's different is the temperature of the Cosmic Microwave Background Radiation, depending on the direction in the sky in which you look<sup>3</sup>.
+    This is an image of the whole sky, produced by the Planck satellite, showing those differences in the Cosmic Microwave Background Radiation in different parts of the sky:<sup>5</sup>
 </p>
 
 <div align="center">
@@ -166,14 +168,14 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     On a large scale, is the universe homogeneous and isotropic (roughly the same in all positions and directions)? 
-    We don't know! 
-    It's hotly debated by astrophysicists to this very day.<sup>11</sup>
+    We actually don't know! 
+    It's hotly debated by astrophysicists to this day.<sup>11</sup>
 </p>
 
 <p>
-    It's tricky to know exactly what happened in the early universe, which makes the field especially interesting.
-    It's like being a crime scene investigator, because you can only see the aftermath.
-    The techniques scientists use to look back into the early universe include looking at the Cosmic Microwave Background Radiation and using particle accelerators.
+    It's hard to know what happened in the early universe, which makes the field especially interesting/fun.
+    It's like being a crime scene investigator, because you can only see the aftermath of stuff.
+    Scientists try to understand the early universe with things like looking at the Cosmic Microwave Background Radiation and using particle accelerators.
 </p>
 
 <hr/>
@@ -181,14 +183,14 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     When it comes to cosmology, you could say "who cares?" 
     There are lots of practical problems here on Earth.
-    But I think it's worthwhile. It's the truth, after all!
-    Also, there are other things we could ignore first, like celebrity gossip.
+    But I think it's worthwhile. It's the truth!
+    Also, there's other stuff we could ignore first, like celebrity gossip.
 </p>
 
 <hr/>
 
 <p>
-    Some other memorable things from the class and/or book:<br/>
+    Some other memorable things from the class and/or the book:<br/>
 <ol>
 
 <li>
@@ -270,28 +272,36 @@ In other words, everything in our current observable universe used to around the
 
 <li>
 <p>
-    Cycles of Time. 
-    Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches.  --TODO link to the solved and unsolved essay here
+    Cycles of time. 
+    Nobel Laureate in physics Sir Roger Penrose has a theory that the universe goes through cycles of Big Bangs followed by Big Crunches.
     A consequence of the theory is that the universe has been around forever.
-    It's a sort of solution to "where did the universe come from?".
+    It's one possible answer to "where did the universe come from?".
+</p>
+
+<blockquote>
+Conformal cyclic cosmology (CCC) is a speculative cyclocosmic cosmological model in the framework of general relativity, proposed by the theoretical physicist Roger Penrose.
+In CCC the universe iterates through infinite cycles, with the future timelike infinity (the latest end of any possible timescale evaluated for any point in space) of each previous iteration being identified with the Big Bang singularity of the next.
+Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinary New View of the Universe.<sup>19</sup>
+</blockquote>
+
+<p>
+    In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup> in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
 </p>
 
 <p>
-    In particular, Sir Penrose claims that there are ringlike structures in the Cosmic Microwave Background Radiation that are there because of the prior universe.
-    A sort of bat signal from the prior version of the universe.
-    Penrose published it as a popular book: https://www.amazon.com/Cycles-Time.../dp/0307278468....
+    Professor Demiański taught us about Penrose's Cycles of Time theory during the only time we had class outdoors.
+    The class was held on the science quad lawn.
+    It was right near the end of the semester, maybe even the last class of the semester.
 </p>
 
 <p>
-    Professor Demiański taught us about Penrose's Cycles of Time theory during the only time we had class outdoors, on the science quad lawn.
-    It was right near the end of the semester, maybe even the final class of the semester.
     We sat on the green lawn on a spring day in Massachussets.
-    A photo of that science quad:
+    The science quad:
     TODO: add a photo of the science quad here.
 </p>
 
 <p>
-    Note: the Cycles of Time theory (called Cyclic Conformal Cosmology) is not widely accepted by scientists.
+    Note: the Cycles of Time theory (called Conformal cyclic cosmology or CCC) is not widely accepted by scientists.
     A few years later, while I was also working at a restaurant, tutored the son of the chair of the astronomy department at a major university. 
     I asked the father about the Cycles of Time rings. He said something like "there aren't any rings".
 </p>
@@ -366,6 +376,7 @@ Sources:<br/>
 <sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation
 <sup>17</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html
 <sup>18</sup>: https://en.wikipedia.org/wiki/Baryogenesis
+<sup>19</sup>: https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology
 TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
