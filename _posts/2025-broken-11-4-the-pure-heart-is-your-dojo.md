@@ -28,30 +28,28 @@ The idea of the "the pure heart is your dojo" is that being a decent person is t
 
 <p>
 He would say it to me with a deliberate solumness.
-As I recall, he would often say it in Japanese, and then in English.
+As I recall, he'd usually say it in Japanese, then in English.
 </p>
 
 <p>
-As a 19 and then 20-year-old kid, it didn't sink in too much.
-I saw "the pure heart is your dojo" as another vague aphorism wielded by an adult, untethered from details of my actual life.
+As a 19/20-year-old kid, it didn't sink in much.
+I saw it as another vague statement wielded by an adult, untethered from the details of my actual life.
 Think of the baseball coach above the dugout, sweating like a pig in the summer sun and talking about sportsmanship. 
 </p>
 
 <p>
-It turns out I was wrong.
-The priest was hitting me with next-level truth, and maybe the most important truth it's possible to tell someone.
+Turns out, I was super wrong.
+The priest was hitting me with some next-level truth. Maybe the most important one out there.
 </p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
-This is best illustrated with a story, which I read in the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell.
-The story is about a prince-Price Five-weapons, who fights an ogre in a forest one day.
+Around early 2010, I read the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell.
+A story Campbell recounts in the book reminds me of "the pure heart is your dojo".
+The story is about a Prince Five-weapons, who fights an ogre in the forest:
 
 <blockquote>
 ---
-The second story is of a different style. 
-It is told of a young prince who had just completed his military studies under a world-renowned teacher.
-Having received, as a symbol of his distinction, the title Prince Five-weapons, he accepted the five weapons that his teacher gave him, bowed, and, armed with the new weapons, struck out onto the road leading to the city of his father, the king.
 On the way he came to a certain forest.
 People at the mouth of the forest warned him. "Sir prince, do not enter this forest,1' they said; "an ogre lives here, named Sticky-hair; he kills every man he sees."
 --
@@ -137,21 +135,16 @@ I've never done anything that was kind of "evil" in that sense of the word, whic
 -https://www.youtube.com/watch?v=axN5sveQ06M (starting around 8:00 in the video)
 
 <p>
-Professor Merritt didn't give away his possessions, didn't run off into the wilderness, didn't fast for days, and didn't follow any particular religion (he says elsewhere that he's not religious --TODO: add citation).
 When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
 This is especially true for young people, for whom the message is most critical.
 Most people have zero interest in being a monk, will never be a monk, and would hate it.
-</p>
-
-<p>
 The lives of the famous saints in various religions sound pretty awful to be honest, especially when you're like 14 years old.
 <p>
 
 2. Unassuming
 
 <p>
-I once read that the single biggest external sign of a decent person is being <i>unassuming</i> --TODO cite Chris Ebbert's post about that
-They don't take themselves super seriously.
+A decent person tends to be unassuming.
 They have a down-to-earth transparency and solidity.
 That describes every plumber I've ever met.
 The pure heart.
@@ -169,29 +162,36 @@ I see...the ascetic in his cave a deserter
 
 3. The subtle change that is everything
 
-The road from morally bad, or morally questionable, to morally good, can be gradual.
-But one day you wake up completely un-conflicted, and it's clear you're there.
-There might still be a lot to do, but your inner and outer selves are aligned.
+The road from morally bad, or morally questionable, to morally good, feels gradual when you're on it.
+It's just as you can't see the curvature of the earth when walking through the countryside, no matter how open the horizons. 
+Then one day you wake up un-conflicted.
+Not perfect or done, but the inner and outer are aligned.
+TODO: maybe talk about Jichin Fukanoshi, how someone (maybe in the book) said he doesn't have a hidden side
 
 4. Charles Ponzi
 
-This is Charles Ponzi, the person after which the "Ponzi scheme" scam is named:
+<p>
+This is Charles Ponzi, the person after which the "Ponzi scheme" scam is named<sup>2</sup>:
+</p>
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" />
-</div> -- TODO add citation: https://en.wikipedia.org/wiki/Charles_Ponzi#/media/File:Ponzi1920.jpg
+  <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" /><sup>1</sup>
+</div>
 
 <blockquote>
 While this type of fraudulent investment scheme was not invented by Ponzi, it became so identified with him that it now is referred to as a "Ponzi scheme".
-His scheme ran for over a year before it collapsed, costing his "investors" $20 million (equivalent to $237 million in 2024).
-</blockquote> -https://en.wikipedia.org/wiki/Charles_Ponzi
+His scheme ran for over a year before it collapsed, costing his "investors" $20 million (equivalent to $237 million in 2024).<sup>2</sup>
+</blockquote>
 
-A few years ago, I was talking to someone about Charles Ponzi. We then looked him up and I saw that photo of him.
-I remember thinking something like "he just <i>looks</i> like human scum". You can feel the uneasiness in the photo.
+<p>
+A while ago, I was talking to someone about Charles Ponzi. We looked him up and saw that photo.
+I remember thinking something like "he just <i>looks</i> like scum".
+</p>
 
 5. Applies to institutions, cultures, and countries.
 There are some countries and cultures that have never really done anything crazy to anyone.
 Never invaded, conquered, or colonized anyone.
-Thailand is a good example of this. I think those good vibes permeate the culture.
+Thailand is a good example. 
+I think those good vibes permeate the culture.
 
 6. Defense and Offense.
 
@@ -201,8 +201,7 @@ TODO: maybe add the quote from the sutras about the Buddha's eyes being like sta
 
 7. Self-sabotage
 
-If you don't see yourself as a decent person, your mind will, in my opinion, use that against you.
-The converse is also true, as with Prince Five-Weapons.
+If you don't see yourself as a decent person, your mind will use that against you.
 
 <blockquote>
 "What a man thinks of himself, that it is which determines, or rather indicates, his fate."
@@ -244,6 +243,7 @@ That fits with "jikishin kore dojo", because it's about controlling the inputs (
 
 11. Guilt is Essential to Pain
 
+<p>
 TODO: talk about how an essential element of an event being traumatic seems to be that one finds at least partial fault in oneself.
 If you are the victim of a random crime, for example, it's actually less likely to be traumatic.
 Talk about the idea of cathexis from Freud in that regard: you bring into yourself the thing you want to attack, and attack yourself by way of attacking the thing.
@@ -301,6 +301,7 @@ https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=35845&da
 
 Sources:<br/>
 <sup>1</sup>: By The original uploader was <a href="https://en.wikipedia.org/wiki/User:Mgreason" class="extiw" title="wikipedia:User:Mgreason">Mgreason</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" data-mw-original-href="//en.wikipedia.org" href="https://en.wikipedia.org">en.wikipedia</a></span> to Commons., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=67236353">Link</a><br/>
+<sup>2</sup>: https://en.wikipedia.org/wiki/Charles_Ponzi<br/>
 <sup>2</sup>: https://en.wikipedia.org/wiki/Charles_Ponzi<br/>
 
 <sup>2</sup>: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>

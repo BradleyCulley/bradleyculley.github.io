@@ -298,6 +298,7 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
     We sat on the green lawn on a spring day in Massachussets.
     The science quad:
     TODO: add a photo of the science quad here.
+    I asked this site if I can use this image: https://williams68.org/contact-us/ image: https://williams68.org/wp-content/uploads/2020/02/RS119821_Payette_WilliamsCollege_40-original-scaled.jpg
 </p>
 
 <p>
@@ -307,7 +308,7 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
 </p>
 
 <p>
-    That being said, the point is that it's an interesting theory and a real attempt to answer the question "where did the universe come from?". --TODO: link this whole sentence, or part of it, to the Solved and Unsolved essay
+    That being said, it really tries to answer the question "where did the universe come from?".
 </p>
 </li>
 
@@ -381,7 +382,7 @@ TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
 
-TODO maybe talk about inflation and cite from here: https://www.cfa.harvard.edu/big-questions/what-happened-early-universe
+TODO maybe talk about inflation and sizes of the universe, citing from here: https://cms.cern/physics/story-of-the-universe
 
 TODO: write about this - and get a source for it:
 • Subatomic Size: At the start of inflation, the patch of space destined to become our observable universe was roughly \(10^{-27}\) meters across. That is trillions of times smaller than a proton, let alone an atom.
