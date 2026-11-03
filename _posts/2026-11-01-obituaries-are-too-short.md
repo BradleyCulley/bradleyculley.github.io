@@ -7,7 +7,7 @@
 <hr/>
 
 <p>
-As the saying goes, `history is written by the writers`.
+As the saying goes, "history is written by the writers."
 </p>
 
 <p>
@@ -31,11 +31,22 @@ Each essay will be titled: <i>"Obituaries Are Too Short: [name of the deceased]"
 </p>
 
 <p>
-One of the first essays will be about my grandmother, Nora Culley.
+One of the first essays will be about my grandmother, Nora Culley, who was awesome.
 She was a single mother who survived the Great Depression and raised two successful men, my father and his brother.
 </p>
 
 <p>
 She was a high-school dropout and self-made millionaire, earning her wealth through business ownership, stocks, and real estate.
-Above is a photo of me and her. She was awesome.
+Above is a photo of me and her.
 </p>
+
+<p>
+From Sam Fender's song "People Watching" (tinyurl.com/5n6t9chx):
+</p>
+
+<blockquote>
+Above the rain-soaked Garden of Remembrance<br/>
+Kittiwakes etched your initials in the sky<br/>
+Oh, I fear for this crippled island and the turmoil of the times<br/>
+And I'll hold you in my heart till the day I die<br/>
+</blockquote>
