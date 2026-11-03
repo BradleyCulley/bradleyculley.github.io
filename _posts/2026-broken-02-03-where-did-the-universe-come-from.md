@@ -23,7 +23,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     <i>An Introduction to Modern Cosmology</i> was a textbook for a class I took in my senior year of college, in the spring of 2011.
-    The class was called "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe". 
+    I majored in astronomy in college and the class was called "ASTR 420 - Observational Cosmology: Observing and Modeling the Universe".
 </p>
 
 <p>
@@ -51,15 +51,15 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </p>
 
 <p>
-    But why do those reactions matter?
+    Why do those reactions matter?
     They matter because they mean you can start with radiation and end up with protons, electrons, and neutrons.
     With protons, electrons, and neutrons, you can build atoms.
-    With atoms, you can build everything we see around us.
+    And with atoms, you can build everything we see around us.
 </p>
 
 <p>
     Matter from "light" (radiation)!
-    Seeing this noted matter-of-factly in the pages of an astrophysics textbook kind of stopped me in my tracks.
+    Seeing this written matter-of-factly in the pages of an astrophysics textbook kind of stopped me in my tracks.
 </p>
 
 <p>
@@ -96,7 +96,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <p>
     But where did all the initial radiation come from?
     What came before the Big Bang?
-    Nobody knows.
+    Nobody knows!
 </p>
 
 <p>
@@ -111,7 +111,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
     The professor usually used his own teaching materials.
     It was a wonderful class.
     The professor, Dr. Marek Demiański, is a renowned cosmologist.
-    He was very knowledgeable and a great professor.
+    He was a great professor.
 </p>
 
 <div align="center">
@@ -163,11 +163,11 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
     In cosmology, you often see the phrase "homogeneous and isotropic". 
     You can see that phrase in the final block quote included in this essay, for example.
     "Isotropic" means "doesn't have anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
-    Homogeneous means that something doesn't vary based on the <i>position</i> at which one looks for it.<sup>6</sup>: there isn't more of it "over there" than there is "right here", so to speak.
+    "Homogeneous" means that something doesn't vary based on the <i>position</i> at which one looks for it<sup>6</sup>: there isn't more of it "over there" than there is "right here", so to speak.
 </p>
 
 <p>
-    On a large scale, is the universe homogeneous and isotropic (roughly the same in all positions and directions)? 
+    On a large scale, is the universe roughly homogeneous and isotropic? 
     We actually don't know! 
     It's hotly debated by astrophysicists to this day.<sup>11</sup>
 </p>
@@ -204,7 +204,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
     On that topic, there was this one particularly memorable moment from class.
     One time, just before starting to lecture on a topic, Professor Demiański paused for a moment.
     In that moment, I sensed from him a feeling of great satisfaction with his work.
-    My father used to talk about how The Beatles would smile sometime while they performed together, because they were doing what they loved.
+    My father used to talk about how The Beatles would laugh sometime while they performed, because they were having so much fun doing what they loved.
 </p>
 </li>
 
@@ -257,14 +257,12 @@ TODO: talk about the size of the universe - before and after inflation: the grap
     
 <blockquote>
 <p>
-    At the very beginning, the Universe underwent a rapid inflation that lasted only until 0.00000000000000000000000000000001 seconds (10-32 seconds). After inflation the size of the Universe had increased by a factor of about 1030 (1 followed by 30 zeroes – an enormous number!). Minute, random quantum fluctuations in the structure of the Universe that were present at the moment when inflation started, were amplified up to cosmologically large scales during inflation. Now the Universe comprised significantly large regions with slightly different properties from one to the other: in particular, the density of matter was slightly larger in some regions of the Universe than it was in others.
+    At the very beginning, the Universe underwent a rapid inflation that lasted only until 0.00000000000000000000000000000001 seconds (10-32 seconds). After inflation the size of the Universe had increased by a factor of about 10<sup>30</sup> (1 followed by 30 zeroes – an enormous number!). Minute, random quantum fluctuations in the structure of the Universe that were present at the moment when inflation started, were amplified up to cosmologically large scales during inflation. Now the Universe comprised significantly large regions with slightly different properties from one to the other: in particular, the density of matter was slightly larger in some regions of the Universe than it was in others.
 </p>
 
 <p>
-    The slightly denser regions eventually grew increasingly denser, as gravity caused them to draw more and more matter from the surroundings. These primordial fluctuations in the density of matter in the early Universe are the seeds of the rich network of cosmic structure – stars, galaxies, galaxy clusters – that we observe today.
+    The slightly denser regions eventually grew increasingly denser, as gravity caused them to draw more and more matter from the surroundings. These primordial fluctuations in the density of matter in the early Universe are the seeds of the rich network of cosmic structure – stars, galaxies, galaxy clusters – that we observe today.<sup>16</sup>
 </p>
-        
-<sup>16</sup>
 </blockquote>
 
 In other words, everything in our current observable universe used to around the size of a single atom (!).--TODO check and cite
@@ -286,10 +284,11 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
 
 <p>
     In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup> in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
+TODO: add an image of the proposed concentric circles.
 </p>
 
 <p>
-    Professor Demiański taught us about Penrose's Cycles of Time theory during the only time we had class outdoors.
+    Professor Demiański taught us about Penrose's Cycles of Time theory the only time we had class outdoors.
     The class was held on the science quad lawn.
     It was right near the end of the semester, maybe even the last class of the semester.
 </p>
