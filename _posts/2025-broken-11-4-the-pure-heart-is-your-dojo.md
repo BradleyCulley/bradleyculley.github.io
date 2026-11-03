@@ -18,35 +18,32 @@ Charles Ponzi, namesake of the Ponzi Scheme<sup>1,</sup><sup>2</sup>
 
 <p>
 In college, I trained with a Japanese Buddhist priest.
-He used to say "jikishin kore dojo" (直心是道場), which in Japanese means "the pure heart is your dojo".
+He used to tell me "jikishin kore dojo" (直心是道場), which means "the pure heart is your dojo".
 </p>
 
 <p>
 A "dojo" is a traditional Japanese place for mental and physical training; a place of refuge and strength.
-The idea of the "the pure heart is your dojo" is that being a decent person is the final and best protection against the storms of life.
+He would say it with a deliberate solumness, and as I recall, usually first in Japanese, then in English.
 </p>
 
 <p>
-He would say it to me with a deliberate solumness.
-As I recall, he'd usually say it in Japanese, then in English.
+As a 19/20-year-old kid, it didn't really sink in.
+I saw it as another vague statement wielded by an adult, disconnected from the details of my actual life.
+Think of the baseball coach above the dugout, sweating like a pig on a hot summer's day and talking about sportsmanship. 
 </p>
 
 <p>
-As a 19/20-year-old kid, it didn't sink in much.
-I saw it as another vague statement wielded by an adult, untethered from the details of my actual life.
-Think of the baseball coach above the dugout, sweating like a pig in the summer sun and talking about sportsmanship. 
-</p>
-
-<p>
-Turns out, I was super wrong.
-The priest was hitting me with some next-level truth. Maybe the most important one out there.
+Turns out, I was wrong.
+The priest hit me with some next-level truth; maybe the most important one there is.
 </p>
 
 TODO - consider replacing this with another, shorter, story, such as the story of https://en.wikipedia.org/wiki/Prahlada https://en.wikipedia.org/wiki/Prince_Myshkin https://en.wikipedia.org/wiki/Sibi_Jataka
 
+<p>
 Around early 2010, I read the book "The Hero with a Thousand Faces", by the comparative mythologist Joseph Campbell.
 A story Campbell recounts in the book reminds me of "the pure heart is your dojo".
-The story is about a Prince Five-weapons, who fights an ogre in the forest:
+The story is about a mythical Buddhist prince, Prince Five-weapons, who fights an ogre in the forest:
+</p>
 
 <blockquote>
 ---
@@ -135,10 +132,10 @@ I've never done anything that was kind of "evil" in that sense of the word, whic
 -https://www.youtube.com/watch?v=axN5sveQ06M (starting around 8:00 in the video)
 
 <p>
-When virtue is explained in cartoonish terms, like becoming a monk, it does a great disservice.
+When virtue is explained in cartoonish terms, like becoming a monk, it does it a great disservice.
 This is especially true for young people, for whom the message is most critical.
 Most people have zero interest in being a monk, will never be a monk, and would hate it.
-The lives of the famous saints in various religions sound pretty awful to be honest, especially when you're like 14 years old.
+The lives of the famous saints in various religions genereally sound awful, especially when you're like 14 years old.
 <p>
 
 2. Unassuming
@@ -151,7 +148,7 @@ The pure heart.
 </p>
 
 <p>
-These are also generally the last people you'll find talking about their spirituality.
+These are also usually the last people you'll find talking about their "spirituality".
 Add the Devkota poem quote about the ascetic being a deserter
 <blockquote>
 I see...the ascetic in his cave a deserter
@@ -162,8 +159,8 @@ I see...the ascetic in his cave a deserter
 
 3. The subtle change that is everything
 
-The road from morally bad, or morally questionable, to morally good, feels gradual when you're on it.
-It's just as you can't see the curvature of the earth when walking through the countryside, no matter how open the horizons. 
+The road from morally bad, or morally questionable, to morally good feels gradual or even static from the inside.
+It's just as you can't see the curvature of the earth when walking through a field, no matter how open the horizons. 
 Then one day you wake up un-conflicted.
 Not perfect or done, but the inner and outer are aligned.
 TODO: maybe talk about Jichin Fukanoshi, how someone (maybe in the book) said he doesn't have a hidden side
@@ -171,7 +168,7 @@ TODO: maybe talk about Jichin Fukanoshi, how someone (maybe in the book) said he
 4. Charles Ponzi
 
 <p>
-This is Charles Ponzi, the person after which the "Ponzi scheme" scam is named<sup>2</sup>:
+He's the person after which the "Ponzi scheme" scam is named<sup>2</sup>:
 </p>
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Charles_Ponzi.jpg" /><sup>1</sup>
@@ -185,10 +182,11 @@ His scheme ran for over a year before it collapsed, costing his "investors" $20 
 <p>
 A while ago, I was talking to someone about Charles Ponzi. We looked him up and saw that photo.
 I remember thinking something like "he just <i>looks</i> like scum".
+You can feel the uneasiness in the photo.
 </p>
 
 5. Applies to institutions, cultures, and countries.
-There are some countries and cultures that have never really done anything crazy to anyone.
+There are some countries and cultures that have never really done anything crazy.
 Never invaded, conquered, or colonized anyone.
 Thailand is a good example. 
 I think those good vibes permeate the culture.
@@ -213,7 +211,7 @@ Your mind has the ultimate tactical advantage over you<br/>
 -David Goggins
 </blockquoute>--TODO add citation.
 
-8. For you 
+8. For You 
 
 Most of all, virtue is for <i>you</i>. Not for your priest, pastor, parent, child, spouse, or society.
 
@@ -255,6 +253,8 @@ https://www.goodreads.com/quotes/8556802-the-essence-of-greatness-is-the-percept
 </p>
 
 TODO: Add much of your pain is self-chosen to the pure heart essay
+
+12. How to Have the Pure Heart
 
 TODO: talk about the essay "How to fix your entire life in one day", by Dan Koe: https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1.
 That essay clarified something that I'd been sort of subconsciously aware of, and which I experienced in my own life, in part of 2009.
@@ -304,26 +304,10 @@ Sources:<br/>
 <sup>2</sup>: https://en.wikipedia.org/wiki/Charles_Ponzi<br/>
 <sup>2</sup>: https://en.wikipedia.org/wiki/Charles_Ponzi<br/>
 
-<sup>2</sup>: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
-<sup>3</sup>: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
-<sup>4</sup>: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
-<sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a>
-<sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
-<sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
-<sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
-<sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
-
-
-
-7. One of my father's longtime friends used to work at a frozen yogurt shop.
-   It was my father's friend and another guy - the two were coworkers, both serving the yogurt and so on.
-   My father's friend said the other guy was cool - fine to work with and so on.
-   Then one day, the other guy - the coworkers - was made the manager of the frozen yogurt shop.
-   He instantly became an insufferable jerk.
-   You could call this the "Star Wars" piece of the pure heart: not letting power, or abuse from others, or any of the storms of life, turn you into what you used to hate.
-   There's great satisfaction in ending up in that position of power, and refusing to abuse it.
 
 
 TODO: mabye add the story about Wendell on his last day of work, getting the logs to the yard, and include a photo of him.
 Or even just include a photo of him: the photo with Denis.
 Talk about him losing his eye, working into his 80s, etc.
+
+The idea of the "the pure heart is your dojo" is that being a decent person is the final and best protection against the storms of life.
