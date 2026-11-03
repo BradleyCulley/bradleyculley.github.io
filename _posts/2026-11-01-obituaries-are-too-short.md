@@ -31,8 +31,8 @@ Each essay will be titled: `"Obituaries Are Too Short: [name of the deceased]"`.
 </p>
 
 <p>
-One of the first essays will be about my grandmother, Nora Culley, who was awesome.
+One of the first essays will be about my grandmother, Nora Culley.
 She was a single mother who survived the Great Depression and raised two successful men, my father and his brother.
 She was a high-school dropout and self-made millionaire, earning her wealth through business ownership, stocks, and real estate.
-Above is a photo of me and her.
+Above is a photo of me and her. She was awesome.
 </p>
