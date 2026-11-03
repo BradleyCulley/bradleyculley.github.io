@@ -16,7 +16,7 @@ It's often told through a one-page obituary that's mostly major life events like
 </p>
 
 <p>
-A life is much bigger than that. It's a multi-dimensional epic.
+A life is such much bigger than that. A multi-dimensional epic.
 Deep, nuanced, full of struggle and compromise and transcendence and failure and ideals.
 </p>
 
