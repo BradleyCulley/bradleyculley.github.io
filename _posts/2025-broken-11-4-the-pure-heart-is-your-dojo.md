@@ -241,7 +241,7 @@ That fits with "jikishin kore dojo", because it's about controlling the inputs (
 
 <p>
 
-11. Guilt is Essential to Pain
+11. Guilt is Essential to Suffering
 
 <p>
 TODO: talk about how an essential element of an event being traumatic seems to be that one finds at least partial fault in oneself.

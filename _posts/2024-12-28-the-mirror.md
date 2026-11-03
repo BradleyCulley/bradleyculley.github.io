@@ -34,7 +34,7 @@
 <p>
     The mirror, which was roughly the shape of the head of a spoon, sat atop a burnished silver metal pole.
     The pole protruded up from the lush green of the back lawn like a street lamp.
-    The mirror, atop the pole, stood about 3 feet above the grass and was about 20 feet from the stuccoed wall of the back of the home.
+    The mirror, atop the pole, stood about 3 feet above the grass and was about 20 feet from the stuccoed exterior of the back of the home.
 </p>
 
 <p>
