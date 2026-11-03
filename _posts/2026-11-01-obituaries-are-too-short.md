@@ -12,7 +12,7 @@ As the saying goes, "history is written by the writers."
 
 <p>
 I think people don't write down their own story nearly often enough.  
-It's often told through a one-page obituary that's mostly major life events like marriage, a work history, and a list of surviving relatives.
+It's often told through a one-page obituary that's mostly major life events like marriage, then a work history, then a list of surviving relatives.
 </p>
 
 <p>
