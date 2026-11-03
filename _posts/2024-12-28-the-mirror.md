@@ -57,7 +57,7 @@
 <p>
     The family tradition was that if you sat in the chair with the beam of light on your chest, you could ask yourself one question—quietly in your own mind.
     You'd then, the tradition went, receive a completely honest answer.
-    Nobody in the family believed in the supernatural, but they reasoned that the ritual helped them focus somehow.
+    Nobody in the family believed in the supernatural, yet they reasoned that the ritual helped them focus somehow.
     It let quieter thoughts flow, perhaps.
 </p>
 
@@ -68,8 +68,8 @@
 </p>
 
 <p>
-    A few minutes before the equinox, the son Evan began searching through the cardboard boxes in the foyer until he found the one containing the wooden chair.
-    He lifted it from the box, pulled away the packing material, and carried it to the hallway.
+    A few minutes before the equinox, the son Evan searched through the cardboard boxes in the foyer until he found the one that had the wooden chair in it.
+    He lifted the chair from the box, pulled away the packing material, and carried it to the hallway.
     In the hallway, he set the chair against the wall—across from the glass porthole—and sat down, waiting for the light to appear.
 </p>
 
@@ -84,7 +84,7 @@
 </p>
 
 <p>
-    The voice was always clear yet quiet, like ripples moving across a lake in the rain.
+    The voice was always clear yet quiet, like ripples of water moving across a lake in the rain.
 </p>
 
 <p>
