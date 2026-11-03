@@ -1,4 +1,4 @@
-## <div align="center">Slivers of Nature<div>
+## <div align="center">Slivers of Nature</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />

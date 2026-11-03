@@ -1,4 +1,4 @@
-## <div align="center">The Songbird of Wassoulou<div>
+## <div align="center">The Songbird of Wassoulou</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/redwall.jpeg" />

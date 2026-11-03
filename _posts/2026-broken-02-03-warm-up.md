@@ -1,4 +1,4 @@
-## <div align="center">Warm-Up<div>
+## <div align="center">Warm-Up</div>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Me_on_a_roof.jpg" />

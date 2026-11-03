@@ -1,4 +1,4 @@
-## <div align="center">We Live Life Forward But It Only Makes Sense In Reverse<div>
+## <div align="center">We Live Life Forward But It Only Makes Sense In Reverse</div>
 <div style="font-size: 25px; font-weight: bold;" align="center">-Søren Kierkegaard</div>
 
 <div align="center">

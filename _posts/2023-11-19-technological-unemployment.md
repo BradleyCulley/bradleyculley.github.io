@@ -1,4 +1,4 @@
-## <div align="center">Technological Unemployment<div>
+## <div align="center">Technological Unemployment</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/technological_unemployment_illustration1.png" />

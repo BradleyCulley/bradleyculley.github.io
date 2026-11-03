@@ -1,4 +1,4 @@
-## <div align="center">Stargirl<div>
+## <div align="center">Stargirl</div>
 <div style="font-size: 25px; font-weight: bold;" align="center">by Jerry Spinelli</div>
 
 <div align="center">

@@ -1,4 +1,4 @@
-## <div align="center">Bowdoinham<div>
+## <div align="center">Bowdoinham</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Bruce_Lee.jpg" />¹

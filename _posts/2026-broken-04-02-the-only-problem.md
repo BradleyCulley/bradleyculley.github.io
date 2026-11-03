@@ -1,4 +1,4 @@
-## <div align="center">Death Is Terrible<div>
+## <div align="center">Death Is Terrible</div>
 
 <div align="center">
   <img style="height: 75%; width: 100%;" src="https://bradleyculley.github.io/images/Les-Voyagers-1.jpeg" />

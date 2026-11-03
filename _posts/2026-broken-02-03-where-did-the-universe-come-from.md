@@ -1,4 +1,4 @@
-## <div align="center">Where Did the Universe Come From?<div>
+## <div align="center">Where Did the Universe Come From?</div>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />

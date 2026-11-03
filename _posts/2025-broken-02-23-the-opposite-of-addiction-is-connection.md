@@ -1,4 +1,4 @@
-## <div align="center">The Opposite of Addiction is Connection<div>
+## <div align="center">The Opposite of Addiction is Connection</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Binghamton-Park-1.jpg" />

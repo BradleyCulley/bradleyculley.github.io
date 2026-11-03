@@ -1,4 +1,4 @@
-## <div align="center">The Labor of Hands<div>
+## <div align="center">The Labor of Hands</div>
 <div style="font-size: 25px; font-weight: bold;" align="center">by my dad, Denis Culley</div>
 
 [//]: # (<div align="center">)

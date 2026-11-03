@@ -1,4 +1,4 @@
-## <div align="center">Star Girl<div>
+## <div align="center">Star Girl</div>
 <div style="font-size: 25px; font-weight: bold;" align="center">by Carl Sagan</div><br/>
 
 <div align="center">

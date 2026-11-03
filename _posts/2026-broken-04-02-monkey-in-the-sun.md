@@ -1,4 +1,4 @@
-## <div align="center">Monkey in the Sun<div>
+## <div align="center">Monkey in the Sun</div>
 
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Bruce_Lee.jpg" />¹
