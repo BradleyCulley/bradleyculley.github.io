@@ -48,5 +48,5 @@ From Sam Fender's song "People Watching" (tinyurl.com/5n6t9chx):
 Above the rain-soaked Garden of Remembrance<br/>
 Kittiwakes etched your initials in the sky<br/>
 Oh, I fear for this crippled island and the turmoil of the times<br/>
-And I'll hold you in my heart till the day I die<br/>
+And I'll hold you in my heart till the day I die
 </blockquote>
