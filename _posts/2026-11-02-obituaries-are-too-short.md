@@ -39,14 +39,3 @@ She was a single mother who survived the Great Depression and raised two success
 She was a high-school dropout and self-made millionaire, earning her wealth through business ownership, stocks, and real estate.
 Above is a photo of me and her. She was awesome.
 </p>
-
-<p>
-From Sam Fender's song "People Watching" (tinyurl.com/5n6t9chx):
-</p>
-
-<blockquote>
-Above the rain-soaked Garden of Remembrance<br/>
-Kittiwakes etched your initials in the sky<br/>
-Oh, I fear for this crippled island and the turmoil of the times<br/>
-And I'll hold you in my heart till the day I die
-</blockquote>
