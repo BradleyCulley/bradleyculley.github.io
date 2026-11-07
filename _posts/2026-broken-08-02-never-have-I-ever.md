@@ -5,7 +5,7 @@
 <hr/>
 
 <p>
-Never have I ever been, nor even will I ever be, a middle-aged man who rides a nice-looking racing-style road bike with skinny tires and downward-curving handlebar handles on winding suburban roads wearing a spandex bodysuit and occasionally being non-fatally hit by a car.
+Never have I ever been, nor even will I ever be, a middle-aged man who rides a nice-looking racing-style road bike with skinny tires and downward-curving handlebar handles on winding suburban roads wearing a spandex bodysuit.
 </p>
 
 <p>
