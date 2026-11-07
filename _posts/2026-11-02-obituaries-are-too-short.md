@@ -26,7 +26,7 @@ Not enough, I say!
 </p>
 
 <p>
-I'm planning a series of essays about people of interest in my life, who have passed away: public figures, family, and so on.
+I'm planning a series of essays about people of interest in my life who have passed away: public figures, family, and so on.
 Each essay will be titled: <i>"Obituaries Are Too Short: [name of the deceased]"</i>.
 </p>
 
