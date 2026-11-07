@@ -36,6 +36,6 @@ She was a single mother who survived the Great Depression and raised two success
 </p>
 
 <p>
-She was a high-school dropout and self-made millionaire, earning her wealth through business ownership, stocks, and real estate.
+She was a high school dropout and self-made millionaire, earning her wealth through business ownership, stocks, and real estate.
 Above is a photo of me and her. She was awesome.
 </p>
