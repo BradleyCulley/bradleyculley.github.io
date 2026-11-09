@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Tsunami_by_hokusai_19th_century.jpg" />
     <div align="center">
-        <i>The Great Wave off Kanagawa (1831)</i>, by Katsushika Hokusai<sup>7</sup>
+        <i>The Great Wave off Kanagawa</i> (1831), by Katsushika Hokusai<sup>7</sup>
     </div>
 </div>
 
