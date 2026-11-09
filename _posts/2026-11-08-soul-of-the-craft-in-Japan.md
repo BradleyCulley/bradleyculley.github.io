@@ -28,12 +28,12 @@ The honing itself kind of becomes the goal; a fulfillment of the soul through th
 </p>
 
 Sources:
-<sup>1</sup>: https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th
-<sup>2</sup>: https://lifespan.io/topic/yamanaka-factors
-<sup>3</sup>: https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda
-<sup>4</sup>: https://www.timeout.com/tokyo/news/this-tokyo-pizzeria-is-home-to-some-of-the-worlds-best-pizza-030625
-<sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery
-<sup>6</sup>: https://www.metmuseum.org/art/collection/search/45434
-<sup>7</sup>: By <a href="https://en.wikipedia.org/wiki/en:Hokusai" class="extiw" title="w:en:Hokusai"><span title="Japanese artist (1760-1849)">Katsushika Hokusai</span></a> - <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" class="extiw" title="en:Metropolitan Museum of Art">Metropolitan Museum of Art</a>: entry <a rel="nofollow" class="external text" href="https://www.metmuseum.org/art/collection/search/45434">45434</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2798407">Link</a>
-<sup>8</sup>: https://www.niseko-cheese.co.jp/lineup_item/8
+<sup>1</sup>: https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th <br/>
+<sup>2</sup>: https://lifespan.io/topic/yamanaka-factors <br/>
+<sup>3</sup>: https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda <br/>
+<sup>4</sup>: https://www.timeout.com/tokyo/news/this-tokyo-pizzeria-is-home-to-some-of-the-worlds-best-pizza-030625 <br/>
+<sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery <br/>
+<sup>6</sup>: https://www.metmuseum.org/art/collection/search/45434 <br/>
+<sup>7</sup>: By <a href="https://en.wikipedia.org/wiki/en:Hokusai" class="extiw" title="w:en:Hokusai"><span title="Japanese artist (1760-1849)">Katsushika Hokusai</span></a> - <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" class="extiw" title="en:Metropolitan Museum of Art">Metropolitan Museum of Art</a>: entry <a rel="nofollow" class="external text" href="https://www.metmuseum.org/art/collection/search/45434">45434</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2798407">Link</a> <br/>
+<sup>8</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
 <sup>9</sup>: https://en.wikipedia.org/wiki/Sakura_cheese
