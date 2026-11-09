@@ -337,13 +337,6 @@ Perhaps Sam will fulfill your dreams, too. Be you writer or reader, it is very p
 
 <hr/>
 
-<p>
-It's said that the people you meet in life may not remember your name or exactly what you said, but they'll always remember how you made them feel. 
-In the same way, I don't remember every detail from My Side of the Mountain, but I'll always remember how it made me feel.
-</p>
-
-<hr/>
-
 Sources:<br/>
 ¹: <a target="_blank" href="https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg">https://en.wikipedia.org/wiki/File:My_Side_of_the_Mountain.jpg</a><br/>
 ²: <a target="_blank" href="https://en.wikipedia.org/wiki/My_Side_of_the_Mountain">https://en.wikipedia.org/wiki/My_Side_of_the_Mountain</a><br/>
