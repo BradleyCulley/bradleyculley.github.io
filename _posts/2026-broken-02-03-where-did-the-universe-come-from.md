@@ -4,7 +4,7 @@
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
 </div>
 <div align="center">
-Me in the '90s
+Me in the 1990s
 </div>
 
 <br/><br/>
@@ -18,6 +18,11 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <br/>
 <br/>
+
+<p>
+    <b>Where did the universe come from? The short answer is that nobody knows.
+    Some people say "The Big Bang", but I got my degree in astronomy and I can say for sure that the Big Bang just moves the problem, because nobody knows what caused the Big Bang.</b>
+</p>
 
 <hr/>
 
@@ -41,7 +46,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     From left to right, it means two photons (`γ`) create a proton (`p`) and an anti-proton (`¯p`).
-    It's a reaction that mostly happened within the first second after the Big Bang<sup>17</sup>.
+    It's a reaction that mostly happened during the first second after the Big Bang<sup>17</sup>.
 </p>
 
 <p>
@@ -68,7 +73,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </p>
 
 <p>
-    Below is a diagram showing the formation of the universe over time, from the Big Bang on the left to the present day on the right. Note the gray band that says "Particles form".
+    Below is a diagram showing the formation of the universe over time, from the Big Bang on the left to the present day on the right. Note the gray band toward the left side that says "Particles form".
 </p>
 
 <div align="center">
@@ -100,7 +105,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 </p>
 
 <p>
-    The part of the universe we can see is about 13.8 billion years old<sup>9</sup>, which is an oddly specific number.
+    The universe seems to be about 13.8 billion years old<sup>9</sup>, which is an oddly specific number.
     We have no idea what created it or where it came from.
 </p>
 
@@ -110,8 +115,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
     As I recall, the "ASTR 420 - Observational Cosmology" course didn't follow the book very closely.
     The professor usually used his own teaching materials.
     It was a wonderful class.
-    The professor, Dr. Marek Demiański, is a renowned cosmologist.
-    He was a great professor.
+    The professor, Dr. Marek Demiański, is a renowned cosmologist, and he was a great professor.
 </p>
 
 <div align="center">
@@ -123,13 +127,13 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 
 <p>
     Professor Demiański "co-led the international project preparing the Planck satellite mission."<sup>2</sup> 
-    The Planck satellite was a satellite that studied the Cosmic Microwave Background Radiation to understand the early universe<sup>3</sup>.
+    The Planck satellite was a satellite that studied something called the "Cosmic Microwave Background Radiation" to understand the early universe<sup>3</sup>.
 </p>
 
 <p>
     What's the Cosmic Microwave Background Radiation?
-    Well, something else wild is that protons, neutrons, and electrons had formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
-    That's also where the "Cosmic Microwave Background Radiation" came from<sup>13</sup>:
+    Well, something else wild is that protons, neutrons, and electrons had formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to be able to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
+    That's also when the "Cosmic Microwave Background Radiation" thing happened<sup>13</sup>:
 </p>
 
 <blockquote>
@@ -141,19 +145,20 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     In particular, the Planck satellite that Professor Demiański worked on measured what are called "anisotropies" in the Cosmic Microwave Background Radiation<sup>3</sup>.
-    An "anisotropy" is a variation in some quantity that depends on the direction in which one looks.<sup>10</sup>
+    An "anisotropy" is a variation that depends on the direction in which one looks.<sup>10</sup>
     If I look to the left, then I look to the right, things look different. 
 </p>
 
 <p>
     In this case, the thing that's different is the temperature of the Cosmic Microwave Background Radiation, depending on the direction in the sky in which you look<sup>3</sup>.
-    This is an image of the whole sky, produced by the Planck satellite, showing those differences in the Cosmic Microwave Background Radiation in different parts of the sky:<sup>5</sup>
+    Below is an image of the whole sky, produced by the Planck satellite, showing those temperature differences in the Cosmic Microwave Background Radiation in different parts of the sky<sup>5</sup>.
+    The different temperatures (the anisotropies) are visualized as different colors.
 </p>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Planck_CMBR.jpeg" />
     <div align="center">
-        <sup>5</sup>
+        the Cosmic Microwave Background Radiation<sup>5</sup>
     </div>
 </div>
 
@@ -161,21 +166,20 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     In cosmology, you often see the phrase "homogeneous and isotropic". 
-    You can see that phrase in the final block quote included in this essay, for example.
     "Isotropic" means "doesn't have anisotropies": no variations based on the direction in which one looks.<sup>6</sup> 
     "Homogeneous" means that something doesn't vary based on the <i>position</i> at which one looks for it<sup>6</sup>: there isn't more of it "over there" than there is "right here", so to speak.
 </p>
 
 <p>
     On a large scale, is the universe roughly homogeneous and isotropic? 
-    We actually don't know! 
+    We don't know! 
     It's hotly debated by astrophysicists to this day.<sup>11</sup>
 </p>
 
 <p>
-    It's hard to know what happened in the early universe, which makes the field especially interesting/fun.
-    It's like being a crime scene investigator, because you can only see the aftermath of stuff.
-    Scientists try to understand the early universe with things like looking at the Cosmic Microwave Background Radiation and using particle accelerators.
+    It's hard to know what happened in the early universe, which makes the field particularly fun.
+    It's like being a crime scene investigator because you can only see the aftermath of stuff.
+    Scientists try to understand the early universe with things like the Cosmic Microwave Background Radiation and particle accelerators.
 </p>
 
 <hr/>
@@ -183,7 +187,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <p>
     When it comes to cosmology, you could say "who cares?" 
     There are lots of practical problems here on Earth.
-    But I think it's worthwhile. It's the truth!
+    But I think it's worthwhile. It's the truth, after all!
     Also, there's other stuff we could ignore first, like celebrity gossip.
 </p>
 
@@ -201,8 +205,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 </p>
 
 <p>
-    On that topic, there was this one particularly memorable moment from class.
-    One time, just before starting to lecture on a topic, Professor Demiański paused for a moment.
+    There was this one time in class, when, just before starting to lecture on a topic, Professor Demiański paused for a moment.
     In that moment, I sensed from him a feeling of great satisfaction with his work.
     My father used to talk about how The Beatles would laugh sometime while they performed, because they were having so much fun doing what they loved.
 </p>
@@ -211,7 +214,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 <li>
 <p>
     The early universe had an extremely high level of structure/organization/evenness.
-    It was extremely homogeneous and isotropic.
+    It was very homogeneous and isotropic.
 </p>
 
 <p>
@@ -231,41 +234,9 @@ TODO: talk about the size of the universe - before and after inflation: the grap
 </p>
 
 <p>
-    Where did the rules themselves (the laws of physics) come from?
+    Where did the rules themselves—the laws of physics—come from?
     What's going on here?
 </p>
-</li>
-
-<li>
-<p>
-    Another question from the class and/or the book was "where did <i>any</i> disorder come from?".
-    The early universe seems to have been not just fairly orderly, but actually <i>perfectly</i> orderly.
-    Like a dozen eggs perfectly evenly spaced in an egg carton, the radiation was very evenly distributed in space. --TODO check and cite
-</p>
-
-<p>
-    If that was the case, how did we get "clumping" of matter later on?
-    That's to say, why is there more stuff (e.g. a galaxy) "over here" and "less stuff" (e.g. empty space) over there.
-    If it was <i>perfectly</i> orderly, there'd be nothing (e.g. gravity, electrostatic forces, magnetic forces) to deform it out of that perfect equilibrium.
-    Like a pencil balanced on its eraser on a windless day, it would just stay there. --TODO: maybe remove this
-</p>
-
-<p>
-    Physicists think that we got disorder (anisotropy and inhomogeneity) from quantum fluctations in the very early universe.
-    Those quantum fluctuations created some uneveness<sup>15</sup>.
-    The idea is that what is now the <i>entire observable universe</i> used to be so small that quantum effects were significant<sup>15</sup>.
-    
-<blockquote>
-<p>
-    At the very beginning, the Universe underwent a rapid inflation that lasted only until 0.00000000000000000000000000000001 seconds (10-32 seconds). After inflation the size of the Universe had increased by a factor of about 10<sup>30</sup> (1 followed by 30 zeroes – an enormous number!). Minute, random quantum fluctuations in the structure of the Universe that were present at the moment when inflation started, were amplified up to cosmologically large scales during inflation. Now the Universe comprised significantly large regions with slightly different properties from one to the other: in particular, the density of matter was slightly larger in some regions of the Universe than it was in others.
-</p>
-
-<p>
-    The slightly denser regions eventually grew increasingly denser, as gravity caused them to draw more and more matter from the surroundings. These primordial fluctuations in the density of matter in the early Universe are the seeds of the rich network of cosmic structure – stars, galaxies, galaxy clusters – that we observe today.<sup>16</sup>
-</p>
-</blockquote>
-
-In other words, everything in our current observable universe used to around the size of a single atom (!).--TODO check and cite
 </li>
 
 <li>

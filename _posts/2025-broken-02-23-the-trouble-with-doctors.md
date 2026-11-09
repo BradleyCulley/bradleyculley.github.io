@@ -93,3 +93,8 @@ Sources:<br/>
 ²: <a href="https://en.wikipedia.org/wiki/Carl_Sagan">https://en.wikipedia.org/wiki/Carl_Sagan](https://en.wikipedia.org/wiki/Carl_Sagan</a><br/>
 ³: <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">https://en.wikipedia.org/wiki/The_Demon-Haunted_World</a><br/>
 ⁴: <a href="https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/">https://www.washingtonpost.com/archive/entertainment/books/1996/03/17/the-new-age-of-quackery/8fbd3136-95af-4c14-83ce-f079df184f3a/</a><br/>
+
+
+Add to the trouble with doctors that bad doctors can and often do avoid any repercussions for their issues for a disturbingly long time and sometimes forever.
+The system is quite stacked in the favor of doctors when it comes to malpractice for example. 
+Doctors tend to be given soft exits, moving to another healthcare network or hospital network moving to another state quietly leaving practice simply losing their license but not going to jail, or just zero repercussions, and so on.
