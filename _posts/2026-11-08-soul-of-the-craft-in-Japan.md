@@ -31,8 +31,6 @@ A fulfillment of the soul through the soul of the craft.
 
 <hr/>
 
-<br/>
-
 Sources:<br/>
 <sup>1</sup>: https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th <br/>
 <sup>2</sup>: https://lifespan.io/topic/yamanaka-factors <br/>
