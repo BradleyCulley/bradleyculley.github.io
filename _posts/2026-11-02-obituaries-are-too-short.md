@@ -4,8 +4,6 @@
   <img src="https://bradleyculley.github.io/images/Nora-Culley.jpg" />
 </div>
 
-<hr/>
-
 <p>
 As the saying goes, "history is written by the writers."
 </p>
