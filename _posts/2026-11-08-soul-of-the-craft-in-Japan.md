@@ -23,7 +23,7 @@ There are many other examples: in physics, mathematics, literature, and more.
 
 <p>
 The Japanese idea of Shokunin Kishitsu (職人気質)—something like "craftsperson spirit"—might be at least part of the reason<sup>5</sup>.
-Dedicating one's life to honing a craft, no matter how good you get.
+The craftsperson spirit is about dedicating one's life to honing a craft, no matter how good you get.
 A fulfillment of the soul through the soul of the craft.
 </p>
 
