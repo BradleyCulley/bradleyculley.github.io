@@ -105,9 +105,8 @@
 
 <p>
     Consider the soldier seeing their friend killed by an artillery blast.
-    Or the wife who dies from old age and then her husband dies a week later, seemingly from heartbreak.
     Sometimes the angel wins the wrestling match.
-    This is recognized by psychologists as what's called "moral injury".<sup>14</sup>
+    Psychologists call this phenomenon "moral injury".<sup>14</sup>
     And that's the hole at the center of the universe.
 </p>
 
@@ -222,6 +221,11 @@ Sources:<br/>
 -----
 
 backup pieces:
+
+Leo Charles Shaw saying now he's interested in everything.
+The idea of Dan Millman from with the peaceful warrior saying that you find the love in what you do.
+There is love to be found in even seemingly loveless topics like abstract mathematics and in fact paradoxically sometimes the most love in topics that initially seem loveless.
+
 <p>
     My favorite video artist created a great short film that explores the same ideas as mentality-and-materiality.
 </p>
