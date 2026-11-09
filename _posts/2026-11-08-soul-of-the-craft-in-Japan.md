@@ -28,8 +28,6 @@ The craftsperson spirit is about dedicating one's life to honing a craft, no mat
 A fulfillment of the soul through the soul of the craft.
 </p>
 
-<br/>
-
 <hr/>
 
 Sources:<br/>
