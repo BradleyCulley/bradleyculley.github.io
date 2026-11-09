@@ -27,7 +27,10 @@ Dedicating one's life to honing a craft, no matter how good you get.
 The honing itself kind of becomes the goal; a fulfillment of the soul through the soul of the craft.
 </p>
 
-Sources:
+<br/>
+<br/>
+
+Sources:<br/>
 <sup>1</sup>: https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th <br/>
 <sup>2</sup>: https://lifespan.io/topic/yamanaka-factors <br/>
 <sup>3</sup>: https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda <br/>
