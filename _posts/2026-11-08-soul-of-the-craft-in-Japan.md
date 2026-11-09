@@ -7,8 +7,6 @@
     </div>
 </div>
 
-<hr/>
-
 <p>
 Japanese cheesemakers in Hokkaido, such as "Niseko Cheese Factory", consistently rank among the best in the world<sup>8,9</sup>.
 Japanese pizzerias are also consistently ranked among the best in the world.
@@ -28,6 +26,9 @@ A fulfillment of the soul through the soul of the craft.
 </p>
 
 <br/>
+
+<hr/>
+
 <br/>
 
 Sources:<br/>
