@@ -2,9 +2,9 @@
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/scope_time.jpg" />
-</div>
-<div align="center">
-Me in the 1990s
+    <div align="center">
+        Me in the 1990s
+    </div>
 </div>
 
 <br/><br/>
