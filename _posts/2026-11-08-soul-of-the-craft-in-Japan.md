@@ -12,7 +12,7 @@
 <p>
 Japanese cheesemakers in Hokkaido, such as "Niseko Cheese Factory", consistently rank among the best in the world<sup>2,3</sup>.
 Japanese pizzerias also rank among the best in the world.
-Tokyo's "The Pizza Bar on 38th" was ranked 2nd globally according to one ranking in 2025<sup>4</sup>, and "Pizza Marumo", also in Tokyo, was ranked 3rd globally by another the same year<sup>5</sup>.
+Tokyo's "The Pizza Bar on 38th" was ranked 2nd globally according to one ranking in 2025<sup>4</sup>, and "Pizza Marumo", also in Tokyo, was ranked 3rd globally in another ranking the same year<sup>5</sup>.
 </p>
 
 <p>
