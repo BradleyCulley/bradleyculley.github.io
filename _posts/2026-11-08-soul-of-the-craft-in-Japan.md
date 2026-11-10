@@ -1,9 +1,9 @@
 ## <div align="center">Soul of the Craft in Japan</div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Daigoji-Temple.jpg" />
+  <img src="https://bradleyculley.github.io/images/Mount-Fuji-and-Lake-Motosu.jpg" />
     <div align="center">
-        <i>Daigoji Temple</i> (1953), by by Asano Takeji<sup>6</sup>
+        <i>Mount Fuji and Lake Motosu</i>, by Tsuchiya Koitsu (1934)<sup>8</sup>
     </div>
 </div>
 
@@ -27,6 +27,13 @@ The craftsperson spirit is about dedicating one's life to honing a craft, no mat
 A fulfillment of the soul through the soul of the craft.
 </p>
 
+<div align="center">
+  <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
+    <div align="center">
+        <sup>9</sup>
+    </div>
+</div>
+
 <hr/>
 
 Sources:<br/>
@@ -37,6 +44,6 @@ Sources:<br/>
 <sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery <br/>
 <sup>6</sup>: https://ukiyo-e.org/image/artelino/18033g1 <br/>
 <sup>7</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
-<sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese
-<sup>8</sup>: https://ukiyo-e.org/image/aggv/dscn1732
-<sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese
+<sup>8</sup>: https://ukiyo-e.org/image/artelino/15605g1
+<sup>9</sup>: https://ukiyo-e.org/image/aggv/dscn1732
+
