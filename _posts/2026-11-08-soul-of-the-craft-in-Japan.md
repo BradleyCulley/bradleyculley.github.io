@@ -17,12 +17,12 @@ Tokyo's "The Pizza Bar on 38th" was ranked 2nd globally according to one ranking
 
 <p>
 The core technology that will probably cure aging, four genes known as the "Yamanaka factors", was discovered by Dr. Shinya Yamanaka and Dr. Kazutoshi Takahashi at Kyoto University in Kyoto, Japan<sup>2</sup>.
-It's the technology behind the first-ever FDA-cleared human clinical trial of age-reversal technology, which started in 2026<sup>3</sup>.
+It's the technology behind the first-ever FDA-cleared human clinical trial of age-reversal technology, which started in June 2026<sup>3,10</sup>.
 There are many other examples: in physics, mathematics, literature, and more.
 </p>
 
 <p>
-The Japanese idea of Shokunin Kishitsu (職人気質)—something like "craftsperson spirit"—might be at least part of the reason<sup>5</sup>.
+The Japanese idea of Shokunin Kishitsu (職人気質)—something like "craftsperson spirit"—might be part of the reason<sup>5</sup>.
 The craftsperson spirit is about dedicating one's life to honing a craft, no matter how good you get.
 A fulfillment of the soul through the soul of the craft.
 </p>
@@ -41,3 +41,4 @@ Sources:<br/>
 <sup>7</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
 <sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese
 <sup>9</sup>: https://ukiyo-e.org/image/aggv/dscn1732
+<sup>10</sup>: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
