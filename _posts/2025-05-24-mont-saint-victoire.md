@@ -17,7 +17,7 @@ In a college class in 2009 I wrote two poems about a painting within a series of
 </p>
 
 <p>
-Below are the poems, with slight updates. The photo above is one of the paintings in the series. 
+Below are the two poems, with slight updates. The photo above is one of the paintings in the series. 
 </p>
 
 <hr/>
