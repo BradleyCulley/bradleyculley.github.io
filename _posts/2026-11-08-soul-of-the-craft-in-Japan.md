@@ -27,6 +27,8 @@ The craftsperson spirit is about dedicating one's life to honing a craft, no mat
 A fulfillment of the soul through the soul of the craft.
 </p>
 
+<br/>
+
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
     <div align="center">
