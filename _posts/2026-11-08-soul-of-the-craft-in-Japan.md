@@ -16,7 +16,7 @@ Tokyo's "The Pizza Bar on 38th" was ranked 2nd globally according to one ranking
 </p>
 
 <p>
-The core technology that will probably cure aging, four genes known as the "Yamanaka factors", was discovered by Dr. Shinya Yamanaka and Dr. Kazutoshi Takahashi at Kyoto University in Kyoto, Japan<sup>2</sup>.
+The core technology that will probably cure aging, four genes known as the "Yamanaka factors", were discovered by Dr. Shinya Yamanaka and Dr. Kazutoshi Takahashi at Kyoto University in Kyoto, Japan<sup>2</sup>.
 It's the technology behind the first-ever FDA-cleared human clinical trial of age-reversal technology, which started in June 2026<sup>3,10</sup>.
 There are many other examples: in physics, mathematics, literature, and more.
 </p>
