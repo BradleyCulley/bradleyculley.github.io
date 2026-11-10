@@ -219,6 +219,7 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     It was also super hot.
+    TODO: rework this section based on the temperatures here: https://www.astro.ucla.edu/~wright/BBhistory.html#:~:text=Universe%20grows%20and%20cools%20until%201%20second,of%20the%20deuterons%20combine%20to%20make%20helium.
     Immediately after the big bang, the temperature of the universe was around 100 million times hotter than a trillion times a trillion degrees<sup>13</sup>.
     One second later, the temperature was about 100 billion degrees.
 </p>
