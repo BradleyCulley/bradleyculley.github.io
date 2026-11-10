@@ -1,9 +1,9 @@
 ## <div align="center">Soul of the Craft in Japan</div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Mount-Fuji-and-Lake-Motosu.jpg" />
+  <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
     <div align="center">
-        <i>Mount Fuji and Lake Motosu</i>, by Tsuchiya Koitsu (1934)<sup>8</sup>
+        <i>Hakone Lake</i>, by Tsuchiya Koitsu (1938)<sup>8</sup>
     </div>
 </div>
 
@@ -46,6 +46,4 @@ Sources:<br/>
 <sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery <br/>
 <sup>6</sup>: https://ukiyo-e.org/image/artelino/18033g1 <br/>
 <sup>7</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
-<sup>8</sup>: https://ukiyo-e.org/image/artelino/15605g1
-<sup>9</sup>: https://ukiyo-e.org/image/aggv/dscn1732
-
+<sup>8</sup>: https://ukiyo-e.org/image/aggv/dscn1732
