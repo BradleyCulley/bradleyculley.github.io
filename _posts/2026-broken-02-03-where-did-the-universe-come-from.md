@@ -133,7 +133,7 @@ An Introduction to Modern Cosmology, 2nd Edition, by Andrew Liddle<sup>1</sup>
 <p>
     What's the Cosmic Microwave Background Radiation?
     Well, something else wild is that protons, neutrons, and electrons had formed by about one second after the Big Bang<sup>12</sup>, but it took about 380,000 years for the universe to cool down enough for electrons to be able to stick to nuclei and form the first atoms (e.g. hydrogen, helium, and lithium)<sup>13</sup>.
-    That's also when the "Cosmic Microwave Background Radiation" thing happened<sup>13</sup>:
+    That's also when the "Cosmic Microwave Background Radiation" happened<sup>13</sup>:
 </p>
 
 <blockquote>
@@ -224,7 +224,12 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 </p>
 
 <p>
-TODO: talk about the size of the universe - before and after inflation: the grape/beachball/room size, the post-inflation size, etc.
+    TODO: talk about the size of the universe - before and after inflation: the grape/beachball/room size, the post-inflation size, etc.
+    These are great sources for that:
+    https://www.physicsoftheuniverse.com/topics_bigbang_inflation.html
+    https://www.ctc.cam.ac.uk/outreach/origins/inflation_zero.php
+    Use this photo:
+    https://www.ctc.cam.ac.uk/images/contentpics/cp_inflation_history.jpg
 </p>
 
 <p>
@@ -257,14 +262,15 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
     In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup>, which he calls "Hawking points"<sup>19</sup>, in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
 </p>
 
-These are images of the Cosmic Microwave Background Radiation, from a study of the alleged Hawking points<sup>20</sup>:<br/><br/>
+<p>
+    These are images of the Cosmic Microwave Background Radiation, from a study of the alleged Hawking points<sup>20</sup>:
+</p>
 <div align="center">
   <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
 </div>
 <div align="center">
   <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_2.png" />
 </div>
-
 
 <p>
     Professor Demiański taught us about Penrose's Cycles of Time theory the only time we had class outdoors.
@@ -292,21 +298,20 @@ These are images of the Cosmic Microwave Background Radiation, from a study of t
 
 <li>
 <p>
-Despite all the research efforts directed at this, we have absolutely no idea where the universe came from.
-We don't know why there's something rather than nothing. 
+    Despite all the research efforts directed at this, we have absolutely no idea where the universe came from.
+    We don't know why there's something rather than nothing. 
 </p>
 
 <p>
-It may be, like with the Cycles of Time, that the universe has always existed: it's age is infinite. 
-That changes the problem but there's kind of still the question: "why is there a universe that's always existed".
+    It may be, like with the Cycles of Time, that the universe has always existed: it's age is infinite. 
+    That changes the problem but there's kind of still the question: "why is there a universe that's always existed".
 </p>
 
 <p>
-A former coworker of mine did a bachelor's degree in physics, specializing in quantum physics.
-When I asked him why he decided to study that, he said he wanted to know where all this energy came from.
-Then he said something like that he never got an answer.
+    A former coworker of mine did a bachelor's degree in physics, specializing in quantum physics.
+    When I asked him why he decided to study that, he said he wanted to know where all this energy came from.
+    Then he said something like that he never got an answer.
 </p>
-
 </li>
 </ol>
 
