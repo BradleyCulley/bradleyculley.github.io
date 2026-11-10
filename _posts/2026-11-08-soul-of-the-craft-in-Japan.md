@@ -29,13 +29,6 @@ A fulfillment of the soul through the soul of the craft.
 
 <br/>
 
-<div align="center">
-  <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
-    <div align="center">
-        <sup>9</sup>
-    </div>
-</div>
-
 <hr/>
 
 Sources:<br/>
