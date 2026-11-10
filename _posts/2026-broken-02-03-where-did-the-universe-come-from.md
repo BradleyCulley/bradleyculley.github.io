@@ -254,19 +254,17 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
 </blockquote>
 
 <p>
-    In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup> in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
-
-
-    These are images of the sky, from a study of the alleged rings in the afterglow of the Big Bang³:<br/><br/>
-    <div align="center">
-      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
-    </div>
-    <div align="center">
-      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_2.png" />
-      <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
-    </div>
-TODO: add an image of the proposed concentric circles.
+    In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup>, which he calls "Hawking points"<sup>19</sup>, in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
 </p>
+
+These are images of the Cosmic Microwave Background Radiation, from a study of the alleged Hawking points<sup>20</sup>:<br/><br/>
+<div align="center">
+  <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
+</div>
+<div align="center">
+  <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_2.png" />
+</div>
+
 
 <p>
     Professor Demiański taught us about Penrose's Cycles of Time theory the only time we had class outdoors.
@@ -343,21 +341,23 @@ Sources:<br/>
 <sup>2</sup>: https://pl.wikipedia.org/wiki/Marek_Demia%C5%84ski<br/>
 <sup>3</sup>: https://en.wikipedia.org/wiki/Planck_(spacecraft)<br/>
 <sup>4</sup>: Liddle, A. (2003). An Introduction to Modern Cosmology (2nd ed.). Wiley. <br/>
-<sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a>
-<sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015
-<sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg
-<sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a>
-<sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe
-<sup>10</sup>: https://en.wikipedia.org/wiki/Anisotropy
-<sup>11</sup>: https://en.wikipedia.org/wiki/Cosmological_principle
-<sup>12</sup>: https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html
-<sup>13</sup>: https://science.nasa.gov/universe/overview
-<sup>14</sup>: https://lco.global/spacebook/cosmology/early-universe/
-<sup>15</sup>: https://ned.ipac.caltech.edu/level5/March03/Lineweaver/Lineweaver5.html
-<sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation
-<sup>17</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html
-<sup>18</sup>: https://en.wikipedia.org/wiki/Baryogenesis
-<sup>19</sup>: https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology
+<sup>5</sup>: By ESA and the Planck Collaboration - <a rel="nofollow" class="external text" href="https://noirlab.edu/public/images/CMB">Cosmic Microwave Background</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130789180">Link</a> <br/>
+<sup>6</sup>: SuperCiocia (https://physics.stackexchange.com/users/37677/superciocia), What is difference between homogeneous and isotropic material?, URL (version: 2014-12-13): https://physics.stackexchange.com/q/153015 <br/>
+<sup>7</sup>: https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia16/pia16876/PIA16876.jpg <br/>
+<sup>8</sup>: Autorstwa <a href="//commons.wikimedia.org/wiki/User:Borys_Kozielski" title="User:Borys Kozielski">Borys Kozielski</a> - <span class="int-own-work" lang="pl">Praca własna</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113755256">Link</a> <br/>
+<sup>9</sup>: https://en.wikipedia.org/wiki/Age_of_the_universe <br/>
+<sup>10</sup>: https://en.wikipedia.org/wiki/Anisotropy <br/>
+<sup>11</sup>: https://en.wikipedia.org/wiki/Cosmological_principle <br/>
+<sup>12</sup>: https://imagine.gsfc.nasa.gov/educators/elements/imagine/02.html <br/>
+<sup>13</sup>: https://science.nasa.gov/universe/overview <br/>
+<sup>14</sup>: https://lco.global/spacebook/cosmology/early-universe/ <br/>
+<sup>15</sup>: https://ned.ipac.caltech.edu/level5/March03/Lineweaver/Lineweaver5.html <br/>
+<sup>16</sup>: https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation <br/>
+<sup>17</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html <br/>
+<sup>18</sup>: https://en.wikipedia.org/wiki/Baryogenesis <br/>
+<sup>19</sup>: https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology <br/>
+<sup>20</sup>: https://arxiv.org/pdf/1909.09672 <br/>
+
 TODO cite the third edition of the book
 
 This is a really good source: https://lco.global/spacebook/cosmology/early-universe/
