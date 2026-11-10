@@ -16,8 +16,8 @@ Tokyo's "The Pizza Bar on 38th" was ranked 2nd globally according to one ranking
 </p>
 
 <p>
-The core technology that will probably cure aging, four genes known as the "Yamanaka factors", were discovered by Dr. Shinya Yamanaka and Dr. Kazutoshi Takahashi at Kyoto University in Kyoto, Japan<sup>2</sup>.
-It's the technology behind the first-ever FDA-cleared human clinical trial of age-reversal technology, which started in June 2026<sup>3,10</sup>.
+The core technology that will probably cure aging, four genes known as the "Yamanaka factors", was discovered by Dr. Shinya Yamanaka and Dr. Kazutoshi Takahashi at Kyoto University in Kyoto, Japan<sup>2</sup>.
+It's the technology behind the first-ever FDA-cleared human clinical trial of age-reversal technology, which started in June 2026<sup>3,6</sup>.
 There are many other examples: in physics, mathematics, literature, and more.
 </p>
 
@@ -37,8 +37,7 @@ Sources:<br/>
 <sup>3</sup>: https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda <br/>
 <sup>4</sup>: https://www.timeout.com/tokyo/news/this-tokyo-pizzeria-is-home-to-some-of-the-worlds-best-pizza-030625 <br/>
 <sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery <br/>
-<sup>6</sup>: https://ukiyo-e.org/image/artelino/18033g1 <br/>
+<sup>6</sup>: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/ <br/>
 <sup>7</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
 <sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese <br/>
 <sup>9</sup>: https://ukiyo-e.org/image/aggv/dscn1732 <br/>
-<sup>10</sup>: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
