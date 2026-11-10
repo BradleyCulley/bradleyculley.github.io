@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
     <div align="center">
-        <i>Hakone Lake</i>, by Tsuchiya Koitsu (1938)<sup>1</sup>
+        <i>Hakone Lake</i>, by Tsuchiya Koitsu<sup>1</sup>
     </div>
 </div>
 
