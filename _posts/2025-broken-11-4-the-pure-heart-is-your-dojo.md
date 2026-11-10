@@ -185,6 +185,10 @@ I remember thinking something like "he just <i>looks</i> like scum".
 You can feel the uneasiness in the photo.
 </p>
 
+<p>
+On the other hand, this is Jakub Kulik, who stopped a mass shooter in Poland in November 2026: https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/896435781_1629027015371777_4897688910586576918_n.png?stp=dst-jpg_tt6&cstp=mx1248x1584&ctp=s1080x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=J3ZfrNo1XNYQ7kNvwEtVzTD&_nc_oc=Adp7iwHRLZ3Yz396XubfVxVvZuxCP4jssCVC9a9b4K8yGrt0VAYfNRb547ThEPbO_RwMlwmZbFW5ttfQAD1RkkIi&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=EAFXBFTrVnqcZ8bGhrshlg&_nc_ss=7b2a8&oh=00_AQQWkbmyALSXqSwzKHi48Wdnw6aj9VGPjO5FkDSCUtRpgA&oe=6AF84E24.
+</p>
+
 5. Applies to institutions, cultures, and countries.
 There are some countries and cultures that have never really done anything crazy.
 Never invaded, conquered, or colonized anyone.
