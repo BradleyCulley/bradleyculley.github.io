@@ -20,8 +20,6 @@ In a college class in 2009 I wrote two poems about a painting within a series of
 Below are the two poems, with slight updates. The photo above is one of the paintings in the series. 
 </p>
 
-<hr/>
-
 <i>First poem:</i><br/>
 
 I wake up this morning<br/>
