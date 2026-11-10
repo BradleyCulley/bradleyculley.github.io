@@ -1,9 +1,9 @@
 ## <div align="center">Soul of the Craft in Japan</div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Hakone-Lake.jpg" />
+  <img src="https://bradleyculley.github.io/images/Drizzling-Rain-at-Nijyo-Castle.jpg" />
     <div align="center">
-        <i>Hakone Lake</i>, by Tsuchiya Koitsu<sup>1</sup>
+        <i>Drizzling Rain at Nijyo Castle</i>, by Asano Takeji (1953)<sup>1</sup>
     </div>
 </div>
 
@@ -32,7 +32,7 @@ A fulfillment of the soul through the soul of the craft.
 <hr/>
 
 Sources:<br/>
-<sup>1</sup>: https://ukiyo-e.org/image/aggv/dscn1732 <br/>
+<sup>1</sup>: https://ukiyo-e.org/image/artelino/12133g1 <br/>
 <sup>2</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
 <sup>3</sup>: https://en.wikipedia.org/wiki/Sakura_cheese <br/>
 <sup>4</sup>: https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th <br/>
