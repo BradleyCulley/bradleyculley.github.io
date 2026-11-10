@@ -255,6 +255,16 @@ Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinar
 
 <p>
     In particular, Sir Penrose claims that there are "concentric circles"<sup>19</sup> in the Cosmic Microwave Background Radiation that are there because of the prior universe<sup>19</sup>.
+
+
+    These are images of the sky, from a study of the alleged rings in the afterglow of the Big Bang³:<br/><br/>
+    <div align="center">
+      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_1.png" />
+    </div>
+    <div align="center">
+      <img style="width: 30vw;" src="https://bradleyculley.github.io/images/alleged_rings_in_the_CMB_2.png" />
+      <div style="font-size: 14px; font-style: italic;">Wrong, but kind of cool</div>
+    </div>
 TODO: add an image of the proposed concentric circles.
 </p>
 

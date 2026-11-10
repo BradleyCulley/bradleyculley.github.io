@@ -1,9 +1,9 @@
 ## <div align="center">Soul of the Craft in Japan</div>
 
 <div align="center">
-  <img src="https://bradleyculley.github.io/images/Tsunami_by_hokusai_19th_century.jpg" />
+  <img src="https://bradleyculley.github.io/images/Daigoji-Temple.jpg" />
     <div align="center">
-        <i>The Great Wave off Kanagawa</i> (1831), by Katsushika Hokusai<sup>6</sup>
+        <i>Daigoji Temple</i> (1953), by by Asano Takeji<sup>6</sup>
     </div>
 </div>
 
@@ -35,6 +35,8 @@ Sources:<br/>
 <sup>3</sup>: https://lifespan.io/first-human-cellular-reprogramming-trial-cleared-by-the-fda <br/>
 <sup>4</sup>: https://www.timeout.com/tokyo/news/this-tokyo-pizzeria-is-home-to-some-of-the-worlds-best-pizza-030625 <br/>
 <sup>5</sup>: https://presentationzen.com/blog/shokunin-kishitsu-and-the-5-elements-of-mastery <br/>
-<sup>6</sup>: By <a href="https://en.wikipedia.org/wiki/en:Hokusai" class="extiw" title="w:en:Hokusai"><span title="Japanese artist (1760-1849)">Katsushika Hokusai</span></a> - <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" class="extiw" title="en:Metropolitan Museum of Art">Metropolitan Museum of Art</a>: entry <a rel="nofollow" class="external text" href="https://www.metmuseum.org/art/collection/search/45434">45434</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=2798407">Link</a> <br/>
+<sup>6</sup>: https://ukiyo-e.org/image/artelino/18033g1 <br/>
 <sup>7</sup>: https://www.niseko-cheese.co.jp/lineup_item/8 <br/>
+<sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese
+<sup>8</sup>: https://ukiyo-e.org/image/aggv/dscn1732
 <sup>8</sup>: https://en.wikipedia.org/wiki/Sakura_cheese

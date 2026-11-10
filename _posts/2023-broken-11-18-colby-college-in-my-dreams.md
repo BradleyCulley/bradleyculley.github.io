@@ -7,6 +7,23 @@
 
 _______________________________________________
 
+Photos of nice Japanese artwork:
+
+https://ukiyo-e.org/image/artelino/18033g1
+https://ukiyo-e.org/image/aggv/dscn1732
+https://ukiyo-e.org/image/aggv/dscn1735
+https://ukiyo-e.org/image/artelino/15605g1
+https://ukiyo-e.org/image/artelino/15605g1
+https://ukiyo-e.org/image/artelino/12133g1
+https://ukiyo-e.org/image/artelino/13433g1
+https://ukiyo-e.org/image/artelino/11736g1
+
+https://ukiyo-e.org/image/artelino/15692g1
+https://ukiyo-e.org/image/artelino/16675g1
+https://ukiyo-e.org/image/artelino/16675g1
+https://ukiyo-e.org/image/jaodb/Ito_Takashi-No_Series-Tateyama_Mountains_from_White_Horse_Peak-00027183-030919-F06
+
+
 The semester at Colby
 
 -I didn't add very much. I mostly subtracted things.
