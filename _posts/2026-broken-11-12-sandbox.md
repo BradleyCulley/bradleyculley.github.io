@@ -28,7 +28,7 @@ He says the clock hands on the wristwatch ran forward in his youth, and now as a
 
 <p>
 For me, that directionality is much determined by the life of the mind.
-The backwards temporality is often in relation to subjects like these:
+The backwards temporality often lives in relation to subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
