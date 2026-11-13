@@ -1,7 +1,7 @@
 ## <div align="center">Sandbox</div>
 
 <div align="center">
-  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Me_on_a_roof.jpg" />
+  <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Me-and-a-log-pile.jpg" />
 </div>
 <div align="center">
 Me as a kid
