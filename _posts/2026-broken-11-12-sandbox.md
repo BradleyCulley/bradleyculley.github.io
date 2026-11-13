@@ -18,7 +18,7 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 
 <p>
 Many years ago, I read a poem by the poet Wesley McNair (who as an aside is from the small town in Maine in which I grew up—just down the road actually).
-I can't seem to find the specific poem, but the idea was that it was as an adult that he really started to enjoy life.
+I can't seem to find the specific poem, but the idea of the poem was that it was only as an adult that he really started to enjoy life.
 </p>
 
 <p>
@@ -41,7 +41,7 @@ The backwards temporality is often in relation to subjects like these:
     <li>NP-completeness</li>
     <li>Gödel incompleteness</li>
     <li>Tuberculosis vaccines</li>
-    <li>Condensed plain-language complete-certainty answers to all important theological questions. Especially and in particular, the answer to the question of theodicy: why is there evil in the world?</li>
+    <li>Condensed plain-language complete-certainty answers to all the important theological questions. Especially and in particular, the answer to the question of theodicy: why does God permit the existence of evil?</li>
     <li>What Dr. Paul Farmer called "structural violence" (deciding between food and medicine, for example), the preconditions of war, and unequal access to health care</li>
     <li>Quantum gravity</li>
     <li>Big Bang cosmology: nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
