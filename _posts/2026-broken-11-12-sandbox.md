@@ -17,31 +17,36 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-As a kid listening to National Public Radio (NPR), I thought shows like "This American Life" were "warming up" with stories like ones about someone setting up a little indie theater in a mostly-deteriorated little rural American town, so as to resist the seemingly inevitable decline of said little rural town.
+Many years ago, I read a poem by the poet Wesley McNair (who as an aside is from the small town in Maine in which I grew up—just down the road actually).
+I can't seem to find the specific poem, but the idea was that it was as an adult that he really started to enjoy life.
 </p>
 
 <p>
-I assumed that after the warm-ups, they'd tackle the "big picture" items.
-The big picture items, some of which I knew about then and some of which I learned about later, would include:
+In the poem, McNair uses the visual metaphor of a wristwatch. 
+He says the clock hands on the wristwatch ran forward in his youth, and now as an adult he looks down and sees them running backwards, giving back the time he "sat through" in his youth.   
 </p>
 
+<p>
+For me, that directionality is much determined by the life of the mind.
+The fire of backwards temporality is in a proximity to subjects like these:
+</p>
 <ul>
-    <li>Retroviral vector-based gene therapy</li>
     <li>The Riemann hypothesis</li>
+    <li>Retroviral vector-based gene therapy</li>
     <li>American re-industrialization</li>
     <li>Biohacking, trans-humanism, longevity, cryonics, and immortality</li>
     <li>Sub-nucleonic structure (what's inside a quark?)</li>
     <li>Optimal socio-political-economic structuring (Norway?)</li>
-    <li>Quantum electrodynamics, and more interestingly, quantum chromodynamics</li>
+    <li>Quantum electrodynamics, and more fascinatingly, quantum chromodynamics</li>
     <li>NP-completeness</li>
     <li>Gödel incompleteness</li>
     <li>Tuberculosis vaccines</li>
     <li>Condensed plain-language complete-certainty answers to all important theological questions. Especially and in particular, the answer to the question of theodicy: why is there evil in the world?</li>
     <li>What Dr. Paul Farmer called "structural violence" (deciding between food and medicine, for example), the preconditions of war, and unequal access to health care</li>
     <li>Quantum gravity</li>
-    <li>The Big Bang: nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
+    <li>Big Bang cosmology: nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
 
 <p>
-Turns out, I was wrong. But <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">that's what books, the internet, like-minded friends, and university degree programs are for</a>.
+Great poet that he is, McNair's insight is correct <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">and his metaphor is apt</a>.
 </p>
