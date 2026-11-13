@@ -27,9 +27,8 @@ He says the clock hands on the wristwatch ran forward in his youth, and now as a
 </p>
 
 <p>
-My youth was fine enough, but his message still resonates. 
 For me, that directionality is much determined by the life of the mind.
-The fire of backwards temporality lives in the measure of proximity to subjects like these:
+The fire of backwards temporality is often in the measure of proximity to subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
