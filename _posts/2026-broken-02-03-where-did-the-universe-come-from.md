@@ -219,9 +219,8 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 
 <p>
     It was also super hot.
-    TODO: rework this section based on the temperatures here: https://www.astro.ucla.edu/~wright/BBhistory.html#:~:text=Universe%20grows%20and%20cools%20until%201%20second,of%20the%20deuterons%20combine%20to%20make%20helium.
-    Immediately after the big bang, the temperature of the universe was around 100 million times hotter than a trillion times a trillion degrees<sup>13</sup>.
-    One second later, the temperature was about 100 billion degrees.
+    Right after the Big Bang, the temperature of the universe was about 100 million times hotter than a trillion times a trillion degrees<sup>22</sup>.
+    One second later, the temperature was about 10 billion degrees.
 </p>
 
 <p>
@@ -234,8 +233,8 @@ Around 380,000 years after the big bang, the universe had cooled enough that ato
 </p>
 
 <blockquote>
-Although the universe has been expanding since the initial Big Bang, inflation refers to the hypothesis that, for a very short time, the universe expanded at a sharply INCREASING rate, rather than at the decreasing rate it followed before inflation and has followed since. By some calculations, inflation increased the size of the universe by a factor of around 1026 during that tiny fraction (far less than a trillionth) of a second, expanding it from smaller than the size of a proton to about the size of a grapefruit.
-</blockquote> --TODO: add citation https://www.physicsoftheuniverse.com/topics_bigbang_inflation.html
+Although the universe has been expanding since the initial Big Bang, inflation refers to the hypothesis that, for a very short time, the universe expanded at a sharply INCREASING rate, rather than at the decreasing rate it followed before inflation and has followed since. By some calculations, inflation increased the size of the universe by a factor of around 1026 during that tiny fraction (far less than a trillionth) of a second, expanding it from smaller than the size of a proton to about the size of a grapefruit.<sup>21</sup>
+</blockquote>
 
 <p>
     Tiny, super high-temperature, and super orderly.
@@ -367,6 +366,8 @@ Sources:<br/>
 <sup>18</sup>: https://en.wikipedia.org/wiki/Baryogenesis <br/>
 <sup>19</sup>: https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology <br/>
 <sup>20</sup>: https://arxiv.org/pdf/1909.09672 <br/>
+<sup>21</sup>: https://www.physicsoftheuniverse.com/topics_bigbang_inflation.html <br/>
+<sup>22</sup>: https://www.astro.ucla.edu/~wright/BBhistory.html <br/>
 
 TODO cite the third edition of the book
 

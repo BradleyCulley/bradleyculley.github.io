@@ -23,13 +23,13 @@ I can't seem to find the poem, but it was about human flourishing in adulthood.
 
 <p>
 In the poem, McNair uses the visual metaphor of a wristwatch. 
-He speaks of, now as an adult, looking down at the watch and seeing the hands running backward.
- wristwatch running backwards, giving back the time he "sat through" in his youth.
+He talks about being an adult, looking at his wristwatch and, metaphorically, seeing the hands of the watch running backward.
+The idea is he's getting back the time he "sat through" in his youth.
+To me, it's not necessarily that the time in youth was bad or wasted, but just that it was of a different quality.
 </p>
 
 <p>
-For me, that directionality is much determined by the life of the mind.
-The backwards temporality often lives in relation to subjects like these:
+For me, the backwards-flowing temporality often lives in degree of proximity to subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
@@ -49,5 +49,5 @@ The backwards temporality often lives in relation to subjects like these:
 </ul>
 
 <p>
-Great poet that he is, McNair's insight is correct <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">and his metaphor is apt</a>.
+In this, I'm reminded of this cartoon: <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">link</a>.
 </p>
