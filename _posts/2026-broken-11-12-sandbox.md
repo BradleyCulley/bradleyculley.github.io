@@ -1,4 +1,4 @@
-## <div align="center">Sandbox</div>
+## <div align="center">When Time Rewinds</div>
 
 <div align="center">
   <img  style="width: 75%;" src="https://bradleyculley.github.io/images/Me-and-a-log-pile.jpg" />
@@ -17,13 +17,14 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-Many years ago, I read a poem by the poet Wesley McNair (who as an aside is from the small town in Maine in which I grew up—just down the road actually).
-I can't seem to find the specific poem, but the idea of the poem was that it was only as an adult that he really started to enjoy life.
+I once read a poem by the poet Wesley McNair (who as an aside is from the small town in Maine in which I grew up—just down the road actually).
+I can't seem to find the poem, but it was about human flourishing in adulthood.
 </p>
 
 <p>
 In the poem, McNair uses the visual metaphor of a wristwatch. 
-He says the clock hands on the wristwatch ran forward in his youth, and now as an adult he looks down and sees them running backwards, giving back the time he "sat through" in his youth.   
+He speaks of, now as an adult, looking down at the watch and seeing the hands running backward.
+ wristwatch running backwards, giving back the time he "sat through" in his youth.
 </p>
 
 <p>
