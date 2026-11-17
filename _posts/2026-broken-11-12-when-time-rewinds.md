@@ -17,19 +17,19 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-I once read a poem by the poet Wesley McNair (who as an aside is from the small town in Maine in which I grew up—just down the road actually).
+I once read a poem by the poet Wesley McNair (who as an aside is from the same small town that I'm from in Maine).
 I can't seem to find the poem, but it was about human flourishing in adulthood.
 </p>
 
 <p>
 In the poem, McNair uses the visual metaphor of a wristwatch. 
-He talks about being an adult, looking at his wristwatch and, metaphorically, seeing the hands of the watch running backward.
+He talks about being an adult, looking at his wristwatch and (metaphorically) seeing the hands of the watch running backward.
 The idea is he's getting back the time he "sat through" in his youth.
-To me, it's not necessarily that the time in youth was bad or wasted, but just that it was of a different quality.
+To me, it's not necessarily that the time in youth was bad or wasted, just that it had a different quality to it.
 </p>
 
 <p>
-For me, the backwards-flowing temporality often lives in degree of proximity to subjects like these:
+For me in particular, tha backwards-flowing temporality often lives in degree of proximity to the life of the mind, through subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
@@ -47,7 +47,3 @@ For me, the backwards-flowing temporality often lives in degree of proximity to 
     <li>Quantum gravity</li>
     <li>Big Bang cosmology: nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
-
-<p>
-In this, I'm reminded of this cartoon: <a href="https://www.smbc-comics.com/index.php?db=comics&id=2436" target="_blank">link</a>.
-</p>
