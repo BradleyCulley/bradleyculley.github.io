@@ -71,7 +71,7 @@ Never have I ever really cared whether the food I eat is organic. Doubly so for 
 
 <li>
 <p>
-Never have I ever felt that the language, country, religion, or culture into which I happened to be born and grow up just so happens to be the best of all possible options within each of those respective categories.
+Never have I ever felt that the language, country, religion, or culture into which I happened to be born and grow up just so happens to be the best of all possible options in each of those respective categories.
 </p>
 </li>
 
