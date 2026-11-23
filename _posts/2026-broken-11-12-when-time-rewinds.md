@@ -35,7 +35,7 @@ Perhaps we should consider a person an adult, in the sense of affording them the
 </p>
 
 <p>
-For me, that backwards-flowing temporality often lives in proximity to the life of the mind, through subjects like these:
+For me, that backwards-ticking temporality often lives in proximity to the life of the mind, through subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
