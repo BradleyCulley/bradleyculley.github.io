@@ -24,13 +24,13 @@ I once read a poem by the poet Wesley McNair (who as an aside is from the small 
 In the poem, McNair uses the visual metaphor of a wristwatch. 
 He talks about being an adult looking at his wristwatch and (metaphorically) seeing the hands of the watch run backward.
 The idea is he's getting back the time he "sat through" in his youth.
-To me, it's not necessarily that the time in youth was bad or wasted, just that it had a different quality to it.
+To me, it's not necessarily that the time in youth was bad, just that it had a different quality to it.
 </p>
 
 <p>
-Think of watching the wall clock while you sit through a class in high school, counting the minutes and glancing out the window every so often.
-Part of the difference is we have more freedom in adulthood. We can choose our job, where we live, and so on.
-But to me, there's also an aspect of the life of the mind, which can even start in childhood, although perhaps then one is functionally an adult in some way.
+Think of watching the wall clock in a high school class, counting the minutes.
+Part of the difference is we have more freedom in adulthood. We can choose our job and so on.
+But to me, there's also an aspect of finding and pursuing a passion, which can even start in childhood actually.
 Perhaps we should consider a person an adult, in the sense of affording them the status and respect that comes with adulthood, as when a person has found a pro-social passion in life.
 </p>
 
