@@ -47,8 +47,8 @@ A physics major does graduate as an expert at predicting the future state of phy
 
 <p>
 It's actually not hard to be scientific, and it doesn't necessarily require using fancy (or inscrutable) terminology, or even necessarily fancy mathematics.
-You just have to start accurately modeling and predicting things.
-And so the social sciences could become sciences if they just switched to predicting things, but that's not going to happen.
+You just have to start modeling and then accurately predicting things.
+And so the social sciences could become sciences if they just switched to predicting stuff, but that's not going to happen.
 </p>
 </li>
 
@@ -72,7 +72,7 @@ Never have I ever felt that the language, country, religion, or culture into whi
 
 <li>
 <p>
-Never have I ever cared about gardening, lawn care, knick-knacks, Christmas lights, or framed wall signs that say "Live Love Laugh" or "Home Sweet Home".   
+Never have I ever cared about gardening, lawn care, knick-knacks, Christmas lights, or framed wall signs that say "Live, Laugh, Love" or "Home Sweet Home".   
 </p>
 </li>
 </ul>
