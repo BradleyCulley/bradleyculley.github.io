@@ -17,8 +17,7 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-I once read a poem by the poet Wesley McNair (who as an aside is from the same small town that I'm from in Maine).
-I can't seem to find the poem, but it was about human flourishing in adulthood.
+I once read a poem by the poet Wesley McNair (who as an aside is from the same small town that I'm from in Maine) about human flourishing in adulthood.
 </p>
 
 <p>
@@ -29,7 +28,14 @@ To me, it's not necessarily that the time in youth was bad or wasted, just that 
 </p>
 
 <p>
-For me in particular, tha backwards-flowing temporality often lives in degree of proximity to the life of the mind, through subjects like these:
+Think of watching the wall clock while you sit through a class in high school, counting the minutes and glancing out the window every so often.
+Part of the difference is we have more freedom in adulthood. We can choose our job, where we live, and so on.
+But to me, there's also an aspect of the life of the mind, which can even start in childhood, although perhaps then one is functionally an adult in some way.
+Perhaps we should consider a person an adult, in the sense of affording them the status and respect that comes with adulthood, as when a person has found a pro-social passion in life.
+</p>
+
+<p>
+For me, that backwards-flowing temporality often lives in degree of proximity to the life of the mind, through subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
@@ -47,3 +53,6 @@ For me in particular, tha backwards-flowing temporality often lives in degree of
     <li>Quantum gravity</li>
     <li>Big Bang cosmology: nucleosynthesis, inflationary cosmology, cosmic anisotropy, and baryogenesis</li>
 </ul>
+
+<br/>
+<br/>
