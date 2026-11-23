@@ -33,9 +33,11 @@ That's to say, in the sense that the social sciences don't entirely focus on mak
 The Merriam-Webster Dictionary defines the scientific method as "principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses" (merriam-webster.com/dictionary/scientific%20method).
 </p>
 
+<br/>
+
 <p>
-Social sciences sometimes make and test testable hypotheses, but it's not really their sole focus. 
-Instead, they often analyze things after the fact, and sometimes they just have opinions about things.
+Social sciences sometimes make and test hypotheses, but it's not really their sole focus. 
+Instead, they often analyze things after the fact, and sometimes they just have opinions.
 That doesn't mean the social sciences aren't valid academic fields, aren't important, or aren't intellectually rigorous.
 They're just not sciences.
 </p>
@@ -43,7 +45,7 @@ They're just not sciences.
 <br/>
 
 <p>
-A political science student doesn't graduate as an absolute expert at predicting election results.
+For example, political science student doesn't graduate as an absolute expert at predicting election results.
 </p>
 
 <br/>
