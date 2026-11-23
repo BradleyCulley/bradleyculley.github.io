@@ -12,24 +12,30 @@ Never have I ever been, nor will I ever be, a middle-aged man who rides a nice-l
 </li>
 
 <li>
+<p>
 Never have I ever felt that 9-to-5 jobs are inherently soul-crushing, a "trap", or a "drug".
-On the contrary, I feel they give you predictable corporate income that makes nearly everything in one's financial life easier.
+On the contrary, I feel they give you predictable corporate income that makes nearly everything in your financial life easier.
 That includes giving you predictable, verifiable income for things like starting a side business through buying rental properties, for example (which could potentially become your main income source later on).
 They also give you respect, status, and good standing in society.
+</p>
 </li>
 
 <li>
+<p>
 Never have I ever felt that any off-the-shelf organized religion fully, elegantly, and perfectly captures the interiority of my personal religious beliefs, nor my opinions on ideal social organization.
+</p>
 </li>
 
 <li>
-Never have I ever been much interested in computer hardware—only the magic of software. 
+<p>
+Never have I ever been much interested in computer hardware—only the magic of software.
+</p>
 </li>
 
 <li>
 <p>
 Never have I ever felt that the social sciences are sciences. 
-That's to say, in the sense that the social sciences don't entirely focus on making and then testing testable hypotheses using the scientific method.
+That's to say, in the sense that the social sciences don't entirely focus on making and then testing hypotheses using the scientific method.
 The Merriam-Webster Dictionary defines the scientific method as "principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses" (merriam-webster.com/dictionary/scientific%20method).
 </p>
 
@@ -45,7 +51,7 @@ They're just not sciences.
 <br/>
 
 <p>
-For example, political science student doesn't graduate as an absolute expert at predicting election results.
+For example, a political science student doesn't graduate as an absolute expert at predicting election results.
 </p>
 
 <br/>

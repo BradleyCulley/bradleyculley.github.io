@@ -17,12 +17,12 @@ I know I was playing in a sandbox and someone was trying to beat me up, but I do
 <hr/>
 
 <p>
-I once read a poem by the poet Wesley McNair (who as an aside is from the same small town that I'm from in Maine) about human flourishing in adulthood.
+I once read a poem by the poet Wesley McNair (who as an aside is from the small town that I'm from in Maine) about human flourishing in adulthood.
 </p>
 
 <p>
 In the poem, McNair uses the visual metaphor of a wristwatch. 
-He talks about being an adult, looking at his wristwatch and (metaphorically) seeing the hands of the watch running backward.
+He talks about being an adult looking at his wristwatch and (metaphorically) seeing the hands of the watch run backward.
 The idea is he's getting back the time he "sat through" in his youth.
 To me, it's not necessarily that the time in youth was bad or wasted, just that it had a different quality to it.
 </p>
