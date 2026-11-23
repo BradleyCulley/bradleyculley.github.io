@@ -49,7 +49,7 @@ A political science student doesn't graduate as an absolute expert in predicting
 <br/>
 
 <p>
-It's actually not hard to be scientific, and it doesn't necessarily require using fancy terminology or fancy mathematics.
+It's actually not hard to be scientific, and it doesn't necessarily require using fancy words or fancy math.
 You just have to start modeling and then accurately predicting things.
 The social sciences could become sciences if they switched to predicting stuff, but that's not going to happen.
 </p>
