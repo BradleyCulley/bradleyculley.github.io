@@ -28,14 +28,14 @@ To me, it's not necessarily that the time in youth was bad, just that it had a d
 </p>
 
 <p>
-Think of watching the wall clock in a high school class, counting the minutes.
-Part of the difference is we have more freedom in adulthood. We can choose our job and so on.
-But to me, there's also an aspect of finding and pursuing a passion, which can even start in childhood actually.
-Perhaps we should consider a person an adult, in the sense of affording them the status and respect that comes with adulthood, as when a person has found a pro-social passion in life.
+Think of the wall clock in high school, counting the minutes until the end of the class.
+Part of the difference is we have more freedom in adulthood: we can choose our job and such.
+But there's also an aspect of finding and pursuing a passion, which can even start in childhood.
+Perhaps we should consider a person an adult, in the sense of affording them the positive status that comes with adulthood, when they've found a prosocial passion in life.
 </p>
 
 <p>
-For me, that backwards-flowing temporality often lives in degree of proximity to the life of the mind, through subjects like these:
+For me, that backwards-flowing temporality often lives in proximity to the life of the mind, through subjects like these:
 </p>
 <ul>
     <li>The Riemann hypothesis</li>
