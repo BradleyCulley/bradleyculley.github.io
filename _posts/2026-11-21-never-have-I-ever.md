@@ -43,7 +43,7 @@ The Merriam-Webster Dictionary defines the scientific method as "principles and 
 
 <p>
 Social sciences sometimes make and test hypotheses, but it's not really their sole focus. 
-Instead, they often analyze things after the fact, and sometimes they just have opinions.
+Instead, they often analyze things after the fact, and sometimes just have opinions.
 That doesn't mean the social sciences aren't valid academic fields, aren't important, or aren't intellectually rigorous.
 They're just not sciences.
 </p>
