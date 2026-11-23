@@ -41,8 +41,8 @@ They're just not sciences.
 </p>
 
 <p>
-A political science major doesn't graduate as an absolute expert at predicting election results (with anything approaching the accuracy of, say, thermodynamics or quantum mechanics).
-A physics major does graduate as an expert at predicting the future state of physical systems, though.
+A political science student doesn't graduate as an absolute expert at predicting election results (with anything approaching the accuracy of, say, thermodynamics or quantum mechanics).
+A physics student does graduate as an expert at predicting the future states of physical systems, though.
 </p>
 
 <p>
