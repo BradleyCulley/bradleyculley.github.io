@@ -30,7 +30,7 @@ Never have I ever been much interested in computer hardware—only the magic of 
 <p>
 Never have I ever felt that the social sciences are sciences. 
 That's to say, in the sense that the social sciences don't entirely focus on making and then testing testable hypotheses using the scientific method.
-The Merriam-Webster Dictionary defines the scientific method as "principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses" (https://www.merriam-webster.com/dictionary/scientific%20method).
+The Merriam-Webster Dictionary defines the scientific method as "principles and procedures for the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of hypotheses" ([link](https://www.merriam-webster.com/dictionary/scientific%20method)).
 </p>
 
 <p>
