@@ -40,10 +40,14 @@ That doesn't mean the social sciences aren't valid academic fields, aren't impor
 They're just not sciences.
 </p>
 
+<br/>
+
 <p>
 A political science student doesn't graduate as an absolute expert at predicting election results (with anything approaching the accuracy of, say, thermodynamics or quantum mechanics).
-A physics student does graduate as an expert at predicting the future states of physical systems, though.
+A physics student does indeed graduate as an expert at predicting the future states of physical systems.
 </p>
+
+<br/>
 
 <p>
 It's actually not hard to be scientific, and it doesn't necessarily require using fancy terminology or fancy mathematics.
