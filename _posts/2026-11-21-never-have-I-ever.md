@@ -43,7 +43,7 @@ They're just not sciences.
 <br/>
 
 <p>
-A political science student doesn't graduate as an absolute expert in predicting election results, since that's not the focus on political science degrees.
+A political science student doesn't graduate as an absolute expert at predicting election results.
 </p>
 
 <br/>
