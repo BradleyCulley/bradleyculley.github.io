@@ -46,9 +46,9 @@ A physics student does graduate as an expert at predicting the future states of 
 </p>
 
 <p>
-It's actually not hard to be scientific, and it doesn't necessarily require using fancy (or inscrutable) terminology, or even necessarily fancy mathematics.
+It's actually not hard to be scientific, and it doesn't necessarily require using fancy terminology or fancy mathematics.
 You just have to start modeling and then accurately predicting things.
-And so the social sciences could become sciences if they just switched to predicting stuff, but that's not going to happen.
+The social sciences could become sciences if they switched to predicting stuff, but that's not going to happen.
 </p>
 </li>
 
