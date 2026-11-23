@@ -53,7 +53,7 @@ For example, political science student doesn't graduate as an absolute expert at
 <p>
 It's actually not hard to be scientific, and you don't necessarily have to use fancy words or fancy math.
 You just have to start modeling and accurately predicting things.
-The social sciences could become sciences if they switched to predicting stuff, but that's not going to happen.
+And so the social sciences could become sciences if they switched to predicting stuff, but that's not going to happen.
 </p>
 </li>
 
