@@ -14,7 +14,7 @@ Never have I ever been, nor will I ever be, a middle-aged man who rides a nice-l
 <li>
 Never have I ever felt that 9-to-5 jobs are inherently soul-crushing, a "trap", or a "drug".
 On the contrary, I feel they give you predictable corporate income that makes nearly everything in one's financial life easier.
-That includes giving you predictable, verifiable income for things like starting a side business through buying rental properties, for example (and that could potentially become your main income source later on, if you so choose).
+That includes giving you predictable, verifiable income for things like starting a side business through buying rental properties, for example (which could potentially become your main income source later on, if you so choose).
 They also give you respect, status, and good standing in society.
 </li>
 
