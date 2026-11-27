@@ -19,7 +19,7 @@ He was a medical doctor with well-developed intellectual passions outside of med
 Each chapter is a different breakthrough scientific paper from the 20th century, as well as commentary on it.
 
 Alan Lightman is distinctive in being both a fully qualified professor of astrophysics as well as a highly accomplished writer.
-He received degrees in physics from Princeton University (A.B.) and Caltech (Ph.D).
+He received degrees in physics from Princeton University (A.B.) and Caltech (PhD).
 In the latter, he studied under the now Nobel laureate astrophysicist Kip Thorne. 
 
 As a writer, apart from "The Discoveries", he wrote the international bestseller "Einstein's Dreams" and the National Book Award finalist "The Diagnosis".
@@ -27,7 +27,7 @@ He's a professor of both astrophysics and the humanities, one of the first peopl
 Almost impossibly, he's a real-deal scientist, having published important astrophysical research papers in journals including _Physical Review_ and _Nature_.  
 
 At MIT, he's led an initiative to help grow students' communication skills to match their technical skills:<br/>
-"He played a major role in establishing MIT's "Communication Requirement," which requires all undergraduates to receive training each of their four years in writing and speaking."
+"He played a major role in establishing MIT's 'Communication Requirement,' which requires all undergraduates to receive training each of their four years in writing and speaking."
 
 Some chapters I particularly liked, with the original scientific paper, author, and date below the chapter title:
 <ul>
@@ -115,7 +115,7 @@ Below is the full list of chapters. Excellent selection and coverage.
     —“Cosmic Black-Body Radiation,” by Robert H. Dicke, P. James E. Peebles, Peter G. Roll, and David T. Wilkinson (1965)
 
 20. A UNIFIED THEORY OF FORCES
-    —“A Model of Leptons,”" by Steven Weinberg (1967)
+    —“A Model of Leptons,” by Steven Weinberg (1967)
 
 21. QUARKS: A TINIEST ESSENCE OF MATTER
     —“Observed Behavior of Highly Inelastic Electron-Proton Scattering,” by M. Breidenbach, J. I. Friedman, H. W. Kendall, E. D. Bloom, D. H. Coward, H. DeStaebler, J. Drees, L. W. Mo, and R. E. Taylor (1969)
